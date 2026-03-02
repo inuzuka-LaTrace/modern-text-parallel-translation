@@ -1,0 +1,140 @@
+{
+  "id": "lecontelisle_tristesse_du_diable",
+  "title": "La Tristesse du Diable",
+  "author": "Charles-Marie Leconte de Lisle",
+  "source": "Poèmes barbares, Alphonse Lemerre, 1872 (初出: Le Parnasse contemporain, 1866)",
+  "year": "1866",
+  "firstPublication": "Le Parnasse contemporain, 1866; Poèmes barbares, 1872",
+  "difficulty": "中級",
+  "category": "leconte_de_lisle",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ルコント・ド・リール『夷狄詩集』所収の10スタンザからなる詩。悪魔（サタン）が永遠の氷雪の山頂から人類の悪の合唱を聞き、戦闘と憎悪そのものに飽き果て「眠りに就くこと」を願う──神学的反乱でなく宇宙的な倦怠（ennui）の詩。ボードレール「反逆者（Le Rebelle）」の悪魔像と対比され、リルボーへの影響も指摘される。詩の末尾で「サタンが死んだ」と宣告されるとき、人間世界もその終焉を迎えるという逆説的な反キリスト教的宇宙論が展開する。",
+  "keywords": [
+    "悪魔",
+    "サタン",
+    "宇宙的倦怠",
+    "永遠",
+    "虚無主義",
+    "高踏派",
+    "夷狄詩集",
+    "反キリスト教",
+    "不滅",
+    "ennui"
+  ],
+  "relatedTexts": [
+    "lecontelisle_l_anatheme",
+    "lecontelisle_midi",
+    "lecontelisle_l_illusion_supreme",
+    "baudelaire_spleen",
+    "baudelaire_une_charogne",
+    "mallarme_angoisse"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Silencieux, les poings aux dents, le dos ployé,\nEnveloppé du noir manteau de ses deux ailes,\nSur un pic hérissé de neiges éternelles,\nUne nuit, s'arrêta l'antique Foudroyé.",
+      "provisionalTranslation": "無言のまま、拳を歯に当て、背を丸め、\n両翼の黒いマントに身を包んで、\n永遠の雪に覆われた嶮しい山頂に、\nある夜、太古の被雷打者は足を止めた。"
+    },
+    {
+      "id": 2,
+      "originalText": "La terre prolongeait en bas, immense et sombre.\nLes continents battus par la houle des mers ;\nAu-dessus flamboyait le ciel plein d'univers ;\nMais Lui ne regardait que l'abîme de l'ombre.",
+      "provisionalTranslation": "地上は下方に広がっていた、広大で暗く。\n大陸は海の波浪に打たれていた。\n頭上では宇宙に満ちた空が燃え輝いていた。\nしかし彼は、ただ闇の深淵だけを見つめていた。"
+    },
+    {
+      "id": 3,
+      "originalText": "Il était là, dardant ses yeux ensanglantés\nDans ce gouffre où la vie amasse ses tempêtes,\nOù le fourmillement des hommes et des bêtes\nPullule sous le vol des siècles irrités.",
+      "provisionalTranslation": "彼はそこに立ち、血走った目を突き刺すように向けていた、\n生命がその嵐を積み重ねるあの深淵へ、\n人間と獣のうごめきが\n苛立った世紀の飛翔の下に増殖するあの場所へ。"
+    },
+    {
+      "id": 4,
+      "originalText": "Il entendait monter les hosannas serviles,\nLe cri des égorgeurs, les Te Deum des rois,\nL'appel désespéré des nations en croix\nEt des justes râlant sur le fumier des villes.",
+      "provisionalTranslation": "彼は聞いていた、奴隷的な讃美歌が立ち上るのを、\n喉を切る者たちの叫びを、王たちのテ・デウムを、\n十字架の上で苦しむ国々の絶望的な呼び声を、\nそして都市の糞塵の上で喘ぐ正義の人たちの声を。"
+    },
+    {
+      "id": 5,
+      "originalText": "Ce lugubre concert du mal universel,\nAussi vieux que le monde et que la race humaine,\nPlus fort, plus acharné, plus ardent que sa haine,\nTourbillonnait autour du sinistre Immortel.",
+      "provisionalTranslation": "普遍的な悪のこの陰鬱な合唱は、\n世界と人類と同じほど古く、\n彼自身の憎悪よりも強く、しつこく、激しく、\n不吉な不死者の周りで渦を巻いていた。"
+    },
+    {
+      "id": 6,
+      "originalText": "Il remonta d'un bond vers les temps insondables\nOù sa gloire allumait le céleste matin,\nEt, devant la stupide horreur de son destin,\nUn grand frisson courut dans ses reins formidables.",
+      "provisionalTranslation": "彼は一飛びに跳ね上がった、計り知れない太古の時へ、\n彼の栄光が天の夜明けを燃え立たせていた頃へ。\nそして自らの運命のとてつもない恐怖の前に、\n偉大なふるえが彼の強靭な腰に走った。"
+    },
+    {
+      "id": 7,
+      "originalText": "Et se tordant les bras, et crispant ses orteils,\nLui, le premier rêveur, la plus vieille victime,\nIl cria par delà l'immensité sublime\nOù déferle en brûlant l'écume des soleils :",
+      "provisionalTranslation": "そして両腕をよじり、爪先を痙攣させながら、\n彼──最初の夢想者、最も古い犠牲者──は叫んだ、\n太陽の泡が燃えながら砕け散る\n崇高な広大無辺の彼方へ向かって："
+    },
+    {
+      "id": 8,
+      "originalText": "— Les monotones jours, comme une horrible pluie,\nS'amassent, sans l'emplir, dans mon éternité ;\nForce, orgueil, désespoir, tout n'est que vanité ;\nEt la fureur me pèse, et le combat m'ennuie.",
+      "provisionalTranslation": "「単調な日々が、おぞましい雨のように、\n満たされることなく、私の永遠の中に積み重なる。\n力、誇り、絶望、すべては虚しいだけだ。\n怒りは私に重くのしかかり、戦いは私を倦ませる。"
+    },
+    {
+      "id": 9,
+      "originalText": "Presque autant que l'amour la haine m'a menti :\nJ'ai bu toute la mer des larmes infécondes.\nTombez, écrasez-moi, foudres, monceaux des mondes !\nDans le sommeil sacré que je sois englouti !",
+      "provisionalTranslation": "愛と同じくらい憎悪も私を欺いた。\n私は不毛な涙の海を飲み干した。\n落ちてこい、私を砕いてくれ、雷よ、世界の山よ！\n聖なる眠りの中に私は飲み込まれたい！」"
+    },
+    {
+      "id": 10,
+      "originalText": "Et les lâches heureux, et les races damnées,\nPar l'espace éclatant qui n'a ni fond ni bord,\nEntendront une Voix disant : Satan est mort !\nEt ce sera ta fin, Oeuvre des six Journées !",
+      "provisionalTranslation": "そして幸福な臆病者たちも、呪われた民族たちも、\n底も果てもない輝く空間を通して、\n一つの声が言うのを聞くだろう。サタンは死んだ！と。\nそれが汝の終わりとなるのだ、六日間の業よ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "10スタンザ40行、アレクサンドランの交互韻（rimes embrassées: ABBA）で構成。ソネット的な四行詩形の連続がつくる閉鎖的な構造が、悪魔の永遠という封じられた時間を形式的に表現する。「l'antique Foudroyé（太古の被雷打者）」という表現で神名を避けつつ悪魔の本質を定義する──固有名「サタン」は詩の最後の行まで登場しない。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "l'antique Foudroyé",
+      "body": "「太古の被雷打者（l'antique Foudroyé）」──雷霆（foudre）によって天国から打ち落とされた者、すなわち堕天使サタンの婉曲表現。詩全体で固有名「サタン」は最後の行（§10）にのみ登場する。この遅延技法は、固有名と存在の同一視を避けるマラルメ的・高踏派的傾向とも対応する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "les hosannas serviles,\nLe cri des égorgeurs, les Te Deum des rois",
+      "body": "「奴隷的な讃美歌、喉を切る者たちの叫び、王たちのテ・デウム」──三要素が並列される：宗教的服従・殺戮・権力の祝典。ボードレール「旅への誘い」が美を三要素で定義するように、ルコント・ド・リールは悪の三要素で人類史を圧縮する。「justes râlant sur le fumier des villes（都市の糞塵の上で喘ぐ正義の人たち）」はヨブ記の「灰の中のヨブ」への暗示。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Plus fort, plus acharné, plus ardent que sa haine",
+      "body": "詩の最も逆説的な核心行──普遍的な悪の合唱が「悪魔自身の憎悪よりも強い」という命題。悪魔は人類の悪の創造者として定義されるのではなく、その受け手・傍観者として定義される。人類の悪がすでに悪魔の憎悪を超えているというこの認識が§8の倦怠（ennui）の原因となる──「戦いは私を倦ませる」。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "la fureur me pèse, et le combat m'ennuie",
+      "body": "「怒りは私に重くのしかかり、戦いは私を倦ませる（la fureur me pèse, et le combat m'ennuie）」──詩の転換点。伝統的な悪魔は神への積極的な反逆者として定義されるが、ここで悪魔は戦闘そのものへの倦怠（ennui）を告白する。このennuiはボードレール「憂愁」（Spleen）の倦怠と同型だが、スケールが違う──個人の倦怠でなく不滅の存在の宇宙的倦怠。ボードレール「旅」の「倦怠よ！」（Ennui !）の変奏としても読める。",
+      "type": "glossary"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Tombez, écrasez-moi, foudres, monceaux des mondes !",
+      "body": "「落ちてこい、私を砕いてくれ、雷よ、世界の山よ！」──神への第二の叛逆でなく、消滅への願望。サタンはもはや神と戦うことを求めず、ただ「眠り（sommeil sacré）」に入ることを願う。この「聖なる眠り（sommeil sacré）」は死・無・ニルヴァーナへの憧憬で、ルコント・ド・リールの仏教的虚無主義の核心。「L'Illusion suprême」の「O mort, ciel sombre（おお死よ、暗い天空）」や「Midi」の「昼の沈黙」と同系。",
+      "type": "commentary"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Satan est mort !\nEt ce sera ta fin, Oeuvre des six Journées !",
+      "body": "詩の最大の逆説──「サタンが死ぬ」ことが人間世界の「終わり（fin）」になるという結末。「六日間の業（Oeuvre des six Journées）」は創世記の神の創造を指す。悪魔の消滅＝人類の消滅という等式は、世界の存続がサタンの存在に依存しているという反神学的命題を表す。神の創造物（人間）は神への反抗を通じてのみ存在の意味を持つ──という高踏派的虚無主義の最も鮮明な表現のひとつ。",
+      "type": "commentary"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ボードレール「反逆者（Le Rebelle）」との対比：ボードレールの悪魔は「私は愛するものしか愛しない」と積極的に反抗するが、ルコント・ド・リールの悪魔は倦怠のうちに消滅を望む。リルボーへの影響という点では、「Une Saison en enfer」の「Je suis Satan」の逆──地獄の季節を生きるランボーに対し、ルコント・ド・リールの悪魔は地獄そのものに倦み果てている。マラルメ「悪の花」への序詩との関係でも、倦怠と反乱のテーマが共鳴する。",
+      "targetId": "baudelaire_spleen",
+      "targetParagraphId": null
+    }
+  ]
+}

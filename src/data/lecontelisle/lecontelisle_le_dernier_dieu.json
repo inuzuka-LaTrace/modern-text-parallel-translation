@@ -1,0 +1,140 @@
+{
+  "id": "lecontelisle_le_dernier_dieu",
+  "title": "Le dernier Dieu",
+  "author": "Charles-Marie Leconte de Lisle",
+  "source": "Poèmes tragiques, Alphonse Lemerre, 1884",
+  "year": "1884",
+  "firstPublication": "Poèmes tragiques, Alphonse Lemerre, 1884",
+  "difficulty": "上級",
+  "category": "leconte_de_lisle",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ルコント・ド・リール『悲劇詩集』（1884）所収の10スタンザ40行。詩人が「時間の彼方の終末的ヴィジョン」として語る──すべての人類・海・大地・太陽が消滅した後の荒廃した地球を彷徨う「霊の影」が、山頂に最後の神の亡骸を見出す。その神は愛の神エロス（Amour）であり、「最後にして最も愛しい神」として定義される。「L'Anathème」（1855）が「神なき現代」を告発するのに対し、この詩は神々が完全に死滅した後の絶対的な虚無を描く──ルコント・ド・リールの宇宙論的悲観主義の最終的かつ最も完成した詩的表現。",
+  "keywords": [
+    "終末",
+    "最後の神",
+    "愛の神",
+    "エロス",
+    "宇宙的虚無",
+    "神々の死",
+    "高踏派",
+    "ペシミズム",
+    "黙示録的ヴィジョン",
+    "悲劇詩集"
+  ],
+  "relatedTexts": [
+    "lecontelisle_l_anatheme",
+    "lecontelisle_tristesse_du_diable",
+    "lecontelisle_l_illusion_supreme",
+    "lecontelisle_les_roses_d_ispahan",
+    "hoelderlin_brot_und_wein",
+    "mallarme_lazur"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Bien au delà des jours, des Ans multipliés,\nDu vertige des Temps dont la fuite est sans trêve,\nVoici ce que j'ai vu, dans l'immuable rêve\nQui me hante, depuis les songes oubliés.",
+      "provisionalTranslation": "日々の彼方に、幾重にも重なった年月の彼方に、\n休みなく過ぎ去る時の眩暈の彼方に、\n──これが私の見たものだ、不変の夢の中で、\n忘れられた夢から私を取り憑いてきたその夢の中で。"
+    },
+    {
+      "id": 2,
+      "originalText": "J'errais, seul, sur la Terre. Et la Terre était nue.\nL'ancien gémissement de ce qui fut vivant,\nLe sanglot de la mer et le râle du vent\nS'étaient tus à jamais sous l'immobile nue.",
+      "provisionalTranslation": "私はさまよっていた、ひとりで、大地の上を。大地は裸だった。\nかつて生きていたものの古い嘆きは、\n海の嗚咽と風のあえぎは、\n動かぬ雲の下に永遠に沈黙していた。"
+    },
+    {
+      "id": 3,
+      "originalText": "Par le Vide sans fin, le globe décharné,\nA bout de désespoir, de misère et de force,\nBossuant le granit de sa rugueuse écorce,\nS'en allait, oublieux qu'un jour il était né.",
+      "provisionalTranslation": "終わりなき虚空の中を、肉を剥がれた地球は、\n絶望と惨めさと力の果てに、\n荒れた表皮の花崗岩に瘤を作りながら、\nいつかかつて生まれたことを忘れて、漂っていた。"
+    },
+    {
+      "id": 4,
+      "originalText": "Les Iles d'autrefois hérissaient de leurs cimes\nLe gouffre monstrueux des océans taris,\nOù s'étaient desséchés la fange et les débris\nDes siècles engloutis au fond des vieux abîmes.",
+      "provisionalTranslation": "かつての島々は頂を尖らせていた、\n干上がった大洋の怪物的な深淵の上に、\nそこでは古い深淵の底に飲み込まれた\n幾世紀の泥濘と残骸が乾ききっていた。"
+    },
+    {
+      "id": 5,
+      "originalText": "Funéraire flambeau d'un sépulcre muet,\nLe soleil épuisé, pendu dans le ciel blême,\nBaignait lugubrement de sa lueur suprême\nL'immense solitude où rien ne remuait.",
+      "provisionalTranslation": "黙した墓の葬列の松明として、\n使い果たされた太陽が、蒼白な空に吊るされ、\nその最後の光で陰鬱に浸していた、\n何も動かない広大な孤独を。"
+    },
+    {
+      "id": 6,
+      "originalText": "Et j'errais en esprit, Ombre qui rôde et passe,\nSans regrets, sans désirs, au hasard emporté,\nReste de l'éphémère et vaine humanité\nDont un souffle a vanné la cendre dans l'espace.",
+      "provisionalTranslation": "そして私は霊として漂っていた、徘徊し通り過ぎる影として、\n後悔もなく、欲望もなく、偶然に運ばれながら、\nひとつの息吹がその灰を宇宙に吹き散らした\nはかなく虚しい人類の残滓として。"
+    },
+    {
+      "id": 7,
+      "originalText": "Et je vis, au plus haut d'un mont, silencieux,\nImpassible, plus froid que la neige éternelle,\nUn Spectre qui couvait d'une inerte prunelle\nL'univers mort couché sous le désert des cieux.",
+      "provisionalTranslation": "そして私は見た、ある山の最も高い場所に、沈黙の中で、\n永遠の雪よりも冷たく、揺るぎなく、\n惰性の瞳で抱えていた幽霊を──\n天空の荒野の下に横たわる死んだ宇宙を。"
+    },
+    {
+      "id": 8,
+      "originalText": "Majestueux et beau, ce spectre, auguste image\nDes Rois olympiens, enfants des siècles d'or,\nSe dressait, tel qu'au temps où l'Homme heureux encor\nSaluait leurs autels d'un libre et fier hommage.",
+      "provisionalTranslation": "荘厳で美しく、この幽霊は、黄金の世紀の子である\nオリュンポスの王たちの崇高な面影として、\n屹立していた──まるで人間がまだ幸せで\n自由で誇り高い賞賛をもってその祭壇を礼拝した頃のように。"
+    },
+    {
+      "id": 9,
+      "originalText": "Mais l'Arc, d'où jaillissaient les désirs créateurs,\nGisait parmi les blocs de neige, avec les Ailes\nQui portaient vos baisers, ô blanches Immortelles,\nDe la bouche des Dieux aux lèvres des pasteurs !\n\nMais le front n'avait plus ses roses de lumière,\nMais rien ne battait plus dans le sein adoré\nQui versait sur le monde à son matin sacré\nTes flots brûlants et doux, ô Volupté première !",
+      "provisionalTranslation": "しかし弓は──そこから創造する欲望が迸っていた──\n雪の塊の中に横たわっていた、翼とともに、\n不死の白き女神たちよ、汝らの口づけを\n神々の口から牧者たちの唇へと運んでいたあの翼とともに！\n\nしかし額にはもはや光の薔薇がなく、\n崇められた胸にはもはや何も鼓動せず、\nかつての聖なる夜明けに世界へと注いでいた\n汝の燃えるような甘い波を、おお根源の官能よ！"
+    },
+    {
+      "id": 10,
+      "originalText": "Et le charme et l'horreur, le souvenir amer\nDes pleurs sanglants après les heures de délice,\nTous les enivrements du céleste supplice\nMe reprirent au coeur d'une étreinte de fer ;\n\nEt je connus, glacé sur la terre inféconde,\nQue c'était là, rigide, endormi sans retour,\nLe dernier, le plus cher des Dieux, l'antique Amour,\nPar qui tout vit, sans qui tout meurt, l'Homme et le monde.",
+      "provisionalTranslation": "そして魅惑と恐怖、喜悦の時間の後に続く\n血に滲んだ涙の苦い記憶、\n天上の責め苦のすべての陶酔が\n鉄の抱擁で私の心を再び捕らえた。\n\nそして私は悟った、不毛の大地の上で凍えながら、\nそこに硬直して、もはや目覚めることなく眠っているのが、\n最後の、最も愛しい神、太古の愛（Amour）であると、\nすべてはその者によって生き、その者なしにすべては死ぬ──人間も世界も。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "10スタンザ40行（§9のみ8行の二重スタンザ）、アレクサンドランの交互韻（ABBA）。詩は三部構造をなす：§1（ヴィジョンの枠組み──「不変の夢」の宣言）、§2-6（荒廃した終末の地球の描写──海・風・太陽・人類の消滅）、§7-10（山頂の幽霊との対面──その正体の開示と認識）。時制の変化が構造を示す：§1は現在「私の見たもの」、§2-9は半過去・単純過去「私は漂い……見た」、§10は大過去「私は悟った」。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "J'errais, seul, sur la Terre. Et la Terre était nue.",
+      "body": "「私はさまよっていた、ひとりで、大地の上を。大地は裸だった」──詩の世界の確立。「裸の大地（Terre nue）」という語は創世記「地は混沌として空虚であった（tohu-bohu）」の前置的イメージ。しかしここでは創造の前の混沌でなく、すべての創造物が消えた後の「二度目の混沌」──創世記の逆回転。「L'ancien gémissement de ce qui fut vivant（かつて生きていたものの古い嘆き）」という一行が過去の生の痕跡さえも消えたことを示す。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Funéraire flambeau d'un sépulcre muet,\nLe soleil épuisé, pendu dans le ciel blême",
+      "body": "「黙した墓の葬列の松明として、使い果たされた太陽が蒼白な空に吊るされ」──太陽の変容。「スーリャ」では太陽神は「飛翔しながら万物に生を与える」存在として描かれたが、ここでは「使い果たされ（épuisé）」「吊るされた（pendu）」松明にまで零落する。高踏派の詩集においてこれほど徹底した太陽の失墜の描写はない──「Midi」の正午の絶対的静寂さえも、ここでは遠い記憶に過ぎない。",
+      "type": "glossary"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Reste de l'éphémère et vaine humanité\nDont un souffle a vanné la cendre dans l'espace.",
+      "body": "詩人はすでに「霊（Ombre）」として存在する──肉体ではなく意識の残滓として。「はかなく虚しい人類（éphémère et vaine humanité）の残滓」という自己定義が、詩全体の視点を確立する。生者でも死者でもない「影の目撃者」が神の死骸を発見するという構造は、黙示録の「書き記せ（Scribe）」という命令に対応する──詩人は最後の証言者。",
+      "type": "commentary"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "tel qu'au temps où l'Homme heureux encor\nSaluait leurs autels d'un libre et fier hommage.",
+      "body": "「人間がまだ幸せで、自由で誇り高い賞賛をもって祭壇を礼拝した頃」──「L'Anathème」（1855）の「もし私たちが、はかない神々が死ぬために横になった時代に生きていたなら」という反実仮想が、ここで終末の夢として描かれる。「自由で誇り高い賞賛（libre et fier hommage）」という表現が重要──人間は恐怖でなく自由から神を礼拝した「黄金の時代」の記憶。「L'Anathème」から29年後のこの詩では、その記憶はもはやヴィジョンの幻としてしか存在しない。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "l'Arc, d'où jaillissaient les désirs créateurs",
+      "body": "「弓──そこから創造する欲望が迸っていた」──この「弓（Arc）」がエロスの弓（愛の矢を射る弓）であることが§10で「太古の愛（l'antique Amour）」として明かされる。エロスの弓矢は愛欲＝創造力の象徴──弓が「雪の塊の中に横たわっている」ことは創造力の死を意味する。「L'Arc de Civa」（ポエム・アンティーク）でシヴァの弓を折ることが英雄的勝利だったのに対し、ここでエロスの弓が自然に落下していることは宇宙的敗北。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Le dernier, le plus cher des Dieux, l'antique Amour,\nPar qui tout vit, sans qui tout meurt, l'Homme et le monde.",
+      "body": "詩の最終行の定義──「最後の、最も愛しい神、太古の愛（Amour）、すべてはその者によって生き、その者なしにすべては死ぬ──人間も世界も」。この一行は論理的公理の形式をとる（「AによってBが生き、AなしにBは死ぬ」）。愛が「最後の神（le dernier Dieu）」であるということは、他の神々（力・美・知恵・正義）が先に死に、愛だけが最後まで残ったということ──ルコント・ド・リールの虚無主義における唯一の留保。「Les Roses d'Ispahan」の「汝の愛よ、戻ってくれ」という祈願と裏で響き合う：個人的な愛の詩と宇宙論的な愛の詩の対をなす。",
+      "type": "commentary"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ヘルダーリン「パンとワイン（Brot und Wein）」第7連「神々は去ったが……時は来る（Es kommen nemlich die Götter……）」との深い対照：ヘルダーリンでは神々の不在は次の到来への待機として肯定的に描かれるが、ルコント・ド・リールでは不在は完全な死として否定的に描かれる。また「L'Anathème」（1855）の「もし我らが神々の死の時代に生きていたなら」という仮定が、「Le dernier Dieu」（1884）では「私の見たものだ」という直接的ヴィジョンに転化している──29年間の悲観主義の深化を詩学的に示す。",
+      "targetId": "hoelderlin_brot_und_wein",
+      "targetParagraphId": null
+    }
+  ]
+}

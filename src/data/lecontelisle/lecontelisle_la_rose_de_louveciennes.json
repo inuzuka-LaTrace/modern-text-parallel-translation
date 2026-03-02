@@ -1,0 +1,90 @@
+{
+  "id": "lecontelisle_la_rose_de_louveciennes",
+  "title": "La Rose de Louveciennes",
+  "author": "Charles-Marie Leconte de Lisle",
+  "source": "Derniers Poèmes, édition posthume établie par José-Maria de Heredia et le Vicomte de Guerne, Alphonse Lemerre, 1895, p. 82",
+  "year": "1894",
+  "firstPublication": "Derniers Poèmes, Alphonse Lemerre, 1895 (遺稿・没後刊行)",
+  "difficulty": "初級",
+  "category": "leconte_de_lisle",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ルコント・ド・リール最後の遺稿詩集『最後の詩集』（1895、エレディア・ゲルヌ子爵が没後編集）所収の12行詩。詩人がその地で1894年に没したルーヴシエンヌ（Louveciennes、パリ郊外、ヴェルサイユ近郊）の薔薇に捧げた詩。詩は三つの四行詩（包囲韻ABBA）で構成され、薔薇が詩的媒体として「不死の詩人（Poète immortel）」──ルーヴシエンヌ近郊で恋人カッサンドル・サルヴィアティを讃えたロンサール──の霊的記憶を呼び覚ます。「doux nom florentin（甘いフィレンツェ系の名）」はカッサンドルのフィレンツェ銀行家家系を示す。高踏派の詩人が晩年に辿り着いた、場所・薔薇・記憶・詩の連鎖という純粋な抒情の結晶。",
+  "keywords": [
+    "ルーヴシエンヌ",
+    "薔薇",
+    "ロンサール",
+    "カッサンドル・サルヴィアティ",
+    "遺作",
+    "詩人の記憶",
+    "フィレンツェ",
+    "没後刊行",
+    "地名詩",
+    "包囲韻"
+  ],
+  "relatedTexts": [
+    "lecontelisle_les_roses_d_ispahan",
+    "lecontelisle_le_parfum_imperissable",
+    "lecontelisle_epiphanie",
+    "lecontelisle_l_illusion_supreme",
+    "baudelaire_harmonie_du_soir",
+    "valmore_les_roses_de_saadi"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Ces beaux arbres, témoins de tant d'amours anciennes,\nQui fléchissaient, chargés du poids des jours sans fin,\nRespirent, rajeunis, ton arome divin,\nÔ Fleur, vivante Fleur, Rose de Louveciennes !",
+      "provisionalTranslation": "これらの美しい木々は、無数の古い愛の証人として、\n果てしない日々の重さに身を曲げていたが、\n汝の神聖な香りを吸い込んで、若返る、\nおお花よ、生きている花よ、ルーヴシエンヌの薔薇よ！"
+    },
+    {
+      "id": 2,
+      "originalText": "Sous leur ombre un Poète immortel a chanté\nDont ils gardent encor la mémoire pieuse.\nN'entends-tu pas errer cette âme harmonieuse\nComme un battement d'aile autour de ta beauté ?",
+      "provisionalTranslation": "その影の下で不死の詩人が歌った、\n木々はいまだその敬虔な記憶を守っている。\nその調和に満ちた魂が彷徨うのが聞こえないか、\n汝の美しさのまわりで翼の羽ばたきのように？"
+    },
+    {
+      "id": 3,
+      "originalText": "Ah ! s'il pouvait renaître à la clarté bénie,\nMieux que les noms charmants qui lui furent si chers,\nIl ferait resplendir dans l'or pur de ses vers\nTon doux nom florentin sacré par son génie !",
+      "provisionalTranslation": "ああ！もし彼が祝福された光の中に再生できたなら、\nかつてあれほど愛した魅力的な名前たちよりも、\n彼は詩の純金の中に輝かせるだろう、\n彼の天才によって聖別された汝の甘いフィレンツェ系の名を！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "12行詩・3スタンザ各4行、アレクサンドランの包囲韻（rimes embrassées：ABBA）を3スタンザ連続させる構造──正統的ソネット（8行＋6行）でも、ヴィラネルでもない変形詩形。詩集全体が死の直前のルーヴシエンヌでの晩年生活に根ざしており、この詩はその場所への直接的な愛着を示す点でルコント・ド・リールの詩集中でも異例の親密さを持つ。包囲韻の閉じた音響構造が「木々の記憶が薔薇を包む」という詩のイメージと形式的に一致する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Respirent, rajeunis, ton arome divin,",
+      "body": "「汝の神聖な香りを吸い込んで、若返る（Respirent, rajeunis）」──詩の出発点の逆説。「果てしない日々の重さに身を曲げていた（fléchissaient, chargés du poids des jours sans fin）」という半過去（進行中の状態）から、現在分詞「rajeunis（若返った）」への転換で、薔薇の香りが時間を逆転させる魔法的な力を持つことが示される。詩人自身のルーヴシエンヌでの老境（作詩は死の直前1894年）と重なる──詩人もまた薔薇の香りの中でロンサールの記憶によって一瞬「若返る」。「Le Parfum impérissable」の「不滅の香り（odeur immortelle）」が個人の愛の記憶を保存したように、ここでは薔薇の香りが詩的伝統そのものを若返らせる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Sous leur ombre un Poète immortel a chanté",
+      "body": "「不死の詩人（Poète immortel）」──大文字で特定の詩人を指す婉曲的な固有名化。ロンサール（Pierre de Ronsard, 1524-1585）がその有力候補：ロンサールは若き日にカッサンドル・サルヴィアティに出会い（1545年、ブロワ近郊）、彼女を詠んだ『愛の詩集（Les Amours）』第一篇（1552）でフランス近代詩の礎を築いた。「木々はその敬虔な記憶を守っている（ils gardent encor la mémoire pieuse）」──木々が人間の記憶の器として機能するという擬人法は、詩的伝統が場所に宿るというルコント・ド・リールの地名詩学の核心。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Ton doux nom florentin sacré par son génie !",
+      "body": "「汝の甘いフィレンツェ系の名（ton doux nom florentin）」──ロンサールの詩的恋人カッサンドル・サルヴィアティ（Cassandre Salviati, 1531-1607頃）がフィレンツェ系銀行家ベルナール・サルヴィアティの娘であることへの言及。「nom florentin（フィレンツェ系の名）」はカッサンドルのイタリア起源の家系を指す──フィレンツェのサルヴィアティ家はメディチ家と婚姻関係を持つ名家で、フランス宮廷に仕えた。ロンサールの「カッサンドルへのオード（Mignonne, allons voir si la rose…）」はフランス詩史上最も有名な薔薇の詩で、「ルーヴシエンヌの薔薇」はその詩的系譜の継承者として位置づけられる。「彼の天才によって聖別された（sacré par son génie）」──詩人が讃えることが花に永遠性を与えるという詩学的命題。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Il ferait resplendir dans l'or pur de ses vers",
+      "body": "「詩の純金の中に輝かせる（ferait resplendir dans l'or pur de ses vers）」──詩の言語を黄金精錬の過程として定義する高踏派的詩学観。ゴーティエ「芸術（L'Art）」の「彫れ、磨け、削れ（Sculpte, lime, cisèle）」という職人的詩学の変奏──ルコント・ド・リールにとって詩作は「純金（or pur）」を取り出す精錬作業。条件法「ferait（輝かせるだろう）」が重要：詩人の再生は実現しない（仮定）──しかし詩そのものは今ここで「不死の詩人」の代わりにロンサールが書いたであろう詩を書いている。死の床にあるルコント・ド・リールが、死んだロンサールの声で、薔薇に語りかける──詩的伝統の連鎖の中への詩人の最後の参入。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「Les Roses d'Ispahan」「Le Parfum impérissable」「La Rose de Louveciennes」の薔薇三部作として読むことができる：「Les Roses d'Ispahan」が異国（ペルシャ）の薔薇と愛人への讃歌（1884）、「Le Parfum impérissable」がラホール（インド）の薔薇と愛の記憶の不滅（1864）、「La Rose de Louveciennes」がフランスの薔薇と詩的伝統の記憶（1894）──三作は詩作年代を遡りながら香りと記憶の詩学を地政学的に展開する。さらにヴァルモール「サアディの薔薇」との比較では、ヴァルモールが薔薇を「今まさに失う瞬間」の即興的喪失の詩として描くのに対し、この詩は薔薇が「三世紀の詩的記憶を活性化させる」という時間的深みの詩──遺作にふさわしい詩的総括の力を持つ。",
+      "targetId": "lecontelisle_les_roses_d_ispahan",
+      "targetParagraphId": null
+    }
+  ]
+}

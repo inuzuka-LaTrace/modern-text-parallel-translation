@@ -1,0 +1,132 @@
+{
+  "id": "lecontelisle_le_soir_d_une_bataille",
+  "title": "Le Soir d'une Bataille",
+  "author": "Charles-Marie Leconte de Lisle",
+  "source": "Poèmes barbares, Alphonse Lemerre, 1872 (初出パンフレット: A. Lemerre, 1871)",
+  "year": "1871",
+  "firstPublication": "Le Soir d'une bataille. Poème, A. Lemerre, 1871 (単独パンフレット); Poèmes barbares, 1872",
+  "difficulty": "中級",
+  "category": "leconte_de_lisle",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ルコント・ド・リール『夷狄詩集』所収の9スタンザ36行。1871年、普仏戦争（1870-71）とパリ・コミューンの直後に単独パンフレットとして出版された、詩人唯一の戦争詩。通常の高踏派的客観性・非個人性とは一線を画し、戦場の死を徹底的に物理的・感覚的に描写した後、最終スタンザで「自由」の名の下に死んだ者への祝福へと反転する。普仏戦争での敗北と民族的屈辱という歴史的文脈に根ざすが、戦争の無意味な殺戮への告発と英雄的犠牲への賛美という二重の論理を含む。",
+  "keywords": [
+    "戦場",
+    "普仏戦争",
+    "死体",
+    "殺戮",
+    "自由",
+    "高踏派",
+    "夷狄詩集",
+    "反戦",
+    "英雄性",
+    "夕暮れ"
+  ],
+  "relatedTexts": [
+    "lecontelisle_tristesse_du_diable",
+    "lecontelisle_l_anatheme",
+    "lecontelisle_midi",
+    "baudelaire_heroisme",
+    "lecontelisle_l_illusion_supreme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Tels que la haute mer contre les durs rivages,\nÀ la grande tuerie ils se sont tous rués,\nIvres et haletants, par les boulets troués,\nEn d'épais tourbillons pleins de clameurs sauvages.",
+      "provisionalTranslation": "荒れ狂う海が岩礁に打ちつけるように、\n大量虐殺へと彼らは皆雪崩れ込んだ、\n酔いしれ、喘ぎながら、砲弾に貫かれ、\n野蛮な叫びに満ちた密な渦の中で。"
+    },
+    {
+      "id": 2,
+      "originalText": "Sous un large soleil d'été, de l'aube au soir,\nSans relâche, fauchant les blés, brisant les vignes,\nLongs murs d'hommes, ils ont poussé leurs sombres lignes\nEt là, par blocs entiers, ils se sont laissés choir.",
+      "provisionalTranslation": "広大な夏の太陽の下、夜明けから夕暮れまで、\n休むことなく、麦を刈り、葡萄の木を砕きながら、\n人間の長い壁となって彼らは暗い戦列を押し進め、\nそこで、塊ごと丸ごと、倒れ落ちた。"
+    },
+    {
+      "id": 3,
+      "originalText": "Puis ils se sont liés en étreintes féroces,\nLe souffle au souffle uni, l'œil de haine chargé.\nLe fer d'un sang fiévreux à l'aise s'est gorgé ;\nLa cervelle a jailli sous la lourdeur des crosses.",
+      "provisionalTranslation": "それから彼らは凶暴な抱擁で組み合った、\n息と息を一つにし、憎悪を宿した目で。\n鉄は熱に浮かされた血を思う存分に飲んだ。\n銃床の重みの下で脳漿が飛び散った。"
+    },
+    {
+      "id": 4,
+      "originalText": "Victorieux, vaincus, fantassins, cavaliers,\nLes voici maintenant, blêmes, muets, farouches,\nLes poings fermés, serrant les dents, et les yeux louches,\nDans la mort furieuse étendus par milliers.",
+      "provisionalTranslation": "勝者も、敗者も、歩兵も、騎兵も、\n今や見よ、血の気を失い、無言で、険しい表情をして、\n拳を握り、歯を食いしばり、目は斜視になったまま、\n激烈な死の中で幾千と横たわっている。"
+    },
+    {
+      "id": 5,
+      "originalText": "La pluie, avec lenteur lavant leurs pâles faces,\nAux pentes du terrain fait murmurer ses eaux ;\nEt par la morne plaine où tourne un vol d'oiseaux\nLe ciel d'un soir sinistre estompe au loin leurs masses.",
+      "provisionalTranslation": "雨は、ゆっくりと彼らの蒼白な顔を洗いながら、\n地形の斜面で水をせせらぐ音を立てる。\nそして鳥の群れが旋回する陰鬱な平野に沿って\n不吉な夕暮れの空が遠くに彼らの塊を霞ませる。"
+    },
+    {
+      "id": 6,
+      "originalText": "Tous les cris se sont tus, les râles sont poussés.\nSur le sol bossué de tant de chair humaine,\nAux dernières lueurs du jour on voit à peine\nSe tordre vaguement des corps entrelacés ;",
+      "provisionalTranslation": "すべての叫びは消え、死のあえぎが発せられた。\nこれほどの人体によってでこぼこになった地面の上を、\n一日の最後の光の中にかろうじて見える、\n絡み合った体がぼんやりと身もだえているのが。"
+    },
+    {
+      "id": 7,
+      "originalText": "Et là-bas, du milieu de ce massacre immense,\nDressant son cou roidi, percé de coups de feu,\nUn cheval jette au vent un rauque et triste adieu\nQue la nuit fait courir à travers le silence.",
+      "provisionalTranslation": "そして彼方、この広大な虐殺の只中から、\n硬直した首を起こして、銃弾に貫かれたまま、\n一頭の馬が風に向かってしゃがれた悲しい別れを叫ぶ、\n夜がその声を沈黙の向こうへと走らせる。"
+    },
+    {
+      "id": 8,
+      "originalText": "Ô boucherie ! ô soif du meurtre ! acharnement\nHorrible ! odeur des morts qui suffoques et navres !\nSoyez maudits devant ces cent mille cadavres\nEt la stupide horreur de cet égorgement.",
+      "provisionalTranslation": "おお、屠殺よ！おお、殺戮への渇望よ！凄絶な\n執念よ！窒息させ傷つける死者の臭いよ！\nこの十万の死体の前で呪われよ、\nこの虐殺の愚かな恐怖の前で呪われよ。"
+    },
+    {
+      "id": 9,
+      "originalText": "Mais, sous l'ardent soleil ou sur la plaine noire,\nSi, heurtant de leur cœur la gueule du canon,\nIls sont morts, Liberté, ces braves, en ton nom,\nBéni soit le sang pur qui fume vers ta gloire !",
+      "provisionalTranslation": "しかし、燃え立つ太陽の下あるいは黒い平野の上で、\nもしも、砲口に己の心臓をぶつけて、\n彼らが死んだのなら、自由よ、この勇者たちが汝の名の下に、\n汝の栄光へと煙を上げる清らかな血よ、祝福されよ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "9スタンザ36行、アレクサンドランの交互韻（rimes embrassées: ABBA）。詩全体の構造は三部に分かれる：§1-3（戦闘の動的描写）、§4-7（戦闘後の静的描写──死体の平野と一頭の馬の声）、§8-9（告発と反転──「呪われよ」から「祝福されよ」へ）。高踏派の非個人的・客観的詩学を採用しながら、§8-9で詩人の「声」が前景に出る──ルコント・ド・リール作品の中でも例外的な直接的感情表出。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Tels que la haute mer contre les durs rivages",
+      "body": "詩の開幕比喩──突撃を「荒れ狂う海が岩礁に打ちつける」ことに喩える。ホメロス的比喩（ホメロス風直喩：戦闘を自然現象に喩える定型）を踏まえながら、詩人は人間の主体性を消去し、軍勢を自然力として描く。ルコント・ド・リールの「非人格的詩学」が戦争描写に転用された最も鮮明な例──戦闘は英雄的行為でなく、盲目的な自然力の衝突として定義される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le fer d'un sang fiévreux à l'aise s'est gorgé ;\nLa cervelle a jailli sous la lourdeur des crosses.",
+      "body": "「鉄は熱に浮かされた血を飲んだ。銃床の重みの下で脳漿が飛び散った」──高踏派詩の中で最も生々しい暴力描写のひとつ。武器（鉄＝剣・銃）が主語となり人間が目的語となる転倒──「鉄が血を飲む」という語法が加害者と被害者を同時に非人格化する。19世紀フランス詩における戦争の身体的現実のこれほど露骨な描写は異例であり、ゾラの自然主義小説（『壊滅』1892）の先取りとも評される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "La pluie, avec lenteur lavant leurs pâles faces",
+      "body": "戦闘から戦後への移行。§5以降、詩は動から静へ、騒音から沈黙へと転換する。「雨がゆっくりと蒼白な顔を洗う」という浄化のイメージは、自然の無関心な運動として提示される──雨は悼まない、ただ洗い流すだけ。「鳥の群れが旋回する」という視点は空中からの俯瞰で、個々の死を風景として呑み込む。「Midi」の太陽が命じる「沈黙」と対応する──「Midi」が正午の静寂なら、この詩は夕暮れの静寂。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Un cheval jette au vent un rauque et triste adieu\nQue la nuit fait courir à travers le silence.",
+      "body": "詩全体のピーク──広大な沈黙の中で一頭の馬の声だけが残る。「夜がその声を沈黙の向こうへと走らせる」という擬人化は、この詩で最も詩的に洗練された行。人間の声はすべて消えた後、動物の声（しかも死にゆく声）だけが残るという選択が、人間の戦争の無意味さを逆説的に強調する。ゲリコー「メデューズ号の筏」（1818-19）における人間の集合的悲劇の描写と美術史的に対応する視覚構図。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Ô boucherie ! ô soif du meurtre ! acharnement\nHorrible !",
+      "body": "§8は詩全体で唯一、詩人の感情的声が前景に出る場所──高踏派の非個人性の例外。三つの感嘆句（「屠殺よ！」「殺戮への渇望よ！」「凄絶な執念よ！」）が積み重なる修辞的構造は、超個人的・弁論的スタイル。「呪われよ（Soyez maudits）」という呪詛は、詩人が普仏戦争の無意味な殺戮（1870年：約14万フランス人戦死）に向けた直接的な告発。§9への反転を準備する黒点としての機能を持つ。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Béni soit le sang pur qui fume vers ta gloire !",
+      "body": "詩の最大の逆説──「呪われよ」（§8）から「祝福されよ」（§9）への反転。この反転は矛盾か、それとも弁証法的統合か。「もしも彼らが自由の名の下に死んだなら」という条件節（si）が鍵──戦争それ自体でなく、「自由のための死」だけが救済される。この論理はフランス共和主義的・革命的伝統（1789以来の「自由のために死ぬ」崇高な概念）と高踏派的虚無主義の緊張を含む。1871年の普仏戦争敗北後のフランスにおける、愛国主義と反戦主義の複雑な絡み合いを体現する。",
+      "type": "commentary"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ボードレール「近代生活の英雄主義について（De l'héroïsme de la vie moderne）」（1846）との対比：ボードレールは近代の英雄性を日常の中に見出そうとするが、ルコント・ド・リールは戦場の「屠殺」を告発しながら「自由のための死」という英雄性の残存を認める。「L'Anathème」（1855）が精神的荒廃を告発するのに対し、この詩は肉体的殺戮を告発する──両詩合わせて「L'Anathème」が内面の廃墟、「Le Soir d'une Bataille」が外面の廃墟を描く対として読める。",
+      "targetId": "baudelaire_heroisme",
+      "targetParagraphId": null
+    }
+  ]
+}

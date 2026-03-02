@@ -1,0 +1,105 @@
+{
+  "id": "poe_annabel_lee",
+  "title": "Annabel Lee",
+  "author": "Edgar Allan Poe",
+  "source": "New-York Daily Tribune, October 9, 1849 (初出); Sartain's Union Magazine, January 1850 (授権版); text from Complete Works of Edgar Allan Poe, ed. Thomas Ollive Mabbott, Harvard University Press, 1969",
+  "year": "1849",
+  "firstPublication": "New-York Daily Tribune, October 9, 1849 (ポーの死の2日後); Sartain's Union Magazine, January 1850 (授権版決定稿)",
+  "difficulty": "初級",
+  "category": "poe",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ポーの最後の完成詩、1849年没の数ヶ月前に草稿が書かれ、死の2日後に初出版された。6スタンザ・不等行の反復構造。幼い頃から愛した「海辺の王国」の乙女アナベル・リーが天使たちの嫉妬によって奪われ、語り手は毎夜、月光の中で夢を見ながら、海辺の墓の傍らに横たわる──という詩は、死後もなお続く愛の不滅を宣言する。「The Raven」が悲しみの永続を問う詩であるのに対し、「Annabel Lee」は愛の永続を肯定する詩──ポーの詩作品の対をなす。「海辺の王国（a kingdom by the sea）」という童話的書き出しは、ナボコフ『ロリータ』（1955）の語り手の子供時代の恋「海辺の公国のアナベル・リー」に直接引用された。詩作上のモデルはポーの妻ヴァージニア・クレム（1847年没）と広く考えられるが、ポー自身は複数の女性への献辞写本を残している。",
+  "keywords": [
+    "Annabel Lee",
+    "海辺の王国",
+    "愛の不滅",
+    "天使の嫉妬",
+    "童話的枠組み",
+    "反復韻律",
+    "ヴァージニア・クレム",
+    "ナボコフ",
+    "最後の詩",
+    "墓"
+  ],
+  "relatedTexts": [
+    "poe_the_raven",
+    "poe_ulalume",
+    "poe_israfel",
+    "baudelaire_harmonie_du_soir",
+    "valmore_les_roses_de_saadi",
+    "lecontelisle_le_parfum_imperissable"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "It was many and many a year ago,\n   In a kingdom by the sea,\nThat a maiden there lived whom you may know\n   By the name of Annabel Lee;\nAnd this maiden she lived with no other thought\n   Than to love and be loved by me.",
+      "provisionalTranslation": "ずっとずっと昔のこと、\n　海辺の王国で、\nそこに乙女が住んでいた、あなたも知っているかもしれない、\n　アナベル・リーという名の乙女が。\nそしてこの乙女はただひとつの思いを持って生きていた、\n　愛すること、そして私に愛されることを。"
+    },
+    {
+      "id": 2,
+      "originalText": "I was a child and she was a child,\n   In this kingdom by the sea;\nBut we loved with a love that was more than love—\n   I and my Annabel Lee—\nWith a love that the wingéd seraphs of Heaven\n   Coveted her and me.",
+      "provisionalTranslation": "私は子供で、彼女も子供だった、\n　この海辺の王国で。\nしかし私たちは愛よりも深い愛で愛し合った──\n　私と私のアナベル・リーは──\n天の翼ある熾天使たちが\n　彼女と私をうらやむほどの愛で。"
+    },
+    {
+      "id": 3,
+      "originalText": "And this was the reason that, long ago,\n   In this kingdom by the sea,\nA wind blew out of a cloud, chilling\n   My beautiful Annabel Lee;\nSo that her highborn kinsman came\n   And bore her away from me,\nTo shut her up in a sepulchre\n   In this kingdom by the sea.",
+      "provisionalTranslation": "そしてこれが理由だった、遠い昔、\n　この海辺の王国で、\n雲から風が吹き出し、冷たくした、\n　私の美しいアナベル・リーを。\nそうして彼女の高貴な縁者が来て、\n　彼女を私から連れ去り、\n墓の中に閉じ込めた、\n　この海辺の王国の中に。"
+    },
+    {
+      "id": 4,
+      "originalText": "The angels, not half so happy in Heaven,\n   Went envying her and me—\nYes!—that was the reason (as all men know,\n   In this kingdom by the sea)\nThat the wind came out of the cloud by night,\n   Chilling and killing my Annabel Lee.",
+      "provisionalTranslation": "天では半分も幸せでなかった天使たちが、\n　彼女と私をうらやんでいた──\nそう！──それが理由だった（誰もが知るように、\n　この海辺の王国では）\n夜に雲から風が吹き出したのは、\n　私のアナベル・リーを冷たくし殺すために。"
+    },
+    {
+      "id": 5,
+      "originalText": "But our love it was stronger by far than the love\n   Of those who were older than we—\n   Of many far wiser than we—\nAnd neither the angels in Heaven above\n   Nor the demons down under the sea\nCan ever dissever my soul from the soul\n   Of the beautiful Annabel Lee;",
+      "provisionalTranslation": "しかし私たちの愛は、はるかに強かった、\n　私たちより年長の者たちの愛よりも──\n　私たちよりはるかに賢い多くの者たちの愛よりも──\nそして天の上の天使たちも、\n　海の下の悪魔たちも、\n決して切り離すことはできない、私の魂を\n　美しいアナベル・リーの魂から。"
+    },
+    {
+      "id": 6,
+      "originalText": "For the moon never beams, without bringing me dreams\n   Of the beautiful Annabel Lee;\nAnd the stars never rise, but I feel the bright eyes\n   Of the beautiful Annabel Lee;\nAnd so, all the night-tide, I lie down by the side\n   Of my darling—my darling—my life and my bride,\n   In her sepulchre there by the sea—\n   In her tomb by the sounding sea.",
+      "provisionalTranslation": "なぜなら月が光るたびに、必ず夢をもたらす、\n　美しいアナベル・リーの夢を。\n星が昇るたびに、必ず感じる、輝く目を、\n　美しいアナベル・リーの目を。\nだから夜のあいだじゅう、私は横になる、傍らに、\n　私のいとしい──いとしい──私の命、私の花嫁の傍らに、\n　そこ、海のほとりの墓の中に──\n　響く海のほとりの墓の中に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "6スタンザ・不等行（6〜8行）のバラッド形式。「sea / Annabel Lee / me」という三語の音が全スタンザを通じて折り返し韻（internal rhyme）と行末韻として反復される──この音の循環が「The Raven」の「Nevermore」に相当する催眠的効果を生む。「The Raven」が trochaic octameter の機械的反復によって絶望を強制するのに対し、「Annabel Lee」は行長の変化を許しながら、しかし「sea / me / Lee」の三音の回帰によって愛の永続を音響的に実現する──形式が意味を体現する詩。童話的書き出し「It was many and many a year ago（ずっとずっと昔のこと）」は once upon a time の変形で、普遍的・神話的な物語の枠を設定する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "But we loved with a love that was more than love—\n   I and my Annabel Lee—\nWith a love that the wingéd seraphs of Heaven\n   Coveted her and me.",
+      "body": "「愛よりも深い愛（a love that was more than love）」──ポーの詩の中で最も鮮明な愛の超越の宣言。「愛よりも深い愛」という自己参照的表現は通常の比較を拒否する──愛を超えるものを「愛」と呼ぶことで、既知の感情カテゴリーの外側に二人の愛を置く。「熾天使たちが嫉妬した（the wingéd seraphs of Heaven Coveted her and me）」──この神学的逆転が詩の中心命題：天上の存在が地上の愛に嫉妬するという命題は、「Israfel」の「天国は汝のもの、しかしこちらは甘いものと酸いものの世界」という地上の劣位を逆転させる──地上の愛が天上の嫉妬を引き起こすほど強い。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "A wind blew out of a cloud, chilling\n   My beautiful Annabel Lee;\nSo that her highborn kinsman came\n   And bore her away from me,",
+      "body": "「雲から吹いた風が冷たくした」と「高貴な縁者が連れ去った」という二つの死の原因は意図的に融合する──自然的な死（冷気による病）と社会的な分離（家族による引き離し）が重ねられる。「highborn kinsman（高貴な縁者）」という語は、語り手とアナベル・リーの社会的格差（語り手は身分が低い）を示唆する可能性があるが、詩はその現実的背景を「天使の嫉妬」という神話的解釈で置き換える──社会的現実を神話として語り直すことで、喪失を外的陰謀（宇宙的・天上的）の産物として定義する。「The Raven」における「天国での再会は Nevermore」と正反対の詩的立場──ここでは分離は「決して」起きない。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "And neither the angels in Heaven above\n   Nor the demons down under the sea\nCan ever dissever my soul from the soul\n   Of the beautiful Annabel Lee;",
+      "body": "「天の天使も海の下の悪魔も、決して切り離せない（Can ever dissever）」──詩の形而上学的核心。「dissever（切り離す）」という語は通常の separate でなく法律的・神学的な「婚姻の解消」を含意する──まるで死後の婚姻の継続を宣言するように。「天使（上方の力）」と「悪魔（下方の力）」という宇宙的対立の両者を対称的に無効化することで、愛が宇宙的秩序そのものを超越することを主張する。「Le Parfum impérissable」（ルコント・ド・リール）の「不滅の香りで芳しく包まれている（embaumé d'une odeur immortelle）」と「Par delà l'heure humaine et le temps infini（人間の時間の彼方に、無限の時間の彼方に）」という命題が、この連の英語的対応として読める。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "And so, all the night-tide, I lie down by the side\n   Of my darling—my darling—my life and my bride,\n   In her sepulchre there by the sea—",
+      "body": "詩の最も衝撃的な結末──語り手は毎夜、物理的に墓の中でアナベル・リーの傍らに横たわると宣言する。「my darling—my darling—my life and my bride（いとしい──いとしい──私の命、私の花嫁）」のダッシュによる反復が夢遊病的な確信を伝える。この結末は比喩的（精神的な意味で傍らにいる）か文字通り（墓に入る）かで批評家が分かれるが、どちらに読んでも「愛が死を超える」という命題は貫かれる。「The Raven」の語り手が鴉の影から「もはや決して」持ち上げられないのに対し、この語り手は墓の中で「毎夜」アナベル・リーとともにある──閉じた絶望と開かれた愛の永続という対照的な結末。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ナボコフ『ロリータ』（1955）への直接的影響：語り手ハンバート・ハンバートが「海辺の公国（princedom by the sea）で少女アナベル・リーに恋した子供時代」を語る冒頭は、ポーのこの詩への明示的引用。ナボコフは当初小説のタイトルを「The Kingdom by the Sea」とすることを検討していた。ヴァルモール「サアディの薔薇（Les Roses de Saadi）」との比較：ヴァルモールが「今まさに失う瞬間」の喪失を詠むのに対し、「Annabel Lee」は「失った後もなお続く愛の永続」を詠む──喪失の瞬間対喪失の後の時間という詩的立場の対照。「The Raven」との詩集内的対照：「The Raven」の「Never—nevermore」が喪失の永続を強制するのに対し、「Annabel Lee」の「moon / dreams / stars / eyes / sea」の感覚的循環が愛の永続を体現する──同一の主題（美しい女性の死）の二つの詩的解答。",
+      "targetId": "poe_the_raven",
+      "targetParagraphId": null
+    }
+  ]
+}

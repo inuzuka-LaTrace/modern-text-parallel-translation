@@ -1,0 +1,132 @@
+{
+  "id": "poe_the_raven",
+  "title": "The Raven",
+  "author": "Edgar Allan Poe",
+  "source": "The Raven and Other Poems, Wiley and Putnam, New York, 1845; text established from The Complete Poems and Stories of Edgar Allan Poe (1946)",
+  "year": "1845",
+  "firstPublication": "The Evening Mirror, New York, January 29, 1845; The American Review, February 1845; The Raven and Other Poems, 1845",
+  "difficulty": "中級",
+  "category": "poe",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ポーが1845年1月29日に発表し、数ヶ月以内に英語圏全体で朗読・パロディ化された歴史的詩篇。18スタンザ108行、トロカイウス八歩格という当時としては革新的な韻律構造。哀悼する学者の部屋に一羽の鴉が飛び込み、すべての問いに「Nevermore（もはや決して）」とのみ答える──失った恋人レノールへの問いを含めて。ポー自身の詩作論「詩の哲学（The Philosophy of Composition）」（1846）では、この詩を純粋に計算された「美的効果の工学」として記述する。ボードレールがフランス語散文訳を試み、マラルメが1875年に韻文に近い散文訳を発表（「Le Corbeau」）──19世紀フランス象徴主義の詩学的起点として機能した。",
+  "keywords": [
+    "Nevermore",
+    "鴉",
+    "レノール",
+    "喪失",
+    "ゴシック",
+    "反復",
+    "トロカイウス八歩格",
+    "ボードレール",
+    "マラルメ",
+    "詩の哲学"
+  ],
+  "relatedTexts": [
+    "poe_israfel",
+    "baudelaire_spleen",
+    "baudelaire_harmonie_du_soir",
+    "mallarme_tombeau_charles_baudelaire",
+    "mallarme_angoisse",
+    "lecontelisle_le_dernier_dieu"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Once upon a midnight dreary, while I pondered, weak and weary,\nOver many a quaint and curious volume of forgotten lore—\nWhile I nodded, nearly napping, suddenly there came a tapping,\nAs of some one gently rapping, rapping at my chamber door.\n\"'Tis some visitor,\" I muttered, \"tapping at my chamber door—\n    Only this and nothing more.\"\n\nAh, distinctly I remember it was in the bleak December;\nAnd each separate dying ember wrought its ghost upon the floor;\nEagerly I wished the morrow;—vainly I had sought to borrow\nFrom my books surcease of sorrow—sorrow for the lost Lenore—\nFor the rare and radiant maiden whom the angels name Lenore—\n    Nameless here for evermore.\n\nAnd the silken, sad, uncertain rustling of each purple curtain\nThrilled me—filled me with fantastic terrors never felt before;\nSo that now, to still the beating of my heart, I stood repeating\n\"'Tis some visitor entreating entrance at my chamber door—\nSome late visitor entreating entrance at my chamber door;—\n    This it is and nothing more.\"",
+      "provisionalTranslation": "かつてある真夜中、憂鬱な、私は考え込んでいた、弱り果てて、くたびれて、\n忘れられた知識の、奇妙で不思議な幾多の書物の上で──\nうとうとしながら、うたた寝しかけたとき、突然やって来たのだ、叩く音が、\nまるで誰かが静かに叩くように、叩いている、私の部屋の扉を。\n「訪ねてきた人だ」と私はつぶやいた、「叩いている、私の部屋の扉を──\n　　ただそれだけ、それ以上は何もない。」\n\nああ、はっきりと覚えている、あれは陰鬱な十二月のことだった。\nそして燃え尽きていくおき火のひとつひとつが、床の上に幽霊を描き出した。\n私は明日を待ち望んだ──むなしく書物から借りようとしていた\n悲しみの中断を──失われたレノールへの悲しみから──\n天使たちがレノールと呼ぶあの稀で輝かしい乙女への悲しみから──\n　　ここでは永遠に名もない者となった。\n\n紫色のカーテンのひとつひとつの絹のような、悲しい、不確かなざわめきが\n私を震わせた──かつて感じたことのない不思議な恐怖で私を満たした。\nだから今、心臓の鼓動を鎮めようとして、私は繰り返した、\n「訪ねてきた人が、私の部屋の扉から入れてほしいと頼んでいる──\n遅い時間に訪ねてきた人が扉から入れてほしいと頼んでいる──\n　　ただそれだけ、それ以上は何もない。」"
+    },
+    {
+      "id": 2,
+      "originalText": "Presently my soul grew stronger; hesitating then no longer,\n\"Sir,\" said I, \"or Madam, truly your forgiveness I implore;\nBut the fact is I was napping, and so gently you came rapping,\nAnd so faintly you came tapping, tapping at my chamber door,\nThat I scarce was sure I heard you\"—here I opened wide the door—\n    Darkness there and nothing more.\n\nDeep into that darkness peering, long I stood there, wondering, fearing,\nDoubting, dreaming dreams no mortal ever dared to dream before;\nBut the silence was unbroken, and the stillness gave no token,\nAnd the only word there spoken was the whispered word, \"Lenore?\"\nThis I whispered, and an echo murmured back the word, \"Lenore!\"—\n    Merely this and nothing more.",
+      "provisionalTranslation": "やがて私の魂は強まった。もはやためらうことなく、\n「あなた様」と私は言った、「男性か女性かは存じませんが、本当に申し訳ありません。\n実は私はうたた寝していたのです、それほど静かにあなたは叩いてきた、\nそれほどかすかにあなたは叩いてきた、叩いた、私の部屋の扉を、\nあなたの声がほとんど聞こえなかったほどで」──ここで私は扉を大きく開いた──\n　　暗闇があるだけ、それ以上は何もない。\n\nその暗闇の奥深くに目を凝らしながら、私は長く立ちつくした、疑い、恐れながら、\n疑惑を持ち、いかなる人間もかつて夢見ることを敢えてしなかった夢を夢見ながら。\nしかし沈黙は破られず、静寂は何の印も与えなかった、\nそこで語られた唯一の言葉はひそやかに囁かれた「レノール？」という言葉だった。\nこれを私はひそひそと言い、こだまが「レノール！」という言葉をつぶやき返してきた──\n　　ただそれだけ、それ以上は何もない。"
+    },
+    {
+      "id": 3,
+      "originalText": "Back into the chamber turning, all my soul within me burning,\nSoon again I heard a tapping somewhat louder than before.\n\"Surely,\" said I, \"surely that is something at my window lattice;\nLet me see, then, what thereat is, and this mystery explore—\nLet my heart be still a moment and this mystery explore;—\n    'Tis the wind and nothing more!\"\n\nOpen here I flung the shutter, when, with many a flirt and flutter,\nIn there stepped a stately Raven of the saintly days of yore;\nNot the least obeisance made he; not a minute stopped or stayed he;\nBut, with mien of lord or lady, perched above my chamber door—\nPerched upon a bust of Pallas just above my chamber door—\n    Perched, and sat, and nothing more.",
+      "provisionalTranslation": "部屋に引き返しながら、魂がすべて燃え上がって、\n私はすぐにまた聞こえた、先ほどよりいくらか大きな叩く音を。\n「きっと」と私は言った、「きっとあれは窓格子のところに何かいるのだ。\n見てみよう、そこに何があるか、この謎を解き明かそう──\n少しの間、心を静めてこの謎を解き明かそう──\n　　風だ、それ以上は何もない！」\n\n大きくシャッターを開け放つと、多くのひらひら、はためきとともに、\n中に踏み込んできたのは往古の聖なる日々からの威厳ある鴉だった。\n礼をする気配も全くなく、一瞬も立ち止まることも留まることもせず、\nしかし主や貴婦人の風格をもって、部屋の扉の上に止まった──\nパラスの胸像の上に、部屋の扉のすぐ上に止まった──\n　　止まり、座り、それ以上は何もない。"
+    },
+    {
+      "id": 4,
+      "originalText": "Then this ebony bird beguiling my sad fancy into smiling,\nBy the grave and stern decorum of the countenance it wore,\n\"Though thy crest be shorn and shaven, thou,\" I said, \"art sure no craven,\nGhastly grim and ancient Raven wandering from the Nightly shore—\nTell me what thy lordly name is on the Night's Plutonian shore!\"\n    Quoth the Raven, \"Nevermore.\"\n\nMuch I marvelled this ungainly fowl to hear discourse so plainly,\nThough its answer little meaning—little relevancy bore;\nFor we cannot help agreeing that no living human being\nEver yet was blessed with seeing bird above his chamber door—\nBird or beast upon the sculptured bust above his chamber door,\n    With such name as \"Nevermore.\"\n\nBut the Raven, sitting lonely on the placid bust, spoke only\nThat one word, as if his soul in that one word he did outpour.\nNothing further then he uttered—not a feather then he fluttered—\nTill I scarcely more than muttered: \"Other friends have flown before—\nOn the morrow he will leave me, as my Hopes have flown before.\"\n    Then the bird said \"Nevermore.\"",
+      "provisionalTranslation": "するとこの漆黒の鳥が、その顔に浮かんだ重々しく厳しい品格によって\n私の悲しい空想を笑顔へと誘いこんだ。\n「たとえ冠毛が刈り取られていても、汝は」と私は言った、「確かに臆病者ではない、\n夜の岸辺をさまよう、恐ろしく厳めしき古き鴉よ──\n夜のプルートの岸辺での汝の大仰な名前を教えてくれ！」\n　　鴉は言った、「ネヴァーモア（もはや決して）。」\n\nひどく驚いた、この不格好な鳥がかくも明瞭に話すのを聞いて、\nその答えが意味をほとんど持たないにもかかわらず──関連性もほとんどなかったが。\nなぜなら認めずにはいられないからだ、いかなる生きた人間も\nかつて部屋の扉の上に鳥を見るという幸運に恵まれたことはなかった──\n彫刻された胸像の上の鳥や獣が部屋の扉の上にいて、\n　　「ネヴァーモア」というような名前を持つなどということは。\n\nしかし鴉は、静かな胸像の上に孤独に座って、ただその一言だけを語った、\nまるでその一言に自分の魂全体を注ぎ出すかのように。\nそれ以上は何も言わなかった──羽根一枚ひるがえらせなかった──\n私がほとんどつぶやくほかなくなるまで、「他の友たちも前に去っていった──\n明日になればこの鳥も去るだろう、私の希望が前に去ったように。」\n　　するとその鳥は言った、「ネヴァーモア。」"
+    },
+    {
+      "id": 5,
+      "originalText": "Startled at the stillness broken by reply so aptly spoken,\n\"Doubtless,\" said I, \"what it utters is its only stock and store\nCaught from some unhappy master whom unmerciful Disaster\nFollowed fast and followed faster till his songs one burden bore—\nTill the dirges of his Hope that melancholy burden bore\n    Of 'Never—nevermore.'\"\n\nBut the Raven still beguiling my sad fancy into smiling,\nStraight I wheeled a cushioned seat in front of bird and bust and door;\nThen, upon the velvet sinking, I betook myself to linking\nFancy unto fancy, thinking what this ominous bird of yore—\nWhat this grim, ungainly, ghastly, gaunt, and ominous bird of yore\n    Meant in croaking \"Nevermore.\"",
+      "provisionalTranslation": "これほど適切に語られた返答によって沈黙が破られ、驚いて、\n「疑いなく」と私は言った、「それが語るのはただそれだけの蓄えと貯えだ、\n容赦ない不幸がすぐ後に続きさらに後に続いた、\nどこかの不幸な主人から学び取ったもの、その歌がひとつの重荷を背負うまで──\nその希望の悼み歌がその憂鬱な重荷を背負うまで、\n　　『決して──ネヴァーモア』という。」\n\nしかし鴉がまだ私の悲しい空想を笑顔へと誘いながら、\n私はすぐにクッション付きの椅子を鳥と胸像と扉の前に引き寄せた。\nそしてビロードに沈みながら、私は自分を空想から空想へと繋げることに委ねた、\nこの不吉な往古の鳥が何を意味するのかを考えながら──\nこの厳しく不格好で恐ろしく痩せた不吉な往古の鳥が\n　　「ネヴァーモア」と嗄れ声で鳴くことで何を意味するのかを。"
+    },
+    {
+      "id": 6,
+      "originalText": "This I sat engaged in guessing, but no syllable expressing\nTo the fowl whose fiery eyes now burned into my bosom's core;\nThis and more I sat divining, with my head at ease reclining\nOn the cushion's velvet lining that the lamp-light gloated o'er,\nBut whose velvet-violet lining with the lamp-light gloating o'er,\n    She shall press, ah, nevermore!\n\nThen, methought, the air grew denser, perfumed from an unseen censer\nSwung by seraphim whose foot-falls tinkled on the tufted floor.\n\"Wretch,\" I cried, \"thy God hath lent thee—by these angels he hath sent thee\nRespite—respite and nepenthe from thy memories of Lenore;\nQuaff, oh quaff this kind nepenthe and forget this lost Lenore!\"\n    Quoth the Raven, \"Nevermore.\"",
+      "provisionalTranslation": "私はこれを座りながら推し量っていた、しかし一音節も語らずに、\n燃えるような目が今や私の胸の核心まで焼き込んでいるあの鳥に対して。\nこれとそれ以上のことを私は座って占いながら、楽な姿勢で頭を寄りかからせていた、\nランプの光が陰鬱に照らすクッションのビロードの裏地に、\nしかしそのビロード色の裏地に、ランプの光が陰鬱に照らすその裏地に、\n　　彼女は身を寄せるだろう、ああ、もはや決して！\n\nすると、私には空気が濃くなったように思えた、見えない香炉から薫り来る、\n房飾りの敷かれた床の上でその足音が鈴を鳴らす熾天使たちによって揺らされる香炉から。\n「哀れな者よ」と私は叫んだ、「汝の神が汝を遣わしてくれた──これらの天使によって汝を送ってくれた、\n安らぎを──安らぎとネペンテスをレノールへの記憶から。\n飲め、ああ、この親切なネペンテスを飲め、そして失われたレノールを忘れよ！」\n　　鴉は言った、「ネヴァーモア。」"
+    },
+    {
+      "id": 7,
+      "originalText": "\"Prophet!\" said I, \"thing of evil!—prophet still, if bird or devil!—\nWhether Tempter sent, or whether tempest tossed thee here ashore,\nDesolate yet all undaunted, on this desert land enchanted—\nOn this home by Horror haunted—tell me truly, I implore—\nIs there—is there balm in Gilead?—tell me—tell me, I implore!\"\n    Quoth the Raven, \"Nevermore.\"\n\n\"Prophet!\" said I, \"thing of evil—prophet still, if bird or devil!\nBy that Heaven that bends above us—by that God we both adore—\nTell this soul with sorrow laden if, within the distant Aidenn,\nIt shall clasp a sainted maiden whom the angels name Lenore—\nClasp a rare and radiant maiden whom the angels name Lenore.\"\n    Quoth the Raven, \"Nevermore.\"",
+      "provisionalTranslation": "「予言者よ！」と私は言った、「悪のものよ！──それでも予言者だ、鳥であれ悪魔であれ！──\n誘惑者が遣わしたのか、それとも嵐がここの岸辺に汝を打ち寄せたのか、\n荒涼としながらもまったく怯まず、この魔法にかかった荒れ地に──\n恐怖にとり憑かれたこの我が家に──正直に告げてくれ、お願いだ──\nあるか──あるか、ギレアデにバルサムは？──告げてくれ──告げてくれ、お願いだ！」\n　　鴉は言った、「ネヴァーモア。」\n\n「予言者よ！」と私は言った、「悪のもの──それでも予言者だ、鳥であれ悪魔であれ！\n我らの上に曲がりくねる天国にかけて──我ら両者が崇める神にかけて──\nこの悲しみに満ちた魂に告げてくれ、遠いアイデンの中に、\nその魂は天使たちがレノールと呼ぶ聖なる乙女を抱きしめるだろうか──\n天使たちがレノールと呼ぶ稀で輝かしい乙女を抱きしめるだろうか。」\n　　鴉は言った、「ネヴァーモア。」"
+    },
+    {
+      "id": 8,
+      "originalText": "\"Be that word our sign of parting, bird or fiend!\" I shrieked, upstarting—\n\"Get thee back into the tempest and the Night's Plutonian shore!\nLeave no black plume as a token of that lie thy soul hath spoken!\nLeave my loneliness unbroken!—quit the bust above my door!\nTake thy beak from out my heart, and take thy form from off my door!\"\n    Quoth the Raven, \"Nevermore.\"",
+      "provisionalTranslation": "「その言葉を我らの別れのしるしとせよ、鳥よ、悪魔よ！」と私は叫んだ、飛び起きながら──\n「嵐の中へ戻れ、夜のプルートの岸辺へ！\n汝の魂が語ったあの嘘の証として黒い羽根一枚残すな！\n私の孤独を妨げないでくれ！──扉の上の胸像から立ち去れ！\n汝のくちばしを私の心から抜いてくれ、そして汝の姿を私の扉から消し去れ！」\n　　鴉は言った、「ネヴァーモア。」"
+    },
+    {
+      "id": 9,
+      "originalText": "And the Raven, never flitting, still is sitting, still is sitting\nOn the pallid bust of Pallas just above my chamber door;\nAnd his eyes have all the seeming of a demon's that is dreaming,\nAnd the lamp-light o'er him streaming throws his shadow on the floor;\nAnd my soul from out that shadow that lies floating on the floor\n    Shall be lifted—nevermore!",
+      "provisionalTranslation": "そして鴉は、飛び立つことなく、今なお座っている、今なお座っている\n私の部屋の扉のすぐ上の、蒼白なパラスの胸像の上に。\nその目はすべて夢見ている悪魔の見かけを持っていて、\nその上に流れるランプの光が床の上にその影を落としている。\nそして床の上に漂い横たわるその影から私の魂は\n　　持ち上げられるだろう──ネヴァーモア！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "トロカイウス八歩格（trochaic octameter）──1行16音節、強弱の繰り返し──という英語詩では革命的な韻律。各スタンザ6行、行末韻は第2・4・5・6行が同一音（「ore」系列：lore / door / more / nevermore）で固定される。第6行は4音節の短縮行として孤立し、refrain「Nevermore」または「nothing more」「evermore」を配する構造。ポー自身「詩の哲学（The Philosophy of Composition, 1846）」でこの詩が「純粋な計算」から生まれたと主張する──「美の効果」→「美の形式」→「悲しみの感情」→「最も悲しい主題＝美しい女性の死」→「最も音楽的な単語＝Nevermore」という遡行的設計論。この「計算の告白」がボードレール・マラルメ・ヴァレリーの詩学論に決定的な影響を与えた。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Over many a quaint and curious volume of forgotten lore—",
+      "body": "「忘れられた知識の奇妙で不思議な幾多の書物」──最初の2行が詩の認識論的枠組みを決定する。「lore（秘儀的知識・民間伝承）」は通常の書物知識でなく、失われた・周縁的な知識体系。学者は死んだ女性をこの種の知識で乗り越えようとしている──つまり「魔術的・秘教的知識も悲しみを癒せない」という前提が冒頭から埋め込まれている。「忘れられた（forgotten）」という形容詞が、のちに「忘却」を求めてネペンテスを乞う（§6）ことへの伏線となる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "perched upon a bust of Pallas just above my chamber door",
+      "body": "「パラスの胸像（a bust of Pallas）」──パラス・アテナ（知恵と理性の女神）の胸像の上に鴉が止まるという配置は、詩の哲学的核心を視覚化する。知恵・理性が失った愛を回復できないこと──鴉はまさに理性の象徴の「上」に座っている。ポーの「詩の哲学」では「パラス」の選択を「学者への知的親しみやすさ」と「女性の名前との音の類似（Lenore）」で説明するが、この神学的・哲学的含意の方が詩学的に重要。「漆黒の鳥（ebony bird）」の黒と「蒼白な胸像（pallid bust）」の白という色彩的対比も意図的。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Quoth the Raven, \"Nevermore.\"",
+      "body": "「Nevermore」の反復的構造──詩の中で11回繰り返される refrain。最初の出現（§4）では鴉の名前への問いへの答え、つまりほぼ無意味な応答として提示される。しかし語り手は自ら「この鳥はきっと不幸な主人から一語だけ学んだのだ」と合理化しながら（§5）、以後より危険な問いをその答えに向けて投げかけていく。ポー「詩の哲学」では「予言者的な文脈」で問いを設計して「Nevermore」の効果を最大化することが詩の構築原理と説明される──詩の構造が「自己拷問のメカニズム」として機能する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Is there—is there balm in Gilead?",
+      "body": "「ギレアデにバルサムはあるか（Is there balm in Gilead?）」──エレミヤ書8:22「ギレアデにバルサムはないのか。そこに医者はいないのか」への典拠。ギレアデはヨルダン川東岸の地域で、古代から医薬品の産地として知られた。「バルサム（balm）」は治癒・癒しの象徴──「レノールの死という傷を癒す何かが宗教的伝統に存在するか」という問いを聖書的語彙で組み立てることで、問い自体が神学的絶望として定式化される。「Nevermore」という答えはここで、宗教的慰めの否定として機能する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Tell this soul with sorrow laden if, within the distant Aidenn,\nIt shall clasp a sainted maiden whom the angels name Lenore",
+      "body": "「アイデン（Aidenn）」──エデン（Eden）のアラビア語形。ポーはアラビア語・コーラン的な語彙を好んで使う（「Israfel」も参照）。「天国でレノールと再会できるか」という問いは、詩の最大の感情的頂点──「Nevermore」という答えは、天国での再会も否定する。しかしポー「詩の哲学」では、語り手は「この答えが来ることを知りながら問いを投げる」──「熱狂的な快楽、自己拷問において歓喜する者の快楽（frenized pleasure which delights in self-torture）」として定義される。この自己拷問の詩学がボードレール「Spleen」群の内的論理と共鳴する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "And my soul from out that shadow that lies floating on the floor\n    Shall be lifted—nevermore!",
+      "body": "詩の最終行──「もはや決して（nevermore）」が最後に語り手の「魂（soul）」に向けられる。ここで refrain の意味が完成する：最初は鴉の名前、次に慰めの可能性、次に天国での再会、最後に魂そのものの救済──すべてに「Nevermore」。「影から魂が持ち上げられる」ことが永遠になく、鴉は「悲しみの永続する記憶の象徴（emblematical of Mournful and Never-ending Remembrance）」として固定される（ポー「詩の哲学」）。マラルメの散文訳「Le Corbeau」（1875）はこの最終行の「nevermore」を「jamais plus」と訳した──この翻訳行為がマラルメの詩学（「語は沈黙を呼び出す」）の実践として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "マラルメの「エドガー・ポーの墓（Le tombeau d'Edgar Poe）」（1876）との直接的接続──マラルメはポーの「The Raven」を1875年に散文訳「Le Corbeau」として発表し、序文でポーの詩学を論じた。「Le tombeau d'Edgar Poe」では「その世紀は詩人の声を認識しなかった」と宣言し、ポーを殉教した詩人として定義する。ヴァレリー「詩学講義」第一講の「詩の執行が詩である」という命題は、ポーの「詩の哲学」における「効果からの逆算的設計」の理論を大きく継承している──ただしヴァレリーは「計算」でなく「行為と不定義なものの接触」として再定式化する。ボードレール「Spleen」との比較では、どちらも「出口のない悲しみの自己増殖」という主題を持つが、「The Raven」が外部の鴉という装置を必要とするのに対し、「Spleen」は内部の意識そのものが「蓋（couvercle）」として閉じ込める。",
+      "targetId": "mallarme_tombeau_charles_baudelaire",
+      "targetParagraphId": null
+    }
+  ]
+}

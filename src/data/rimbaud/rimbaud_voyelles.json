@@ -1,0 +1,107 @@
+{
+  "id": "rimbaud_voyelles",
+  "title": "Voyelles",
+  "author": "Arthur Rimbaud",
+  "source": "Poésies, L. Vanier, Paris, 1895 (初刊本); テキスト底本: Œuvres complètes, éd. Antoine Adam, Bibliothèque de la Pléiade, Gallimard, Paris, 1972. manuscrit Verlaine（ヴェルレーヌ手書き写本）および manuscrit Mouquet を参照",
+  "year": "1871",
+  "firstPublication": "Lutèce, 1883年10月 (初出誌掲載); Poésies, L. Vanier, Paris, 1895 (初刊本)",
+  "difficulty": "上級",
+  "category": "rimbaud",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ランボー17歳（1871年）のソネット。14行・フランス式ソネット（ABAB-ABAB-CCD-EDE）、アレクサンドラン。「見者の手紙（Lettre du voyant）」（1871年5月15日）でランボーが提唱した「あらゆる感覚の長く・計画的・理性的な錯乱（le dérèglement de tous les sens）」の詩的実践。母音5つ（A・E・I・U・O）にそれぞれ色彩を割り当て──A黒・E白・I赤・U緑・O青──その色から感覚的イメージの連鎖を展開する。共感覚（synesthésie）詩の代表作として後世に決定的な影響を与えた。母音の順序が A・E・I・U・O（アルファベット順ではA・E・I・O・U）──Oが末尾に来ることで「オメガ（Ω）」＝「最後の文字」への転化が可能となり、詩が「A（始まり）から Ω（終わり）へ」という終末論的・黙示録的弧線を形成する。「Ses Yeux（彼女の目）」の大文字は愛する者・神・詩的ミューズへの複数の参照を許す意図的曖昧性。ランボー「地獄のある季節」の「錬金術の詩章（Alchimie du verbe）」では「母音の色を発明した」と自ら回想する。",
+  "keywords": [
+    "共感覚",
+    "母音の色彩",
+    "見者の手紙",
+    "錬金術",
+    "オメガ",
+    "dérèglement de tous les sens",
+    "ソネット",
+    "A黒E白I赤U緑O青",
+    "Ses Yeux",
+    "象徴主義の先駆"
+  ],
+  "relatedTexts": [
+    "rimbaud_le_bateau_ivre",
+    "rimbaud_saison_prologue",
+    "verlaine_poetes_maudits_rimbaud",
+    "mallarme_crise_de_vers",
+    "baudelaire_harmonie_du_soir",
+    "baudelaire_elevation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "A noir, E blanc, I rouge, U vert, O bleu : voyelles,\nJe dirai quelque jour vos naissances latentes :\nA, noir corset velu des mouches éclatantes\nQui bombinent autour des puanteurs cruelles,\nGolfes d'ombre ;",
+      "provisionalTranslation": "A黒、E白、I赤、U緑、O青：母音よ、\nいつかお前たちの潜在的な誕生を語ろう。\nA、眩い蝿の黒い毛深いコルセット、\n残酷な悪臭のまわりをぶんぶん飛び交う蝿の、\n影の湾。"
+    },
+    {
+      "id": 2,
+      "originalText": "E, candeurs des vapeurs et des tentes,\nLances des glaciers fiers, rois blancs, frissons d'ombelles ;\nI, pourpres, sang craché, rire des lèvres belles\nDans la colère ou les ivresses pénitentes ;",
+      "provisionalTranslation": "E、蒸気と天幕の純白さ、\n誇り高き氷河の槍、白い王たち、セリの花序の震え。\nI、深紅、吐かれた血、美しい唇の笑い\n怒りの中あるいは懺悔の恍惚の中での。"
+    },
+    {
+      "id": 3,
+      "originalText": "U, cycles, vibrements divins des mers virides,\nPaix des pâtis semés d'animaux, paix des rides\nQue l'alchimie imprime aux grands fronts studieux ;",
+      "provisionalTranslation": "U、周期、緑の海の神聖な振動、\n動物を蒔いた牧草地の平和、皺の平和、\n錬金術が勤勉な大きな額に刻む皺の。"
+    },
+    {
+      "id": 4,
+      "originalText": "O, suprême Clairon plein des strideurs étranges,\nSilences traversés des Mondes et des Anges :\n— Ô l'Oméga, rayon violet de Ses Yeux !",
+      "provisionalTranslation": "O、奇妙な軋み音に満ちた至高のラッパ、\n世界と天使たちに横断された沈黙。\n──おおオメガ、彼女の目の紫の光線！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "フランス式ソネット（ABAB-ABAB-CCD-EDE）、アレクサンドラン（12音節）。韻構造：A＝voyelles/ombelles/éclatantes/tentes（視覚的多様性を含む）、B＝latentes/cruelles/belles/pénitentes、C＝virides/rides、D＝studieux、E＝étranges/Anges。ソネット内部の構造的異常：冒頭行「A noir, E blanc, I rouge, U vert, O bleu : voyelles」は通常のアレクサンドランの韻律（12音節の詩行）として読むと字余りになる──「A、E、I、U、O」という5つの母音名が詩行に埋め込まれた列挙として詩の外側の言語体系（アルファベット）を詩の内側に侵入させる。母音の順序A・E・I・U・Oはアルファベット順（A・E・I・O・U）でなく、Uが先・Oが末尾──Oを最後に置くことで詩末のオメガ（Ω＝ギリシャ語アルファベット最終文字）への転化を準備する。「Que l'alchimie imprime aux grands fronts studieux」の「studieux」は詩内唯一の三音節語末韻（stu-di-eux）──ディエレーズ（母音分離）の問題はランボー研究の争点のひとつ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "A noir, E blanc, I rouge, U vert, O bleu : voyelles,\nJe dirai quelque jour vos naissances latentes :",
+      "body": "冒頭2行が詩全体の論理的プログラムを宣言する。「Je dirai quelque jour（いつかお前たちの……を語ろう）」──「quelque jour（いつか）」という不確定の未来形は、「今から語る」という詩の実際の実行と矛盾する逆説：詩人は「いつか語る」と言いながら、次の行からすでに語り始めている。この逆説は詩的宣言とその実践の同時性として読める。「naissances latentes（潜在的な誕生）」──母音の「起源（origine）」ではなく「誕生（naissance）」という語が選ばれる：母音が既成の意味を持つのでなく「今まさに生まれる」という生成の過程として定義される。ランボー「見者の手紙（Lettre du voyant）」（1871年5月）「詩人は未知のものを見るために、感覚のあらゆる錯乱を達成しなければならない」という宣言の詩的実践──共感覚的色彩割り当てが「感覚の錯乱（dérèglement des sens）」の具体的手法として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "A, noir corset velu des mouches éclatantes\nQui bombinent autour des puanteurs cruelles,\nGolfes d'ombre ;",
+      "body": "「A」の色彩連鎖──A黒。「黒い毛深いコルセット（noir corset velu）」の形象は諸説ある：(1) Aの字形が2本の脚（コルセットの締め付け）に見えるという字形的解釈、(2) 腐肉の上に群れる蝿の黒い塊という嗅覚・視覚的共感覚、(3) 女性の身体（コルセット）への暗示的エロス。「bombinent（ぶんぶん鳴る）」──「bomber（膨らむ）」と「bourdonner（唸る）」の合成と見られる造語、あるいはラテン語「bombinare」からの直接借用──音の模倣（オノマトペ的効果）。「Golfes d'ombre（影の湾）」──抽象的な色彩（黒）が地形的形象（湾）に変換される：Aの外形が「V字の湾」として図像的に読める。ランボー「地獄のある季節・錬金術の詩章（Alchimie du verbe）」で「J'inventai la couleur des voyelles！ A noir, E blanc, I rouge, Ô bleu, U vert（母音の色を発明した！）」と自ら回想する──「Voyelles」がその「発明」の記録として詩集内に位置づけられる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "E, candeurs des vapeurs et des tentes,\nLances des glaciers fiers, rois blancs, frissons d'ombelles ;",
+      "body": "「E」の色彩連鎖──E白。「candeurs（純白さ）」は「白さ」であると同時に「純粋さ・無垢」の抽象的意味を持つ──色彩と道徳的意味の同時活性化。「vapeurs et des tentes（蒸気と天幕）」の対比：蒸気（動的・上昇する白さ）と天幕（静的・広がる白さ）──白さが異なる物質状態で現れる。「Lances des glaciers fiers（誇り高き氷河の槍）」──垂直に落下する氷柱あるいは稜線の形象。「rois blancs（白い王たち）」──白装束の王・白い雪の山々・チェスの白い駒など複数の参照を持つ。「frissons d'ombelles（セリの花序の震え）」──ombelle（散形花序、セリ・ニンジン等の傘状の花）の白い小花の震えが白さの最後の繊細なイメージとして置かれる：「氷河の槍」の力強い白から「花の震え」の繊細な白への収束。マラルメ「白鳥のソネット（Le vierge, le vivace et le bel aujourd'hui）」の白い白鳥・氷河・不毛の白さという同一の白の語彙圏との詩学的共鳴。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "I, pourpres, sang craché, rire des lèvres belles\nDans la colère ou les ivresses pénitentes ;",
+      "body": "「I」の色彩連鎖──I赤。詩内で最も圧縮された感覚的強度を持つ連──「pourpres（深紅）、sang craché（吐かれた血）、rire des lèvres belles（美しい唇の笑い）」が一行に凝縮される。「pourpres（深紅・複数形）」──複数形が赤の複数の質感・濃淡を示す。「sang craché（吐かれた血）」──「吐かれた」という動詞が血の暴力的・身体的な出現を強調：肺結核（ランボーの時代の流行病）・拳闘・詩的激情の身体的代償などの連想。「rire des lèvres belles（美しい唇の笑い）」──赤い唇の赤さが「笑い」という感情とともに提示される：血（死・暴力）から唇の笑い（生・エロス）への赤の同一色内変容。「colère ou les ivresses pénitentes（怒りあるいは懺悔の恍惚）」──「怒り」と「懺悔」という一見対立する感情状態が並置される：どちらも「強烈な感情状態の中での美しい唇の赤さ」という文脈を共有。プロローグの「Un soir, j'ai assis la Beauté sur mes genoux / Et je l'ai trouvée amère」との共鳴──「笑い」と「苦さ」、「エロス」と「拒絶」の同時活性化。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "U, cycles, vibrements divins des mers virides,\nPaix des pâtis semés d'animaux, paix des rides\nQue l'alchimie imprime aux grands fronts studieux ;",
+      "body": "「U」の色彩連鎖──U緑。第1三行連句がUに充てられる（三行連句全体を一母音が占める）──詩の構造的中心として最も展開される色彩。「cycles（周期・サイクル）」──Uの字形が循環・折り返しの形状に見えるという字形的解釈と、自然の周期（海の波・農業のサイクル・天体の運行）の意味の合成。「vibrements divins des mers virides（緑の海の神聖な振動）」──「virides（緑の、ラテン語由来）」という稀な形容詞の使用：通常の「vertes」でなくラテン語形が「海の古代的・神聖な緑さ」を強調する。「Paix des pâtis semés d'animaux（動物を蒔いた牧草地の平和）」──「semés（蒔かれた）」という農業動詞が動物に適用される：動物たちが牧草地に「種のように」散らばる視覚的像。「paix des rides / Que l'alchimie imprime aux grands fronts studieux（錬金術が勤勉な大きな額に刻む皺の平和）」──額の皺を「錬金術が刻む（imprime）」という比喩が詩学的核心：知的探求（「grands fronts studieux」）が身体（額の皺）に刻まれる痕跡として定義される。「alchimie（錬金術）」は「地獄のある季節・錬金術の詩章」でランボーが詩の制作行為そのものを指すために使う語──詩語の「錬金術」が「母音の色彩発明」を含む。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "O, suprême Clairon plein des strideurs étranges,\nSilences traversés des Mondes et des Anges :\n— Ô l'Oméga, rayon violet de Ses Yeux !",
+      "body": "詩の頂点かつ結末──「O」の色彩連鎖がOからΩ（オメガ）へと転化する。「suprême Clairon（至高のラッパ）」──「Clairon（ラッパ）」の大文字表記が概念的実体化。「Clairon」はランボー「見者の手紙」にも出現する語：「詩人が号令を発するラッパ手（le poète clairon）」という定式とこの詩が対応している。「strideurs étranges（奇妙な軋み音）」──ラッパの高音（strident＝甲高い）が「étranges（奇妙な）」と形容されることで、天使のラッパ（黙示録的なイメージ）が通常の人間の音楽の枠外に置かれる。「Silences traversés des Mondes et des Anges（世界と天使たちに横断された沈黙）」──「Silences」の複数形（対立する版もある）が複数の沈黙の層を示す：音響的沈黙でなく「世界と天使が貫いて通過する」宇宙的・神学的空間としての沈黙。「—Ô l'Oméga, rayon violet de Ses Yeux！」──ダッシュによる唐突な転換。「O bleu（O青）」として定義された母音が「Ω」へと変容し、色彩は「bleu（青）」から「violet（紫）」へと転移する──青と赤（I）の混合としての紫という色彩的論理。「Ses Yeux（彼女の目）」の「Ses」と「Yeux」両語の大文字表記が意図的曖昧性を生む：愛する者（ヴェルレーヌ？）・神・ミューズ・詩の受取人のいずれかあるいは全ての参照。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ボードレール「交感（Correspondances）」との詩学的系譜：「自然は一つの神殿……香りと色彩と音響が互いに呼び交わす（Les parfums, les couleurs et les sons se répondent）」というボードレールの共感覚的対応論を、ランボーは「母音への色彩の恣意的割り当て」という言語内部の操作として急進化する──ボードレールが「自然の照応」を詩語で記述するのに対し、ランボーは「言語そのもの（母音）」に色彩を「発明する」。マラルメ「詩語の危機（Crise de vers）」との接続：マラルメが「jour（昼）は暗く、nuit（夜）は明るい──音と意味が一致しない言語の欠陥」を論じた問題を、ランボーは「母音に任意の色彩を割り当てる」という反応で先行して対処する──言語の恣意性を批判するのでなく恣意性を「発明」として積極的に活用する。ヴェルレーヌ「呪われた詩人たち・ランボー篇（verlaine_poetes_maudits_rimbaud）」との接続：ヴェルレーヌはこの詩を「最も奇妙で最も美しい詩のひとつ」として論じ、「共感覚的技法の先駆」として評価する。後世のフランス象徴主義（ルネ・ギル「言語の処置（Traité du Verbe）」1886年）への直接的影響：ギルはランボーの「母音の色彩割り当て」を「器楽主義（instrumentisme）」の基礎として体系化しようとした──ヴェルレーヌに「ぶったまげるほど」と評された試み。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    }
+  ]
+}

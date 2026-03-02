@@ -1,0 +1,98 @@
+{
+  "id": "lecontelisle_le_parfum_imperissable",
+  "title": "Le Parfum impérissable",
+  "author": "Charles-Marie Leconte de Lisle",
+  "source": "Poèmes tragiques, Alphonse Lemerre, 1884 (増補版 1886, p. 70-71)",
+  "year": "1864",
+  "firstPublication": "La Revue Contemporaine, 30 juin 1864; Poèmes tragiques, Alphonse Lemerre, 1884",
+  "difficulty": "中級",
+  "category": "leconte_de_lisle",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ルコント・ド・リール『悲劇詩集』所収の14行詩。変形ソネット形式──二つの四行詩（八韻句）と六行詩（六韻句）──で構成される。ラホールの薔薇（インドのムガル帝国の都）の香りを纏った香油瓶の比喩が軸：瓶が砕けても香りだけが残るように、愛が流れ出ても心には「不滅の香り（Parfum impérissable）」が残るという命題。高踏派詩人として感情表出を極力排したルコント・ド・リールが、ここでは「mon cœur（私の心）」「m'enflammais（私を燃やしていた）」という一人称・直接的感情を前面に出す──詩集内で最も私的かつ親密な詩。フォーレが1897年（op.76-1）に作曲した歌曲として、「Les Roses d'Ispahan」（op.39-4）と並ぶ代表的な詩歌作品。",
+  "keywords": [
+    "香り",
+    "ラホール",
+    "薔薇",
+    "不滅",
+    "愛の痕跡",
+    "ソネット",
+    "フォーレ",
+    "高踏派",
+    "比喩",
+    "心の傷"
+  ],
+  "relatedTexts": [
+    "lecontelisle_les_roses_d_ispahan",
+    "lecontelisle_epiphanie",
+    "lecontelisle_l_illusion_supreme",
+    "lecontelisle_le_dernier_dieu",
+    "baudelaire_harmonie_du_soir",
+    "valmore_les_roses_de_saadi"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Quand la fleur du soleil, la rose de Lahor,\nDe son âme odorante a rempli goutte à goutte\nLa fiole d'argile ou de cristal ou d'or,\nSur le sable qui brûle on peut l'épandre toute.",
+      "provisionalTranslation": "太陽の花、ラホールの薔薇が、\nその芳しい魂で一滴一滴満たした\n泥か水晶か黄金の小瓶を、\n燃える砂の上に余すことなく注ぐことができる。"
+    },
+    {
+      "id": 2,
+      "originalText": "Les fleuves et la mer inonderaient en vain\nCe sanctuaire étroit qui la tint enfermée :\nIl garde en se brisant son arôme divin,\nEt sa poussière heureuse en reste parfumée.",
+      "provisionalTranslation": "川々と海も虚しく溢れさせようとするだろう、\nかつて薔薇を閉じ込めていたその狭い聖所を。\nそれは砕けながらもその神聖な芳香を保ち、\n幸福なその塵も香り続ける。"
+    },
+    {
+      "id": 3,
+      "originalText": "Puisque par la blessure ouverte de mon cœur\nTu t'écoules de même, ô céleste liqueur,\nInexprimable amour, qui m'enflammais pour elle !\n\nQu'il lui soit pardonné, que mon mal soit béni !\nPar delà l'heure humaine et le temps infini\nMon cœur est embaumé d'une odeur immortelle !",
+      "provisionalTranslation": "私の心の開いた傷口を通じて\n汝もまた同じように流れ出てゆく、おお天上の液よ、\n彼女への私を燃やしていた言葉にならない愛よ！\n\n彼女に赦しがあらんことを、私の苦しみに祝福があらんことを！\n人間の時間の彼方に、無限の時間の彼方に、\n私の心は不滅の香りで芳しく包まれている！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "変形ソネット14行：§1-2が二つの四行詩（ABAB / CDCD）、§3が六行詩（EEF / GGF）。正統的なソネット（8行＋6行）の外形を保ちながら、六行詩を「3行＋3行」に内部分割することで、感情的な頂点（「！」三つ）が連続する形を作る。高踏派のルコント・ド・リールが個人的感情を表出する稀少な詩──「mon cœur（私の心）」「m'enflammais（私を燃やしていた）」「mon mal（私の苦しみ）」という一人称が§3に集中し、比喩による距離化（§1-2）の後に感情の開放（§3）が来るという二段構造をなす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "la rose de Lahor",
+      "body": "「ラホール（Lahor）の薔薇」──ラホールは現在のパキスタン北部の都市で、ムガル帝国の第二の首都。特にシャー・ジャハーン帝（タージ・マハール建設者）が庭園・薔薇・香水文化の中心として整備した。「Les Roses d'Ispahan」のイスファハン（ペルシャ）と並ぶ、ルコント・ド・リールのイスラム世界の二大詩的中心地。「太陽の花（la fleur du soleil）」という別名は薔薇がペルシャ・インドの詩学において太陽の象徴であることへの言及。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ce sanctuaire étroit qui la tint enfermée :\nIl garde en se brisant son arôme divin,\nEt sa poussière heureuse en reste parfumée.",
+      "body": "詩の比喩の核心──香油瓶の「破壊と保存の逆説」。「砕けながらも香りを保つ（Il garde en se brisant）」という逆説が、詩全体の論理を決定する。「狭い聖所（sanctuaire étroit）」という宗教語は香油瓶を聖体顕示台・聖遺物箱に喩える──愛の香りを収める心もまた聖所。「幸福な塵（sa poussière heureuse）」という形容矛盾──「塵」は消滅・虚無を示す語だが「幸福」と結合することで、消滅の中でも香りだけが残る逆説を完成する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Puisque par la blessure ouverte de mon cœur\nTu t'écoules de même, ô céleste liqueur,",
+      "body": "比喩から現実への転換点──「私の心の開いた傷口（la blessure ouverte de mon cœur）」が「砕けた香油瓶」に対応する。「流れ出てゆく（tu t'écoules）」という動詞が比喩と現実を繋ぐ：瓶から香りが漏れるように、傷ついた心から愛が流れ出る。しかし結論は喪失でなく「不滅の香りで芳しく包まれている（embaumé d'une odeur immortelle）」という逆説的な肯定──愛を失っても、愛によって傷ついた心そのものが「芳香を帯びた聖所」になるという命題。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Qu'il lui soit pardonné, que mon mal soit béni !",
+      "body": "「彼女に赦しがあらんことを、私の苦しみに祝福があらんことを！」──詩の最も神学的な行。「赦し（pardonné）」という語は愛人が詩人に対して何らかの「罪（faute）」を犯したことを示唆する──詩集のどこにも説明されない個人的な痛みへの言及。「苦しみへの祝福（mon mal soit béni）」はキリスト教的な「受難の神聖化」の論理──愛による苦しみが「天上の液（céleste liqueur）」であることで聖別される。ルコント・ド・リールとしては異例の許しと感謝の感情表出。",
+      "type": "commentary"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Par delà l'heure humaine et le temps infini\nMon cœur est embaumé d'une odeur immortelle !",
+      "body": "詩の最終二行──「人間の時間の彼方に、無限の時間の彼方に」という二重の超越の宣言。「Le dernier Dieu」の「時間の眩暈の彼方に」という冒頭と呼応する──しかし「Le dernier Dieu」が時間の彼方に神の死骸を見出すのに対し、この詩は時間の彼方に「不滅の香り」を見出す。「embaumé（芳しく包まれた）」はフランス語で「防腐処理された（embalmed）」の意味も持つ──心は愛によって「防腐処理」され、永遠に保存されるという医学的・宗教的二重の意味。",
+      "type": "commentary"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ボードレール「夕暮れの調和（Harmonie du soir）」との共鳴：香り・花・消えゆく光・過去の愛という要素が共通する。ただし「夕暮れの調和」が「過去が輝くうちに現在を感じる」という現在進行の感覚詩であるのに対し、「Le Parfum impérissable」は「すでに流れ去った愛の残留」という過去完了の香りの詩──時間の方向が逆。ヴァルモール「サアディの薔薇」との対比：ヴァルモールは薔薇を「今まさに失う」瞬間を描き、ルコント・ド・リールは薔薇の香りが「すでに瓶に閉じ込められ、今流れ出ている」という既定の事実から出発する──即興性と構築性の対照。",
+      "targetId": "baudelaire_harmonie_du_soir",
+      "targetParagraphId": null
+    }
+  ]
+}

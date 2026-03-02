@@ -1,0 +1,107 @@
+{
+  "id": "baudelaire_correspondances",
+  "title": "Correspondances",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du Mal, Poulet-Malassis et de Broise, Paris, 1857, pièce IV, section « Spleen et Idéal ». テキスト底本：1857年初版（Wikisource 復刻版）。1861年第2版でテキストに変更なし",
+  "year": "1857",
+  "firstPublication": "Les Fleurs du Mal, Poulet-Malassis et de Broise, Paris, 1er juillet 1857",
+  "difficulty": "上級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "「悪の華」第4番、第1部「憂愁と理想（Spleen et Idéal）」収録。14行・ソネット（ABBA-ABBA-CCD-EDE）、アレクサンドラン。象徴主義詩学の出発点として後世に最も引用されたボードレールの詩。「自然は神殿」という命題から始まり、「香り・色彩・音響が互いに呼び交わす（se répondent）」という共感覚的照応論を展開する。二種類の「照応（correspondances）」が詩内に共存する：(1)「水平的照応（correspondances horizontales）」──香りと色と音響という異なる感覚の間の対応関係、(2)「垂直的照応（correspondances verticales）」──感覚的世界と精神的・霊的世界の間の対応関係（神殿の形象）。スウェーデンボルグ（Emanuel Swedenborg）の神秘哲学「照応論（Doctrine of Correspondences）」との思想的関係がボードレール研究の中心的論点。ランボー「見者の手紙（Lettre du voyant）」（1871）でボードレールを「最初の真の詩人（le premier voyant）」として参照し、「Voyelles」はこの詩への直接的な詩学的応答として書かれた。マラルメ「詩語の危機（Crise de vers）」もこの詩の「音・色・香りの照応」を理論的前提として批判的に継承する。",
+  "keywords": [
+    "照応",
+    "共感覚",
+    "象徴主義宣言詩",
+    "神殿",
+    "象徴の森",
+    "香り・色彩・音響",
+    "ténébreuse et profonde unité",
+    "se répondent",
+    "スウェーデンボルグ",
+    "水平的照応・垂直的照応"
+  ],
+  "relatedTexts": [
+    "baudelaire_elevation",
+    "baudelaire_harmonie_du_soir",
+    "baudelaire_spleen",
+    "rimbaud_voyelles",
+    "mallarme_crise_de_vers",
+    "valery_l_amateur_de_poemes"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "La Nature est un temple où de vivants piliers\nLaissent parfois sortir de confuses paroles ;\nL'homme y passe à travers des forêts de symboles\nQui l'observent avec des regards familiers.",
+      "provisionalTranslation": "自然は神殿、そこでは生きた柱たちが\n時おり混沌とした言葉を洩らす。\n人間はそこを象徴の森を通り抜けて進む──\n象徴たちは親しげな目で人間を観察しながら。"
+    },
+    {
+      "id": 2,
+      "originalText": "Comme de longs échos qui de loin se confondent\nDans une ténébreuse et profonde unité,\nVaste comme la nuit et comme la clarté,\nLes parfums, les couleurs et les sons se répondent.",
+      "provisionalTranslation": "遠くから混ざり合う長い反響のように\n暗く深い統一性の中で、\n夜のように広大で光明のように広大な統一性の中で、\n香りと色彩と音響が互いに呼び交わす。"
+    },
+    {
+      "id": 3,
+      "originalText": "Il est des parfums frais comme des chairs d'enfants,\nDoux comme les hautbois, verts comme les prairies,\n— Et d'autres, corrompus, riches et triomphants,",
+      "provisionalTranslation": "子供の肌のように清澄な香りがある、\nオーボエのように柔らかく、牧草地のように緑の香りが。\n──そして他の香りがある、腐敗した、豊かな、勝ち誇った香りが、"
+    },
+    {
+      "id": 4,
+      "originalText": "Ayant l'expansion des choses infinies,\nComme l'ambre, le musc, le benjoin et l'encens,\nQui chantent les transports de l'esprit et des sens.",
+      "provisionalTranslation": "無限の事物の広がりを持ちながら、\n琥珀、麝香、安息香、乳香のように、\n精神と感覚の陶酔を歌う香りが。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "ソネット（ABBA-ABBA-CCD-EDE）、アレクサンドラン（12音節）。韻構造：A＝piliers/symboles、B＝paroles/familiers（イタリア式ABBA配列）、C＝confondent/répondent、D＝unité/clarté（CCD配列）、E＝enfants/triomphants/sens（EDE配列）。詩内部の「se répondent（互いに呼び交わす）」という動詞が詩全体の韻的構造を自己参照する──各連の韻が「呼び交わす（correspondre）」という照応の実践として機能する。現在形の一般的真理（la Nature est、les parfums se répondent）──詩人個人の経験の記述でなく「宇宙的法則の宣言」として詩が書かれていることを現在形が示す。ボードレール研究者クロード・ピション（Claude Pichois）の版（Pléiade 1975年）では句読点に微細な差異があるが、原典1857年版のテキストをWikisource版で確認。「悪の華」第4番という配置──第1番「祝福（Bénédiction）」第2番「信天翁（L'Albatros）」第3番「高揚（Élévation）」の後に置かれることで、詩人の存在論的位置（呪い・滑稽・上昇）の後に「世界の秘密の構造」が明かされる序列を形成する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "La Nature est un temple où de vivants piliers\nLaissent parfois sortir de confuses paroles ;",
+      "body": "冒頭の「神殿（temple）」の隠喩が詩全体の存在論的枠組みを設定する。「temple」──ラテン語 templum（神聖な空間として区切られた場所・占い師が天空を観測するために設定した視野の区画）。「生きた柱（vivants piliers）」──樹木が神殿の柱として比喩化される：「自然＝神殿（石・建築）」という人工物への比喩と「柱が生きている（vivants）」という有機体への比喩が逆説的に重なる──自然が人工物（神殿）であり、人工物（柱）が有機体（生きた）であるという二重の転換。「confuses paroles（混沌とした言葉）」──柱たちが言葉を「洩らす（laisser sortir）」という擬人化。「parfois（時おり）」という副詞が重要：自然の言葉は常に聞こえるのでなく「時おり」洩れる──詩人の特権的な聴覚の問題が「parfois」一語に圧縮される。シャトーブリアン「キリスト教の精髄（Génie du Christianisme）」（1802）の「原始の森が最初の神殿だった（Les forêts ont été les premiers temples de la Divinité）」という命題への参照──ロマン主義の「自然＝聖域」論を象徴主義的「照応論」へと変換する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "L'homme y passe à travers des forêts de symboles\nQui l'observent avec des regards familiers.",
+      "body": "「象徴の森（forêts de symboles）」──「神殿の柱」の暗喩が「象徴の森」へと移行する（柱→木→森）：建築的神聖さから有機的神秘性への転換。「symboles（象徴）」──象徴派（symbolisme）という後代の文学運動の名称の語源的起点として引用される一語。象徴が「人間を観察する（Qui l'observent）」という主客の逆転が詩学的に重要：通常「人間が象徴を読む・解釈する」のに対し、ここでは象徴の側が「人間を観察している」──観察する主体と観察される客体の位置が逆転する。「regards familiers（親しげな目）」──「familiers」は「身近な・親しい」という意味と「使い魔（familiar）」という意味を潜在的に持つ──象徴の森が親しくも魔術的な存在として定義される。ランボー「見者の手紙」でボードレールを「最初の真の詩人（le premier voyant）」と呼ぶ文脈：「Correspondances」の「象徴の森を通り抜ける人間」が「見者（voyant）」の先行形象として読める。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Comme de longs échos qui de loin se confondent\nDans une ténébreuse et profonde unité,\nVaste comme la nuit et comme la clarté,\nLes parfums, les couleurs et les sons se répondent.",
+      "body": "第2四行連句が詩全体の哲学的核心を宣言する。「Comme de longs échos qui de loin se confondent（遠くから混ざり合う長い反響のように）」──第2四行連句全体が一つの長い比較節（「Comme…」）として「Les parfums, les couleurs et les sons se répondent」という主文に向かって構築される：比較節（3行）→主文（1行）という圧縮が「照応の神秘」を「説明する前にすでに実現する」構文として機能する。「ténébreuse et profonde unité（暗く深い統一性）」──「暗い（ténébreuse）」という否定的形容と「深い（profonde）」という肯定的形容の同時使用：この統一性は明るく分かりやすいのでなく、暗闇の中にある深遠なものとして提示される。「Vaste comme la nuit et comme la clarté（夜のように広大で光明のように広大な）」──「夜（la nuit）」と「光明（la clarté）」という相反する二者がともに「Vaste（広大な）」として等置される：対立物が「広大さ」という共通の属性によって統一される──照応論の論理の縮図。「Les parfums, les couleurs et les sons se répondent」──詩全体の命題文・象徴主義詩学の宣言として独立して引用される最重要行。「se répondent（互いに呼び交わす）」の再帰的代名詞が相互性を示す：一方通行の変換でなく双方向の応答として感覚の照応が定義される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Dans une ténébreuse et profonde unité,",
+      "body": "「ténébreuse et profonde unité（暗く深い統一性）」──この一語句にスウェーデンボルグ（Emanuel Swedenborg, 1688-1772）との思想的関係が凝縮される。スウェーデンボルグ「天界の秘義（Arcana Cœlestia）」（1749-1756）の「照応論（Doctrine of Correspondences）」：「霊的世界と自然的世界の間のすべての事物に照応関係がある（All things that exist in nature correspond to spiritual things）」という命題が「Correspondances」の哲学的基盤として広く指摘される。ボードレールがスウェーデンボルグをどの程度直接読んでいたかは研究上の争点だが、1856年のポー翻訳「異常な物語（Histoires extraordinaires）」序文でポーとスウェーデンボルグの「照応論」を並置していることから、概念的な親近性は意識的だったとされる。「暗い統一性」という表現は「霊的実在は感覚的に直接把握できない（暗い）が確かに存在する（統一性）」というスウェーデンボルグ的・新プラトン主義的存在論の詩的定式化として読める。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Il est des parfums frais comme des chairs d'enfants,\nDoux comme les hautbois, verts comme les prairies,",
+      "body": "第1三行連句で「水平的照応（correspondances horizontales）」──異なる感覚の間の対応──が香りを基軸に実践される。「frais comme des chairs d'enfants（子供の肌のように清澄な）」──触覚（肌）が嗅覚（香り）に対応する。「子供の肌」という感触は「無垢・純粋・記憶」の隠喩──ボードレール「芸術家の告白（Le Confiteor de l'artiste）」の「子供の頃の過去への陶酔」と同型。「Doux comme les hautbois（オーボエのように柔らかい）」──触覚（柔らかい）と聴覚（オーボエ）が嗅覚（香り）に重なる。「オーボエ（hautbois）」の音色──葦笛的な甘く哀愁を帯びた音質が「柔らかさ」の感触と結びつく：共感覚の実例。「verts comme les prairies（牧草地のように緑の）」──視覚（緑・牧草地）が嗅覚（香り）に対応する：草の香りと緑の色彩の共感覚。3行に触覚・聴覚・視覚という三感覚が嗅覚に結びつけられる──嗅覚がすべての感覚の会合点（hub）として機能する：ボードレールにとって嗅覚が共感覚的照応の特権的感覚であることを示す。ランボー「Voyelles」の「A黒・E白・I赤・U緑・O青」という母音への色彩割り当てはこの行の「verts（緑）」という嗅覚への視覚的対応の急進化として読める。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et d'autres, corrompus, riches et triomphants,\nAyant l'expansion des choses infinies,\nComme l'ambre, le musc, le benjoin et l'encens,\nQui chantent les transports de l'esprit et des sens.",
+      "body": "詩の結末──「腐敗した・豊かな・勝ち誇った（corrompus, riches et triomphants）」香りへの転換。「corrompus（腐敗した）」という語が決定的：第1三行連句の「清澄（frais）・柔らか（doux）・緑（verts）」という清潔で無垢な香りとの対照。しかし「腐敗した」香りが「豊かで勝ち誇った」という肯定的形容と並置される──ボードレールの詩学において「腐敗」は単純な否定でなく「豊穰な変容」の条件として提示される（「腐肉（Une Charogne）」との詩集内照応）。「Ayant l'expansion des choses infinies（無限の事物の広がりを持ちながら）」──「expansion（広がり）」は物理的な膨張と精神的な拡大の両義を持つ：香りが物理的に空間に広がるように、精神も「無限（infini）」へと広がる。「l'ambre, le musc, le benjoin et l'encens（琥珀、麝香、安息香、乳香）」──四つの香料の具体的列挙が抽象的命題（照応論）を感覚的に着地させる。いずれも東洋的・宗教的・官能的な香料──「神殿の乳香（encens）」が神聖さへ、「麝香（musc）」が官能へ回帰する：詩全体の「神殿（垂直的照応）」と「感覚の照応（水平的照応）」という二軸が最終行に向けて収束する。「Qui chantent les transports de l'esprit et des sens（精神と感覚の陶酔を歌う）」──最終行の「精神（l'esprit）と感覚（les sens）」の並置が詩学的核心：「Idéal（理想）」と「Spleen（憂愁）」という「悪の華」の二大テーマの統合。「chantent（歌う）」という動詞──香りが「歌う」主体として擬人化され、詩的言語（歌）と感覚（香り）が最終的に照応する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ランボー「Voyelles」（rimbaud_voyelles）への直接的詩学的継承：ランボーは「見者の手紙（Lettre du voyant）」でボードレールを「最初の真の詩人（le premier voyant）」と呼び、「Correspondances」を「感覚の錯乱の先駆」として位置づける。「Voyelles」の「A黒・E白・I赤・U緑・O青」という母音への色彩割り当ては「les parfums, les couleurs et les sons se répondent」という命題を言語内部に急進化する──ボードレールが「自然の感覚間照応」を詩的観察として記述するのに対し、ランボーは「言語要素（母音）」への照応を「発明する」。マラルメ「詩語の危機（Crise de vers）」（mallarme_crise_de_vers）との接続：マラルメは「ombre（影）はombre（日本語の「陰」）に暗く、jour（昼）は暗く聞こえる──音と意味の恣意的乖離」を言語批判として提示するが、その批判の前提には「音と意味が照応すべきである」という「Correspondances」の命題がある──ボードレールの照応論の理念を継承しながら言語の現実（恣意性）との矛盾を批判的に論じるという弁証法。ヴァレリー「詩学講義（Première leçon du Cours de Poétique）」（valery_premiere_lecon_cours_de_poetique）との接続：ヴァレリーの「音と意味の同時性・複素数としての詩語」という詩学命題は「les parfums, les couleurs et les sons se répondent」という照応の命題を言語論として精密化したものとして読める──ボードレールの直観・ランボーの実践・マラルメの批判・ヴァレリーの理論化という「照応論の四段階の歴史」。ボードレール「高揚（Élévation）」（baudelaire_elevation）との詩集内照応：「Élévation」（第3番）が「詩人の精神的上昇」を垂直的に描くのに対し、「Correspondances」（第4番）が「感覚間の水平的照応と精神的垂直の統合」を提示する──「悪の華」の詩集的配置における二詩の相補関係。",
+      "targetId": "rimbaud_voyelles",
+      "targetParagraphId": null
+    }
+  ]
+}

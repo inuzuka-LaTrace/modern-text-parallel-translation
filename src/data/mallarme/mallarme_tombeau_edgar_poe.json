@@ -1,0 +1,107 @@
+{
+  "id": "mallarme_tombeau_edgar_poe",
+  "title": "Le Tombeau d'Edgar Poe",
+  "author": "Stéphane Mallarmé",
+  "source": "Poésies, Éditions de La Revue Indépendante, Paris, 1887 (初刊収録); Poésies, Éditions de La Nouvelle Revue Française, Paris, 1899 (決定版). 初出：The Memorial Volume to Edgar Allan Poe, Baltimore, 1877 (英語版アンソロジー掲載, 英語タイトル \"The Tomb of Edgar Poe\")",
+  "year": "1876",
+  "firstPublication": "The Memorial Volume to Edgar Allan Poe, Baltimore, 1877; Poésies, 1887 (仏語版初刊)",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "マラルメ中期の代表的ソネット。1876年、ポーの墓碑建立記念式典（ボルティモア）のためにアメリカの詩人サラ・シグーニー・ライス（Sara Sigourney Rice）から依頼を受けて執筆。英語版アンソロジーに掲載されたのち、1887年『詩篇集』に収録。14行・フランス式ソネット（ABBA-ABBA-CCd-EdE）、アレクサンドランの交差韻。詩篇集中の「墓（tombeau）」詩群──「ボードレールの墓（Le Tombeau de Charles Baudelaire）」（1895）と対をなす。冒頭「Tel qu'en Lui-même enfin l'éternité le change」はフランス語詩の最も有名な一行のひとつ──詩人が生前認められなかったことを「永遠が詩人を本来の姿に変える」という逆説として定式化し、死後の認知を永遠性の実現として提示する。マラルメのポー理解──散文訳『大烏（Le Corbeau）』（1875）・序文・複数の批評テクスト──の詩的結晶。",
+  "keywords": [
+    "墓碑銘詩",
+    "ポー追悼",
+    "永遠と詩人",
+    "部族の言葉",
+    "花崗岩",
+    "冒瀆の翼",
+    "ヒュドラ",
+    "bas-relief",
+    "ソネット",
+    "墓（tombeau）詩群"
+  ],
+  "relatedTexts": [
+    "poe_the_raven",
+    "poe_israfel",
+    "mallarme_tombeau_charles_baudelaire",
+    "mallarme_crise_de_vers",
+    "mallarme_musique_lettres",
+    "verlaine_poetes_maudits_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Tel qu'en Lui-même enfin l'éternité le change,\nLe Poète suscite avec un glaive nu\nSon siècle épouvanté de n'avoir pas connu\nQue la mort triomphait dans cette voix étrange !",
+      "provisionalTranslation": "永遠が遂に彼を彼自身へと変えるように、\n詩人は裸の剣とともに呼び起こす\n自らの世紀を、あの奇妙な声の中に\n死が勝ち誇っていたことを知らなかったと怯えて！"
+    },
+    {
+      "id": 2,
+      "originalText": "Eux, comme un vil sursaut d'hydre oyant jadis l'ange\nDonner un sens plus pur aux mots de la tribu,\nProclamèrent très haut le sortilège bu\nDans le flot sans honneur de quelque noir mélange.",
+      "provisionalTranslation": "彼らは、かつて天使が部族の言葉に\nより純粋な意味を与えるのを聞いたヒュドラの卑しい跳び上がりのように、\n高々と叫んだ、何らかの黒い混合物の\n不名誉な流れの中で飲まれた呪文を。"
+    },
+    {
+      "id": 3,
+      "originalText": "Du sol et de la nue hostiles, ô grief !\nSi notre idée avec ne sculpte un bas-relief\nDont la tombe de Poe éblouissante s'orne",
+      "provisionalTranslation": "敵対する大地と雲から、おお嘆きよ！\nもし私たちの思想が共に浮き彫りを彫らなければ──\nポーの墓がまばゆいばかりに飾られるための浮き彫りを。"
+    },
+    {
+      "id": 4,
+      "originalText": "Calme bloc ici-bas chu d'un désastre obscur,\nQue ce granit du moins montre à jamais sa borne\nAux noirs vols du Blasphème épars dans le futur.",
+      "provisionalTranslation": "暗き惨事から此処に落ちた静かな塊、\n少なくともこの花崗岩が永遠にその境界を示すように──\n未来に散らばる冒瀆の黒い飛翔に対して。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "フランス式ソネット（ABBA-ABBA-CCD-EDE）変形、アレクサンドラン（12音節）。韻構造：A＝change/ange、B＝nu/connu/tribu/bu、C＝grief/bas-relief、D＝s'orne/borne、E＝obscur/futur。マラルメのソネット技法の典型：各韻が意味のクラスターを形成する──A（変容・天使）、B（裸・未知・部族・飲む）、C（嘆き・浮き彫り）、D（飾り・境界）、E（暗さ・未来）。「Lui-même」「Le Poète」「l'ange」「Blasphème」の大文字表記が詩内部の概念的ヒエラルキーを可視化する──固有名詞でなく概念としての大文字。初出（1877年英語版アンソロジー）での英語タイトル「The Tomb of Edgar Poe」──マラルメが英語話者に向けて書いたにもかかわらず、仏語で書いたこと自体が「部族の言葉（mots de la tribu）」という詩内部の命題を実践する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Tel qu'en Lui-même enfin l'éternité le change,",
+      "body": "フランス語詩の最も有名な一行のひとつ。構文的に三通りの解析が可能で、この曖昧性が詩行の意味を豊かにする：（1）「永遠が彼をついに彼自身に変えるように（comme）、詩人は……呼び起こす」──比較節として、（2）「永遠がついに彼を彼自身に変えるという形で（tel que）、詩人は……」──様態節として、（3）倒置：「永遠が彼を彼自身に変えるや否や（tel que＝aussitôt que）」──時間節として。「Lui-même（彼自身）」の大文字「L」──ポー個人の固有名詞的参照と「詩人という概念」の普遍的参照の二重性。「enfin（ついに・遂に）」──生前の誤解・否定・貧困を経た「ついに」の到達という時間的重みを一語に圧縮する。「l'éternité le change（永遠が彼を変える）」──変化しない存在（永遠）が変化を起こすという逆説：死後の認知が詩人を「本来の姿（Lui-même）」に変えるという命題は、生前の詩人の姿が「本来の姿でなかった」という含意を持つ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le Poète suscite avec un glaive nu\nSon siècle épouvanté de n'avoir pas connu\nQue la mort triomphait dans cette voix étrange !",
+      "body": "「詩人は裸の剣とともに、自らの世紀を呼び起こす──あの奇妙な声の中に死が勝ち誇っていたことを知らなかったと怯えて」。「glaive nu（裸の剣）」──詩的言語の武器性・攻撃性。マラルメのポー観：ポーの詩語は「世紀」が理解できない「奇妙な声（voix étrange）」だったが、その奇妙さの中に「死が勝ち誇っていた」──ポーの詩の核心にある死のモチーフ（「The Raven」の Nevermore・「Ulalume」の墓・「Annabel Lee」の墓辺）を「la mort triomphait（死が勝ち誇っていた）」という一節が総括する。「Son siècle épouvanté（怯えた世紀）」──世紀全体が呼び起こされる対象として擬人化される：詩人対世紀という対立が、生前の無理解・死後の後悔という時間的構造を形成する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Eux, comme un vil sursaut d'hydre oyant jadis l'ange\nDonner un sens plus pur aux mots de la tribu,",
+      "body": "「ヒュドラの卑しい跳び上がり（un vil sursaut d'hydre）」──ギリシャ神話の多頭の水蛇ヒュドラ、一頭を切ると二頭生えてくる怪物。「ポーの世紀の批評家・読者・同時代人」を指す「Eux（彼ら）」がヒュドラに比されることで、批判が再生し続ける悪の体制として描かれる。「oyant（聞きながら）」──古語的現在分詞（entendant の古形）の使用がソネットの厳粛な語調を担う。「Donner un sens plus pur aux mots de la tribu（部族の言葉により純粋な意味を与える）」──マラルメの詩学的宣言として独立して引用される最重要フレーズ。「部族の言葉（les mots de la tribu）」＝日常言語・俗語・共通語。詩人の使命はその日常語に「より純粋な意味（un sens plus pur）」を与えること──これはマラルメ自身の詩学の定義としても機能する。「l'ange（天使）」──大文字でなく小文字：ポーを天使として、しかし固有名詞としてでなく機能的役割として定義する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Proclamèrent très haut le sortilège bu\nDans le flot sans honneur de quelque noir mélange.",
+      "body": "「高々と叫んだ、何らかの黒い混合物の不名誉な流れの中で飲まれた呪文を」──ポーが飲酒によって詩を書いたという当時の批評的言説への参照。「sortilège bu（飲まれた呪文）」──ポーの詩的才能（sortilège＝呪文・魔術）が「黒い混合物（noir mélange）」──アルコール・毒──を「飲む（bu）」ことで生まれたと「彼らが叫んだ」、という間接話法。マラルメはここでポーへの批判を批判する構造を作る：「彼らが言ったこと」として中継することで、その言説を「卑しいヒュドラの跳び上がり」として劣位に置く。「flot sans honneur（不名誉な流れ）」──ポーが晩年実際に苦しんだアルコール依存を「不名誉」と形容するのは批評的言説の言葉であり、マラルメ自身はポーの詩の才能を「呪文（sortilège）」として肯定的に評価する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Du sol et de la nue hostiles, ô grief !\nSi notre idée avec ne sculpte un bas-relief\nDont la tombe de Poe éblouissante s'orne",
+      "body": "ソネット転換点（ヴォルタ）──第1・2四行連句の「過去の物語（世紀の無理解）」から、第1三行連句の「現在の要請（私たちが何をすべきか）」への転換。「Du sol et de la nue hostiles（敵対する大地と雲から）」──ソネットの中で最も難解な一節。「大地（sol）」と「雲（nue）」が「敵対する（hostiles）」という形容は、ポーが生きた地上的現実（批評・貧困）と理想的精神空間（詩・天）の両方が「敵対した」という読みと、「花崗岩の墓石が大地と天の間に立てられた」という物理的描写の両方を許す。「ô grief！（おお嘆きよ！）」──感嘆詞の孤立が強い感情的ポーズを形成する──マラルメのソネットでは感嘆詞は通常節の構造を破断する機能を持つ（「Mes bouquins refermés」の「ô」と同型）。「bas-relief（浮き彫り）」──墓碑に施す彫刻。「notre idée（私たちの思想）」が浮き彫りを「彫る」という比喩は、詩的思想が石に刻まれる墓碑銘として物質化されることを示す──詩と物質、観念と石の融合。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Calme bloc ici-bas chu d'un désastre obscur,\nQue ce granit du moins montre à jamais sa borne\nAux noirs vols du Blasphème épars dans le futur.",
+      "body": "ソネットの最終三行──詩全体の到達点。「Calme bloc ici-bas chu d'un désastre obscur（暗き惨事から此処に落ちた静かな塊）」──「chu（落ちた）」という過去分詞の孤立が墓石の突然の物質的存在感を与える。「désastre obscur（暗き惨事）」──ポーの死（1849年、謎めいた状況での死）を「惨事（désastre）」として、しかし「暗い・不明な（obscur）」という形容で神話化する。「désastre」はラテン語 dis-astrum（不吉な星）──「Ses purs ongles」の「Ptyx」と同様、マラルメのソネットにおける天体的悲劇語彙。「Que ce granit du moins montre à jamais sa borne（少なくともこの花崗岩が永遠にその境界を示すように）」──「少なくとも（du moins）」という副詞の力：理想（「思想が浮き彫りを彫る」§3）が達成されないとしても、最低限「花崗岩の境界石」として機能するように、という要請。「Aux noirs vols du Blasphème épars dans le futur（未来に散らばる冒瀆の黒い飛翔に対して）」──「Blasphème（冒瀆）」の大文字表記が概念的実体化を示す。「noirs vols（黒い飛翔）」──鴉の飛翔への参照（「The Raven」の鴉）、ポーの死後も続く批評的中傷の「飛翔」。花崗岩の墓石が「境界石（borne）」として冒瀆を「永遠に（à jamais）」食い止める──物質（石）が時間（未来）に対抗するという逆説的な詩的行為の宣言。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "マラルメ「ボードレールの墓（Le Tombeau de Charles Baudelaire）」（1895）との詩群的接続：両詩がマラルメの「墓（tombeau）」詩群を形成する。「ボードレールの墓」では「寺院（temple）」と「通り（ruisseau）」という都市的空間に墓が置かれるのに対し、「ポーの墓」では「花崗岩（granit）」という孤立した物質に焦点が当たる──追悼の対象（ポー対ボードレール）の性格の差異が詩の語彙・空間を規定する。ヴァレリー「マラルメへの手紙（Lettre sur Mallarmé）」（1927）との接続：ヴァレリーはマラルメの影響を受けた詩人として、「部族の言葉により純粋な意味を与える」というこの詩行をマラルメの詩学的宣言として引用する──ポーを讃える詩の一節がマラルメ自身の詩学の定義として後世に伝わるという二重の機能。ポー「The Raven」「Ulalume」「Annabel Lee」との接続：マラルメはポーの散文訳（「大烏 Le Corbeau」1875）を刊行し序文でポー詩学を論じた──本ソネットはその批評的作業の詩的結晶。「noirs vols du Blasphème（冒瀆の黒い飛翔）」の「黒い飛翔」は「The Raven」の鴉の飛翔への詩的参照として読める。",
+      "targetId": "mallarme_tombeau_charles_baudelaire",
+      "targetParagraphId": null
+    }
+  ]
+}

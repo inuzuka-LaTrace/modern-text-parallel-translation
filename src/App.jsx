@@ -594,35 +594,69 @@ export default function App() {
 
         {/* 段落リスト */}
         <div className={`overflow-y-auto flex-1 space-y-1 p-2 ${fontSizeMap[fontSize]}`} style={{ maxHeight: '70vh' }}>
-          {textObj.paragraphs.map((para) => {
+          {textObj.paragraphs.map((para, paraIdx) => {
             const isCol = collapsed[para.id];
             const trans = getTranslation(para);
             const orig = getOriginalText(para);
+            const hasSpeaker = !!para.speaker;
+            const prevPara   = textObj.paragraphs[paraIdx - 1];
+            const isNewScene = para.scene != null && (!prevPara || prevPara.scene !== para.scene);
+            // CrossPanel用speakerカラー（通常ビューと同系列）
+            const crossSpeakerColors = [
+              { light: 'bg-violet-100 text-violet-800', dark: 'bg-violet-900/40 text-violet-200' },
+              { light: 'bg-sky-100 text-sky-800',       dark: 'bg-sky-900/40 text-sky-200' },
+              { light: 'bg-rose-100 text-rose-800',     dark: 'bg-rose-900/40 text-rose-200' },
+              { light: 'bg-teal-100 text-teal-800',     dark: 'bg-teal-900/40 text-teal-200' },
+              { light: 'bg-amber-100 text-amber-800',   dark: 'bg-amber-900/40 text-amber-200' },
+              { light: 'bg-indigo-100 text-indigo-800', dark: 'bg-indigo-900/40 text-indigo-200' },
+            ];
+            const allSpeakersCross = hasSpeaker
+              ? [...new Set(textObj.paragraphs.map(p => p.speaker).filter(Boolean))]
+              : [];
+            const spIdxCross = hasSpeaker ? allSpeakersCross.indexOf(para.speaker) : -1;
+            const spColorCross = crossSpeakerColors[spIdxCross % crossSpeakerColors.length];
+
             return (
-              <div key={para.id} className={`rounded-lg border ${darkMode ? 'border-gray-800' : 'border-gray-100'}`}>
-                {/* 段落ヘッダー */}
-                <button
-                  onClick={() => setCollapsed(prev => ({ ...prev, [para.id]: !prev[para.id] }))}
-                  className={`w-full flex items-center gap-2 px-3 py-2 text-left transition-colors ${darkMode ? 'hover:bg-gray-800/60' : 'hover:bg-gray-50'}`}
-                >
-                  <span className={`text-xs font-mono w-5 shrink-0 ${textSecondary}`}>{para.id}</span>
-                  {isCol && orig && (
-                    <span className={`text-xs truncate ${textClass}`}>{orig.split('\n')[0]}</span>
-                  )}
-                  <span className={`ml-auto text-xs ${textSecondary}`}>{isCol ? '▶' : '▼'}</span>
-                </button>
-                {/* 段落コンテンツ */}
-                {!isCol && (
-                  <div className={`px-3 pb-3 border-t ${borderClass}`}>
-                    {showOrig && orig && (
-                      <p className={`pt-2 leading-relaxed whitespace-pre-line ${textClass} text-sm`}>{orig}</p>
-                    )}
-                    {showTrans && trans && (
-                      <p className={`mt-2 leading-relaxed whitespace-pre-line text-xs border-l-2 border-green-400 pl-2 ${darkMode ? 'text-green-300/80' : 'text-green-800/80'}`}>{trans}</p>
-                    )}
+              <React.Fragment key={para.id}>
+                {/* Scène 区切り */}
+                {isNewScene && (
+                  <div className={`flex items-center gap-2 px-1 pt-1 pb-0.5`}>
+                    <span className={`text-xs font-semibold tracking-wider px-2 py-0.5 rounded-full border ${
+                      darkMode ? 'bg-gray-800 text-gray-300 border-gray-600' : 'bg-gray-100 text-gray-600 border-gray-300'
+                    }`}>Scène {para.scene}</span>
+                    <div className={`flex-1 h-px ${darkMode ? 'bg-gray-700' : 'bg-gray-200'}`} />
                   </div>
                 )}
-              </div>
+                <div className={`rounded-lg border ${darkMode ? 'border-gray-800' : 'border-gray-100'}`}>
+                  {/* 段落ヘッダー */}
+                  <button
+                    onClick={() => setCollapsed(prev => ({ ...prev, [para.id]: !prev[para.id] }))}
+                    className={`w-full flex items-center gap-2 px-3 py-2 text-left transition-colors ${darkMode ? 'hover:bg-gray-800/60' : 'hover:bg-gray-50'}`}
+                  >
+                    <span className={`text-xs font-mono w-5 shrink-0 ${textSecondary}`}>{para.id}</span>
+                    {hasSpeaker && (
+                      <span className={`text-xs font-bold tracking-wider px-1.5 py-0.5 rounded shrink-0 ${darkMode ? spColorCross.dark : spColorCross.light}`}>
+                        {para.speaker.toUpperCase()}
+                      </span>
+                    )}
+                    {isCol && orig && (
+                      <span className={`text-xs truncate ${textClass}`}>{orig.split('\n')[0]}</span>
+                    )}
+                    <span className={`ml-auto text-xs ${textSecondary}`}>{isCol ? '▶' : '▼'}</span>
+                  </button>
+                  {/* 段落コンテンツ */}
+                  {!isCol && (
+                    <div className={`px-3 pb-3 border-t ${borderClass}`}>
+                      {showOrig && orig && (
+                        <p className={`pt-2 leading-relaxed whitespace-pre-line ${textClass} text-sm`}>{orig}</p>
+                      )}
+                      {showTrans && trans && (
+                        <p className={`mt-2 leading-relaxed whitespace-pre-line text-xs border-l-2 border-green-400 pl-2 ${darkMode ? 'text-green-300/80' : 'text-green-800/80'}`}>{trans}</p>
+                      )}
+                    </div>
+                  )}
+                </div>
+              </React.Fragment>
             );
           })}
         </div>
@@ -1205,7 +1239,7 @@ export default function App() {
 
         {/* ─── 段落リスト（通常ビューのみ） ────────── */}
         {!crossMode && <div className={`space-y-2 pb-10 ${fontSizeMap[fontSize]}`}>
-          {currentText.paragraphs.map((para) => {
+          {currentText.paragraphs.map((para, paraIdx) => {
             const isCollapsed = collapsedParagraphs[para.id];
             const hasUserTrans = !!userTranslations[para.id];
             const translation = getTranslation(para);
@@ -1213,9 +1247,46 @@ export default function App() {
             const hasAnnotations = paraAnnotations.length > 0;
             const isAnnotationOpen = expandedAnnotations[para.id];
 
+            // ── 戯曲用：scene / speaker ──────────────────────
+            const hasSpeaker = !!para.speaker;
+            const hasScene   = para.scene != null;
+            // 前の段落と scene が変わった時だけ区切りを表示
+            const prevPara   = currentText.paragraphs[paraIdx - 1];
+            const isNewScene = hasScene && (!prevPara || prevPara.scene !== para.scene);
+
+            // speaker ごとの色（6色ローテーション）
+            const speakerColors = [
+              { light: 'bg-violet-100 text-violet-800 border-violet-300',  dark: 'bg-violet-900/40 text-violet-200 border-violet-700' },
+              { light: 'bg-sky-100 text-sky-800 border-sky-300',           dark: 'bg-sky-900/40 text-sky-200 border-sky-700' },
+              { light: 'bg-rose-100 text-rose-800 border-rose-300',        dark: 'bg-rose-900/40 text-rose-200 border-rose-700' },
+              { light: 'bg-teal-100 text-teal-800 border-teal-300',        dark: 'bg-teal-900/40 text-teal-200 border-teal-700' },
+              { light: 'bg-amber-100 text-amber-800 border-amber-300',     dark: 'bg-amber-900/40 text-amber-200 border-amber-700' },
+              { light: 'bg-indigo-100 text-indigo-800 border-indigo-300',  dark: 'bg-indigo-900/40 text-indigo-200 border-indigo-700' },
+            ];
+            // テキスト内の全発話者リストから一貫した色を割り当て
+            const allSpeakers = hasSpeaker
+              ? [...new Set(currentText.paragraphs.map(p => p.speaker).filter(Boolean))]
+              : [];
+            const speakerIndex = hasSpeaker ? allSpeakers.indexOf(para.speaker) : -1;
+            const speakerColor = speakerColors[speakerIndex % speakerColors.length];
+
             return (
+              <React.Fragment key={para.id}>
+                {/* ── Scène 区切り行（scene が変わった時のみ） ── */}
+                {isNewScene && (
+                  <div className={`flex items-center gap-3 px-1 pt-2 pb-1`}>
+                    <span className={`text-xs font-semibold tracking-widest uppercase px-3 py-1 rounded-full border ${
+                      darkMode
+                        ? 'bg-gray-800 text-gray-300 border-gray-600'
+                        : 'bg-gray-100 text-gray-600 border-gray-300'
+                    }`}>
+                      Scène {para.scene}
+                    </span>
+                    <div className={`flex-1 h-px ${darkMode ? 'bg-gray-700' : 'bg-gray-200'}`} />
+                  </div>
+                )}
+
               <div
-                key={para.id}
                 ref={el => { paragraphRefs.current[para.id] = el; }}
                 className={`rounded-xl border-2 overflow-hidden transition-all ${
                   selectedText && !isCollapsed ? 'shadow-sm' : ''
@@ -1232,12 +1303,24 @@ export default function App() {
                 >
                   <div className="flex items-center gap-3 min-w-0">
                     <span className={`text-xs font-mono w-6 shrink-0 ${textSecondary}`}>{para.id}</span>
-                    {isCollapsed && showFrench && (
-                      <span className={`text-sm truncate ${textClass}`}>
-                        {getOriginalText(para)}
+
+                    {/* speaker バッジ（戯曲のみ） */}
+                    {hasSpeaker && (
+                      <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border shrink-0 ${
+                        darkMode ? speakerColor.dark : speakerColor.light
+                      }`}>
+                        {para.speaker.toUpperCase()}
                       </span>
                     )}
-                    {!isCollapsed && (
+
+                    {/* 折りたたみ時：発話の冒頭プレビュー */}
+                    {isCollapsed && showFrench && (
+                      <span className={`text-sm truncate ${textClass}`}>
+                        {getOriginalText(para).split('\n')[0]}
+                      </span>
+                    )}
+                    {/* 展開時：表示モードラベル（speakerがない通常テキスト） */}
+                    {!isCollapsed && !hasSpeaker && (
                       <span className={`text-xs ${textSecondary}`}>
                         {showFrench && showOfficial ? '原文 + 仮訳' : showFrench ? '原文' : showOfficial ? '仮訳' : ''}
                       </span>
@@ -1273,9 +1356,18 @@ export default function App() {
                     {/* 原文 */}
                     {showFrench && (
                       <div className="pt-4 mb-3">
-                        <span className={`text-xs font-semibold px-2 py-0.5 rounded ${darkMode ? 'bg-indigo-900/50 text-indigo-300 border border-indigo-800' : 'bg-indigo-600 text-white'}`}>
-                          原文
-                        </span>
+                        {/* 原文ラベル行：通常テキストは「原文」バッジ、戯曲は speaker バッジ */}
+                        {hasSpeaker ? (
+                          <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border ${
+                            darkMode ? speakerColor.dark : speakerColor.light
+                          }`}>
+                            {para.speaker.toUpperCase()}
+                          </span>
+                        ) : (
+                          <span className={`text-xs font-semibold px-2 py-0.5 rounded ${darkMode ? 'bg-indigo-900/50 text-indigo-300 border border-indigo-800' : 'bg-indigo-600 text-white'}`}>
+                            原文
+                          </span>
+                        )}
                         <p className={`mt-2 leading-relaxed whitespace-pre-line ${textClass} ${
                           fontSize === 'xlarge' ? 'text-2xl' :
                           fontSize === 'large'  ? 'text-xl' :
@@ -1392,6 +1484,7 @@ export default function App() {
                   </div>
                 )}
               </div>
+              </React.Fragment>
             );
           })}
         </div>}

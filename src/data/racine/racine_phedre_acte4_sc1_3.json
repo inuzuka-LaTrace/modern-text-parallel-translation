@@ -2,187 +2,286 @@
   "id": "racine_phedre_acte4_sc1_3",
   "title": "Phèdre — Acte IV, Scènes I–III",
   "author": "Jean Racine",
-  "source": "Phèdre et Hippolyte, tragédie, Claude Barbin, Paris, 1677 (初版). テキスト底本: édition 1697, theatre-classique.fr",
+  "source": "Phèdre, tragédie, Claude Barbin, Paris, 1677. テキスト底本: édition 1697. 照合出典: lesmanuelslibres.region-academique-idf.fr (Sc.I・II全文照合済); Wikisource Didot 1854 (Sc.III照合済)",
   "year": "1677",
-  "firstPublication": "Phèdre et Hippolyte, Barbin, Paris, 1er janvier 1677 (初演: 1er janvier 1677, Hôtel de Bourgogne)",
+  "firstPublication": "Phèdre et Hippolyte, Barbin, Paris, 1677 (初演: 1er janvier 1677, Hôtel de Bourgogne)",
   "difficulty": "上級",
   "category": "racine",
   "genre": "tragédie",
   "work": "Phèdre",
   "act": 4,
   "scenes": [1, 2, 3],
-  "characters": ["Thésée", "Hippolyte", "Théramène", "Œnone"],
+  "characters": ["Thésée", "Œnone", "Hippolyte"],
   "originalLang": "fr-FR",
   "modernRelevance": "★★★★★",
-  "context": "第4幕Scène I–III。エノンの告発を信じたテーセウスがヒポリットと対決する幕。Scène I（テーセウス↔ヒポリット）：父の怒りに直面したヒポリットは、フェードルへの言及を「徳」によって自ら断ち切り、無実を証明できないまま退場する。Scène II（テーセウス、ヒポリット、テラメーヌ）：ヒポリットがアリシーへの愛を告白することで弁明を試みるが、テーセウスはその愛の告白を言い訳として一蹴する。Scène III（テーセウス独白 → テーセウス、エノン）：テーセウスがネプチューンへの呪いを発動させたことへの疑念を抱き始めるが、エノンが現れて告発を補強する。バルト『ラシーヌ論』の「父性の暴力（la violence paternelle）」と「言語の不可能性」を体現する幕。",
+  "context": "第4幕Scènes I–III（v.1009–1181）。悲劇の核心——エノンの虚偽の告発が機能し始める幕。Scène I（テーセウス↔エノン）：帰還したテーセウスがエノンから「ヒポリットがフェードルを襲おうとした」という告発を聞く。テーセウスの怒りは即座に爆発し、ネプチューンへの呪いを宣言する。Scène II（テーセウス↔ヒポリット）：父と息子の対決。ヒポリットはフェードルの真実を語ることを「父への敬意」ゆえに拒否し、代わりにアリシーへの愛を告白するが、テーセウスは策略だと断じて追放命令を発する。Scène III（ヒポリット独白）：ヒポリットが去った後、フェードルの告白の方向性に慄き、自らの無実と愛の純粋さを確認しながら退場する。ラシーヌ悲劇における「沈黙の倫理」が最も鮮烈に示される幕。",
   "keywords": [
-    "テーセウスの怒り",
+    "エノンの告発",
+    "ネプチューンへの呪い",
+    "父と息子の対決",
     "ヒポリットの沈黙",
     "アリシーへの愛の告白",
-    "弁明の失敗",
-    "父と子の対決",
-    "ネプチューンへの呪い",
-    "エノンの告発完遂",
-    "言語の不可能性",
-    "父性の暴力"
+    "テーセウスの盲目",
+    "追放命令",
+    "沈黙の倫理",
+    "徳の逆説",
+    "ラシーヌ的父権"
   ],
   "relatedTexts": [
-    "racine_phedre_acte3_sc4_6",
+    "racine_phedre_acte3_sc1_3",
     "racine_phedre_acte4_sc4_6",
-    "racine_phedre_acte2_sc4_6",
-    "racine_phedre_acte1_sc1_2",
-    "valery_lettre_sur_mallarme"
+    "racine_phedre_acte5_sc1_3",
+    "racine_phedre_acte5_sc4_7",
+    "racine_phedre_acte1_sc1_2"
   ],
   "paragraphs": [
     {
       "id": 1,
       "scene": 1,
       "speaker": "Thésée",
-      "verses": "v.1115-1126",
-      "originalText": "Ah ! qu'est-ce que j'entends ? Un traître, un téméraire\nA-t-il pu commettre un tel forfait ?\nL'amour et la bonté que j'avais pour lui\nN'ont donc produit qu'un monstre ? Et sa noire furie\nA-t-elle contre moi conspire, ô ciel,\nCe détestable crime ?\nFuyez, traître. Ne cherchez pas ici\nMon vain courroux. Trop de fois j'ai trahi\nCe que j'aimais. Je chasse un fils.\nJe pleure un père. Allez.\nCherchez des bords de qui le crime ne souille.",
-      "provisionalTranslation": "ああ！これは何を聞くのか？裏切り者、無謀な者が\nかくも大きな罪を犯せたのか？\n彼に注いだ愛情と好意が\n怪物しか生まなかったのか？そして彼の黒い怒りは\n天よ、私に向かって謀ったのか、\nこの忌まわしい犯罪を？\n逃げよ、裏切り者。ここで\n私の虚しい憤怒を求めるな。あまりにも何度も私は裏切った\n愛したものを。私は息子を追放する。\n私は父を泣く。去れ。\n犯罪が汚さない岸辺を探せ。"
+      "verses": "v.1009-1021",
+      "originalText": "Ah ! qu'est-ce que j'entends ? Un traître, un téméraire\nPréparait cet outrage à l'honneur de son père !\nAvec quelle rigueur, destin, tu me poursuis !\nJe ne sais où je vais, je ne sais où je suis.\nÔ tendresse ! ô bonté trop mal récompensée !\nProjet audacieux ! détestable pensée !\nPour parvenir au but de ses noires amours,\nL'insolent de la force empruntait le secours !\nJ'ai reconnu le fer, instrument de sa rage,\nCe fer dont je l'armai pour un plus noble usage.\nTous les liens du sang n'ont pu le retenir !\nEt Phèdre différait à le faire punir !\nLe silence de Phèdre épargnait le coupable !",
+      "provisionalTranslation": "ああ！何を聞くのか？反逆者、無謀な者が\n父の名誉を侮辱するこの行為を企てていた！\n運命よ、なんという過酷さで私を追い詰めるのか！\nどこへ向かうのかも、どこにいるのかもわからない。\nああ、愛情よ！あまりにも報われなかった優しさよ！\n大胆な企て！忌まわしい考え！\n黒い恋の目的に達するために、\nあの傲慢な者は力に訴えたのか！\n私は剣を見覚えた——彼の凶暴さの道具を、\nより高貴な目的のために私が授けたあの剣を。\n血のきずなも彼を引き止めることができなかった！\nそしてフェードルは彼を罰することを猶予していたのか！\nフェードルの沈黙が罪人を庇っていたのか！"
     },
     {
       "id": 2,
       "scene": 1,
-      "speaker": "Hippolyte",
-      "verses": "v.1127-1140",
-      "originalText": "Phèdre l'accuse, et mon père me croit !\nLes dieux m'ont-ils réservé ce sort ?\nUn fils peut être en butte à la calomnie,\nSans que son père au moins lui laisse la parole ?\nJe n'ai point commis ce crime abominable.\nNi pour un crime affreux que votre amour m'impute,\nNi pour les lâches feux dont on me déshonore,\nNe veux-je pas mourir innocent ?\nSeigneur, si de vos pleurs la source est épuisée,\nQue les dieux vous éclairent, et que la vérité\nSoit connue un jour, et fasse votre gloire.",
-      "provisionalTranslation": "フェードルが告発し、父は私を信じる！\n神々は私にこの運命を取っておいたのか？\n息子は誹謗中傷の的になれるのか、\n父が少なくとも彼に言葉を与えることなしに？\n私はこの忌まわしい犯罪を犯していない。\nあなたの愛が私に帰する恐ろしい犯罪のためにも、\n私を辱める臆病な炎のためにも、\n無実のまま死ぬことを望まないのか？\n殿、もしあなたの涙の源が尽きたなら、\n神々があなたを照らし、真実が\nいつか知られ、あなたの栄光になりますように。"
+      "speaker": "Œnone",
+      "verses": "v.1022-1032",
+      "originalText": "Phèdre épargnait plutôt un père déplorable :\nHonteuse du dessein d'un amant furieux,\nEt du feu criminel qu'il a pris dans ses yeux,\nPhèdre mourait, seigneur, et sa main meurtrière\nÉteignait de ses yeux l'innocente lumière.\nJ'ai vu lever le bras, j'ai couru la sauver.\nMoi seule à votre amour j'ai su la conserver.\nEt plaignant à la fois son trouble et vos alarmes,\nJ'ai servi, malgré moi, d'interprète à ses larmes.",
+      "provisionalTranslation": "フェードルはむしろ哀れな父君を庇っていたのです。\n狂乱した恋人の企てを、\nそして彼が彼女の目から受け取った罪深い火を恥じて、\nフェードルは死のうとしていました、殿。彼女の殺意ある手が\n自らの無垢な命を消そうとしていました。\n私は腕が上がるのを見て、駆けつけて救いました。\n私一人があなたへの愛のために彼女を守り抜いたのです。\nそして彼女の苦悩とあなたの不安を同時に哀れみながら、\n私は望まずして、彼女の涙の解釈者を務めたのです。"
     },
     {
       "id": 3,
       "scene": 1,
       "speaker": "Thésée",
-      "verses": "v.1141-1152",
-      "originalText": "Le perfide ! Il soutient ses fourbes jusqu'au bout.\nO fils ! Quel fils ingrat je perds, et que j'ai chéri !\nTu prétends qu'en effets ta vertu se signale ?\nAh ! parle. Dis à qui ta vertu se dévoue.\nPar quel serment prétends-tu me convaincre ?\nOu plutôt : vas, dis-moi de quels crimes Phèdre\nTe peut justifier aux yeux d'un père outragé.",
-      "provisionalTranslation": "裏切り者！彼は最後まで詐欺を維持する。\nああ息子よ！なんと忘恩な息子を私は失い、かつ愛してきたのか！\nお前は自分の徳が行動で示されると主張するのか？\nああ！語れ。お前の徳が誰に捧げられるかを言え。\nどのような誓いでお前は私を納得させようとするのか？\nむしろ：行け、フェードルのどんな犯罪が\n侮辱された父の目にお前を正当化できるか私に言え。"
+      "verses": "v.1033-1038",
+      "originalText": "Le perfide ! il n'a pu s'empêcher de pâlir :\nDe crainte, en m'abordant, je l'ai vu tressaillir.\nJe me suis étonné de son peu d'allégresse ;\nSes froids embrassements ont glacé ma tendresse.\nMais ce coupable amour dont il est dévoré\nDans Athènes déjà s'était-il déclaré ?",
+      "provisionalTranslation": "反逆者め！彼は青ざめるのを止められなかった。\n恐れから、私に近づく時、体が震えているのを見た。\n私は彼の喜びの少なさに驚いた。\n冷たい抱擁が私の愛情を凍らせた。\nしかし彼を食い尽くしているこの罪深い愛は、\nアテネですでに明らかになっていたのか？"
     },
     {
       "id": 4,
       "scene": 1,
-      "speaker": "Hippolyte",
-      "verses": "v.1153-1164",
-      "originalText": "Phèdre... Mais la vertu ne dit pas tout.\nSeigneur, j'ai respecté votre épouse ;\nMais il est des secrets que je dois taire,\nDes raisons de garder ce silence.\nSouffrez que je m'en aille. Ah ! si du moins\nVous connaissiez ma peine et mon innocence,\nVous sauriez...Mais je dois vous épargner\nUn aveu trop cruel. Je pars. Je fuis.\nPermettez que mon respect vous dise adieu.",
-      "provisionalTranslation": "フェードル……しかし徳はすべてを語らない。\n殿、私はあなたの妻を敬いました。\nしかし沈黙しなければならない秘密があり、\nこの沈黙を守る理由があります。\n私が立ち去るのをお許しください。ああ！少なくとも\nあなたが私の苦痛と無実を知っていれば、\nあなたはわかるのに……しかしあなたを\nあまりにも残酷な告白から守らなければなりません。私は去ります。私は逃げます。\n私の敬意がお別れを申し上げることをお許しください。"
+      "speaker": "Œnone",
+      "verses": "v.1039-1040",
+      "originalText": "Seigneur, souvenez-vous des plaintes de la reine :\nUn amour criminel causa toute sa haine.",
+      "provisionalTranslation": "殿、王妃の嘆きをお思い出しください。\n罪深い愛情が彼女の憎しみのすべての原因だったのです。"
     },
     {
       "id": 5,
       "scene": 1,
       "speaker": "Thésée",
-      "verses": "v.1165-1176",
-      "originalText": "Le traître ! il part sans répondre.\nIl me laisse le cœur plein d'une douleur mortelle.\nNeptune, par le fleuve où les dieux font serment,\nTu m'as juré de venger mon injure.\nJ'implore ta promesse. Un père outragé\nCrie à toi. Qu'Hippolyte en ce jour\nExpie un forfait odieux,\nEt que le monstre que tu sais\nL'engloutisse ou le rende à la fureur des eaux.\nVenge un père. J'abandonne ce traître\nÀ ton bras : je ne le reconnais plus pour fils.",
-      "provisionalTranslation": "裏切り者！彼は答えずに去った。\n彼は死ぬほどの苦痛で私の心を満たしたまま残した。\nネプチューンよ、神々が誓いを立てる河によって、\nお前は私の侮辱を復讐することを誓った。\n私はお前の約束に懇願する。侮辱された父が\nお前に叫ぶ。ヒポリットが今日\n忌まわしい罪を償い、\nお前が知る怪物が\n彼を飲み込むか、波の怒りに委ねよ。\n父の復讐をせよ。私はこの裏切り者を\nお前の腕に委ねる：私はもはや彼を息子として認めない。"
+      "verses": "v.1041",
+      "originalText": "Et ce feu dans Trézène a donc recommencé ?",
+      "provisionalTranslation": "そしてその火はトレゼンで再燃したのか？"
     },
     {
       "id": 6,
-      "scene": 2,
-      "speaker": "Thésée",
-      "verses": "v.1177-1186",
-      "originalText": "Théramène, tu fuis ? Et qu'est donc devenu\nCe que j'aurais droit d'attendre de toi ?\nTu laisses à sa honte un fils que j'abandonne.\nVas, si tu l'as suivi dans cette retraite,\nDis-lui qu'il n'est plus temps de fuir ma juste haine.\nCette injure est trop lourde, et la vengeance est douce.",
-      "provisionalTranslation": "テラメーヌ、逃げるのか？そして\nお前に期待する権利があったものはどうなったのか？\nお前は私が見捨てた息子をその恥辱に置き去りにする。\n行け、もしお前が彼をその引きこもりの場所まで追ったなら、\n私の正当な憎しみから逃げる時ではないと彼に言え。\nこの侮辱はあまりに重く、復讐は甘い。"
+      "scene": 1,
+      "speaker": "Œnone",
+      "verses": "v.1042-1044",
+      "originalText": "Je vous ai dit, seigneur, tout ce qui s'est passé.\nC'est trop laisser la reine à sa douleur mortelle,\nSouffrez que je vous quitte et me range auprès d'elle.",
+      "provisionalTranslation": "起きたことはすべて申し上げました、殿。\n王妃をこれ以上死のような苦しみの中に放置するわけにはいきません。\nお暇をいただいて王妃のそばに戻ることをお許しください。"
     },
     {
       "id": 7,
       "scene": 2,
-      "speaker": "Hippolyte",
-      "verses": "v.1187-1198",
-      "originalText": "Seigneur, je viens à vous, non pour défendre un crime\nQue votre amour pour moi peut rendre difficile à croire,\nMais pour vous dire un secret que vous ignorez :\nJ'aime. J'aime, seigneur, malgré votre défense.\nAricie a soumis mon orgueil. La fille\nDe vos ennemis, des Pallantides,\nA vaincu ce cœur que vous croyiez rebelle.\nJe l'adore. Et pour comble à mes infortunes,\nDepuis six mois je brûle et je l'adore.",
-      "provisionalTranslation": "殿、私はあなたのもとに参ります。罪を弁護するためではなく、\nあなたの愛がなかなか信じがたくする犯罪を、\nしかしあなたが知らない秘密をお伝えするために。\n私は愛しています。愛しています、殿、あなたの禁止にもかかわらず。\nアリシーが私の誇りを征服した。あなたの\n敵たちの娘、パランティダイの血が、\nあなたが反抗的と思っていたこの心を征服した。\n私は彼女を崇拝する。そして不幸の極みとして、\n六ヶ月来私は燃え、彼女を崇拝している。"
+      "speaker": "Thésée",
+      "verses": "v.1045-1050",
+      "originalText": "Ah ! le voici. Grands dieux ! à ce noble maintien\nQuel œil ne serait pas trompé comme le mien ?\nFaut-il que sur le front d'un profane adultère\nBrille de la vertu le sacré caractère !\nEt ne devrait-on pas à des signes certains\nReconnaître le cœur des perfides humains !",
+      "provisionalTranslation": "ああ！あいつが来た。偉大な神々よ！この高貴な様子に\n私の目と同様に欺かれない目があるだろうか？\n不浄な姦通者の額に\n徳の神聖な刻印が輝かなければならないとは！\nそして確かな徴によって\n裏切り者の人間の心を見分けることができないとは！"
     },
     {
       "id": 8,
       "scene": 2,
-      "speaker": "Thésée",
-      "verses": "v.1199-1210",
-      "originalText": "Aricie ? Ah ! perfide ! Et tu veux m'en imposer ?\nTu veux couvrir une infamie nouvelle\nDu nom d'une amour feinte ?\nQuoi ? Sous des airs tendres et doux,\nTu aimes, dis-tu ? Mais cette amour nouvelle\nNe peut t'absoudre. L'amour excuse-t-il le crime ?\nUne amour criminelle est encore un crime.\nVas, ne cherche point ici\nDes faux-fuyants pour cacher ta noirceur.",
-      "provisionalTranslation": "アリシー？ああ！裏切り者！そしてお前は私を騙そうとするのか？\nお前は新たな不名誉を\n作り話の愛の名前で覆おうとするのか？\nなんと？優しく穏やかな様子の下に、\nお前は愛しているというのか？しかしこの新たな愛は\nお前を免罪できない。愛は犯罪を免罪するのか？\n犯罪的な愛はやはり犯罪だ。\n行け、ここで\nお前の邪悪さを隠す言い訳を探すな。"
+      "speaker": "Hippolyte",
+      "verses": "v.1051-1053",
+      "originalText": "Puis-je vous demander quel funeste nuage,\nSeigneur, a pu troubler votre auguste visage ?\nN'osez-vous confier ce secret à ma foi ?",
+      "provisionalTranslation": "どのような不吉な雲が、\n殿よ、あなたの尊い顔を曇らせることができたのか、\nお尋ねしてもよろしいでしょうか？\nその秘密を私の誠実さに委ねる気にはなれませんか？"
     },
     {
       "id": 9,
       "scene": 2,
-      "speaker": "Hippolyte",
-      "verses": "v.1211-1214",
-      "originalText": "Seigneur, je pars, blessé de votre injustice.\nMais votre Aricie un jour vous sera chère.\nPuissent les dieux un jour vous éclairer !\nAdieu, seigneur. Je vais...",
-      "provisionalTranslation": "殿、私はあなたの不正義に傷つきながら去ります。\nしかしあなたのアリシーはいつかあなたに大切な存在となるでしょう。\n神々がいつかあなたを照らしてくださいますように！\nさようなら、殿。私は行きます……"
+      "speaker": "Thésée",
+      "verses": "v.1054-1076",
+      "originalText": "Perfide ! oses-tu bien te montrer devant moi ?\nMonstre, qu'a trop longtemps épargné le tonnerre,\nReste impur des brigands dont j'ai purgé la terre,\nAprès que le transport d'un amour plein d'horreur\nJusqu'au lit de ton père a porté ta fureur,\nTu m'oses présenter une tête ennemie !\nTu parais dans des lieux pleins de ton infamie !\nEt ne vas pas chercher, sous un ciel inconnu,\nDes pays où mon nom ne soit point parvenu ?\nFuis, traître. Ne viens point braver ici ma haine,\nEt tenter un courroux que je retiens à peine :\nC'est bien assez pour moi de l'opprobre éternel\nD'avoir pu mettre au jour un fils si criminel,\nSans que ta mort encor, honteuse à ma mémoire,\nDe mes nobles travaux vienne souiller la gloire.\nFuis : et si tu ne veux qu'un châtiment soudain\nT'ajoute aux scélérats qu'a punis cette main,\nPrens garde que jamais l'astre qui nous éclaire\nNe te voie en ces lieux mettre un pied téméraire.\nFuis, dis-je ; et sans retour précipitant tes pas,\nDe ton horrible aspect purge tous mes États.\nEt toi, Neptune, et toi, si jadis mon courage\nD'infâmes assassins nettoya ton rivage,\nSouviens-toi que, pour prix de mes efforts heureux,\nTu promis d'exaucer le premier de mes vœux.\nDans les longues rigueurs d'une prison cruelle\nJe n'ai point imploré ta puissance immortelle ;\nAvare du secours que j'attends de tes soins,\nMes vœux t'ont réservé pour de plus grands besoins :\nJe t'implore aujourd'hui. Venge un malheureux père ;\nJ'abandonne ce traître à toute ta colère ;\nÉtouffe dans son sang ses désirs effrontés :\nThésée à tes fureurs connaîtra tes bontés.",
+      "provisionalTranslation": "反逆者め！よくも私の前に姿を現せたものだ！\n怪物め、雷神があまりに長く許してきた者、\n私が大地から一掃した盗賊どもの不浄な残滓よ、\n恐るべき愛の激情に駆られて\n父の寝床まで狂気を持ち込んだくせに、\nその憎い顔を私に向ける気か！\n自分の恥辱で満ちた場所に現れるのか！\nそして知らない空の下、\n私の名が届いていない国を求めてさまようことをしないのか？\n逃げろ、反逆者。ここで私の憎しみに立ち向かうな、\nかろうじて抑えている怒りを試すな。\nこれほど罪深い息子を世に出してしまったという\n永遠の恥辱を担うだけで私には十分だ。\nお前の死が私の記憶に恥をもたらし、\n私の高貴な功業の栄光を汚すことなく済むように。\n逃げろ。この手が罰した悪人たちに\nお前が加えられるという突然の罰を望まないなら、\n我々を照らす星がこの地でお前の無謀な足を\n見ることのないよう気をつけろ。\n逃げろ、言っているのだ。引き返すことなく足を速め、\nお前のおぞましい姿で私の国土すべてを清めよ。\nそして汝よ、ネプチューンよ、かつて私の勇気が\n汝の岸辺を不名誉な刺客どもから清めたなら、\n覚えていてくれ——私の幸運な努力の報酬として、\n汝は私の最初の願いを叶えると約束したことを。\n残酷な牢獄の長い苦しみの中でも\n私は汝の不滅の力に祈らなかった。\n汝の助けを節約しながら、待っていたのだから、\n私の願いはより大きな必要のために汝に取っておいた。\n今日こそ汝に祈る。不幸な父の仇を討ってくれ。\n私はこの反逆者を汝の怒りのすべてに委ねる。\nその図々しい欲望を血の中で窒息させてくれ。\nテーセウスは汝の怒りに汝の善意を認めるだろう。"
     },
     {
       "id": 10,
-      "scene": 3,
-      "speaker": "Thésée",
-      "verses": "v.1215-1228",
-      "originalText": "Ô ciel ! quelle peine est la mienne !\nIl part sans se défendre, et me laisse incertain.\nCe criminel s'obstine et cache sa défense ?\nIl prend Aricie pour bouclier.\nCe soin d'épargner Phèdre est-il un aveu ?\nOu n'est-ce qu'un soin trop vif de sa vertu ?\nNeptune, j'ai parlé. Peut-être ai-je parlé trop tôt !\nQue n'ai-je attendu ? Mon bras trop prompt et trop sévère\nA-t-il pu trahir un fils que j'aurais dû connaître ?\nÔ désespoir ! ô regret qui me touche !",
-      "provisionalTranslation": "天よ！何という苦しみが私のものなのか！\n彼は弁明せずに去り、私を不確かなままにする。\nこの犯人は頑固で弁護を隠すのか？\n彼はアリシーを盾にとるのか？\nフェードルを守ろうとするこの配慮は告白なのか？\nそれとも彼の徳への過度に強い配慮に過ぎないのか？\nネプチューンよ、私は語った。おそらく早まりすぎて語ったのか！\n待てばよかったのに！あまりに性急で厳しすぎた私の腕は\n知るべきだった息子を裏切ったのか？\nああ絶望！ああ私を苦しめる後悔よ！"
+      "scene": 2,
+      "speaker": "Hippolyte",
+      "verses": "v.1077-1080",
+      "originalText": "D'un amour criminel Phèdre accuse Hippolyte !\nUn tel excès d'horreur rend mon âme interdite ;\nTant de coups imprévus m'accablent à la fois,\nQu'ils m'ôtent la parole, et m'étouffent la voix.",
+      "provisionalTranslation": "罪深い愛情でフェードルがヒポリットを告発する！\nこれほどの恐怖の極みが私の心を麻痺させる。\nこれほど多くの予期せぬ打撃が一度に私を圧し潰し、\n言葉を奪い、声を封じる。"
     },
     {
       "id": 11,
-      "scene": 3,
+      "scene": 2,
       "speaker": "Thésée",
-      "verses": "v.1229-1234",
-      "originalText": "Œnone vient à moi. Quelle est cette terreur ?\nQu'as-tu fait ? Qui t'amène ici ?\nPourquoi ta peur ? Dis-moi tout.\nA-t-on cru que mes mains ont commis quelque crime ?",
-      "provisionalTranslation": "エノンが私のところへ来る。この恐怖は何だ？\nお前は何をしたのか？何がお前をここに連れてきたのか？\nなぜお前は恐れるのか？すべてを言え。\n私の手が何かの犯罪を犯したと信じられたのか？"
+      "verses": "v.1081-1086",
+      "originalText": "Traître, tu prétendais qu'en un lâche silence\nPhèdre ensevelirait ta brutale insolence :\nIl fallait, en fuyant, ne pas abandonner\nLe fer qui dans ses mains aide à te condamner ;\nOu plutôt il fallait, comblant ta perfidie,\nLui ravir tout d'un coup la parole et la vie.",
+      "provisionalTranslation": "反逆者め、お前はフェードルが卑劣な沈黙の中に\nお前の残忍な傲慢さを葬ると思っていたのか。\n逃げる際に、お前を断罪するのを助ける\n彼女の手の中の剣を残していくべきではなかった。\nあるいはむしろ、背信を完璧にするために、\n一度に彼女の言葉と命を奪うべきだった。"
     },
     {
       "id": 12,
-      "scene": 3,
-      "speaker": "Œnone",
-      "verses": "v.1235-1242",
-      "originalText": "Seigneur, s'il en est temps, épargnez vos regrets.\nHippolyte n'est plus à craindre pour Phèdre.\nNouvel amour occupe enfin son âme volage.\nAricie est l'objet de ses vœux.\nAricie possède son cœur.\nSeigneur, regardez à ce nouveau désordre.",
-      "provisionalTranslation": "殿、もし時間があれば、後悔をお控えください。\nヒポリットはもはやフェードルにとって恐れるべき存在ではありません。\n新たな愛がついにその移り気な魂を占めています。\nアリシーが彼の誓いの対象です。\nアリシーが彼の心を占有しています。\n殿、この新たな混乱をご覧ください。"
+      "scene": 2,
+      "speaker": "Hippolyte",
+      "verses": "v.1087-1108",
+      "originalText": "D'un mensonge si noir justement irrité,\nJe devrais faire ici parler la vérité,\nSeigneur ; mais je supprime un secret qui vous touche.\nApprouvez le respect qui me ferme la bouche,\nEt sans vouloir vous-même augmenter vos ennuis,\nExaminez ma vie, et songez qui je suis.\nQuelques crimes toujours précèdent les grands crimes ;\nQuiconque a pu franchir les bornes légitimes\nPeut violer enfin les droits les plus sacrés :\nAinsi que la vertu, le crime a ses degrés ;\nEt jamais on n'a vu la timide innocence\nPasser subitement à l'extrême licence.\nUn jour seul ne fait point d'un mortel vertueux\nUn perfide assassin, un lâche incestueux.\nÉlevé dans le sein d'une chaste héroïne,\nJe n'ai point de son sang démenti l'origine.\nPitthée, estimé sage entre tous les humains,\nDaigna m'instruire encore au sortir de ses mains.\nJe ne veux point me peindre avec trop d'avantage ;\nMais si quelque vertu m'est tombée en partage,\nSeigneur, je crois surtout avoir fait éclater\nLa haine des forfaits qu'on ose m'imputer.\nC'est par là qu'Hippolyte est connu dans la Grèce.\nJ'ai poussé la vertu jusques à la rudesse :\nOn sait de mes chagrins l'inflexible rigueur.\nLe jour n'est pas plus pur que le fond de mon cœur.\nEt l'on veut qu'Hippolyte, épris d'un feu profane...",
+      "provisionalTranslation": "これほど黒い嘘に正当に憤りながら、\n私はここで真実を語るべきなのです、\n殿。しかし私はあなたに関わる秘密を押し殺します。\n私の口を閉じさせている敬意をお認めください。\nそして自らさらに苦しみを増やすことなく、\n私の生涯を調べ、私が誰であるかを考えてください。\n大きな罪の前には常に幾つかの小さな罪があります。\n正当な限界を踏み越えることができた者は\nついには最も神聖な権利を侵害できるのです。\n徳と同様に、罪にも段階があります。\nそして臆病な無垢が突然\n極端な放埒に移行したことは一度もありません。\n一日だけで徳ある人間を\n裏切りの殺人者、卑劣な近親相姦者に変えることはできません。\n貞淑な女傑の懐に育まれた私は、\nその血筋を裏切っていません。\nピテウス——人類の中で最も賢明と称えられた人——が\n彼の手を離れた後も私を導いてくれました。\n私は過分に自分を称えたくはありません。\nしかし何らかの徳が私に与えられているとすれば、\n殿、私は何よりも私に帰せられている罪への\n憎しみを示してきたと思います。\nそれによってヒポリットはギリシャで知られています。\n私は徳を頑固さの域にまで推し進めてきた。\n私の苦悩の揺るぎない厳格さは知られています。\n昼の光も私の心の奥底ほど純粋ではありません。\nそれでもヒポリットが不浄の火に燃え......と？"
     },
     {
       "id": 13,
-      "scene": 3,
+      "scene": 2,
       "speaker": "Thésée",
-      "verses": "v.1243-1250 (Scène IVへの橋渡し)",
-      "originalText": "Quoi ? Phèdre n'occupe plus son cœur ?\nHippolyte est sensible, et ne sent rien pour elle ?\nAricie a su triompher de sa fierté ?\nAh dieux ! Œnone, est-il possible ?\nL'amour d'Aricie... Mais allons donc voir Phèdre\nEt l'entendre. Je veux savoir la vérité.\nQue Phèdre explique ici cette étrange aventure.",
-      "provisionalTranslation": "なんと？フェードルはもはや彼の心を占めていないのか？\nヒポリットは感受性があり、彼女に対して何も感じないのか？\nアリシーは彼の誇りに打ち勝つことができたのか？\nああ神々よ！エノン、それは可能なのか？\nアリシーへの愛……しかしフェードルに会いに行こうではないか\n彼女の話を聞こう。私は真実を知りたい。\nフェードルがここでこの奇妙な出来事を説明せよ。"
+      "verses": "v.1109-1112",
+      "originalText": "Oui, c'est ce même orgueil, lâche ! qui te condamne.\nJe vois de tes froideurs le principe odieux :\nPhèdre seule charmait tes impudiques yeux ;\nEt pour tout autre objet ton âme indifférente\nDédaignait de brûler d'une flamme innocente.",
+      "provisionalTranslation": "そうだ、卑怯者め、まさにその同じ傲慢さがお前を断罪する！\n私はお前の冷淡さの忌まわしい原因を見抜いている。\nフェードルだけがお前の破廉恥な目を魅惑した。\nそして他のあらゆる対象に対してお前の心は無関心で、\n無垢な炎で燃えることを蔑んでいたのだ。"
+    },
+    {
+      "id": 14,
+      "scene": 2,
+      "speaker": "Hippolyte",
+      "verses": "v.1113-1120",
+      "originalText": "Non, mon père, ce cœur, c'est trop vous le celer,\nN'a point d'un chaste amour dédaigné de brûler.\nJe confesse à vos pieds ma véritable offense :\nJ'aime, j'aime, il est vrai, malgré votre défense.\nAricie à ses lois tient mes vœux asservis ;\nLa fille de Pallante a vaincu votre fils :\nJe l'adore ; et mon âme, à vos ordres rebelle,\nNe peut ni soupirer, ni brûler que pour elle.",
+      "provisionalTranslation": "いいえ、父上、この心は——あなたに隠し続けるのはもう十分です——\n純粋な愛の炎で燃えることを侮ったことはありません。\n私は本当の過ちをあなたの足元で告白します。\n私は愛しています、愛しているのです、本当に、あなたの禁令にもかかわらず。\nアリシーが彼女の掟に私の誓いを縛り付けています。\nパランタスの娘があなたの息子を打ち負かした。\n私は彼女を崇拝しています。そして私の心は、あなたの命令に反して、\n彼女のためにしか溜め息をつくことも燃えることもできないのです。"
+    },
+    {
+      "id": 15,
+      "scene": 2,
+      "speaker": "Thésée",
+      "verses": "v.1121-1122",
+      "originalText": "Tu l'aimes ! ciel ! Mais non, l'artifice est grossier :\nTu te feins criminel pour te justifier.",
+      "provisionalTranslation": "お前は彼女を愛している！何ということだ！しかしいや、策略は稚拙すぎる。\nお前は自分を正当化するために罪人を装っているのだ。"
+    },
+    {
+      "id": 16,
+      "scene": 2,
+      "speaker": "Hippolyte",
+      "verses": "v.1123-1130",
+      "originalText": "Seigneur, depuis six mois je l'évite et je l'aime ;\nJe venais, en tremblant, vous le dire à vous-même.\nEh quoi ! de votre erreur rien ne vous peut tirer ?\nPar quel affreux serment faut-il vous rassurer ?\nQue la terre, le ciel, que toute la nature...",
+      "provisionalTranslation": "殿、六ヶ月以来、私は彼女を避けながら愛しています。\n震えながら、あなた自身にそれを告げに来るつもりでした。\nなんということ！あなたの誤りからお前を引き出せるものは何もないのですか？\nどのような恐ろしい誓いであなたを安心させなければならないのか？\n大地が、天が、自然全体が......"
+    },
+    {
+      "id": 17,
+      "scene": 2,
+      "speaker": "Thésée",
+      "verses": "v.1131-1134",
+      "originalText": "Toujours les scélérats ont recours au parjure.\nCesse, cesse, et m'épargne un importun discours,\nSi ta fausse vertu n'a point d'autre secours.",
+      "provisionalTranslation": "悪人たちは常に偽誓に頼るものだ。\nやめろ、やめろ、そしてうっとうしい弁解で私を煩わせるな、\nもしお前の偽りの徳に他の拠り所がないというなら。"
+    },
+    {
+      "id": 18,
+      "scene": 2,
+      "speaker": "Hippolyte",
+      "verses": "v.1135-1136",
+      "originalText": "Elle vous paraît fausse et pleine d'artifice :\nPhèdre au fond de son cœur me rend plus de justice.",
+      "provisionalTranslation": "あなたの目には偽りで策略に満ちたものに見えるでしょう。\nフェードルは心の奥底では私にもっと公正に接しています。"
+    },
+    {
+      "id": 19,
+      "scene": 2,
+      "speaker": "Thésée",
+      "verses": "v.1137",
+      "originalText": "Ah, que ton impudence excite mon courroux !",
+      "provisionalTranslation": "ああ、お前の傲慢さが私の怒りを煽る！"
+    },
+    {
+      "id": 20,
+      "scene": 2,
+      "speaker": "Hippolyte",
+      "verses": "v.1138",
+      "originalText": "Quel temps à mon exil, quel lieu prescrivez-vous ?",
+      "provisionalTranslation": "私の追放にどの期間を、どの地をお命じになりますか？"
+    },
+    {
+      "id": 21,
+      "scene": 2,
+      "speaker": "Thésée",
+      "verses": "v.1139-1140",
+      "originalText": "Fusses-tu par delà les colonnes d'Alcide,\nJe me croirais encor trop voisin d'un perfide.",
+      "provisionalTranslation": "アルキデスの柱の彼方にいたとしても、\n私はまだ反逆者の近くにいすぎると思うだろう。"
+    },
+    {
+      "id": 22,
+      "scene": 2,
+      "speaker": "Hippolyte",
+      "verses": "v.1141-1142",
+      "originalText": "Chargé du crime affreux dont vous me soupçonnez,\nQuels amis me plaindront, quand vous m'abandonnez ?",
+      "provisionalTranslation": "あなたが私を疑う恐ろしい罪を負わされて、\nあなたが私を見捨てるとき、誰が私を哀れんでくれるのか？"
+    },
+    {
+      "id": 23,
+      "scene": 2,
+      "speaker": "Thésée",
+      "verses": "v.1143-1146",
+      "originalText": "Va chercher des amis dont l'estime funeste\nHonore l'adultère, applaudisse à l'inceste ;\nDes traîtres, des ingrats, sans honneur et sans loi,\nDignes de protéger un méchant tel que toi.",
+      "provisionalTranslation": "不吉な尊敬が姦通を称え、近親相姦を称賛する\n友人たちを探しに行け。\n名誉も法も持たない反逆者、恩知らずたちを——\nお前のような悪人を守るにふさわしい者どもを。"
+    },
+    {
+      "id": 24,
+      "scene": 2,
+      "speaker": "Hippolyte",
+      "verses": "v.1147-1150",
+      "originalText": "Vous me parlez toujours d'inceste et d'adultère :\nJe me tais. Cependant Phèdre sort d'une mère,\nPhèdre est d'un sang, seigneur, vous le savez trop bien,\nDe toutes ces horreurs plus rempli que le mien.",
+      "provisionalTranslation": "あなたは常に近親相姦と姦通を私に向けて言う。\n私は黙ります。しかしフェードルはある母から生まれており、\nフェードルはある血を引いています、殿、あなたはよく知っているはずだ、\nこれらすべての恐怖に私の血筋よりも満ちた血を。"
+    },
+    {
+      "id": 25,
+      "scene": 2,
+      "speaker": "Thésée",
+      "verses": "v.1151-1154",
+      "originalText": "Quoi ! ta rage à mes yeux perd toute retenue ?\nPour la dernière fois, ôte-toi de ma vue ;\nSors, traître : n'attends pas qu'un père furieux\nTe fasse avec opprobre arracher de ces lieux.",
+      "provisionalTranslation": "なに！お前の怒りは私の前で一切の自制を失うのか！\n最後にもう一度言う、私の視界から消えろ。\n出て行け、反逆者よ。激怒した父が\nお前をこの場所から恥をもって引き摺り出すことを待つな。"
+    },
+    {
+      "id": 26,
+      "scene": 3,
+      "speaker": "Hippolyte",
+      "verses": "v.1155-1181",
+      "originalText": "Où tendait ce discours qui m'a glacé d'effroi ?\nPhèdre, toujours en proie à sa fureur extrême,\nVeut-elle s'accuser et se perdre elle-même ?\nDieux ! que dira le roi ? Quel funeste poison\nL'amour a répandu sur toute sa maison !\nMoi-même, plein d'un feu que sa haine réprouve,\nQuel il m'a vu jadis, et quel il me retrouve !\nDe noirs pressentiments viennent m'épouvanter.\nMais l'innocence enfin n'a rien à redouter :\nAllons ; cherchons ailleurs par quelle heureuse adresse\nJe pourrai de mon père émouvoir la tendresse,\nEt lui dire un amour qu'il peut vouloir troubler,\nMais que tout son pouvoir ne saurait ébranler.",
+      "provisionalTranslation": "私を恐怖で凍らせたあの言葉はどこへ向かっていたのか？\nフェードルは、常に極度の狂気の餌食となって、\n自分を告発して自らを滅ぼそうとしているのか？\n神々よ！王は何と言うだろうか？何という不吉な毒を\n愛情はその一族全体に広めたのだろうか！\n私自身も、彼の憎しみが咎める火に満ちながら、\n彼がかつて私を見た姿と、今改めて見つける私の姿よ！\n黒い予感が私を怖がらせにやってくる。\nしかし無垢は結局何も恐れることはない。\n行こう。他の場所で、どのような幸運な手立てで\n父の愛情を動かすことができるかを探そう。\nそして彼が乱したいかもしれない、\nしかし彼のいかなる権力も揺るがすことのできない愛を彼に語ろう。"
     }
   ],
   "annotations": [
     {
-      "paragraphId": 4,
+      "paragraphId": 9,
       "type": "commentary",
-      "anchor": "Phèdre... Mais la vertu ne dit pas tout.",
-      "body": "「フェードル……しかし徳はすべてを語らない（Phèdre... Mais la vertu ne dit pas tout）」──省略記号（...）による自己中断がこの場面の最も重要な劇的装置。第3幕Scène VでもヒポリットはフェードルとÉdipeの名を省略記号で断ち切ったが（「Phèdre... Mais la vertu」）、ここでも同一の構文が反復される。バルト『ラシーヌ論』が「ヒポリットの沈黙（le silence d'Hippolyte）」として論じた逆説──「告発なき弁明（défense sans accusation）」──の詩的実現：ヒポリットは真実を語る言語を持ちながら、その言語の使用そのものが「フェードルの恥辱（l'opprobre de son lit）」を暴くことになるため、語ることを選ばない。ラシーヌ序文「他者を告発することなく自ら圧迫されるままにする（se laisse opprimer sans l'accuser）」の内面的理由がここで初めて明示される。"
-    },
-    {
-      "paragraphId": 5,
-      "type": "commentary",
-      "anchor": "Neptune, par le fleuve où les dieux font serment,\nTu m'as juré de venger mon injure.",
-      "body": "第3幕Scène VI§18「Venge un père. J'abandonne ce traître / À ta fureur」で発動されたネプチューンへの呪いの言語的反復──しかしここでは「委ねる（j'abandonne）」から「懇願する（j'implore）」へと動詞が変化する。同一の呪いが独白（一人）から対話（父と子の対決後）へと文脈を移すことで、その暴力性が増幅される。バルト「父性の暴力（la violence paternelle）」論：テーセウスは「英雄的蓄積（capital héroïque）」──ネプチューンへの三つの誓いの行使権──を、息子を裁く前に息子に対して行使する。これが第5幕のヒポリットの死の遠因となる。"
-    },
-    {
-      "paragraphId": 7,
-      "type": "commentary",
-      "anchor": "J'aime. J'aime, seigneur, malgré votre défense.",
-      "body": "「私は愛しています。愛しています、殿（J'aime. J'aime, seigneur）」──動詞「aimer」の孤立した二重反復は、第2幕Scène IIIで「Malgré moi-même（私自身に反して）」と始まったヒポリットの告白言語の凝縮形。しかしここでは第2幕のアリシーへの告白（「Je me rends / Ma raison cède à la violence」）とは異なり、弁明の手段として愛が告白される──愛が防衛として機能する構造の逆説。「J'aime」という二語が、フェードルへの告発に対する唯一の反証として差し出されるが、テーセウスはこれを「犯罪的な愛は犯罪だ（Une amour criminelle est encore un crime）」と断じる。愛の告白が弁明ではなく新たな告発の素材となる──ヴァレリー「二つの不可能性の間に挟まれた言語（langage pris entre deux impossibilités）」。"
-    },
-    {
-      "paragraphId": 8,
-      "type": "prosody",
-      "anchor": "Aricie ? Ah ! perfide ! Et tu veux m'en imposer ?",
-      "body": "テーセウスの「Aricie ?」という一語の独立行──アレクサンドランの12音節を単語一語で切断するラシーヌ固有の技法。第3幕Scène Vの§10「Aricie ?」（テーセウスがヒポリットの告白に驚愕した際の同一の語）と完全に対応し、同一の名前が異なる文脈で繰り返されることで、アリシーという名前がテーセウスの怒りと不信の焦点として確立される。アレクサンドランにおける「疑問の一語（un mot interrogatif）」の劇的機能：短い語が長い沈黙に先行し、その沈黙の中でテーセウスの認識が形成される。"
-    },
-    {
-      "paragraphId": 10,
-      "type": "commentary",
-      "anchor": "Neptune, j'ai parlé. Peut-être ai-je parlé trop tôt !",
-      "body": "「ネプチューンよ、私は語った。おそらく早まりすぎて語ったのか（Neptune, j'ai parlé. Peut-être ai-je parlé trop tôt）」──このテーセウスの独白は劇の構造上きわめて重要な地点：テーセウスが初めて自分の判断の誤りを疑う瞬間。しかし「おそらく（peut-être）」という留保は疑念に留まり、確信に至らない。エノンが直後に登場して告発を補強することで（§12）、この疑念は消去される。バルト「ラシーヌ的後悔（le regret racinien）」：遅すぎた認識──ラシーヌの悲劇では認識は常に行為の後に来る（「J'ai peut-être trop cru des témoins peu fidèles / Et j'ai trop tôt vers toi levé mes mains cruelles」は第5幕Scène IVで反復される）。"
+      "anchor": "Et toi, Neptune, et toi, si jadis mon courage\nD'infâmes assassins nettoya ton rivage,\nSouviens-toi que, pour prix de mes efforts heureux,\nTu promis d'exaucer le premier de mes vœux.",
+      "body": "「ネプチューンへの呪い」——テーセウスが第4幕で発動させるこの呪いが悲劇の不可逆的な展開を確定させる。「le premier de mes vœux（私の最初の願い）」という限定表現が重要：テーセウスはこの願いをとっておいた。第5幕のテーセウスが真実を知り呪いを撤回しようとするが、ネプチューンはすでに聞き届けた後であることが明らかになる——神の応答の不可逆性がラシーヌ悲劇の構造的原理。"
     },
     {
       "paragraphId": 12,
-      "type": "intertextual",
-      "anchor": "Seigneur, s'il en est temps, épargnez vos regrets.",
-      "body": "エノンの「殿、もし時間があれば、後悔をお控えください（s'il en est temps, épargnez vos regrets）」──第3幕Scène VI§16「Il l'a tenté, Seigneur」（エノンの告発完遂）から始まったエノンの役割が、ここで「後悔の抑制者」として延長される。しかしエノンのこのScène IIIへの登場とテーセウスへのアリシー情報の提供は、直後のScène IV（フェードルとテーセウスの対話）でフェードルがアリシーへの嫉妬によって崩壊するための布石として機能する──エノンは意図せずフェードルの破局を加速させる。「告発の連鎖（la chaîne d'accusation）」が「嫉妬の連鎖（la chaîne de jalousie）」へと転換する結節点。第4幕Scène IV以降のフェードルの嫉妬の暴発との対照として読むべき場面。",
-      "targetId": "racine_phedre_acte3_sc4_6",
-      "targetParagraphId": 16
+      "type": "commentary",
+      "anchor": "Seigneur ; mais je supprime un secret qui vous touche.\nApprouvez le respect qui me ferme la bouche",
+      "body": "「私はあなたに関わる秘密を押し殺します（je supprime un secret qui vous touche）」——ヒポリットが沈黙を選ぶ理由の核心。「toucher（関わる・感動させる）」という動詞が二重の意味を担う：この秘密はテーセウスに「関わる」と同時に彼を「傷つける」。息子が父の名誉を守るために自分の命を犠牲にするという倫理的選択——これがラシーヌ的「沈黙の英雄主義」の本質であり、悲劇の不条理を担う最大の機構。"
     },
     {
-      "paragraphId": 9,
-      "type": "prosody",
-      "anchor": "Seigneur, je pars, blessé de votre injustice.\nMais votre Aricie un jour vous sera chère.",
-      "body": "「殿、私はあなたの不正義に傷つきながら去ります（je pars, blessé de votre injustice）」──第1幕冒頭「Le dessein en est pris : je pars（決意は固まった：私は出発する）」と「Je pars（私は去る）」という動詞が反復されるが、第1幕では能動的な出発の意志だったものが、ここでは傷ついた退場となる。第1幕から第4幕への「pars / pars」の反復が描く円弧：出発から退場へ、選択から強制へ。「votre Aricie（あなたのアリシー）」という所有格の使用──アリシーをテーセウスの財産として指示することで、ヒポリットはアリシーへの愛をテーセウスの支配領域の外に置く戦略をとる。最後の言葉の「je vais...」省略記号は、ヒポリットの最後の発話が完結しないことを示す──言語の未完性が人物の運命の未完性に対応する。"
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Non, mon père, ce cœur, c'est trop vous le celer,\nN'a point d'un chaste amour dédaigné de brûler.\nJe confesse à vos pieds ma véritable offense :\nJ'aime, j'aime, il est vrai, malgré votre défense.",
+      "body": "「私は本当の過ちをあなたの足元で告白します（Je confesse à vos pieds ma véritable offense）」——ヒポリットがアリシーへの愛を「過ち（offense）」と呼ぶ逆説。実際には愛そのものは無垢だが、テーセウスの禁令に反しているという意味で「過ち」となる。「J'aime, j'aime（私は愛しています、愛しているのです）」という動詞の反復——フェードルの「J'aime」（Acte II Sc.V）との対位。フェードルの告白が罪の宣言であったのに対し、ヒポリットの告白は無垢の確証として機能するはずだったが、テーセウスには策略と映る。"
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "Je me tais. Cependant Phèdre sort d'une mère,\nPhèdre est d'un sang, seigneur, vous le savez trop bien,\nDe toutes ces horreurs plus rempli que le mien.",
+      "body": "「私は黙ります（Je me tais）」——宣言した上での暗示。ヒポリットは「沈黙する」と言いながらパシパエー（フェードルの母、牡牛に恋した女）への間接的言及を行う。「Je me tais（沈黙する）」という宣言の直後に最も危険な言及を行うという逆説——これがScène IIIのヒポリット独白で「あの言葉はどこへ向かっていたのか（Où tendait ce discours）」と自問させる結果となる。"
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "Où tendait ce discours qui m'a glacé d'effroi ?\nPhèdre, toujours en proie à sa fureur extrême,\nVeut-elle s'accuser et se perdre elle-même ?",
+      "body": "「あの言葉はどこへ向かっていたのか（Où tendait ce discours qui m'a glacé d'effroi）」——Scène IIIはヒポリットの独白のみで構成される（テーセウスはすでに退場、テラメーヌはまだ登場していない）。ヒポリットは直前の自分の発言（「フェードルはある母から生まれており……」）が持つ破壊力に気づき、慄いている。しかし「無垢は何も恐れることはない（l'innocence enfin n'a rien à redouter）」という結語がScène IVで覆される——無垢を守るのが神々の役割のはずが、神々はネプチューンの呪いに既に応答している。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Phèdre mourait, seigneur, et sa main meurtrière\nÉteignait de ses yeux l'innocente lumière.\nJ'ai vu lever le bras, j'ai couru la sauver.",
+      "body": "エノンの証言がActe III Sc.III（フェードルの剣の場面）の「事実」を逆転させる。実際にはフェードルがヒポリットに剣を向けて「打ってくれ（Frappe）」と懇願したのだが、エノンはここで「フェードルが自分を殺そうとした腕を止めた」という全く逆の物語を語る。「J'ai vu lever le bras（腕が上がるのを私は見た）」——「voir（見る）」という動詞がこの悲劇では常に認識の裏切りを担う（テーセウスのActe V「J'ai vu, j'ai vu couler des larmes véritables」と対応）。",
+      "targetId": "racine_phedre_acte5_sc1_3",
+      "targetParagraphId": 11
     }
   ]
 }

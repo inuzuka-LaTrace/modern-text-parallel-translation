@@ -119,8 +119,8 @@ export default function App() {
     try { return JSON.parse(localStorage.getItem('bookmarks') || '{}'); } catch { return {}; }
   });
   const [showBookmarks, setShowBookmarks] = useState(false);
-  // タイムラインビュー
-  const [showTimeline, setShowTimeline] = useState(false);
+  // タイムラインビュー: false=非表示, 'list'=縦リスト, 'map'=横マップ
+  const [timelineMode, setTimelineMode] = useState(false);
   // キーワードフィルター（クラウドクリック時にセット）
   const [activeKeyword, setActiveKeyword] = useState(null);
   const settingsRef = useRef(null);
@@ -331,7 +331,7 @@ export default function App() {
     setCrossMode(false);
     setCrossTexts([]);
     setShowBookmarks(false);
-    setShowTimeline(false);
+    setTimelineMode(false);
   };
 
   // ─── ブックマーク操作 ────────────────────────────────────
@@ -387,24 +387,31 @@ export default function App() {
       setActiveKeyword(kw);
       setSearchQuery(kw);
       setSelectedCategory('all');
-      setShowTimeline(false);
+      setTimelineMode(false);
     }
   };
 
-  // テキスト切り替え（状態リセット + URL更新）
-  const handleTextChange = (textId) => {
-    resetTextState(textId);
+  // テキスト切り替え（状態リセット + URL更新 + テキスト情報へスクロール）
+  // タイムライン表示中は閉じずにそのまま維持する
+  const handleTextChange = (textId, { keepTimeline = false } = {}) => {
+    const prevTimeline = keepTimeline ? timelineMode : false;
+    resetTextState(textId);           // ← resetTextState は timelineMode を false にする
+    if (keepTimeline && prevTimeline) {
+      // resetTextState が false にした後に復元
+      setTimeout(() => setTimelineMode(prevTimeline), 0);
+    }
     pushTextHash(textId);
+    // テキスト情報パネルへスクロール（少し待ってDOMが更新されてから）
+    setTimeout(() => {
+      textInfoRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }, 80);
   };
 
   // vボタン：シングルクリックでテキスト情報パネルへスクロール
   const handleVButton = (e, textId) => {
     e.stopPropagation();
     if (selectedText !== textId) {
-      handleTextChange(textId);
-      setTimeout(() => {
-        textInfoRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }, 80);
+      handleTextChange(textId); // handleTextChange 内でスクロールも実行
     } else {
       textInfoRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
@@ -732,38 +739,41 @@ export default function App() {
     );
   };
 
-  // ─── 時系列マップ（縦スクロール式） ──────────────────────────
+  // ─── 時系列マップ（縦リスト ↔ 横マップ 切替式） ────────────
   const TimelineView = () => {
     const allTexts = Object.values(texts);
     const withYear = allTexts
       .map(t => ({ ...t, yearNum: parseInt(t.year) }))
       .filter(t => !isNaN(t.yearNum) && t.yearNum >= 1800 && t.yearNum <= 1940);
 
-    // 著者ごとにグループ化し年でソート
+    // 著者ごとにグループ化・年順ソート
     const byAuthor = {};
     withYear.forEach(t => {
       if (!byAuthor[t.author]) byAuthor[t.author] = { author: t.author, category: t.category, texts: [] };
       byAuthor[t.author].texts.push(t);
     });
-    const authorGroups = Object.values(byAuthor).sort((a, b) => {
-      return Math.min(...a.texts.map(t => t.yearNum)) - Math.min(...b.texts.map(t => t.yearNum));
-    });
+    const authorGroups = Object.values(byAuthor).sort((a, b) =>
+      Math.min(...a.texts.map(t => t.yearNum)) - Math.min(...b.texts.map(t => t.yearNum))
+    );
 
-    // テキストを年順にフラット化
+    // 全エントリ（著者順 → 年順）
     const allEntries = authorGroups.flatMap(g =>
       [...g.texts].sort((a, b) => a.yearNum - b.yearNum).map(t => ({ ...t, category: g.category }))
     );
 
-    // 10年ごとの区切り年（表示範囲内）
-    const decadeBreaks = new Set();
-    allEntries.forEach(t => { decadeBreaks.add(Math.floor(t.yearNum / 10) * 10); });
+    // decade 区切り
+    const decadeBreaks = new Set(allEntries.map(t => Math.floor(t.yearNum / 10) * 10));
     const sortedDecades = [...decadeBreaks].sort((a, b) => a - b);
-
-    // decade → その decade に属するエントリ
     const byDecade = {};
     sortedDecades.forEach(d => { byDecade[d] = allEntries.filter(t => Math.floor(t.yearNum / 10) * 10 === d); });
 
-    // 著者カラー → Tailwind クラスを返すヘルパー
+    // 横マップ用
+    const minYear = 1840, maxYear = 1930, span = maxYear - minYear;
+    const xPct = (year) => Math.max(0, Math.min(100, ((year - minYear) / span) * 100));
+    const decades = [];
+    for (let y = 1850; y <= 1930; y += 10) decades.push(y);
+
+    // 著者カラー dot
     const dotColor = (cat) => {
       const c = authorColor(cat);
       if (c.includes('violet'))  return darkMode ? 'bg-violet-400'  : 'bg-violet-500';
@@ -779,89 +789,161 @@ export default function App() {
       return darkMode ? 'bg-stone-500' : 'bg-stone-400';
     };
 
+    const isMap = timelineMode === 'map';
+
     return (
       <div className={`rounded-xl border mb-4 overflow-hidden ${cardBgClass}`}>
-        {/* ヘッダー */}
-        <div className={`flex items-center justify-between px-4 py-3 border-b ${borderClass}`}>
+
+        {/* ── ヘッダー ── */}
+        <div className={`flex items-center justify-between px-4 py-2.5 border-b ${borderClass}`}>
           <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans flex items-center gap-1.5 ${textSecondary}`}>
             <CalendarDays size={13} strokeWidth={1.6} />
             時系列マップ
-            <span className="font-normal opacity-60">({allEntries.length}作品)</span>
+            <span className="font-normal opacity-50">({allEntries.length}作品)</span>
           </h2>
-          <button
-            onClick={() => setShowTimeline(false)}
-            className={`w-6 h-6 flex items-center justify-center rounded-full transition-colors ${darkMode ? 'hover:bg-zinc-800 text-zinc-400' : 'hover:bg-stone-200 text-stone-500'}`}
-          >
-            <X size={13} strokeWidth={2} />
-          </button>
+
+          <div className="flex items-center gap-1.5">
+            {/* リスト ↔ マップ 切替 */}
+            <div className={`flex rounded-lg overflow-hidden border text-xs font-sans ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
+              <button
+                onClick={() => setTimelineMode('list')}
+                className={`px-2.5 py-1 transition-colors flex items-center gap-1 ${
+                  !isMap
+                    ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
+                    : darkMode ? 'text-zinc-400 hover:bg-zinc-800' : 'text-stone-500 hover:bg-stone-50'
+                }`}
+              >
+                <List size={11} strokeWidth={1.8} />リスト
+              </button>
+              <button
+                onClick={() => setTimelineMode('map')}
+                className={`px-2.5 py-1 transition-colors flex items-center gap-1 border-l ${darkMode ? 'border-zinc-700' : 'border-stone-200'} ${
+                  isMap
+                    ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
+                    : darkMode ? 'text-zinc-400 hover:bg-zinc-800' : 'text-stone-500 hover:bg-stone-50'
+                }`}
+              >
+                <CalendarDays size={11} strokeWidth={1.8} />マップ
+              </button>
+            </div>
+            {/* 閉じる */}
+            <button
+              onClick={() => setTimelineMode(false)}
+              className={`w-6 h-6 flex items-center justify-center rounded-full transition-colors ${darkMode ? 'hover:bg-zinc-800 text-zinc-400' : 'hover:bg-stone-200 text-stone-500'}`}
+            >
+              <X size={13} strokeWidth={2} />
+            </button>
+          </div>
         </div>
 
-        {/* 本体：縦スクロール */}
-        <div className="overflow-y-auto" style={{ maxHeight: '60vh' }}>
-          {sortedDecades.map(decade => (
-            <div key={decade}>
-              {/* 10年区切りヘッダー */}
-              <div className={`sticky top-0 z-10 flex items-center gap-3 px-4 py-1.5 ${
-                darkMode ? 'bg-zinc-900/95 border-b border-zinc-800' : 'bg-stone-50/95 border-b border-stone-100'
-              }`}>
-                <span className={`text-xs font-mono font-bold tabular-nums ${darkMode ? 'text-zinc-400' : 'text-stone-500'}`}>
-                  {decade}年代
-                </span>
-                <div className={`flex-1 h-px ${darkMode ? 'bg-zinc-800' : 'bg-stone-200'}`} />
+        {/* ── 縦リストビュー ── */}
+        {!isMap && (
+          <div className="overflow-y-auto" style={{ maxHeight: '55vh' }}>
+            {sortedDecades.map(decade => (
+              <div key={decade}>
+                <div className={`sticky top-0 z-10 flex items-center gap-3 px-4 py-1.5 ${
+                  darkMode ? 'bg-zinc-900/95 border-b border-zinc-800' : 'bg-stone-50/95 border-b border-stone-100'
+                }`}>
+                  <span className={`text-xs font-mono font-bold tabular-nums ${darkMode ? 'text-zinc-400' : 'text-stone-500'}`}>
+                    {decade}年代
+                  </span>
+                  <div className={`flex-1 h-px ${darkMode ? 'bg-zinc-800' : 'bg-stone-200'}`} />
+                </div>
+                <div className="px-3 py-1.5 space-y-0.5">
+                  {byDecade[decade].map(t => {
+                    const isSelected = selectedText === t.id;
+                    const dot = dotColor(t.category);
+                    return (
+                      <button
+                        key={t.id}
+                        onClick={() => handleTextChange(t.id, { keepTimeline: true })}
+                        className={`w-full flex items-center gap-3 px-3 py-2 rounded-lg text-left transition-colors ${
+                          isSelected
+                            ? darkMode ? 'bg-amber-900/30 border border-amber-700/50' : 'bg-amber-50 border border-amber-200'
+                            : darkMode ? 'hover:bg-zinc-800/60 border border-transparent' : 'hover:bg-stone-50 border border-transparent'
+                        }`}
+                      >
+                        <span className={`text-xs font-mono tabular-nums shrink-0 w-10 ${isSelected ? (darkMode ? 'text-amber-300' : 'text-amber-700') : textSecondary}`}>
+                          {t.year}
+                        </span>
+                        <span className={`w-2 h-2 rounded-full shrink-0 ${dot} ${isSelected ? 'ring-2 ring-offset-1 ring-current' : 'opacity-70'}`} />
+                        <div className="min-w-0 flex-1">
+                          <span className={`text-xs font-sans ${textSecondary}`}>{t.author.split(' ').pop()}</span>
+                          <span className={`mx-1.5 text-xs opacity-30 ${textClass}`}>·</span>
+                          <span className={`text-xs font-serif ${textClass} ${isSelected ? 'font-semibold' : ''}`}>{t.title}</span>
+                        </div>
+                        {isSelected && <ChevronRight size={13} strokeWidth={2} className={`shrink-0 ${darkMode ? 'text-amber-400' : 'text-amber-600'}`} />}
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
+
+        {/* ── 横マップビュー ── */}
+        {isMap && (
+          <div className="overflow-x-auto overflow-y-auto" style={{ maxHeight: '55vh' }}>
+            <div style={{ minWidth: '560px' }} className="p-4">
+
+              {/* 年代ルーラー */}
+              <div className="relative h-6 mb-2 ml-24 mr-3">
+                <div className={`absolute top-2 left-0 right-0 h-px ${darkMode ? 'bg-zinc-700' : 'bg-stone-200'}`} />
+                {decades.map(y => (
+                  <div key={y} className="absolute flex flex-col items-center" style={{ left: `${xPct(y)}%` }}>
+                    <div className={`w-px h-2 mt-1 ${darkMode ? 'bg-zinc-600' : 'bg-stone-300'}`} />
+                    <span className={`text-xs font-mono tabular-nums -translate-x-1/2 leading-none mt-0.5 ${textSecondary}`} style={{ fontSize: '10px' }}>
+                      {y}
+                    </span>
+                  </div>
+                ))}
               </div>
 
-              {/* その decade のテキスト一覧 */}
-              <div className="px-3 py-1.5 space-y-1">
-                {byDecade[decade].map(t => {
-                  const isSelected = selectedText === t.id;
-                  const dot = dotColor(t.category);
+              {/* 著者行 */}
+              <div className="space-y-1.5">
+                {authorGroups.map(({ author, category, texts: aTexts }) => {
+                  const dot = dotColor(category);
                   return (
-                    <button
-                      key={t.id}
-                      onClick={() => { handleTextChange(t.id); setShowTimeline(false); }}
-                      className={`w-full flex items-center gap-3 px-3 py-2 rounded-lg text-left transition-colors ${
-                        isSelected
-                          ? darkMode ? 'bg-amber-900/30 border border-amber-700/50' : 'bg-amber-50 border border-amber-200'
-                          : darkMode ? 'hover:bg-zinc-800/60 border border-transparent' : 'hover:bg-stone-50 border border-transparent'
-                      }`}
-                    >
-                      {/* 年 */}
-                      <span className={`text-xs font-mono tabular-nums shrink-0 w-10 ${
-                        isSelected
-                          ? darkMode ? 'text-amber-300' : 'text-amber-700'
-                          : textSecondary
-                      }`}>
-                        {t.year}
-                      </span>
-
-                      {/* カラードット */}
-                      <span className={`w-2 h-2 rounded-full shrink-0 ${dot} ${isSelected ? 'ring-2 ring-offset-1 ring-current' : 'opacity-70'}`} />
-
-                      {/* 著者・タイトル */}
-                      <div className="min-w-0 flex-1">
-                        <span className={`text-xs font-sans ${textSecondary} shrink-0`}>
-                          {t.author.split(' ').pop()}
-                        </span>
-                        <span className={`mx-1.5 text-xs opacity-30 ${textClass}`}>·</span>
-                        <span className={`text-xs font-serif ${textClass} ${isSelected ? 'font-semibold' : ''}`}>
-                          {t.title}
-                        </span>
+                    <div key={author} className="flex items-center gap-2">
+                      {/* 著者名ラベル（固定幅） */}
+                      <div className="w-24 shrink-0 text-right pr-2">
+                        <span className={`text-xs font-sans truncate block ${textSecondary}`}>{author.split(' ').pop()}</span>
                       </div>
-
-                      {/* 選択中インジケーター */}
-                      {isSelected && (
-                        <ChevronRight size={13} strokeWidth={2} className={darkMode ? 'text-amber-400 shrink-0' : 'text-amber-600 shrink-0'} />
-                      )}
-                    </button>
+                      {/* ドット行 */}
+                      <div className="relative flex-1 h-7">
+                        <div className={`absolute top-1/2 left-0 right-0 h-px ${darkMode ? 'bg-zinc-800' : 'bg-stone-100'}`} />
+                        {aTexts.map(t => {
+                          const isSelected = selectedText === t.id;
+                          return (
+                            <button
+                              key={t.id}
+                              onClick={() => handleTextChange(t.id, { keepTimeline: true })}
+                              title={`${t.title}（${t.year}）`}
+                              className={`absolute top-1/2 -translate-y-1/2 -translate-x-1/2 rounded-full transition-all z-10 ${
+                                isSelected
+                                  ? `w-4 h-4 ring-2 ring-offset-1 ${darkMode ? 'ring-amber-400' : 'ring-stone-800'} ${dot}`
+                                  : `w-2.5 h-2.5 hover:w-3.5 hover:h-3.5 opacity-60 hover:opacity-100 ${dot}`
+                              }`}
+                              style={{ left: `${xPct(t.yearNum)}%` }}
+                            />
+                          );
+                        })}
+                      </div>
+                    </div>
                   );
                 })}
               </div>
             </div>
-          ))}
-        </div>
+          </div>
+        )}
 
-        <div className={`px-4 py-2 border-t text-xs font-sans ${borderClass} ${textSecondary} opacity-60`}>
-          各行をクリックするとテキストを選択します
+        {/* フッター */}
+        <div className={`px-4 py-2 border-t text-xs font-sans flex items-center gap-2 ${borderClass} ${textSecondary} opacity-60`}>
+          {isMap
+            ? 'ドットをクリックで選択 — タイムラインを表示したまま本文へ移動できます'
+            : '行をクリックで選択 — タイムラインを表示したまま本文へ移動できます'
+          }
         </div>
       </div>
     );
@@ -1199,7 +1281,7 @@ export default function App() {
             )}
           </div>
           <button
-            onClick={() => { setShowBookmarks(v => !v); setShowTimeline(false); }}
+            onClick={() => { setShowBookmarks(v => !v); setTimelineMode(false); }}
             title="ブックマーク一覧"
             className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
               showBookmarks
@@ -1290,12 +1372,19 @@ export default function App() {
                 ><X size={13} strokeWidth={2} /></button>
               )}
             </div>
-            {/* 時系列マップ トグルボタン */}
+            {/* 時系列マップ トグルボタン：off→list→map→off のサイクル */}
             <button
-              onClick={() => { setShowTimeline(v => !v); setShowBookmarks(false); }}
-              title="時系列マップ"
+              onClick={() => {
+                setShowBookmarks(false);
+                setTimelineMode(prev => {
+                  if (!prev) return 'list';
+                  if (prev === 'list') return 'map';
+                  return false;
+                });
+              }}
+              title={!timelineMode ? '時系列リストを開く' : timelineMode === 'list' ? '横マップに切替' : '閉じる'}
               className={`shrink-0 w-10 h-10 flex items-center justify-center rounded-xl border transition-colors ${
-                showTimeline
+                timelineMode
                   ? darkMode ? 'bg-amber-700 text-amber-100 border-amber-600' : 'bg-stone-800 text-white border-stone-700'
                   : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-400 border-zinc-700' : 'bg-white hover:bg-stone-50 text-stone-500 border-stone-300'
               }`}
@@ -1317,7 +1406,7 @@ export default function App() {
         </div>
 
         {/* ─── 時系列マップ ──────────────────────── */}
-        {showTimeline && <TimelineView />}
+        {timelineMode && <TimelineView />}
         <div className={`rounded-xl border p-4 mb-6 ${cardBgClass}`}>
           <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} mb-3`}>
             テキスト一覧

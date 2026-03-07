@@ -2,74 +2,91 @@
   "id": "valmore_fleurs",
   "title": "Les Fleurs",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Bouquets et Prières",
+  "source": "Bouquets et Prières, Dumont, Paris, 1843. 照合出典: Œuvres poétiques, Gallimard / Bibliothèque de la Pléiade, 1983; wikisource.org; poetes.com.",
   "year": "1843",
+  "firstPublication": "Bouquets et Prières, Dumont, Paris, 1843",
   "difficulty": "初級",
   "category": "valmore",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★☆☆",
-  "context": "花を人間の感情・魂の象徴として描く。『Bouquets et Prières（花束と祈り）』という詩集タイトルが示す通り、花のイメージはヴァルモール夫人の詩世界全体を貫くモチーフ。『Les Roses de Saadi』と対で読むと奥行きが増す。",
-  "keywords": ["fleurs", "âme", "nature", "beauté", "offrande"],
-  "relatedTexts": ["valmore_roses", "valmore_chambre"],
+  "context": "1843年刊行の詩集『花束と祈り（Bouquets et Prières）』に収録。詩集タイトルが示す通り、花のイメージと祈りの行為がヴァルモール詩世界の両軸をなす。全12行の四行連句×3連構成で、韻配置は ABAB / CDCD / CECE 変形──第3連の C 韻（-outes）が第2連の C 韻（toutes/route）を再び召喚し、花の声と神の行為が音韻的に呼応する。情景描写（§1）→花の祈り（§2）→神の応答と香りの昇天（§3）という三段構造が、「渇き→祈り→雨→香り」という自然の循環と重なる。「Les Roses de Saadi」（薔薇が海へ散り香りが残る）と対読すると、ヴァルモールの「香りの詩学」──失われながら神または他者へと向かう香り──の全体像が浮かぶ。",
+  "keywords": ["花", "祈り", "神", "渇き", "雨", "香り", "魂の昇天"],
+  "relatedTexts": [
+    "valmore_les_roses_de_saadi",
+    "valmore_couronne",
+    "valmore_adieu",
+    "baudelaire_correspondances",
+    "verlaine_poetes_maudits_valmore"
+  ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "Toutes les fleurs allaient mourir de soif ;",
-      "officialTranslation": "すべての花が渇きで死にかけていた；"
+      "french": "Toutes les fleurs allaient mourir de soif ;\nLe ciel fermait sa grande urne profonde.\nLa terre aride attendait le convoi\nDes nuages qui pleurent sur le monde.",
+      "provisionalTranslation": "すべての花が渇きで死にかけていた；\n天は深い大きな壺を閉じていた。\n乾いた大地は葬列を待っていた\n世界に泣きかかる雲たちの。"
     },
     {
       "id": 2,
-      "french": "Le ciel fermait sa grande urne profonde.",
-      "officialTranslation": "天は深い大きな壺を閉じていた。"
+      "french": "Elles priaient : « Pitié ! nous mourons toutes,\nNotre parfum s'épuise en s'exhalant.\nDieu ! fais pleuvoir ! nos âmes sont en route\nPour te chercher au ciel en s'en allant. »",
+      "provisionalTranslation": "花たちは祈っていた：「哀れみを！ 私たちはみな死にゆく、\n私たちの香りは漂い続けて尽きていく。\n神よ、雨を降らせて！ 私たちの魂は旅立ちかけている\n去りながら天のあなたを探しに。」"
     },
     {
       "id": 3,
-      "french": "La terre aride attendait le convoi",
-      "officialTranslation": "乾いた大地は葬列を待っていた"
+      "french": "Et Dieu pleura. La pluie aux longues gouttes\nTomba du ciel comme un pardon sur elles.\nLes fleurs disaient : « C'est Dieu qui nous écoute ! »\nEt leur parfum montait comme des prières.",
+      "provisionalTranslation": "そして神は泣いた。長い雫の雨が\n彼女たちの上へ赦しのように天から降った。\n花たちは言った：「神が私たちの声を聴いてくださった！」\nそして花たちの香りは祈りのように昇っていった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "四行連句（quatrain）×3連、12行。韻配置：\n• §1：soif / convoi（A）／ profonde / monde（B）──ABAB\n• §2：toutes / route（C）／ exhalant / allant（D）──CDCD\n• §3：gouttes / écoute（C′）／ elles / prières（E）──C′EC′E 変形\n第2連と第3連で C 韻（-outes：toutes / route / gouttes / écoute）が繰り返されることで、「花の祈り（§2）」と「神の応答（§3）」が音韻的に接続される──花が呼びかけ、神が同じ音で応じるという構造。詩の内容の「呼びかけと応答」が韻の連結によって音響的に体現される。"
     },
     {
-      "id": 4,
-      "french": "Des nuages qui pleurent sur le monde.",
-      "officialTranslation": "世界に泣きかかる雲たちの。"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Toutes les fleurs allaient mourir de soif ;\nLe ciel fermait sa grande urne profonde.",
+      "body": "冒頭の「Toutes（すべて）」：包括的否定──すべての花が、例外なく、渇きで死にかけている。「allaient mourir（死にかけていた）」の半過去：進行中の、まだ完了していない危機。「urne profonde（深い壺）」：urne は骨壺・葬儀の壺でもある──天が閉じた壺として描かれることで、雨＝水が「死者の骨壺の中の水」として神話的含意を得る。天が水を「閉じ込めている」というイメージ：雨の不在が神の沈黙として提示される。「La terre aride attendait le convoi（乾いた大地は葬列を待っていた）」──convoi（葬列）という語：死が行列として空間化される。雲が「泣く（pleurent）」という擬人化：雲の雨が涙として提示され、§3「神は泣いた（Dieu pleura）」への伏線となる。"
     },
     {
-      "id": 5,
-      "french": "Elles priaient : « Pitié ! nous mourons toutes,",
-      "officialTranslation": "花たちは祈っていた：「哀れみを！ 私たちはみな死にゆく、"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Elles priaient : « Pitié ! nous mourons toutes,\nNotre parfum s'épuise en s'exhalant.",
+      "body": "花の祈りの直接話法──引用符（«  »）による花の声の劇的な前景化。「Pitié !（哀れみを！）」という感嘆詞で始まる叫び。「notre parfum s'épuise en s'exhalant（私たちの香りは漂い続けて尽きていく）」──s'épuiser（尽きる・枯渇する）と s'exhaler（漂い出る・蒸発する）が同時進行する：香りが外へ出ることそのものが消耗であり、「香る」ことが「死ぬ」ことと同義になる。ヴァルモールの「香りの詩学」の核心──香りは生命と死の境界上にある。「Les Roses de Saadi」の「odorant souvenir（芳しい記憶）」と「La Couronne effeuillée」の「mon parfum perdu（失われた私の香り）」と三詩を貫く香りのモチーフ。"
     },
     {
-      "id": 6,
-      "french": "Notre parfum s'épuise en s'exhalant.",
-      "officialTranslation": "私たちの香りは漂い続けて尽きていく。"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "nos âmes sont en route\nPour te chercher au ciel en s'en allant.",
+      "body": "「私たちの魂は旅立ちかけている──去りながら天のあなたを探しに」──花の魂が死の瞬間に神へ向かう逆説的な運動。「en s'en allant（去りながら）」：ジェロンディフによる同時性──死にながら同時に神を探す。この「死への旅＝神への旅」という等置は詩集タイトル「Bouquets et Prières（花束と祈り）」の神学的立場を一行で凝縮する。「te chercher（あなたを探す）」：神を「探す」という動詞──まだ出会っていない、確信ではなく探索。§3の「Dieu pleura（神は泣いた）」という応答が、この探索への答えとして機能する。"
     },
     {
-      "id": 7,
-      "french": "Dieu ! fais pleuvoir ! nos âmes sont en route",
-      "officialTranslation": "神よ、雨を降らせて！ 私たちの魂は旅立ちかけている"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et Dieu pleura. La pluie aux longues gouttes\nTomba du ciel comme un pardon sur elles.",
+      "body": "詩の転換点：「Et Dieu pleura（そして神は泣いた）」という極めて短い主述文。「Et（そして）」という接続詞が§2の祈りと§3の応答を直結する──祈りと応答の間に時間的隔たりなし。「pleura（泣いた）」：神の涙が雨となる。§1の「雲が泣く（pleurent）」は擬人化の比喩だったが、ここでは神が「文字通り」泣く──比喩が事実として実現される詩的構造。「La pluie aux longues gouttes（長い雫の雨）」：longues（長い）という形容詞が雨の持続性・豊かさを示す。「comme un pardon（赦しのように）」──雨が赦罪の行為として神学的に定義される。花たちの「罪」は明示されないが、渇きを「赦される」という文脈で恩寵として雨が降る。"
     },
     {
-      "id": 8,
-      "french": "Pour te chercher au ciel en s'en allant. »",
-      "officialTranslation": "去りながら天のあなたを探しに。」"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et leur parfum montait comme des prières.",
+      "body": "詩の最終行：「花たちの香りは祈りのように昇っていった（leur parfum montait comme des prières）」──詩の完璧な円環。§2の花の「祈り（elles priaient）」が下から神へ向かい、雨という「応答」が上から降り、今度は花の香りという「感謝の祈り」が再び上へ昇る。monter（昇る）という動詞：§2の「魂は en route（旅立ちかけ）」が今度は香りとして完成する──花は死なず、香りとして神へ到達した。「comme des prières（祈りのように）」：香りと祈りを等置する共感覚的比喩。ボードレール「照応（Correspondances）」の「香りと色と音の照応」という美学に先駆する、より神学的・直感的な感覚の等置。詩集タイトル「Bouquets et Prières」の二語がここで字義通りに融合する。"
     },
     {
-      "id": 9,
-      "french": "Et Dieu pleura. La pluie aux longues gouttes",
-      "officialTranslation": "そして神は泣いた。長い雫の雨が"
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Le ciel fermait sa grande urne profonde",
+      "body": "「La Couronne effeuillée」（valmore_couronne）との共鳴：両詩とも「香りが神/天へ向かう」運動で閉じる（「Les Fleurs」：parfum montait / 「La Couronne」：mon parfum perdu s'en est allé vers Dieu）。「Les Fleurs」では香りが花共同体（複数 leur parfum）として昇るのに対し、「La Couronne」では詩人個人（mon parfum）として昇る──集合的な祈りと個人的な喪失の二つの相が補完し合う。ヴァルモール詩集『Bouquets et Prières』における「花束（花の死）」と「祈り（香りの昇天）」という二項の詩的完結として、両詩は対をなす。",
+      "targetId": "valmore_couronne",
+      "targetParagraphId": null
     },
     {
-      "id": 10,
-      "french": "Tomba du ciel comme un pardon sur elles.",
-      "officialTranslation": "彼女たちの上へ赦しのように天から降った。"
-    },
-    {
-      "id": 11,
-      "french": "Les fleurs disaient : « C'est Dieu qui nous écoute ! »",
-      "officialTranslation": "花たちは言った：「神が私たちの声を聴いてくださった！」"
-    },
-    {
-      "id": 12,
-      "french": "Et leur parfum montait comme des prières.",
-      "officialTranslation": "そして花たちの香りは祈りのように昇っていった。"
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Notre parfum s'épuise en s'exhalant",
+      "body": "「Les Roses de Saadi」（valmore_les_roses_de_saadi）の香りの詩学との連絡：「Roses」では「odorant souvenir（芳しい記憶）」として香りが衣服に残留するのに対し、「Les Fleurs」では「s'épuise en s'exhalant（漂い続けて尽きる）」として香りが完全に消耗する。ヴァルモール詩における香りは「記憶として残るもの」（薔薇）と「消耗して神へ向かうもの」（花）という二つの方向性を持つ──前者が水平的な人間的記憶の詩学、後者が垂直的な神学的昇天の詩学として補完的に機能する。",
+      "targetId": "valmore_les_roses_de_saadi",
+      "targetParagraphId": null
     }
   ]
 }

@@ -1,0 +1,148 @@
+{
+  "id": "gautier_a_une_robe_rose",
+  "title": "À une robe rose",
+  "author": "Théophile Gautier",
+  "source": "Émaux et Camées, Charpentier, Paris, 1852 (1re éd.). 照合出典: Émaux et Camées, édition critique par Madeleine Cottin, Lettres Modernes Minard, 1968; Œuvres poétiques complètes, Bartillat, 2004; wikisource.org; poetes.com.",
+  "year": "1852",
+  "firstPublication": "Émaux et Camées, 1re édition, Didier, Paris, 1852",
+  "difficulty": "初級",
+  "category": "gautier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "1852年の『七宝螺鈿集』初版に収録された詩。衣服（ローブ）への呼びかけという形式をとりながら、衣服が女性の身体と接する媒介として、愛人への言葉を「衣服を通して」語る──直接的な告白の迂回路としての織物。「À une robe rose（一枚の薔薇色のドレスへ」）というタイトルの「À（〜への）」はソネットやオード詩の「呼びかけ（apostrophe）」の伝統を引き継ぎながら、愛する女性でなく衣服そのものを詩の対象とする点でゴーティエ的な「物への美学的転換」を体現している。薔薇色（rose）という色彩の選択は曖昧な──女性の肌と衣服の色が溶け合う空間を作り出す。全7連28行のオクトシラブ（8音節詩行）、ABAB 交差韻。",
+  "keywords": ["衣服", "薔薇色", "apostrophe", "肌と布", "物の美学", "七宝螺鈿集", "色彩"],
+  "relatedTexts": [
+    "gautier_l_art",
+    "gautier_symphonie_en_blanc_majeur",
+    "gautier_la_rose_the",
+    "gautier_contralto",
+    "baudelaire_la_chevelure"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "De ta vapeur rose et légère,\nTissus comme une aile d'oiseau,\nVoile de Vénus, robe chère,\nQue tu m'es précieux et beau !",
+      "provisionalTranslation": "おまえの薔薇色の軽やかな霞から、\n鳥の翼のように織りなされた、\nヴィーナスのヴェールよ、愛しいドレスよ、\nおまえは私にとってなんと貴重で美しいことか！"
+    },
+    {
+      "id": 2,
+      "french": "Sur tes plis, l'aurore qui saigne\nMet ses tons chauds et veloutés,\nEt dans tes nuances se baigne\nLe plus doux de ses clartés.",
+      "provisionalTranslation": "おまえの褶曲の上に、滲む夜明けが\nその温かくビロードのような色調を置く、\nそしておまえの色合いの中に\n夜明けの最も柔らかな光が沐浴する。"
+    },
+    {
+      "id": 3,
+      "french": "Tu sembles fait de l'épiderme\nDe ses joues, et de ses bras ronds ;\nTant la nuance est douce et ferme,\nEt les contours en sont si blonds.",
+      "provisionalTranslation": "おまえは彼女の頬と\nまるい腕の表皮から作られたようだ；\nその色合いがこれほど柔らかく確かで、\n輪郭がこれほど金色がかっているのだから。"
+    },
+    {
+      "id": 4,
+      "french": "Rose d'aurore et de nuage,\nCouleur de l'aube et du matin,\nPâle comme un beau visage\nPen pâli d'un songe lointain.",
+      "provisionalTranslation": "夜明けと雲の薔薇色よ、\n曙と朝の色よ、\n美しい顔のように青白く、\n遠い夢で青ざめた顔のように。"
+    },
+    {
+      "id": 5,
+      "french": "Tissu léger, presque insaisissable,\nEsprit de la soie, fleur du lin,\nSi fin qu'il semble impalpable,\nTout imprégné de son parfum.",
+      "provisionalTranslation": "軽やかな布地よ、ほとんど掴みどころのない、\n絹の精髄よ、亜麻布の花よ、\nこれほど繊細で触れられないほどに思えるほどの、\n彼女の香りに全て浸された。"
+    },
+    {
+      "id": 6,
+      "french": "Heureux qui peut te voir descendre\nDes épaules qu'il a chéries,\nEt ramasser ta soie tendre\nSur les dalles de marbre — et rire.",
+      "provisionalTranslation": "彼が愛した肩から\nおまえが滑り落ちるのを見ることができる者は幸せだ、\nそして大理石の床の上に\nおまえの柔らかな絹を集め──そして笑う。"
+    },
+    {
+      "id": 7,
+      "french": "Moi, je t'envie, ô robe rose,\nD'être si près de sa beauté,\nEt d'effleurer toute chose\nQu'elle a de pur et d'enchanté !",
+      "provisionalTranslation": "私はおまえを羨む、おお薔薇色のドレスよ、\n彼女の美にこれほど近くいることを、\nそして彼女の持つ純粋なものと\n魅惑されたものすべてに軽く触れることを！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "オクトシラブ（8音節詩行）7連28行、ABAB 交差韻。詩全体が「À（〜へ）」という呼びかけ格（apostrophe）で構成され、衣服を対話相手として擬人化する。詩の構造的流れ：§1（呼びかけ・価値の宣言）→ §2（色彩の夜明けとの照応）→ §3（布と肌の同一化）→ §4（色名の変奏）→ §5（素材の精髄描写）→ §6（脱衣の幸福）→ §7（羨望の告白）。詩人自身の言葉は最終連にのみ現れ（「Moi, je t'envie」）、それまで全て衣服への描写・賛美として間接化されている。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "De ta vapeur rose et légère,\nTissus comme une aile d'oiseau",
+      "body": "「薔薇色の軽やかな霞（vapeur rose et légère）」「鳥の翼のように織りなされた（Tissus comme une aile d'oiseau）」──布地の物質的特性（軽さ・透明感）が最初から非物質的なもの（霞・翼）で描かれる。vapeur（霞・蒸気）は19世紀フランス詩で女性的・神秘的な軽さの象徴語。aile d'oiseau（鳥の翼）との比喩は布の透明感・飛翔性を表しながら、同時に衣服が女性の身体を「包む翼」として保護的に機能するイメージを呼び起こす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Voile de Vénus",
+      "body": "「ヴィーナスのヴェール（Voile de Vénus）」──古代ローマの愛の女神ウェヌス（ヴィーナス）への参照。ヴィーナスはその美しさの象徴として薄いヴェールで描かれることが多く（ボッティチェリ「ヴィーナスの誕生」など）、voile（ヴェール）は神話的な美の覆いとして機能する。この参照によって「ドレスへの呼びかけ」が神話的・宇宙的次元へと格上げされる──ただの衣服がヴィーナスのヴェールの近代的変奏として提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "l'aurore qui saigne\nMet ses tons chauds et veloutés",
+      "body": "「滲む夜明け（l'aurore qui saigne）」──saigner（出血する・滲む）という動詞が夜明けの赤みに用いられる。Aurora の人格化と血のイメージが薔薇色（rose）という色彩の語源的な「血・赤み」を呼び起こす。「ビロードのような色調（tons veloutés）」：velouté（ビロード状の）は触覚語彙を視覚に転用する共感覚的表現──「L'Art」でのゴーティエ的工芸語彙（velours）との連絡。布のビロードと夜明けの色調が視触覚的に融合する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tu sembles fait de l'épiderme\nDe ses joues, et de ses bras ronds",
+      "body": "詩の転換点：衣服が女性の「表皮（épiderme）」から作られたようだという比喩。épiderme（表皮）という医学・解剖学的語彙の使用はゴーティエの特徴──身体を物質として精密に記述する態度。「頬と丸い腕の表皮」：薔薇色のドレスと女性の肌が色彩的に同一化される。ここでの認識論的転倒が詩の核心：どちらが本物でどちらが模造か分からなくなる──衣服が肌の模造か、肌が衣服の色彩的原型か。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "les contours en sont si blonds",
+      "body": "「輪郭がこれほど金色がかっている（les contours en sont si blonds）」──blond（金髪の・金色の）という形容詞が「輪郭（contours）」に付される共感覚的転用。contour（輪郭）は「L'Art」でゴーティエが「純粋な輪郭の守護者（Gardiens du contour pur）」と書いた語──輪郭の明確さが工芸的美の基準。ここでは「金色がかった輪郭」という朦朧とした記述で、布と肌の境界線自体が溶け合う状態が表現される。両詩の輪郭概念の対照。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Rose d'aurore et de nuage,\nCouleur de l'aube et du matin",
+      "body": "§4は色彩変奏の連：「夜明けと雲の薔薇色」「曙と朝の色」「夢で青ざめた顔」という三つの比喩が「薔薇色（rose）」の多様なヴァリエーションを展開する。ここでの rose は花の名前でも色の名前でもなく、曙・雲・夢という非物質的な光現象として複層化される。「La Rose-Thé」の「ほぼオパール色」と同様の「決定できない色彩」への追求──ゴーティエの色彩詩学は常に「X色に似た」「ほとんどY」という不確定性の中で最も精密になる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Pâli d'un songe lointain",
+      "body": "「遠い夢で青ざめた（pâli d'un songe lointain）」──pâlir（青ざめる）という動詞の使用は「La Rose-Thé」§5の「恥じらいで色を失う（se décolore de pudeur）」と呼応する。「遠い夢（songe lointain）」：夢が距離を持つという空間的表現──過去の夢、失われた夢。この「夢での青ざめ」が薔薇色の「淡さ・曖昧さ」の心理的根拠として機能する──鮮やかでない色には常に何らかの喪失・距離が刻まれている。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Esprit de la soie, fleur du lin",
+      "body": "「絹の精髄（Esprit de la soie）、亜麻布の花（fleur du lin）」──素材の「精髄・本質（esprit）」「花（fleur）」という最高品質を指す語で布地が描かれる。esprit は物質の最も揮発的・精神的な部分（アルコールの「spirit」と同語源）──布地の「見えない本質」としての軽さ。fleur はここでは「花」でなく「精華・最良の部分（fleur de farine＝上質な小麦粉）」の用法。「彼女の香りに全て浸された（Tout imprégné de son parfum）」：布地が女性の身体の香りを吸収・保持している──ボードレール「髪（La Chevelure）」の香りの記憶論との比較点。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Heureux qui peut te voir descendre\nDes épaules qu'il a chéries",
+      "body": "「彼が愛した肩からおまえが滑り落ちるのを見ることができる者は幸せだ」──脱衣の場面の間接的な描写。詩は「見ることができる者（Heureux qui peut te voir）」という条件形で処理し、直接の目撃者でなく「そのような幸運な者への賛美」として詩人自身を外に置く──「Moi, je t'envie（私はおまえを羨む）」という§7への橋渡し。「大理石の床（dalles de marbre）」：脱衣の空間が大理石床という建築的・工芸的素材で構成される──ゴーティエ的な物質への視線が肉体的場面にも貫かれる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Moi, je t'envie, ô robe rose,\nD'être si près de sa beauté",
+      "body": "詩の結末：「Moi（私）」という主語の突然の登場──7連28行のうち「私」が明示されるのはこの最終連のみ。それまで全て「おまえ（toi＝ドレス）」への描写・賛美として語られていた詩が、最後に詩人自身の羨望の告白として完結する。「彼女の美にこれほど近くいること（D'être si près de sa beauté）」──衣服への嫉妬・羨望。直接触れることも近くいることもできない詩人が、衣服という「幸運な媒介」を羨む逆説的な愛の表現。「effleure（軽く触れる）」という動詞の選択：強く触れるでなく「かすり触れる」──衣服の軽さと詩人の遠さが最後まで保たれる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "Moi, je t'envie, ô robe rose,\nD'être si près de sa beauté",
+      "body": "ボードレール「髪（La Chevelure）」（baudelaire_la_chevelure）との比較：両詩とも女性の身体に「近いもの」への詩的投入を主題とするが、ボードレールが「髪」に潜り込む没入・合体の詩学（「夢の港・香りの海」）を展開するのに対し、ゴーティエは衣服への羨望という距離を最後まで保つ。「effleure（かすり触れる）」対ボードレールの「plonger（潜る）」──ゴーティエ的「表面の美学」とボードレール的「深度の美学」の対照が、この二語の差異に凝縮されている。",
+      "targetId": "baudelaire_la_chevelure",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「白磁の交響曲（Symphonie en Blanc Majeur）」（gautier_symphonie_en_blanc_majeur）および「薔薇茶（La Rose-Thé）」（gautier_la_rose_the）との三詩的連環：三詩いずれも単一の色彩（白・薔薇色）に詩全体を捧げる「単色詩」の試みであり、その色を人物・衣服・花という異なる媒体に投射する。「À une robe rose」の rose は「薔薇色」「薔薇（花）」の両義を持ち、「La Rose-Thé」の薔薇の色彩描写と色名の水準で連絡する。三詩を並べることで『七宝螺鈿集』における色彩詩学の全体像が浮かぶ。",
+      "targetId": "gautier_symphonie_en_blanc_majeur",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Tissu léger, presque insaisissable",
+      "body": "insaisissable（掴みどころのない・捕捉不可能な）──法律語彙では「差し押さえできない財産」を指すが、詩的文脈では「触れても実感できないほど軽い」の意。ゴーティエの素材語彙において「insaisissable」は最高の賛辞に近い：重さ・実体・抵抗を失った素材──「L'Art」での「抵抗する塊（bloc résistant）」の対極にある素材の理念型。皮肉な逆転：「L'Art」では抵抗こそが美を生むと主張したゴーティエが、衣服の詩では抵抗のなさ・捕捉不可能性を美として称賛する。"
+    }
+  ]
+}

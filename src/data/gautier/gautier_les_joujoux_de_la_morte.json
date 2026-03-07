@@ -1,0 +1,155 @@
+{
+  "id": "gautier_les_joujoux_de_la_morte",
+  "title": "Les Joujoux de la morte",
+  "author": "Théophile Gautier",
+  "source": "Émaux et Camées, Didier, Paris, 1852 (初版). 照合出典: Émaux et Camées, édition de Madeleine Cottin, Minard, 1968; Œuvres poétiques complètes, éd. Michel Brix, Bartillat, 2004; wikisource.org.",
+  "year": "1852",
+  "firstPublication": "Émaux et Camées, Didier, Paris, 1852",
+  "difficulty": "中級",
+  "category": "gautier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "『七宝螺鈿集（Émaux et Camées）』初版（1852）収録。「Coquetterie posthume」と同じ初版収録の死の詩篇──二篇は対で読まれてきた。死んだ少女（あるいは若い女性）の遺品・おもちゃが棚に並んで、弔問客に語りかけるという趣向。joujoux（おもちゃ、jou-jou の複数形）という幼児語と morte（死者）の組み合わせが詩のグロテスクな論理を圧縮する──無邪気な遊具が死の証言者となる。「Coquetterie posthume」が死んだ女の一人称独白だったのに対し、こちらは三人称的な観察と「おもちゃ」の擬似的発話の複合構造をとる。全7連28行、オクトシラブ（8音節）、ABAB交差韻。おもちゃの個別の描写（人形・コマ・笛など）を積み重ねることで、少女の「失われた生の痕跡」を工芸的精密さで組み立てる手法は、『七宝螺鈿集』の物件詩（poème-objet）の典型。",
+  "keywords": ["おもちゃ", "死んだ少女", "遺品", "グロテスク", "物件詩", "七宝螺鈿集", "無邪気さと死", "joujoux"],
+  "relatedTexts": [
+    "gautier_coquetterie_posthume",
+    "gautier_l_art",
+    "gautier_la_rose_the",
+    "baudelaire_spleen_et_ideal",
+    "lecontelisle_epiphanie",
+    "poe_annabel_lee"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Sur le bahut aux vieilles fleurs,\nParmi les flambeaux et les palmes,\nS'étalent les joyeux charmeurs\nDes heures enfantines calmes :",
+      "provisionalTranslation": "古い花模様の大きな戸棚の上に、\n燭台と棕櫚の葉の間に、\n穏やかな幼い時間の\n愉しい魅惑者たちが並んでいる："
+    },
+    {
+      "id": 2,
+      "french": "Ces joujoux, dont le temps a fait\nDes hochets pour la Mort pâle,\nQu'on pose, hélas ! dans le cercueil\nAvec la dépouille mortale.",
+      "provisionalTranslation": "これらのおもちゃ、時が\n蒼白い死のガラガラへと変えてしまった、\nああ！棺の中に\n死の衣とともに置かれるのだ。"
+    },
+    {
+      "id": 3,
+      "french": "Ce cheval à la crinière blonde,\nCe léger polichinelle,\nCet oiseau mécanique qui ronde\nEt qui frappe avec son aile,",
+      "provisionalTranslation": "この金色のたてがみの馬、\nこの軽いポリシネル（道化人形）、\n旋回してその翼で打つ\nこの機械仕掛けの鳥、"
+    },
+    {
+      "id": 4,
+      "french": "Ce vieux nègre en bois de pitchpin,\nAvec ses yeux d'émail sauvages,\nEt ce beau château de satin\nAvec ses dorures et ses plages,",
+      "provisionalTranslation": "ピッチパイン材のこの黒人の老人、\n野生のエナメルの目を持った、\nそしてこの美しいサテンのお城、\nその金箔細工と浜辺と。"
+    },
+    {
+      "id": 5,
+      "french": "Ce diablotin dans son gousset,\nCette poupée au rire de cire,\nCe nain grotesque qui sait\nDanser, marcher ou bien sourire,",
+      "provisionalTranslation": "ポケットの中のこの小悪魔、\nこの蝋の笑顔の人形、\n踊り、歩き、あるいは微笑むことを知っている\nこのグロテスクな小人、"
+    },
+    {
+      "id": 6,
+      "french": "Tout cela dort dans ce caveau\nSous les baisers de Sainte-Nitouche,\nAvec la morte au teint si beau\nDont vous pouvez voir le dessin sur son livre de messe.",
+      "provisionalTranslation": "それらすべてがこの地下廟で眠っている\nサント＝ニトゥシュのキスの下で、\nこんなに美しい顔色の死者とともに\nその祈祷書の上に描いた絵を見ることができる。"
+    },
+    {
+      "id": 7,
+      "french": "Doux joujoux, dormez en paix\nAuprès de votre compagne ;\nSur votre sommeil à jamais\nQue le paradis vous daigne !",
+      "provisionalTranslation": "やさしいおもちゃたちよ、安らかに眠れ\nあなたたちの仲間の傍らで；\nあなたたちの永遠の眠りの上に\n天国がその恵みをたれますように！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "オクトシラブ（8音節）7連28行、ABAB交差韻。\n韻配置：\n• §1：fleurs / charmeurs（A）／ palmes / calmes（B）\n• §2：fait / cercueil（A変則）／ pâle / mortale（B）\n• §3：blonde / ronde（A）／ polichinelle / aile（B）\n• §4：pitchpin / satin（A）／ sauvages / plages（B）\n• §5：gousset / sait（A）／ cire / sourire（B）\n• §6：caveau / beau（A）／ Sainte-Nitouche / messe（B変則）\n• §7：paix / jamais（A）／ compagne / daigne（B）\n§2・§6で交差韻が変則化：詩の「ほころび」が死の介入による秩序の乱れと同期する。§3〜§5の三連がおもちゃの列挙（Ce… / Ce… / Ce…）で構成される「目録的」構造──工芸品の精密な列挙はゴーティエ詩の定型的手法（「L'Art」「白磁の交響曲」等）。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Sur le bahut aux vieilles fleurs,\nParmi les flambeaux et les palmes",
+      "body": "冒頭の空間設定：bahut（大きな装飾戸棚）の上に flambeaux（燭台）と palmes（棕櫚の葉）が並んでいる。この空間は曖昧に宗教的──palme は「棕櫚日曜日（Dimanche des Rameaux）」の宗教的象徴であり、martyrdom（殉教）の iconography でもある。しかし flambeaux は葬儀の場でも日常空間でも使われる。「古い花模様（vieilles fleurs）」：時間の経過による「古さ」が最初から導入される──「Coquetterie posthume」の骨董屋と同様、ゴーティエの空間は常にすでに時間によって変容した空間。おもちゃが「愉しい魅惑者たち（joyeux charmeurs）」として擬人化される──まだ「おもちゃ」という楽しい存在として導入され、次連の死の告知と対比を準備する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ces joujoux, dont le temps a fait\nDes hochets pour la Mort pâle",
+      "body": "詩の構造的転換：「時が……死のガラガラへと変えてしまった（le temps a fait / Des hochets pour la Mort pâle）」。hochet（ガラガラ）：赤ちゃんのおもちゃ──joujoux（より一般的な「おもちゃ」）よりも幼い・原始的なおもちゃ。死（la Mort）がガラガラを持って遊ぶという不条理なイメージ：死が「子どもに還る」のではなく、少女の生きた喜びのおもちゃが死の道具へと変容する。「蒼白い死（la Mort pâle）」：擬人化された死への直接的言及はゴーティエ詩で珍しい──通常は物質・色彩の描写に徹するゴーティエが、ここでは死を人格として提示する。「Coquetterie posthume」と対比：あちらは死んだ女自身が主体として命令するのに対し、こちらは「時」と「死」が外部から作用しておもちゃを変容させる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "la dépouille mortale",
+      "body": "dépouille mortale（死の衣・遺骸）：dépouille は本来「脱ぎ捨てられた皮・衣」──蛇が脱皮した皮、あるいは鎧を脱いだ後の遺体。死を「脱ぎ捨てられた外皮」として提示することで、魂の離脱という宗教的含意と、身体を「空の容れ物」とする唯物的描写が重なる。棺の中に死体と一緒におもちゃを埋葬するという風習は古代（エジプト・ギリシャの墓に副葬品を入れる慣習）と19世紀の子ども向け葬儀慣行の両方を示唆する。ゴーティエはこの慣習を感傷化せず、「hélas !（ああ！）」という一語の嘆息を挿入した後、淡々と事実として述べる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ce cheval à la crinière blonde,\nCe léger polichinelle,\nCet oiseau mécanique qui ronde\nEt qui frappe avec son aile,",
+      "body": "§3〜§5の三連は「Ce（この）」という指示代名詞による目録──個々のおもちゃを「これ、これ、これ」と指し示しながら列挙する。この「Ce〜」の反復は美術館での作品目録・競売目録・骨董品の記述に類似した語法──ゴーティエの骨董商的・美術批評家的視線。「金色のたてがみの馬（cheval à la crinière blonde）」：子ども向け木馬の典型。crinière blonde（金髪のたてがみ）という色彩的精密さが、おもちゃを絵画的対象として描く。「軽いポリシネル（léger polichinelle）」：道化人形──コメディア・デラルテのキャラクター。léger（軽い）という形容が「Coquetterie posthume」の「léger fard（軽い白粉）」と呼応：「軽さ」が無邪気さ・コケットリー両方の美質。「機械仕掛けの鳥（oiseau mécanique）」：自動人形（automate）への言及──18世紀の機械人形文化の遺産。「旋回して翼で打つ（qui ronde / Et qui frappe avec son aile）」：機械的反復動作の描写が不気味さを帯びる──主人がいなくなった後も機械は動き続ける可能性。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ce vieux nègre en bois de pitchpin,\nAvec ses yeux d'émail sauvages",
+      "body": "「ピッチパイン材の黒人の老人（nègre en bois de pitchpin）」：19世紀の子ども向けおもちゃに実際に存在した木製の黒人人形の民俗学的記述。pitchpin（ピッチパイン：松脂を多く含む松材）という素材の具体的名指しはゴーティエの物質的精密さの典型──「L'Art」でエナメル・大理石・瑪瑙を素材名で指定するのと同じ手法。「野生のエナメルの目（yeux d'émail sauvages）」：émail（エナメル）──詩集名「Émaux（七宝・エナメル）」の語が人形の目を描写するのに使われることで、詩集の美学的キーワードが具体的な事物の素材として現れる。sauvages（野生の）という形容が人形の静止した目に不穏な生命感を与える。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "ce beau château de satin\nAvec ses dorures et ses plages",
+      "body": "château de satin（サテンのお城）：サテン（絹の光沢素材）で作られたミニチュアのお城──人形遊び用の家・城の19世紀版。dorures（金箔細工・金メッキ装飾）とplages（浜辺・平らな面）という組み合わせ：plages は建築用語で「平らな装飾面」を指す。このサテンのお城はゴーティエ詩全体の「工芸品への愛着」の縮図：素材（サテン・金箔）と構造（城）が精密に記述されることで、子どものおもちゃが本物の工芸品と同等の分析的注目を受ける。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Cette poupée au rire de cire",
+      "body": "「蝋の笑顔の人形（poupée au rire de cire）」──cire（蝋）は「Coquetterie posthume」の死体化粧・「La Rose-Thé」の色彩描写を通じてゴーティエ詩に浸透する素材。蝋は：可塑性（形を作れる）・可死性（溶ける・色あせる）・人工的生命感（蝋人形）の三重性を持つ。「蝋の笑い（rire de cire）」：固定された笑顔──人形の笑いは作られた・変わらない笑いであり、それが蝋という素材で明示される。死んだ少女の「失われた笑い」が人形の「固定された蝋の笑い」として保存される、という照応関係が浮かぶ。cire / sourire の韻：「蝋（cire）」と「微笑み（sourire）」の音的近接が意味的連結を強化する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ce nain grotesque qui sait\nDanser, marcher ou bien sourire",
+      "body": "「踊り、歩き、微笑むことを知っているグロテスクな小人（nain grotesque qui sait / Danser, marcher ou bien sourire）」：自動人形（automate）の三つの動作──ゴーティエの時代、精巧な自動人形は実際に歩き・踊り・描き・演奏できた（ヴォーカンソン・ジャケ＝ドロ兄弟の自動人形が有名）。「グロテスク（grotesque）」という形容：grotesque はゴーティエ美学の重要語彙──「フラカス大尉（Le Capitaine Fracasse）」等でも grotesque な身体が美の変形として提示される。「踊り・歩き・微笑む」という動詞の三連：「sait（知っている）」という認知動詞──人形が「知っている」という擬人化が不気味さを加速する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Tout cela dort dans ce caveau\nSous les baisers de Sainte-Nitouche",
+      "body": "§6で詩は目録から墓の情景へと転換する：「それらすべてがこの地下廟で眠っている（Tout cela dort dans ce caveau）」。caveau（地下廟・地下室）：家族墓所の地下納骨堂──「棺（cercueil）」から「caveau」へのスケールの拡大が、おもちゃを包む空間の物理的拡張を示す。「Sainte-Nitouche（サント＝ニトゥシュ）のキスの下で」：Sainte-Nitouche は「聖なる手を触れるな」を意味する俗語的人名で、「しおらしく見せながら実は狡猾な女」という慣用的意味を持つ。宗教的文脈（聖女・キス）と俗語（Nitouche）の矛盾──ゴーティエ的グロテスクが宗教語彙の転用として現れる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "la morte au teint si beau\nDont vous pouvez voir le dessin sur son livre de messe",
+      "body": "「こんなに美しい顔色の死者（la morte au teint si beau）」──teint si beau（こんなに美しい顔色）は「Coquetterie posthume」の「美女のように寝かせて（comme une beauté）」と照応：死者の顔の美しさという共通テーマ。「祈祷書の上に描いた絵（le dessin sur son livre de messe）」：livre de messe（祈祷書・ミサ典書）は少女の信仰心の証であり、その表紙・扉絵に少女の肖像が描かれている──死後に残る「絵としての顔」という motif が、「仮面（masque）」「眠っている美女のポーズ」という「Coquetterie posthume」の主題と連絡する。vous（あなたたち・見物人）という二人称：詩の外部の「読者・弔問客」に直接語りかける──詩の内部世界が突破される。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Doux joujoux, dormez en paix\nAuprès de votre compagne",
+      "body": "詩の結末：おもちゃへの直接の呼びかけ「やさしいおもちゃたちよ（Doux joujoux）」──三連の目録での「これ（Ce）」という指示から、「あなたたち（vous）」という呼格への転換。joujoux（おもちゃ）は幼児語として詩の全体を通じてあえて「子どもの語彙」で保持されてきたが、最終連でその「幼稚な」語が「dormez en paix（安らかに眠れ）」という死者への定型的祈願文と並列される。この並置がグロテスクの最終形：おもちゃへの「安らかに眠れ」という弔辞。「あなたたちの仲間（votre compagne）」：死んだ少女がおもちゃの「仲間（compagne）」として定義される──おもちゃが少女と同等の存在として扱われるという逆転。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Sur votre sommeil à jamais\nQue le paradis vous daigne !",
+      "body": "最終行「天国があなたたちにその恵みをたれますように（Que le paradis vous daigne）」──daigner（恵みを垂れる・よしとする）は「目上のものが目下を認める」というニュアンスの強い語。おもちゃに「天国の恵み」を求めるという祈りは表面的には敬虔に見えるが、「daigne（よしとする）」という語の使用により、天国が「おもちゃを認めてやる」という慇懃無礼な構造が現れる──「Coquetterie posthume」の「masque」と同様、宗教的語彙の逆説的・皮肉的使用。「永遠の眠り（sommeil à jamais）」：死の婉曲表現が「眠り」で統一される──§6の「Tout cela dort（すべてが眠っている）」と連動し、死・睡眠・おもちゃの「眠り」が同一の語で包括される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Ce cheval à la crinière blonde,\nCe léger polichinelle,\nCet oiseau mécanique",
+      "body": "ポー「アナベル・リー（Annabel Lee）」（poe_annabel_lee）との比較的文脈：ポーが死んだ幼い愛人への詩を書いたように（「彼女は私のために、私は彼女のために愛していた」）、ゴーティエは死んだ少女の遺品を通じてその生の痕跡を辿る。しかしポーが「愛」という感情を主軸にするのに対し、ゴーティエは感情を排した「物件の目録」として少女の死を提示する──感傷的悼詩でなく工芸的な「死の記録」としての詩。ゴーティエの方法はむしろル・コント・ド・リール「聖なる供物（lecontelisle_epiphanie）」のような「感情の彫刻化」に近い。",
+      "targetId": "poe_annabel_lee",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "yeux d'émail sauvages",
+      "body": "ゴーティエ「L'Art」（gautier_l_art）との素材的連環：「L'Art」のキーワード émail（エナメル・七宝）が「野生のエナメルの目（yeux d'émail sauvages）」として人形の素材名に転用される。詩集タイトル「Émaux et Camées（七宝と浮彫宝石）」の émail が詩の内部に現れることで、詩集全体のメタ・コメンタリーとして機能する：おもちゃの精密な素材描写が「七宝工芸」の作業と同一視され、詩人の目が職人の目として確認される。この自己言及性はゴーティエ詩集の重要な特徴──詩と工芸品の境界を詩の内部で消去する。",
+      "targetId": "gautier_l_art",
+      "targetParagraphId": null
+    }
+  ]
+}

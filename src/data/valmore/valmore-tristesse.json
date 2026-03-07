@@ -2,95 +2,113 @@
   "id": "valmore_tristesse",
   "title": "Tristesse",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Poésies inédites",
+  "source": "Poésies inédites, Genève, 1860 (éd. posthume, publiée par Gustave Revilliod). 初出: Le Mousquetaire, 15 mars 1854. 照合出典: Œuvres poétiques, Gallimard / Bibliothèque de la Pléiade, 1983; wikisource.org; poetes.com.",
   "year": "1860",
-  "firstPublication": "Le Mousquetaire, 1854-03-15",
-  "difficulty": "初級",
+  "firstPublication": "Le Mousquetaire, 15 mars 1854",
+  "difficulty": "中級",
   "category": "valmore",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★★☆",
-  "context": "ヴェーヌ博士に捧げられた詩。『Poésies inédites』（1860）所収。微笑みで苦しみを隠したいという願いから始まり、記憶から癒えることのできない魂の問いで締めくくられる。「記憶から癒えてはならないなら、死ぬことに何の意味があるのか」という末尾の問いをボードレールがヴァルモール夫人論に引用した。",
-  "keywords": ["tristesse", "mémoire", "sourire", "souffrance", "mourir"],
-  "relatedTexts": ["valmore_avis", "baudelaire_valmore_critique"],
+  "context": "1854年3月15日付けの文芸紙『ル・ムスクテール』に初出、後に遺稿集『未刊詩篇』（1860）に収録。ヴェーヌ博士（Docteur Véron：パリ・オペラ座支配人、文芸後援者）への献詩。全16行・四行連句×4連、AABB 対韻。「微笑みで苦しみを隠したい（§1）」→「そうすれば涙も悲しみも見えないだろう（§2）」→「しかし神はわれわれにその偽りを与えなかった（§3）」→「では来世においても別れを告げるが、記憶から癒えてはならないなら死ぬことに意味はあるか（§4）」という四段論法。最終行「À quoi sert, ô mon âme, à quoi sert de mourir ?（おお我が魂よ、死ぬことに何の意味があるのか）」をボードレールが『ヴァルモール夫人論』で引用し、「これほど人間的に真実な詩行を私は知らない」と評した。",
+  "keywords": ["悲しみ", "微笑み", "記憶", "死", "神", "偽り", "四段論法"],
+  "relatedTexts": [
+    "valmore_adieu",
+    "valmore_les_roses_de_saadi",
+    "verlaine_poetes_maudits_valmore",
+    "baudelaire_valmore_critique"
+  ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "Si je pouvais trouver un éternel sourire,",
-      "provisionalTranslation": "もし永遠の微笑みを見つけることができたなら、"
+      "french": "Si je pouvais trouver un éternel sourire,\nVoile innocent d'un cœur qui s'ouvre et se déchire,\nJe l'étendrais toujours sur mes pleurs mal cachés\nEt qui tombent souvent par leur poids épanchés.",
+      "provisionalTranslation": "もし永遠の微笑みを見つけることができたなら、\n開いては引き裂かれる心の無垢なヴェール、\nそれをいつも、うまく隠せない私の涙の上に広げるだろう、\nその重さに溢れてしばしば落ちてくる涙の上に。"
     },
     {
       "id": 2,
-      "french": "Voile innocent d'un cœur qui s'ouvre et se déchire,",
-      "provisionalTranslation": "開いては引き裂かれる心の無垢なヴェール、"
+      "french": "Renfermée à jamais dans mon âme abattue,\nJe dirais : « Ce n'est rien » à tout ce qui me tue ;\nEt mon front orageux, sans nuage et sans pli,\nDu calme enfant qui dort peindrait l'heureux oubli.",
+      "provisionalTranslation": "打ちひしがれた魂の中に永遠に閉じ込められて、\n私を殺すすべてのものに「何でもない」と言うだろう；\n嵐のような私の額も、雲もしわも消えて、\n眠る穏やかな子供の幸せな忘却を描き出すだろう。"
     },
     {
       "id": 3,
-      "french": "Je l'étendrais toujours sur mes pleurs mal cachés",
-      "provisionalTranslation": "それをいつも、うまく隠せない私の涙の上に広げるだろう、"
+      "french": "Dieu n'a pas fait pour nous ce mensonge adorable,\nLe sourire défaille à la plaie incurable :\nCette grâce mêlée à la coupe de fiel,\nDieu mourant l'épuisa pour l'emporter au ciel.",
+      "provisionalTranslation": "神はわれわれのためにこの愛すべき偽りを作らなかった、\n癒えない傷の前で微笑みは力を失う：\n苦汁の杯に混ぜ合わされたこの恩寵を、\n死にゆく神が使い果たして天国へ持ち去った。"
     },
     {
       "id": 4,
-      "french": "Et qui tombent souvent par leur poids épanchés.",
-      "provisionalTranslation": "その重さに溢れてしばしば落ちてくる涙の上に。"
+      "french": "Adieu, sourire ! Adieu jusque dans l'autre vie,\nSi l'âme, du passé n'y peut être suivie !\nMais si de la mémoire on ne doit pas guérir,\nÀ quoi sert, ô mon âme, à quoi sert de mourir ?",
+      "provisionalTranslation": "さようなら、微笑みよ！ 来世においてもさようなら、\nもし魂がそこで過去に追われることがないなら！\nしかし記憶から癒えてはならないなら、\nおお我が魂よ、死ぬことに何の意味があるのか？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "アレクサンドラン（12音節）四行連句×4連、全16行、AABB 対韻（連句韻）：\n• §1：sourire / déchire（A）／ cachés / épanchés（B）\n• §2：abattue / tue（C）／ pli / oubli（D）\n• §3：adorable / incurable（E）／ fiel / ciel（F）\n• §4：vie / suivie（G）／ guérir / mourir（H）\n詩の論理構造：§1（仮定：「もし〜できたなら」Si je pouvais）→§2（仮定の結果：「〜と言うだろう / 描き出すだろう」Je dirais / peindrait）→§3（論理的否定：「しかし神は〜しなかった」Dieu n'a pas fait）→§4（結論と問い：「さようなら / 何の意味があるのか」Adieu / À quoi sert）という四段論法。条件法（§1〜2）→否定的事実（§3）→問い（§4）という三つの法（mode）の変化が詩の論理的進行を体現する。"
     },
     {
-      "id": 5,
-      "french": "Renfermée à jamais dans mon âme abattue,",
-      "provisionalTranslation": "打ちひしがれた魂の中に永遠に閉じ込められて、"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Si je pouvais trouver un éternel sourire,\nVoile innocent d'un cœur qui s'ouvre et se déchire,",
+      "body": "「もし永遠の微笑みを見つけることができたなら」──Si + 条件法過去（pouvais）による「実現不可能な仮定」の提示。最初の語から詩は「不可能なこと」について語る。「éternel sourire（永遠の微笑み）」：sourire（微笑み）が詩の核心語として§1冒頭と§4冒頭（Adieu, sourire !）に対称的に置かれ、詩全体を括る。「Voile innocent d'un cœur qui s'ouvre et se déchire（開いては引き裂かれる心の無垢なヴェール）」──voile（ヴェール）という隠蔽の比喩：微笑みは苦しみを覆い隠すヴェール。「s'ouvre et se déchire（開いては引き裂かれる）」という心の二つの動作：開放と裂傷が反復的に対になる──心は開くたびに傷つく。「ゴーティエ「à une robe rose」の「Voile de Vénus（ヴィーナスのヴェール）」との対照：ゴーティエのヴェールが美を覆う神話的な布であるのに対し、ヴァルモールのヴェールは苦しみを覆い隠す仮面として機能する。"
     },
     {
-      "id": 6,
-      "french": "Je dirais : « Ce n'est rien » à tout ce qui me tue ;",
-      "provisionalTranslation": "私を殺すすべてのものに「何でもない」と言うだろう。"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Je l'étendrais toujours sur mes pleurs mal cachés\nEt qui tombent souvent par leur poids épanchés.",
+      "body": "「うまく隠せない涙の上に広げるだろう（Je l'étendrais toujours sur mes pleurs mal cachés）」──条件法 étendrais：「広げるだろう」という非現実の動作。「mal cachés（うまく隠せない）」：既に涙は「うまく」隠せていない──微笑みというヴェールは完全ではなく、その下から涙が漏れ出している。「qui tombent souvent par leur poids épanchés（その重さに溢れてしばしば落ちてくる）」──épanché（溢れ出す・打ち明ける）：涙が「重さに耐えかねて溢れ落ちる」という物理的描写。§1全体が「覆いたい→しかし既に溢れている」という不可能性の提示として機能する。"
     },
     {
-      "id": 7,
-      "french": "Et mon front orageux, sans nuage et sans pli,",
-      "provisionalTranslation": "嵐のような私の額も、雲もしわも消えて、"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Renfermée à jamais dans mon âme abattue,\nJe dirais : « Ce n'est rien » à tout ce qui me tue ;",
+      "body": "「打ちひしがれた魂の中に永遠に閉じ込められて（Renfermée à jamais dans mon âme abattue）」──renfermée（再び閉じ込められた）という過去分詞が主語（Je）に付される：詩人自身が自分の魂の中に閉じ込められている状態。à jamais（永遠に）：「La Couronne effeuillée」の「À jamais（永遠に）」と同語──永続的な閉塞感。「Je dirais : 'Ce n'est rien' à tout ce qui me tue（私を殺すすべてのものに「何でもない」と言うだろう）」──直接話法の「Ce n'est rien（何でもない）」：苦しみを最小化する言葉。me tue（私を殺す）という激しい動詞に対して「何でもない」という極端な矮小化──この落差が詩の感情的な核心。仮定の自己否定：もし微笑みのヴェールがあれば、死ぬほどの苦しみを「何でもない」と言えるだろう。"
     },
     {
-      "id": 8,
-      "french": "Du calme enfant qui dort peindrait l'heureux oubli.",
-      "provisionalTranslation": "眠る穏やかな子供の幸せな忘却を描き出すだろう。"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et mon front orageux, sans nuage et sans pli,\nDu calme enfant qui dort peindrait l'heureux oubli.",
+      "body": "「嵐のような私の額（mon front orageux）」──orageux（嵐の・激しい）：額に感情の嵐が刻まれているという外見的な表現。「sans nuage et sans pli（雲もしわも消えて）」──微笑みのヴェールがあれば額が「滑らか」になる：感情の痕跡が消える。「Du calme enfant qui dort peindrait l'heureux oubli（眠る穏やかな子供の幸せな忘却を描き出すだろう）」──peindre（描く）：額が「絵を描く」という比喩。「幸せな忘却（heureux oubli）」：§1〜2の仮定が完成した姿として「忘却する子供」が提示される。逆説：詩全体のテーマが「記憶から癒えてはならない（de la mémoire on ne doit pas guérir）」なのに、仮定の幸福として「忘却」が置かれる──忘却は達成できない夢として機能する。"
     },
     {
-      "id": 9,
-      "french": "Dieu n'a pas fait pour nous ce mensonge adorable,",
-      "provisionalTranslation": "神はわれわれのためにこの愛すべき偽りを作らなかった、"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Dieu n'a pas fait pour nous ce mensonge adorable,\nLe sourire défaille à la plaie incurable :",
+      "body": "§3で詩は仮定から否定的事実へと転換する。「Dieu n'a pas fait pour nous ce mensonge adorable（神はわれわれのためにこの愛すべき偽りを作らなかった）」──mensonge adorable（愛すべき偽り）：§1〜2で「あれば良かった」と望まれた微笑みが「mensonge（偽り・嘘）」と名指される。しかも「adorable（愛すべき）」という形容詞──嘘であるが愛おしい嘘。神が「われわれのため（pour nous）」にそれを作らなかった：神は人間に完全な仮面を与えなかった。「Le sourire défaille à la plaie incurable（癒えない傷の前で微笑みは力を失う）」──défaillir（力を失う・気絶する）：微笑みが「倒れる」。plaie incurable（癒えない傷）：「Tristesse」の中心語──傷は癒えない、微笑みは持続しない。"
     },
     {
-      "id": 10,
-      "french": "Le sourire défaille à la plaie incurable :",
-      "provisionalTranslation": "癒えない傷の前で微笑みは力を失う。"
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "la coupe de fiel",
+      "body": "coupe de fiel（苦汁の杯）──fiel はフランス語で「胆汁・苦みのある液体」、転じて「苦しみ・恨み」の象徴。「苦汁の杯（coupe de fiel）」はキリスト受難の象徴的表現：ゲツセマネの園でイエスが「この杯を過ぎ去らせてください（Mt 26:39）」と祈った「杯」の典拠。「Cette grâce mêlée à la coupe de fiel（苦汁の杯に混ぜ合わされた恩寵）」：微笑みという恩寵が苦しみの杯に「混ぜられている」──苦しみと恩寵が分離不可能に混在する神学的認識。「Dieu mourant l'épuisa pour l'emporter au ciel（死にゆく神が使い果たして天へ持ち去った）」：キリストの死が微笑みという恩寵を「使い果たした」──人間には微笑みが残らなかった。ヴァルモールのキリスト論的詩学が最も明示的に現れる行。"
     },
     {
-      "id": 11,
-      "french": "Cette grâce mêlée à la coupe de fiel,",
-      "provisionalTranslation": "苦汁の杯に混ぜ合わされたこの恩寵を、"
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Adieu, sourire ! Adieu jusque dans l'autre vie,\nSi l'âme, du passé n'y peut être suivie !",
+      "body": "§4の冒頭「Adieu, sourire !（さようなら、微笑みよ！）」──「L'Adieu」の「Adieu !」の二度反復と同様の感嘆的別れの語。しかしここでは「微笑み」という詩の核心語に直接向けられる。「Adieu jusque dans l'autre vie（来世においてもさようなら）」──来世（l'autre vie）においてさえ微笑みに別れを告げる：別れが現世に留まらず来世にまで及ぶ。「Si l'âme, du passé n'y peut être suivie（もし魂がそこで過去に追われることがないなら）」──条件節：来世で「過去に追われない（記憶を持たない）」なら微笑みに別れを告げる──逆に言えば「来世でも記憶が続くなら別れを告げない」という含意。この条件が最終二行へのブリッジとなる。"
     },
     {
-      "id": 12,
-      "french": "Dieu mourant l'épuisa pour l'emporter au ciel.",
-      "provisionalTranslation": "死にゆく神が使い果たして天国へ持ち去った。"
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mais si de la mémoire on ne doit pas guérir,\nÀ quoi sert, ô mon âme, à quoi sert de mourir ?",
+      "body": "詩の最終二行、ボードレールが引用した核心部分。「Mais si de la mémoire on ne doit pas guérir（しかし記憶から癒えてはならないなら）」──guérir de（〜から癒える・回復する）：記憶が「病」として定義され、癒えることが「忘却」として位置づけられる。「on ne doit pas（〜してはならない）」：義務の否定──記憶を忘れることは許されない、という道徳的・存在論的命令。「À quoi sert, ô mon âme, à quoi sert de mourir ?（おお我が魂よ、死ぬことに何の意味があるのか）」──「à quoi sert de + 不定詞」の反復：「何の役に立つのか」という反語的問い。来世でも記憶から逃れられないなら、死は苦しみからの解放にならない──「死ぬことに意味がない」という根本的な問いへの到達。詩は問いとして開かれたまま閉じる：「Tristesse」というタイトルが示す「悲しみ」が死によっても解消されないという結論。"
     },
     {
-      "id": 13,
-      "french": "Adieu, sourire ! Adieu jusque dans l'autre vie,",
-      "provisionalTranslation": "さようなら、微笑みよ！ 来世においてもさようなら、"
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "À quoi sert, ô mon âme, à quoi sert de mourir ?",
+      "body": "ボードレール「ヴァルモール夫人論（baudelaire_valmore_critique）」との直接的連絡：ボードレールはこの最終行を引用し「このような詩行が、いくつかの詩人によって書かれたすべての感嘆すべきものと匹敵する」と評した。ボードレールがヴァルモールに見出したのは「感情の直接性」と「論理の詩的変換」──「Tristesse」はその典型：四段論法という論理的構造が、条件法から否定的事実、そして開かれた問いへと変容することで、論理が感情の運動として体験される。ヴァレリー「詩法講義（valery_premiere_lecon_cours_de_poetique）」の「詩とは言語の行為と感情の状態の等価変換」という命題を、「Tristesse」は逆方向から（感情→論理→問い）実践する。",
+      "targetId": "baudelaire_valmore_critique",
+      "targetParagraphId": null
     },
     {
-      "id": 14,
-      "french": "Si l'âme, du passé n'y peut être suivie !",
-      "provisionalTranslation": "もし魂がそこで過去に追われることがないなら！"
-    },
-    {
-      "id": 15,
-      "french": "Mais si de la mémoire on ne doit pas guérir,",
-      "provisionalTranslation": "しかし記憶から癒えてはならないなら、"
-    },
-    {
-      "id": 16,
-      "french": "À quoi sert, ô mon âme, à quoi sert de mourir ?",
-      "provisionalTranslation": "おお我が魂よ、死ぬことに何の意味があるのか？"
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Voile innocent d'un cœur qui s'ouvre et se déchire",
+      "body": "「Les Roses de Saadi」（valmore_les_roses_de_saadi）の「mes ceintures closes（閉じた帯の内側）」との比較：両詩とも「内部に隠されたもの（薔薇／苦しみ）が外に溢れ出す」という運動を描く。「Les Roses」では隠された薔薇が溢れ出て海へ散り香りだけが残るのに対し、「Tristesse」では微笑みというヴェールで涙を隠そうとするが「mal cachés（うまく隠せない）」ままで涙が落ちる──どちらも「隠蔽の失敗」として内なるものが外化される。ヴァルモール詩学における「内部と外部の境界の多孔性」──感情は閉じ込められず常に溢れ出る。",
+      "targetId": "valmore_les_roses_de_saadi",
+      "targetParagraphId": null
     }
   ]
 }

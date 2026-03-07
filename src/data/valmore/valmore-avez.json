@@ -2,74 +2,90 @@
   "id": "valmore_qu_en_avez",
   "title": "Qu'en avez-vous fait ?",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Poésies inédites",
+  "source": "Poésies inédites, Genève, 1860 (éd. posthume, publiée par Gustave Revilliod). 照合出典: Œuvres poétiques, Gallimard / Bibliothèque de la Pléiade, 1983; wikisource.org; poetes.com.",
   "year": "1860",
-  "difficulty": "初級〜中級",
+  "firstPublication": "Poésies inédites, Genève, 1860 (遺稿集、没後出版)",
+  "difficulty": "初級",
   "category": "valmore",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★★☆",
-  "context": "繰り返されるリフレイン「あなたはそれをどうしたのですか？」が問いとして全体を貫く。愛・若さ・時間の喪失を嘆く告発の詩。ヴァルモール夫人のロマン主義的感情の高揚が最もよく現れた作品のひとつ。",
-  "keywords": ["perte", "jeunesse", "amour", "temps", "reproche"],
-  "relatedTexts": ["valmore_roses", "valmore_adieu", "valmore_separees"],
+  "context": "1860年の遺稿集『未刊詩篇』に収録。「Les Roses de Saadi」と同じ没後出版の詩集に収録された後期作品。「Qu'en avez-vous fait ?（あなたはそれをどうしたのですか）」という問いがリフレインとして全体を貫く告発の詩。3連×4行の規則的な四行連句構成で、各連が「心の交換」→「返却の非対称」→「問いの反復」という論理的・感情的な三段階を形成する。短い詩行（4〜6音節）がヴァルモールの通常のアレクサンドランとは異なるリズムを生み出し、断片的・切迫的な調子で「告発」の感情を体現する。",
+  "keywords": ["告発", "喪失", "約束", "非対称", "リフレイン", "時間", "若さ"],
+  "relatedTexts": [
+    "valmore_les_roses_de_saadi",
+    "valmore_adieu",
+    "verlaine_poetes_maudits_valmore",
+    "verlaine_colloque_sentimental"
+  ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "Vous aviez mon cœur,",
-      "officialTranslation": "あなたは私の心を持っていた、"
+      "french": "Vous aviez mon cœur,\nMoi, j'avais le vôtre :\nUn cœur pour un cœur ;\nBonheur pour bonheur !",
+      "provisionalTranslation": "あなたは私の心を持っていた、\n私は、あなたの心を持っていた：\n心と引き換えの心；\n幸福と引き換えの幸福！"
     },
     {
       "id": 2,
-      "french": "Moi, j'avais le vôtre :",
-      "officialTranslation": "私は、あなたの心を持っていた："
+      "french": "Le vôtre est rendu ;\nJe n'en parle plus.\nVotre bonheur, lui,\nNe m'est pas rendu.",
+      "provisionalTranslation": "あなたのは返された；\n私はもうそれを語らない。\nあなたの幸福は、それは、\n私には返されていない。"
     },
     {
       "id": 3,
-      "french": "Un cœur pour un cœur ;",
-      "officialTranslation": "心と引き換えの心；"
+      "french": "Qu'en avez-vous fait,\nVous qui me l'aviez promis ?\nQu'en avez-vous fait\nDe ce beau temps jadis ?",
+      "provisionalTranslation": "あなたはそれをどうしたのですか、\n私に約束してくれたあなたは？\nあなたはそれをどうしたのですか\nあのかつての美しい時を？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "3連×4行の規則的な四行連句（quatrain）。詩行は4〜6音節の短行──ヴァルモールの他の詩（アレクサンドラン12音節主体）と大きく異なる形式選択。韻配置：\n• §1：cœur / vôtre / cœur / bonheur（ABAB 変形──cœur の反復で AA が擬似的に形成）\n• §2：rendu / plus / lui / rendu（ABCA──rendu の反復が「返却」の意味を韻でも体現）\n• §3：fait / promis / fait / jadis（ABAB──fait の反復がリフレインを強化）\n各連内の反復（§1：cœur / cœur、bonheur / bonheur；§2：rendu / rendu；§3：Qu'en avez-vous fait / Qu'en avez-vous fait）：語の反復そのものが詩の感情構造──「交換→返却→問い」──を音の水準で刻む。短行の使用は「語られる内容が少ない」ことの形式的体現：互いに交換した心という単純な事実が、単純な語・短い行で述べられる。"
     },
     {
-      "id": 4,
-      "french": "Bonheur pour bonheur !",
-      "officialTranslation": "幸福と引き換えの幸福！"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Vous aviez mon cœur,\nMoi, j'avais le vôtre :\nUn cœur pour un cœur ;\nBonheur pour bonheur !",
+      "body": "第1連は完全な対称性の提示：「あなた→私の心」「私→あなたの心」という交換の等価性を、行の対称的配置で視覚的にも体現する。「Moi（私は）」の強調語による行頭：Vous（あなた）との二項対立を明示。「Un cœur pour un cœur（心と引き換えの心）」──pour（〜のために・〜と引き換えに）が交換の論理を明示。「Bonheur pour bonheur（幸福と引き換えの幸福）」：cœur から bonheur への拡大──心の交換が幸福の交換として結実するはずだったという提示。感嘆符（!）で連が閉じる：かつての確信・喜びの記憶。この等価性が次連で崩れることへの対比として機能する。"
     },
     {
-      "id": 5,
-      "french": "Le vôtre est rendu ;",
-      "officialTranslation": "あなたのは返された；"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le vôtre est rendu ;\nJe n'en parle plus.\nVotre bonheur, lui,\nNe m'est pas rendu.",
+      "body": "第2連は非対称性の告発。「Le vôtre est rendu（あなたのは返された）」──過去でなく現在形：返却はすでに完了した事実として提示される。「Je n'en parle plus（私はもうそれを語らない）」──矛盾を内包する行：「語らない」と言いながら詩として語っている。この自己矛盾は「語ることを諦めた感情が語らずにはいられない状態」の逆説的表現──ヴァルモールの感情詩学の典型的身振り。「Votre bonheur, lui（あなたの幸福は、それは）」──lui という強調代名詞の挿入：bonheur への焦点化。「Ne m'est pas rendu（私には返されていない）」：第1行との対比。心は「返却された」が幸福は「返却されていない」──等価交換の破綻。"
     },
     {
-      "id": 6,
-      "french": "Je n'en parle plus.",
-      "officialTranslation": "私はもうそれを語らない。"
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Le vôtre est rendu",
+      "body": "rendre（返す・返却する）──この動詞の使用が詩の基本的な比喩構造を決定する：愛・心・幸福が「貸し借り・交換・返却」できる物として扱われる。商業的・法的なニュアンスを持つ rendre を感情に用いることで、感情の「等価交換」という期待が可視化される──そしてその交換が一方的に破られたという告発が成立する。rendu の反復（行1と行4）：同じ動詞の肯定（est rendu）と否定（ne m'est pas rendu）が連の最初と最後を対称的に締め、「返却された／返却されていない」の非対称が連の構造そのもので体現される。"
     },
     {
-      "id": 7,
-      "french": "Votre bonheur, lui,",
-      "officialTranslation": "あなたの幸福は、それは、"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Qu'en avez-vous fait,\nVous qui me l'aviez promis ?\nQu'en avez-vous fait\nDe ce beau temps jadis ?",
+      "body": "詩のタイトル語がここで初出し、リフレインとして二度繰り返される。「Qu'en avez-vous fait ?（あなたはそれをどうしたのですか）」──「en」という代名詞が指すものが第1〜2連の文脈から「心・幸福・約束」のすべてを包括的に指示する曖昧な広がりを持つ。問い形式（interrogation）の使用：答えを求めるのでなく、答えられないことを知りながら問う──修辞的疑問文（question rhétorique）として機能し、告発の感情を「問いの保留」として持続させる。「Vous qui me l'aviez promis（私に約束してくれたあなたは）」：関係節が「あなた」の過去の行為（約束）を事実として記録。「ce beau temps jadis（あのかつての美しい時）」：jadis（かつて）という古語的時間副詞で、回収不能な過去として時間を確定する。beau temps（美しい時）──単純な形容詞の選択がヴァルモールの語彙的特徴：感情の強度が複雑な語ではなく単純な語と直接的な問いで表現される。"
     },
     {
-      "id": 8,
-      "french": "Ne m'est pas rendu.",
-      "officialTranslation": "私には返されていない。"
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Qu'en avez-vous fait\nDe ce beau temps jadis ?",
+      "body": "最終連のリフレイン反復（Qu'en avez-vous fait / Qu'en avez-vous fait）の二回目は、第1〜2行のリフレインとわずかに異なる──第1回は「Vous qui me l'aviez promis（私に約束したあなた）」と続き、第2回は「De ce beau temps jadis（あのかつての美しい時）」と続く。二回の問いの対象が「あなたの約束」から「時間そのもの」へと拡大する：個人への告発から時間の不可逆性への嘆きへの転換。最終行「De ce beau temps jadis」は詩行として独立し（他の詩行より長い6音節）、詩全体の余韻として開かれたまま終わる──答えのない問いが時間の中に溶けていく。"
     },
     {
-      "id": 9,
-      "french": "Qu'en avez-vous fait,",
-      "officialTranslation": "あなたはそれをどうしたのですか、"
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ヴェルレーヌ「感傷的な対話（Colloque sentimental）」（verlaine_colloque_sentimental）との比較：「Colloque sentimental」は過去の恋人同士が互いに「あなたは覚えているか」と問いながら一方は覚えておらず他方だけが記憶を持つという、同様の「愛の非対称」を主題とする。ヴァルモールの「返却された／されていない」という非対称とヴェルレーヌの「覚えている／いない」という非対称──両詩が「愛は等価に成立するが喪失は非対称である」という共通の認識から出発している。ヴェルレーヌがヴァルモールを「呪われた詩人たち」で論じた背景にこの主題的連絡がある。",
+      "targetId": "verlaine_colloque_sentimental",
+      "targetParagraphId": null
     },
     {
-      "id": 10,
-      "french": "Vous qui me l'aviez promis ?",
-      "officialTranslation": "私に約束してくれたあなたは？"
-    },
-    {
-      "id": 11,
-      "french": "Qu'en avez-vous fait",
-      "officialTranslation": "あなたはそれをどうしたのですか"
-    },
-    {
-      "id": 12,
-      "french": "De ce beau temps jadis ?",
-      "officialTranslation": "あのかつての美しい時を？"
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Qu'en avez-vous fait\nDe ce beau temps jadis ?",
+      "body": "「L'Adieu」（valmore_adieu）の「Adieu！」二度反復との対比：両詩ともヴァルモールの「反復リフレイン」詩学を体現するが、「L'Adieu」の反復が感情の高まりと身体的別れの瞬間を刻むのに対し、「Qu'en avez-vous fait ?」の反復は過去への問いかけの持続として機能する。前者が「現在の別れ」、後者が「過去への告発」という時間軸の差異が、同じ反復技法を異なる感情的質として結晶させる。二詩を並べることでヴァルモールの「喪失の詩学」の二つの様態──別れの瞬間と失われた時間の問い直し──が補完的に現れる。",
+      "targetId": "valmore_adieu",
+      "targetParagraphId": null
     }
   ]
 }

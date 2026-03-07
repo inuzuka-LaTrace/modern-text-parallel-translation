@@ -1660,7 +1660,7 @@ export default function App() {
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
           <div className="flex-1 min-w-0">
             <h1 className={`text-base font-serif font-semibold ${textClass} truncate leading-tight`}>
-              近代西洋テクスト対訳
+              Versillage
             </h1>
             {currentText && (
               <p className={`text-xs font-sans truncate mt-0.5 ${textSecondary}`}>

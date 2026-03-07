@@ -1,0 +1,129 @@
+{
+  "id": "mallarme_sonnet_yx",
+  "title": "Ses purs ongles très haut dédiant leur onyx",
+  "author": "Stéphane Mallarmé",
+  "source": "草稿：1868年（カザリス宛書簡同封）; 改稿確定版：Poésies, Éditions de La Revue Indépendante, Paris, 1887. 照合出典: wikisource.org; Œuvres complètes, Gallimard/Pléiade, 1945 (Henri Mondor・G. Jean-Aubry編)",
+  "year": "1887",
+  "firstPublication": "Poésies, La Revue Indépendante, 1887（草稿は1868年カザリス宛書簡に同封）",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "マラルメが1868年に「yx のソネ」「それ自体の寓意的ソネ（Sonnet allégorique de lui-même）」と呼んだ作品。草稿段階から約20年を経て1887年の詩集に確定版として収録。14行ソネ（ABBA/ABBA/CCD/EDE）で、押韻語「onyx / ptyx」「nixe / fixe」「Phénix / onyx」が詩の骨格を形成する。ptyx はマラルメ自身が「いかなる言語にも存在しない語」として造語した空虚な器——意味の空洞が韻律の必要から生まれるという逆説が詩学的宣言となる。後半の鏡・ニクス（水の精）・北斗七星の連鎖は、不在の光と空虚な空間の中に秩序を見出す象徴的宇宙論を構成する。",
+  "keywords": [
+    "yx のソネ",
+    "ptyx",
+    "onyx",
+    "造語",
+    "nixe",
+    "北斗七星",
+    "鏡",
+    "空虚",
+    "不在",
+    "純粋韻律",
+    "Sonnet allégorique de lui-même",
+    "カザリス宛書簡"
+  ],
+  "relatedTexts": [
+    "mallarme_coup_de_des",
+    "mallarme_sonnet_cygne",
+    "mallarme_herodiade_scene",
+    "mallarme_crise_de_vers",
+    "mallarme_toast_funebre",
+    "valery_lettre_sur_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Ses purs ongles très haut dédiant leur onyx,\nL'Angoisse, ce minuit, soutient, lampadophore,\nMaint rêve vespéral brûlé par le Phénix\nQue ne recueille pas de cinéraire amphore",
+      "provisionalTranslation": "純粋な爪でそのオニキスをはるか高くに捧げながら、\n苦悶が、この真夜中に、支える、松明を持つ者として、\n夕べの夢の多くを、フェニックスに焼かれた夢を、\n灰壺がひとつも収めることのない夢を"
+    },
+    {
+      "id": 2,
+      "french": "Sur les crédences, au salon vide: nul ptyx,\nAboli bibelot d'inanité sonore,\n(Car le Maître est allé puiser des pleurs au Styx\nAvec ce seul objet dont le Néant s'honore.)",
+      "provisionalTranslation": "飾り棚の上に、空っぽのサロンに：ptyx はなく、\n音響の空虚さを廃棄されたガラクタとして、\n（なぜなら主人は去ったのだ、ステュクスへ涙を汲みに\nこの唯一の対象を携えて、無がそれによって自らを称える対象を。）"
+    },
+    {
+      "id": 3,
+      "french": "Mais proche la croisée au nord vacante, un or\nAgonise selon peut-être le décor\nDes licornes ruant du feu contre une nixe,",
+      "provisionalTranslation": "しかし北の空いた窓の近くに、黄金が\n瀕死の状態にある、おそらくは飾りに従って\nニクスに向かって火を蹴り上げるユニコーンたちの飾りに従って、"
+    },
+    {
+      "id": 4,
+      "french": "Elle, défunte nue en le miroir, encor\nQue, dans l'oubli fermé par le cadre, se fixe\nDe scintillations sitôt le septuor.",
+      "provisionalTranslation": "彼女は、鏡の中で死んだ裸身のまま、なおも\n枠によって閉じられた忘却の中に、定着する\n七つの輝きがたちまちのうちに——北斗七星が。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "確定版（1887年）はソネ・アン・イクス（sonnet en -yx）と通称される。韻配置ABBA/ABBA/CCD/EDE。押韻語：第1四行連句「onyx / Phénix」「lampadophore / amphore」、第2四行連句「ptyx / Styx」「sonore / honore」、第1三行連句「or / décor」「nixe」、第2三行連句「encor / fixe（視覚韻）」「septuor」。全14行を4段落に分割して収録：§1＝第1四行連句、§2＝第2四行連句、§3＝第1三行連句、§4＝第2三行連句。1868年草稿（副題「Sonnet allégorique de lui-même」）から約20年の改稿を経て確定版に至る。草稿では「s'honore」が「s'enore」、「septuor」が「scintillant」と異なっていた。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ses purs ongles très haut dédiant leur onyx",
+      "body": "詩の主語が最終行まで明示されない——冒頭の「ses（その）」が何を指すかは文脈から後づけされる。爪がオニキス（縞瑪瑙、黒と白の鉱物）を捧げるという身振りは、「L'Angoisse（苦悶）」の擬人化を準備する。「lampadophore（松明を持つ者）」というギリシャ語由来の複合語が、詩の古典的・神話的空間を即座に設定する。マラルメ自身1868年のカザリス宛書簡に「私はこのソネを、いかなる意味も持たない語によって作っている——ptyx という語が私を喜ばせるのは、それがどんな言語にも存在しないからだ」と記している。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "L'Angoisse, ce minuit, soutient, lampadophore",
+      "body": "Angoisse（苦悶）：マラルメが1860年代に「Azur（青空）」と対置して用いる概念——理想への到達不可能性から生じる実存的苦悶。「ce minuit（この真夜中）」は詩の時間的舞台であり、光が消えた時間・創造の停止した時間を指す。lampadophore：ギリシャ語 λαμπαδηφόρος（松明競走の走者）から。苦悶が松明を持つことの逆説——苦悶こそが唯一の光源である。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "nul ptyx,\nAboli bibelot d'inanité sonore",
+      "body": "ptyx：マラルメが造語した、いかなる言語にも存在しない語。ギリシャ語の πτύξ（折り畳み、板）に音的に近いが、意味は意図的に空洞化されている。「Aboli bibelot d'inanité sonore（音響の空虚さを廃棄されたガラクタ）」——この一行は詩学的宣言として読める：意味を持たない（inanité）が音として成立する（sonore）語、それが廃棄（aboli）されてさえいる——三重の空虚化。マラルメの詩語の極限。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Car le Maître est allé puiser des pleurs au Styx",
+      "body": "「主人（le Maître）」は「骰子一擲」の「LE MAÎTRE（船長）」と同一の語——マラルメが創造者・詩人・運命の支配者に与える大文字の称号。ステュクス（冥府の川）へ去ったことは死・不在・沈黙の領域への移行を意味する。「このソネを書いた時、私は一時間の死の中にいた」（1868年カザリス宛書簡）。「Néant（無）がそれによって自らを称える唯一の対象」——ptyx は無の自己言及的な記念物である。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "nixe",
+      "body": "nixe（ニクス）：ゲルマン・北欧神話の水の精霊（Nixe/Nix）。フランス語としては外来語。ユニコーンがニクスに向かって火を蹴り上げる——火と水、神話的動物と水の精の対立が、暖炉か窓枠の装飾のモチーフとして描かれる。現実の室内装飾（飾り棚・窓枠の彫刻）と神話的空間が重なる構造は、マラルメの象徴的インテリアの典型。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Mais proche la croisée au nord vacante, un or\nAgonise",
+      "body": "「北の空いた窓（la croisée au nord vacante）」——北向きの窓は光の入らない窓であり、「vacante（空の）」という語が空虚のテーマを強化する。「un or / Agonise（黄金が瀕死の状態にある）」——消えかけた光（夕暮れの金色）が「瀕死」として擬人化される。前半の真夜中・松明・ステュクスへの死の行進に続き、ここで室内の光もまた消えていく。詩全体が光の消滅の過程を辿る。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "défunte nue en le miroir",
+      "body": "「鏡の中で死んだ裸身」——nixe（水の精）が鏡の中に死体として映っている、あるいは消えた反射として存在する。鏡は「不在の反射」という逆説的な装置——何も映さない（salon vide）鏡が、しかし水の精の「死」を映す。マラルメにとって鏡は詩の比喩：詩は世界を映すが、映すことで対象を消滅させる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "De scintillations sitôt le septuor.",
+      "body": "「septuor（七重奏／七つのもの）」——北斗七星（Grande Ourse）の七つの星を指す。「scintillations（輝き・きらめき）」が「定着する（se fixe）」という動詞と結合することで、鏡の中に北斗七星の反射が固定されるという最終イメージが生まれる。空っぽのサロン・不在のptyx・死んだニクス——全ての空虚と不在の後に、鏡の中の星座という逆説的な秩序が現れる。「骰子一擲」§8「UNE CONSTELLATION」と同一の運動：偶然と空虚の海から星座という秩序が生まれる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "De scintillations sitôt le septuor.",
+      "body": "「鏡の中に定着する北斗七星」は「骰子一擲」の「UNE CONSTELLATION」（§8）と詩的構造を共有する——空虚・不在・落下の後に星座という秩序が現れる逆説的運動。ヴァレリーは「マラルメへの手紙」（1927）でこのソネを「純粋な詩の極限」として引用し、「意味が韻律の必要から生まれるのでなく、韻律の必要が意味を廃棄することで詩が生まれる」と論じた。マラルメ「クリーズ・ド・ヴェール」の「言語の二重状態」論（日常語と詩語）がここで実践として結晶する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "le Maître est allé puiser des pleurs au Styx",
+      "body": "「主人がステュクスへ去った」という不在の構造は「骰子一擲」の「LE MAÎTRE surgi（船長が現れ）」と表裏をなす——一方では主人が死の川へ去り（不在の確立）、他方では船長が嵐の中に突然現れる（出現の不確かさ）。両詩においてマラルメ的創造者は、完全な現前も完全な不在も許されない中間的存在として描かれる。サルトル「マラルメとは何か」が論じる「世界への根本的な不参加」の詩的形象。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 3
+    }
+  ]
+}

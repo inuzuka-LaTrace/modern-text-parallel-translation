@@ -1,0 +1,104 @@
+{
+  "id": "baudelaire_la_destruction",
+  "title": "La Destruction",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du Mal, Michel Lévy frères, Paris, 1857 (初版第LXXXV番). 底本: 1861年第二版 (Poulet-Malassis et De Broise, 第CIX番). 照合出典: Œuvres complètes, Bibliothèque de la Pléiade, Gallimard, 1975; wikisource.org; poetica.fr.",
+  "year": "1857",
+  "firstPublication": "Les Fleurs du Mal, Michel Lévy frères, Paris, 1857",
+  "difficulty": "上級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『悪の華』第一部「スプリーンと理想（Spleen et Idéal）」終盤の第CIX番（1861年版）。同部の「スプリーン」四篇を経て「アビスの深みへの誘惑（Le Gouffre）」へと連続する位置に置かれ、「理想」から「悪」への完全な転落を宣言するソネット。悪魔（le Démon）が詩人に憑依する構造は「ラズール（L'Azur）」「スプリーン」四篇で確立された「精神的閉塞」を、今度は「能動的な悪の介入」として提示する。第1・2四行連句でデモンが詩人に「倦怠という大気」として憑依し、第1三行連句で肉体的誘惑──「汚れた衣を纏った女」──を通じた意志の解体を描き、第2三行連句でその解体の果てとしての「はるか遠い砂漠」への漂流で閉じる。アレクサンドラン（12音節）ソネット、ABBA ABBA CCD EDE（ペトラルカ変形）。",
+  "keywords": ["悪魔", "憑依", "倦怠", "破壊", "意志の解体", "砂漠", "ソネット", "スプリーンと理想", "le Démon"],
+  "relatedTexts": [
+    "baudelaire_le_vampire",
+    "baudelaire_spleen",
+    "baudelaire_elevation",
+    "baudelaire_correspondances",
+    "baudelaire_une_charogne",
+    "mallarme_lazur"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Sans cesse à mes côtés s'agite le Démon ;\nIl nage autour de moi comme un air impalpable ;\nJe l'avale et le sens qui brûle mon poumon\nEt l'emplit d'un désir éternel et coupable.",
+      "provisionalTranslation": "絶え間なく、私の傍らに悪魔が揺れ動いている；\n彼は私の周りを泳ぐ、触知できない大気のように；\n私は彼を飲み込み、彼が肺を灼くのを感じ\n彼が肺を永遠の罪深い欲望で満たすのを感じる。"
+    },
+    {
+      "id": 2,
+      "french": "Parfois il prend, sachant ma grande amour de l'Art,\nLa forme de la plus séduisante des femmes,\nEt, sous de spécieux prétextes de cafard,\nAccoutume ma lèvre à des philtres infâmes.",
+      "provisionalTranslation": "ときに彼は、私の芸術への深い愛を知りながら、\n最も誘惑的な女の姿をとる、\nそして憂愁の巧みな口実の下、\n私の唇を不名誉な媚薬に馴れさせる。"
+    },
+    {
+      "id": 3,
+      "french": "Il me conduit ainsi, loin du regard de Dieu,\nHaletant et brisé de fatigue, au milieu\nDes plaines de l'Ennui, profondes et désertes,",
+      "provisionalTranslation": "こうして彼は私を連れ去る、神の目から遠く、\n疲れで喘ぎながらひしがれ、倦怠の平野の真ん中へ、\n深く荒涼とした倦怠の平野へ、"
+    },
+    {
+      "id": 4,
+      "french": "Et jette dans mes yeux pleins de confusion\nDes vêtements souillés, des blessures ouvertes,\nEt l'appareil sanglant de la Destruction !",
+      "provisionalTranslation": "そして混乱に満ちた私の目に投げつける\n汚れた衣、開いた傷、\nそして破壊の血に塗れた装置を！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "アレクサンドラン（12音節）ソネット14行。押韻配置 ABBA ABBA / CCD EDE（ペトラルカ変形）：\n• 第1四行連句：Démon / poumon（A）／ impalpable / coupable（B）\n• 第2四行連句：l'Art / cafard（A）／ femmes / infâmes（B）\n• 第1三行連句：Dieu / milieu（C）／ désertes（D）\n• 第2三行連句：confusion（C）／ ouvertes / Destruction（D, E変形）\n注目点：第1四行連句のA韻 Démon / poumon（悪魔／肺）は「概念」と「身体器官」の押韻──悪魔が肺という具体的身体に宿ることが韻の構造として先取りされる。第2三行連句では Destruction が詩のタイトルと一致する語で詩を閉じる──最後まで引き延ばされてきた語が最終行で暴発する構造。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Sans cesse à mes côtés s'agite le Démon ;\nIl nage autour de moi comme un air impalpable",
+      "body": "詩の開幕：le Démon（大文字の悪魔）が「絶え間なく（sans cesse）」存在するという現在進行形の宣言。「私の傍らに（à mes côtés）」：悪魔は詩人の外にいながら隣接している──憑依の前段階、「横に張り付く存在」。「触知できない大気のように泳ぐ（nage autour de moi comme un air impalpable）」：nager（泳ぐ）を大気の動きに用いるという逆転──液体的な運動が気体的な存在に適用される。impalpable（触知できない）：視覚・触覚に捉えられない悪魔の遍在性が、逆に「大気」「呼吸」として身体に侵入する逆説の準備。『悪の華』の「高揚（Élévation）」で空気・大気が精神の上昇の媒体だったのに対し、ここでは同じ「大気」が悪魔の媒体として逆転する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Je l'avale et le sens qui brûle mon poumon\nEt l'emplit d'un désir éternel et coupable",
+      "body": "「私は彼を飲み込む（Je l'avale）」──avaler（飲み込む）という動詞：悪魔が「大気」として吸い込まれる身体的プロセスの完結。「肺を灼く（brûle mon poumon）」：呼吸器官への侵入という身体の内側からの燃焼──外からの攻撃でなく内部からの腐食。「永遠の罪深い欲望（désir éternel et coupable）」：éternel（永遠の）と coupable（罪深い）の組み合わせが矛盾的──罪は通常時間的・有限的だが、ここでは「永遠の罪」として時間を超える。coupable（罪深い・有罪の）は法律用語でもあり、詩人が自己を被告として自己認識する構造：『悪の華』全体の司法的自己審判の縮図。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Parfois il prend, sachant ma grande amour de l'Art,\nLa forme de la plus séduisante des femmes",
+      "body": "悪魔の変身戦術：「私の芸術への深い愛を知りながら（sachant ma grande amour de l'Art）」──悪魔は詩人の弱点を知っている。「芸術への愛」こそが悪魔の入口──これは『悪の華』序文詩「読者へ（Au Lecteur）」の「最も毒を持つ宝石を選ぶ錬金術師」の論理の実践。「最も誘惑的な女の姿（la forme de la plus séduisante des femmes）」：悪魔の女性への化身──ゴーティエ「Coquetterie posthume」の「誘惑する女」が死後も誘惑を続けたのに対し、ここでは悪魔が「女の外形」を道具として利用する。芸術への愛が女性的誘惑に接続されるという論理：ボードレールにおいて「美」は常に毒と隣接する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "sous de spécieux prétextes de cafard,\nAccoutume ma lèvre à des philtres infâmes",
+      "body": "cafard：本来は「ゴキブリ」だが、ここでは「憂鬱・鬱」の俗語的意味で使われる──spleen の俗語的等価語。「巧みな口実（spécieux prétextes）」：spécieux は「もっともらしいが内実のない」──憂鬱が「もっともらしい口実」として悪魔の誘惑を正当化する。philtres infâmes（不名誉な媚薬）：philtre（媚薬・惚れ薬）は魔術的な愛の薬──「不名誉な（infâmes）」という形容で宗教的・道徳的禁止を受ける。lèvre（唇）への馴致という身体的プロセス：飲み込む→灼く（§1）→唇に媚薬を馴らす（§2）という、悪魔の侵食が口腔・肺という呼吸・飲食器官に沿って進行する解剖学的構造。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Il me conduit ainsi, loin du regard de Dieu,\nHaletant et brisé de fatigue, au milieu\nDes plaines de l'Ennui, profondes et désertes,",
+      "body": "ソネットの volta（転換）：第1・2四行連句の「悪魔の侵入と変身」から、第1三行連句の「その帰結としての漂流」へ。「神の目から遠く（loin du regard de Dieu）」──regard de Dieu（神の眼差し）から遠ざかることが堕落の空間的定義：神の視線の外側が破壊の場所。「疲れで喘ぎながらひしがれ（Haletant et brisé de fatigue）」：Haletant（喘ぐ）──§1の「肺を灼く」の帰結として詩人の呼吸が破壊されている。brisé（砕かれた）は過去分詞：能動的な破壊でなく既成事実としての疲弊。「倦怠の平野（les plaines de l'Ennui）」──Ennui（大文字）：ボードレールの詩集で最も重要な擬人化概念。「スプリーン（Spleen）」と並ぶ「意志の完全な喪失」状態。profondes et désertes（深く荒涼とした）：深さという垂直的次元と荒涼という水平的次元が重なる空間──脱出不能な「倦怠の地形」。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "loin du regard de Dieu",
+      "body": "マラルメ「ラズール（mallarme_lazur）」との対照的連絡：マラルメの詩人は「空の青（L'Azur）」という神的理想に追われ逃げるが逃げられない。ボードレールの詩人はここで「神の目から遠く（loin du regard de Dieu）」──神の視線から逃げた先が「倦怠の平野」という虚無的空間。「神に追われる」vs「神から離れる」という逆方向の運動が、詩的理想との関係における二極を示す。両詩人の詩的危機の構造的類似と方向性の反転──マラルメが上昇を求めながら引き落とされるのに対し、ボードレールは意志なく引き摺られ漂流する。",
+      "targetId": "mallarme_lazur",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et jette dans mes yeux pleins de confusion\nDes vêtements souillés, des blessures ouvertes,\nEt l'appareil sanglant de la Destruction !",
+      "body": "詩の最終3行（第2三行連句）は詩全体の爆発的な結論。「混乱に満ちた私の目に投げつける（jette dans mes yeux pleins de confusion）」：jeter（投げつける）は物理的暴力の動詞──視覚器官への攻撃。「汚れた衣（vêtements souillés）」：ゴーティエ「Coquetterie posthume」が「すみれ色のドレス」「ビロードの手袋」で死後の美を指定したのとは真逆──汚れた衣は美の反定義。「開いた傷（blessures ouvertes）」：閉じていない傷口──治癒も終結も拒む永続的傷としての詩人の状態。「破壊の血に塗れた装置（l'appareil sanglant de la Destruction）」：appareil は「装置・器具・舞台装置」──Destruction が機械的な「装置」を持つという提示は死の工業的・組織的性格を示唆する。感嘆符（!）による詩の閉幕：詩全体が爆発的に「破壊」という語に収斂する──タイトル語の詩末での回収という完結構造。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "l'appareil sanglant de la Destruction",
+      "body": "ボードレール「ル・ヴァンパイア（baudelaire_le_vampire）」との詩集内連環：「ヴァンパイア」が恋人という具体的な対象を通じた破壊であったのに対し、「La Destruction」では悪魔が「大気・女・疲弊・砂漠・装置」という段階的な抽象化を経て「破壊」という純粋概念に到達する。両詩を繋ぐのは「意志の麻痺（Le Vampire：Continue !）」→「意志の完全消去（La Destruction：brisé, confusion）」という『悪の華』内部の悪化の論理。また「悪の華」序詩「Au Lecteur」の「悪魔が私たちの意志の糸を引く（le Diable tient les fils qui nous remuent）」という命題が、この詩で最も直接的に詩的実践として展開される。",
+      "targetId": "baudelaire_le_vampire",
+      "targetParagraphId": null
+    }
+  ]
+}

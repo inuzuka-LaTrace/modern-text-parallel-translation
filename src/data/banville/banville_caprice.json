@@ -1,0 +1,59 @@
+{
+  "id": "banville_caprice",
+  "title": "Caprice",
+  "author": "Théodore de Banville",
+  "source": "Améthystes, Alphonse Lemerre, Paris, 1889 (p. 197). 照合出典: wikisource.org (Améthystes/Caprice).",
+  "year": "1889",
+  "firstPublication": "執筆: Février 1861. 詩集収録: Améthystes, Alphonse Lemerre, Paris, 1889 (p. 197).",
+  "difficulty": "初級",
+  "category": "banville",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "テオドール・ド・バンヴィル（Théodore de Banville, 1823–1891）の晩年の詩集『紫水晶（Améthystes）』（1889）所収。執筆は1861年2月。全2連・各6行・計12行。韻律：ABABCC（各連末2行が隣接韻で締まる sexain）。恋愛の逆説的な支配関係を描く軽妙な詩──接吻しても冷たい唇、「愛していない」と告げる女と、「もう縁を切る」と言えば「わかっている、あなたは死ぬまで私を崇拝するのよ」と微笑む女。ドビュッシーが1880〜84年頃に歌曲として作曲（L 84, 旧番号）。バンヴィルはヴェルレーヌ・マラルメ・ランボー等と交流を持ち、高踏派（Parnasse）とも象徴主義とも重なる位置に立つ。",
+  "keywords": ["amour", "caprice", "baisers", "martyre", "mort", "歌曲", "ドビュッシー", "高踏派"],
+  "relatedTexts": [
+    "banville_nuit_d_etoiles",
+    "verlaine_marceline_desbordes_valmore",
+    "baudelaire_le_vampire"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Quand je baise, pâle de fièvre,\nTa lèvre où court une chanson,\nTu détournes les yeux, ta lèvre\nReste froide comme un glaçon,\nEt, me repoussant de tes bras,\nTu dis que je ne t'aime pas.",
+      "provisionalTranslation": "私が熱に青ざめながら接吻するとき、\n歌の流れるおまえの唇に、\nおまえは目をそらし、その唇は\n氷のように冷たいままで、\nそして、おまえの腕で私を押しのけながら、\nおまえは私が愛していないと言う。"
+    },
+    {
+      "id": 2,
+      "french": "Mais si je dis : Ce long martyre\nM'a brisé, je romps mon lien !\nTu réponds avec un sourire :\nViens à mes pieds ! tu le sais bien,\nMa chère âme, que c'est ton sort\nDe m'adorer jusqu'à la mort.",
+      "provisionalTranslation": "しかし私がこう言うと：この長い苦悩が\n私を打ち砕いた、縁を切る！\nおまえは微笑みながら答える：\n私の足元に来て！わかっているはず、\n愛しい魂よ、それがあなたの運命なのだと\n死ぬまで私を崇拝することが。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全2連・各6行（sexain）・計12行。韻律：各連 ABABCC──連1 fièvre/lèvre（A）・chanson/glaçon（B）・bras/pas（CC隣接韻で閉幕）。連2 martyre/sourire（A）・lien/bien（B）・sort/mort（CC）。行長：8音節詩行（octosyllabes）基調──フランス詩で「恋愛・軽快・歌謡」の伝統的形式。各連末の CC 隣接韻（couplet）が「落ち（chute）」として機能する──連1末「Tu dis que je ne t'aime pas（愛していないと言う）」、連2末「De m'adorer jusqu'à la mort（死ぬまで崇拝すること）」が締め句として音韻的に強調される。詩全体は「接吻しても冷たい（連1）→もう縁を切ると言っても笑って支配する（連2）」という対立する場面の2連構成。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Quand je baise, pâle de fièvre,\nTa lèvre où court une chanson,\nTu détournes les yeux, ta lèvre\nReste froide comme un glaçon,",
+      "body": "連1の構造：「baise（接吻する）」と「lèvre（唇）」が v.1 と v.3 に反復（交差韻の音韻的位置に意味的反復が重なる）──接吻する側の「lèvre（v.1）」と接吻される側の「lèvre（v.3）」が同語で置かれ、主客の非対称が「同一の唇」という語で表現される。「熱に青ざめながら（pâle de fièvre）」：pâle（青ざめた）と fièvre（熱）の逆説──熱があるのに青ざめる恋愛的な興奮状態。「歌の流れる唇（Ta lèvre où court une chanson）」：court（走る・流れる）──歌が唇の上を「走る」という動的なイメージ。「氷のように冷たい（froide comme un glaçon）」：glaçon（氷塊）──熱（fièvre）と氷（glaçon）という温度的対立が連1の基本構造をなす。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Mais si je dis : Ce long martyre\nM'a brisé, je romps mon lien !\nTu réponds avec un sourire :\nViens à mes pieds ! tu le sais bien,\nMa chère âme, que c'est ton sort\nDe m'adorer jusqu'à la mort.",
+      "body": "連2：恋愛の支配関係の逆転──男が「縁を切る」と脅すと女は「わかっているわ」と微笑んで支配を確認する。「この長い苦悩が私を打ち砕いた（Ce long martyre / M'a brisé）」：martyre（殉教・苦悩）──連2の韻 martyre/sourire（苦悩/微笑み）が逆説的な対照をなす──男の苦悩と女の微笑みが ABAB 韻律の A 位置と次の A 位置に置かれる。「Viens à mes pieds !（私の足元に来て！）」：pieds（足）──権力的な支配の身体的表現。「おまえの運命（ton sort）」と「死まで（jusqu'à la mort）」：sort/mort が CC 韻で連結──「運命（sort）」と「死（mort）」が音韻的に等価として提示される。ヴァン・レルベルグ「La Mort」の「死に触れた（touché la mort）」と連絡する mort の詩的語彙。タイトル「Caprice（気まぐれ）」：詩全体が女の「気まぐれ」な支配を描くが、その気まぐれが死まで続く「運命」として締まる逆説。",
+      "targetId": "van_lerberghe_la_mort",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": null,
+      "body": "ドビュッシーによる歌曲化：クロード・ドビュッシー（1862–1918）は本詩を1880〜84年頃に歌曲として作曲（カタログ番号 L 84、旧番号）。バンヴィルの詩集から複数の詩を歌曲化したドビュッシーの初期作品群のひとつ──同じ『紫水晶』から「Nuit d'étoiles（星の夜）」（L 8）も作曲。テオドール・ド・バンヴィル（1823–1891）：高踏派（Parnasse）の主要詩人であり、ヴェルレーヌ・マラルメ・ランボーとも交流。1872年にランボーがパリでバンヴィルを訪問し詩を見てもらったことが知られる（拒絶されたが）。詩集『紫水晶（Améthystes）』（1889）は晩年の詩集──宝石名のタイトルは「アメジスト（紫の宝石）」で、高踏派的な彫琢の比喩。"
+    }
+  ]
+}

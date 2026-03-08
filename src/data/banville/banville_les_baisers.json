@@ -1,0 +1,65 @@
+{
+  "id": "banville_les_baisers",
+  "title": "Les Baisers",
+  "author": "Théodore de Banville",
+  "source": "Améthystes, Alphonse Lemerre, Paris, 1889 (p. 195–196). 照合出典: wikisource.org (Améthystes/Les Baisers).",
+  "year": "1889",
+  "firstPublication": "執筆: Nice, février 1861. 詩集収録: Améthystes, Alphonse Lemerre, Paris, 1889 (p. 195–196).",
+  "difficulty": "初級",
+  "category": "banville",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "テオドール・ド・バンヴィル（Théodore de Banville, 1823–1891）の詩集『紫水晶（Améthystes）』（1889）の冒頭詩。副題「NOUVELLES ODELETTES AMOUREUSES / COMPOSÉES SUR DES RHYTHMES DE RONSARD（ロンサールのリズムに基づく新しい恋愛オドレット）」「À MARIE（マリーへ）」と記された詩集全体の献辞詩。執筆はニース、1861年2月。全3連・各6行（sexain）・計18行。韻律：ABABCC（各連末2行の隣接韻が「落ち」をなす）。詩の構造：連1「捕虜として何千回も祝福し、何千回も泣いた（diamants/mers の数量的誇張）」、連2「歌を与えられ、心を傷つけられ、しかし黄金の髪の上で眠った」、連3「天の酒を注がれた──涙と同じだけ口づけが数えられるなら、苦しみは赦される」。ロンサール（Ronsard, 1524–1585）への回帰という高踏派的様式意識と、接吻・涙・黄金の語彙が「Caprice」「Nuit d'étoiles」と共鳴する。",
+  "keywords": ["baisers", "larmes", "trahisons", "cheveux d'or", "ロンサール", "オドレット", "高踏派"],
+  "relatedTexts": [
+    "banville_caprice",
+    "banville_nuit_d_etoiles",
+    "banville_apotheose",
+    "valmore_les_roses_de_saadi"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Plus de fois, dans tes bras charmants\nCaptif, j'ai béni mes prisons,\nQue le ciel n'a de diamants ;\nEt pour tes noires trahisons\nJ'ai versé plus de pleurs amers\nQue n'en tient le gouffre des mers.",
+      "provisionalTranslation": "おまえの魅惑的な腕の中で囚人として、\n私は自らの牢獄を祝福した──\n空がダイヤモンドを持つより多くの回数\nそしておまえの黒い裏切りのために\n私は苦い涙を流した──\n海の深淵が湛えるより多くの涙を。"
+    },
+    {
+      "id": 2,
+      "french": "Mes chants ailés, je te les dois !\nPlus haineuse que les bourreaux,\nMon cœur a saigné sous tes doigts ;\nMais que de fois, comme un héros\nQui vient de voler son trésor,\nJ'ai dormi sur tes cheveux d'or !",
+      "provisionalTranslation": "私の翼ある歌はおまえのおかげだ！\n死刑執行人よりも憎らしく、\nおまえの指の下で私の心は血を流した；\nしかし何度も、宝物を奪ってきた英雄のように、\n私はおまえの黄金の髪の上で眠った！"
+    },
+    {
+      "id": 3,
+      "french": "Tu m'as versé le vin du ciel !\nEt mes maux seront pardonnés\nÀ ton désœuvrement cruel,\nSi les baisers que m'a donnés\nTa lèvre pareille à des fleurs\nSont aussi nombreux que mes pleurs.",
+      "provisionalTranslation": "おまえは私に天の酒を注いでくれた！\nそして私の苦しみは赦されるだろう\nおまえの残酷な気まぐれに対して、\nもしおまえの花に似た唇が\n私に与えてくれた口づけが\n私の涙と同じだけ多いなら。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全3連・各6行（sexain）・計18行。韻律：全連 ABABCC──連1 charmants/diamants（A）・prisons/trahisons（B）・amers/mers（CC）。連2 dois/doigts（A）・bourreaux/héros（B）・trésor/or（CC）。連3 ciel/cruel（A）・pardonnés/donnés（B）・fleurs/pleurs（CC）。行長：8音節基調。副題「COMPOSÉES SUR DES RHYTHMES DE RONSARD（ロンサールのリズムに基づく）」──ピエール・ド・ロンサール（1524–1585）の「オドレット（odelette）」形式への意識的な回帰。各連末の CC 隣接韻（couplet）が「落ち（chute）」として機能──連1末「海の深淵より多くの涙」、連2末「黄金の髪の上で眠った」、連3末「涙と同じだけ多くの口づけがあるなら」が各連の感情的頂点をなす。詩全体の数量的誇張法（hyperbole）：ダイヤモンド・海の深淵・英雄・天の酒という比較対象が「恋愛の苦しみ・喜び」を宇宙的規模に拡張する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Plus de fois, dans tes bras charmants\nCaptif, j'ai béni mes prisons,\nQue le ciel n'a de diamants ;",
+      "body": "連1は「Plus…que（〜より多く）」という比較の hyperbole（誇張法）で始まる──空のダイヤモンド（星）の数より多く「牢獄を祝福した」。「tes bras charmants（魅惑的な腕）」と「mes prisons（私の牢獄）」：同一の抱擁が「魅惑（charmants）」と「牢獄（prisons）」として二重に定義される──「Caprice」の「縁を切る」と「死ぬまで崇拝」の逆説と同型。「diamants（ダイヤモンド）」：「Nuit d'étoiles」§1の「Ses diamants comme un roi（ダイヤモンドを王のように）」との直接的な語彙連絡──星＝ダイヤモンドという高踏派的比喩。「noires trahisons（黒い裏切り）」：noires（黒い）は道徳的・感情的な暗さ──「Caprice」の冷たい拒絶と同系の女性の不実。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Mes chants ailés, je te les dois !\nPlus haineuse que les bourreaux,\nMon cœur a saigné sous tes doigts ;\nMais que de fois, comme un héros\nQui vient de voler son trésor,\nJ'ai dormi sur tes cheveux d'or !",
+      "body": "連2：苦しみと喜びの並立──「心が血を流した」VS「黄金の髪で眠った」。「私の翼ある歌（Mes chants ailés）」：ailés（翼のある）──詩が「翼を持つ」という比喩はバンヴィルの詩学の核心（詩集タイトル「Améthystes」の宝石的彫琢と対照的な「飛翔」のイメージ）。「je te les dois !（おまえのおかげだ）」：感嘆符──詩的インスピレーションの源が「おまえ（tu）」だという宣言。「Apothéose」§6の「Mes chants à l'univers / Diront ta gloire（私の歌が宇宙におまえの栄光を語る）」と連絡する。「宝物を奪ってきた英雄のように（comme un héros / Qui vient de voler son trésor）」：trésor（宝物）とその上で眠る──黄金の髪（cheveux d'or）が「宝物」として英雄的な獲得物として提示される。dont/doigts（v.1/v.3）：dois（負う・おかげである）と doigts（指）の音韻的近接──ABAB 韻の A 位置に同音的な語が置かれる意図的な語呂。",
+      "targetId": "banville_apotheose",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tu m'as versé le vin du ciel !\nEt mes maux seront pardonnés\nÀ ton désœuvrement cruel,\nSi les baisers que m'a donnés\nTa lèvre pareille à des fleurs\nSont aussi nombreux que mes pleurs.",
+      "body": "連3：詩の締め──「天の酒」と「涙と等数の口づけ」による赦しの条件。「天の酒を注いでくれた（Tu m'as versé le vin du ciel）」：verser（注ぐ）──「Caprice」連2の「Tu réponds avec un sourire（微笑みながら答える）」のような言動の代わりに、ここでは「酒を注ぐ」という行為。ciel（天）：「Nuit d'étoiles」の「cieux（天・空）」との連絡──高踏派的な宇宙的比喩。「おまえの残酷な気まぐれ（ton désœuvrement cruel）」：désœuvrement（無為・退屈しのぎ）──わざとでなく「退屈まぎれ」に残酷なことをするという女性像。「花に似た唇（Ta lèvre pareille à des fleurs）」：「Caprice」§1の「Ta lèvre où court une chanson（歌の流れる唇）」と同一の「唇」──しかし「Caprice」の冷たい唇に対し、こちらは「花（fleurs）」に似た唇。「涙と同じだけ多くの口づけ（les baisers…aussi nombreux que mes pleurs）」：pleurs/fleurs（涙/花）が CC 韻──涙と花が音韻的等価として結び、「口づけの数＝涙の数」ならば苦しみは赦されるという詩集冒頭の宣言的主題。"
+    }
+  ]
+}

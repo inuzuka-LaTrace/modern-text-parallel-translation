@@ -1,0 +1,253 @@
+{
+  "id": "dante_inferno_canto_33",
+  "title": "Inferno — Canto XXXIII",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, 1966–1967)。照合: danteonline.it (Società Dantesca Italiana公式テキスト); Princeton Dante Project (princeton.edu/dante); Dartmouth Dante Project; Singleton, C.S., Dante Alighieri: The Divine Comedy, Inferno (Princeton UP, 1970–1975)",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472 (Johannes Numeister)。「神曲 (Divina Commedia)」の名称はボッカッチョに由来し、ダンテ自身は「Commedia」と呼んだ。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Inferno",
+  "canto": "XXXIII",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "Canto XXXIIIは地獄篇の最深部──氷の湖コキュートスの第2区画「アンテノーラ（祖国への裏切り者の区画）」と第3区画「トロメーア（客への裏切り者の区画）」にまたがる。前半は神曲で最も有名な人間的悲劇の一つ──ウゴリーノ・デッラ・ゲラルデスカ伯爵（実在、1289年没）の語り。彼はピサで「反逆罪」の疑いをかけられ、息子と孫たちとともに塔に幽閉され飢え死にした。彼はそれを命じた大司教ルッジェーリ・デッリ・ウバルディーニの頭を永遠に齧り続けながら、その死の四日間を語る──子どもたちが次々と死ぬ中、最後に「飢えが悲しみに勝った（il digiuno anziché 'l duol poteo）」という恐ろしい一行で語りを閉じる。後半はトロメーアの描写──この区画では、生前に客（恩人）を裏切った者の魂は死の前に地獄に落ち、悪魔が身体を操る。フラ・アルベリーゴが告白し、ブランカ・ドーリアへの言及でダンテの呪詛は締まる。\n\n詩学的核心：ウゴリーノのエピソードは「語れないことを語ることの不可能性」（v.4–9の序言）から始まる詩学的自意識の最高点。子どもたちの「父よ、我々を食べてくれ（Padre, assai ci fia men doglia / se tu mangi di noi）」は人間的・神学的倫理の極限を指し示す。「il digiuno anziché 'l duol poteo（飢えが悲しみに勝った）」は意図的な曖昧さ──「悲しみ」が「飢え」に勝れなかったのか、それとも「飢え」が「悲しみ（生への意志）」を殺したのか。トロメーア後半の「すでに身体は生きているが魂は地獄にいる」というテーマは、現世における道徳的死という概念を提示する。",
+  "keywords": [
+    "ウゴリーノ",
+    "Ugolino",
+    "飢えの塔",
+    "torre della fame",
+    "フラ・アルベリーゴ",
+    "トロメーア",
+    "Tolomea",
+    "コキュートス",
+    "il digiuno anziché 'l duol",
+    "ピサへの呪詛",
+    "ジェノヴァへの呪詛",
+    "ブランカ・ドーリア"
+  ],
+  "relatedTexts": [
+    "dante_inferno_canto_1",
+    "dante_inferno_canto_3",
+    "dante_inferno_canto_26",
+    "dante_inferno_canto_34"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–9",
+      "speaker": "Dante-narratore",
+      "original": "La bocca sollevò dal fiero pasto\nquel peccator, forbendola a' capelli\ndel capo ch'elli avea di retro guasto;\n\npoi cominciò: «Tu vuo' ch'io rinovelli\ndisperato dolor che 'l cor mi preme,\ngià pur pensando, pria ch'io ne favelli.\n\nMa se le mie parole esser dèn seme\nche frutti infamia al traditor ch'i' rodo,\nparlar e lagrimar vedrai insieme.",
+      "provisionalTranslation": "あの罪人は凶暴な食事から口を上げ、\nそれを後ろ側を食い荒らされた頭の\n髪に拭いながら；\n\nそして語り始めた：「お前は私に\n絶望の苦しみを新たにさせようとしている、それは私が語る前から\n考えるだけで心を圧し潰す。\n\nしかし私の言葉が種となって\n私が齧っているあの裏切り者に悪名の果実をもたらすなら、\n語ることと泣くことを同時にお前は見るだろう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.10–21",
+      "speaker": "Ugolino",
+      "original": "Io non so chi tu se', né per che modo\nvenuto se' qua giù; ma fiorentino\nmi sembri veramente quand'io t'odo.\n\nTu dei saper ch'i' fui conte Ugolino,\ne questi è l'arcivescovo Ruggieri:\nor ti dirò perché i son tal vicino.\n\nChe per l'effetto de' suo' mai pensieri,\nfidandomi di lui, io fossi preso\ne poscia morto, dir non è mestieri;\n\nperò quel che non puoi avere inteso,\ncioè come la morte mia fu cruda,\nudirai, e saprai s'e' m'ha offeso.",
+      "provisionalTranslation": "私はお前が誰なのか、どんな方法で\nここ下に来たのかを知らない；しかしフィレンツェ人に\n私にはお前が見える、お前の言葉を聞くと。\n\nお前は知るべきだ、私がウゴリーノ伯爵であったことを、\nそしてこれが大司教ルッジェーリだ：\n今私が何故こんなに近くにいるかをお前に話そう。\n\n彼の悪しき考えの結果、\n彼を信じたことで、私が捕らえられ\nそして後に死んだことは、語るまでもない；\n\nしかしお前が知ることのできなかったこと、\nすなわち私の死がいかに残酷であったかを、\nお前は聞くだろう、そして彼が私を傷つけたかどうかを知るだろう。"
+    },
+    {
+      "id": 3,
+      "verses": "v.22–36",
+      "speaker": "Ugolino",
+      "original": "Breve pertugio dentro da la Muda,\nla qual per me ha il titol de la fame,\ne in che conviene ancor ch'altri si chiuda,\n\nm'avëa mostrato per lo suo forame\npiù lune già, quand'io feci 'l mal sonno\nche del futuro mi squarciò 'l velame.\n\nQuesti pareva a me maestro e donno,\ncacciando il lupo e ' lupicini al monte\nper che i Pisan veder Lucca non ponno.\n\nCon cagne magre, studïose e conte\nGualandi con Sismondi e con Lanfranchi\ns'avea messi dinanzi da la fronte.\n\nIn picciol corso mi parieno stanchi\nlo padre e ' figli, e con l'agute scanne\nmi parea lor veder fender li fianchi.",
+      "provisionalTranslation": "「飢えの塔」と呼ばれるムーダの中の\n小さな穴──それは私によってその飢えの名を持ち、\n今後も他の者が閉じ込められることになる──\n\nがその穴越しに私に\nすでに何ヶ月もの月を見せていた、その時私は悪い夢を見た、\n未来のヴェールを引き裂いてくれる夢を。\n\nこの者が私には師であり主のように見えた、\n狼と子狼たちをルッカが見えない山へと\n狩り立てながら──ピサ人たちがルッカを見れないようにする山へと。\n\n痩せて熱心で賢い猟犬とともに\nグアランディがシスモンディとランフランキと\n前方に並べられていた。\n\n短い走りで父と息子たちは\n疲れて見えた、そして鋭い牙で\n脇腹を切り裂くのを私は見るようだった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.37–48",
+      "speaker": "Ugolino",
+      "original": "Quando fui desto innanzi la dimane,\npianger senti' fra 'l sonno i miei figliuoli\nch'eran con meco, e dimandar del pane.\n\nBen se' crudel, se tu già non ti duoli\npensando ciò che 'l mio cor s'annunziava;\ne se non piangi, di che pianger suoli?\n\nGià eran desti, e l'ora s'appressava\nche 'l cibo ne soleva essere addotto,\ne per suo sogno ciascun dubitava;\n\ne io senti' chiavar l'uscio di sotto\na l'orribile torre; ond'io guardai\nnel viso a' mie' figliuoi sanza far motto.",
+      "provisionalTranslation": "夜明け前に目が覚めた時、\n夢の中に私は自分の息子たちが\n一緒にいた──泣いて、パンを求めていた。\n\nお前は確かに残酷だ、もしまだ苦しんでいないなら\n私の心が予告していたことを思って；\nそしてもしお前が泣かないなら、お前は何で泣くのか？\n\nもう彼らは目覚めていた、そして時刻が近づいていた\n食べ物が届けられるのが常だった時刻が、\nそしてその夢のせいで皆が不安だった；\n\nそして私は恐ろしい塔の下の\n扉に釘が打たれるのを聞いた；それで私は見た\n一言も言わずに息子たちの顔を。"
+    },
+    {
+      "id": 5,
+      "verses": "v.49–63",
+      "speaker": "Ugolino",
+      "original": "Io non piangeva; sì dentro impetrai.\nPiangevan elli; e Anselmuccio mio\ndisse: «Tu guardi sì, padre: che hai?»\n\nPerciò non lacrimai né rispuos'io\ntutto quel giorno né la notte appresso,\ninfin che l'altro sol nel mondo uscìo.\n\nCome un poco di raggio si fu messo\nnel doloroso carcere, e io scorsi\nper quattro visi il mio aspetto stesso,\n\nambo le man per dolor mi morsi;\ned ei, pensando ch'io 'l fessi per voglia\ndi manicar, di sùbito levorsi\n\ne disser: «Padre, assai ci fia men doglia\nse tu mangi di noi: tu ne vestisti\nqueste misere carni, e tu le spoglia».",
+      "provisionalTranslation": "私は泣かなかった；それほど内側が石になった。\n彼らは泣いていた；そして私のアンセルムッチョが\n言った：「あなたはそんなに見つめている、父上：どうしたのですか？」\n\nそれで私は涙も流さず返事もしなかった\nその日いっぱいも次の夜も、\nもう一つの太陽が世界に出るまで。\n\n少しの光が\n苦しみの牢獄に差し込んだ時、私は見た\n四つの顔の中に自分自身の姿を、\n\n両手を苦しみで噛んだ；\n彼らは、私がそれを食べたい気持ちからやっていると思って、すぐに起き上がり\n\n言った：「父上、私たちを食べてくださるなら\n苦しみはずっと少なくなります：あなたがこの\n哀れな肉を着せてくださった、あなたがそれを脱がせてください」。"
+    },
+    {
+      "id": 6,
+      "verses": "v.64–75",
+      "speaker": "Ugolino",
+      "original": "Queta'mi allor per non farli più tristi;\nquel dì e l'altro stemmo tutti muti;\nah! dura terra, perché non t'apristi?\n\nPoscia che fummo al quarto dì venuti,\nGaddo mi si gittò disteso a' piedi,\ndicendo: «Padre mio, ché non m'aiuti?»;\n\ne quivi morì; e come tu mi vedi,\nvid'io cascar li tre ad uno ad uno\ntra 'l quinto dì e 'l sesto; ond'io mi diedi,\n\ngià cieco, a brancolar sovra ciascuno,\ne due dì li chiamai poi che fur morti.\nPoi, che 'l digiuno anziché 'l duol poteo».",
+      "provisionalTranslation": "その時私は彼らをこれ以上悲しませないように黙った；\nその日も次の日も皆黙っていた；\nああ！硬い大地よ、なぜお前は開かなかったのか？\n\n四日目になった後、\nガッドが私の足元に伸びて倒れてきた、\n言いながら：「私の父上、なぜ助けてくださらないのですか？」；\n\nそこで彼は死んだ；そしてお前が私を見るように、\n私は三人が一人また一人と倒れるのを見た\n五日目と六日目の間に；そして私は、\n\nもう盲目になって、各々の上を手探りしながら\n二日間彼らが死んだ後も呼び続けた。\nそして、飢えが悲しみに勝った」。"
+    },
+    {
+      "id": 7,
+      "verses": "v.76–90",
+      "speaker": "Dante-narratore",
+      "original": "Quand'ebbe detto ciò, con li occhi torti\nriprese 'l teschio misero co' denti,\nche furo a l'osso, come d'un can, forti.\n\nAhi Pisa, vituperio de le genti\ndel bel paese là dove 'l sì suona,\npoi che i vicini a te punir son lenti,\n\nmuovasi la Capraia e la Gorgona,\ne faccian siepe ad Arno in sua foce,\nsì ch'elli annieghi in te ogne persona!\n\nChe se 'l conte Ugolino aveva voce\nd'aver tradita te de le castella,\nnon dovëi tu i figliuoi porre a tal croce.\n\nInnocenti facea l'età novella,\nnovella Tebe, Uguiccione e 'l Brigata\ne li altri due che 'l canto suso appella.",
+      "provisionalTranslation": "それを言い終えると、目を歪めて\nあの哀れな頭蓋骨を再び歯でつかんだ、\n骨まで達するほど犬のように強く。\n\nああピサよ、美しい国の人々の恥、\n「sì」が響く国の、\nお前の隣人たちがお前を罰するのが遅いから、\n\nカプライアとゴルゴーナよ動いてくれ、\nそしてアルノ川の河口に堰を作れ、\nそれでお前の中のすべての人を溺れさせよ！\n\nもしウゴリーノ伯爵が\nお前に城を裏切ったという評判があったとしても、\nお前はその息子たちをこれほどの苦しみに置くべきではなかった。\n\n若い年齢が彼らを無実にしていた、\n新しいテーバイよ、ウグッチョーネとブリガータを\nそして上の歌が呼んでいる他の二人を。"
+    },
+    {
+      "id": 8,
+      "verses": "v.91–108",
+      "speaker": "Dante-narratore",
+      "original": "Noi passammo oltre, là 've la gelata\nduramente fascia un'altra gente;\nnon volta in giù, ma tutta riversata.\n\nLo pianto stesso lì pianger non lascia,\ne 'l duol che truova in su li occhi rintoppo\nsi volve in entro a far crescer l'ambascia;\n\nché le lagrime prime fanno groppo,\ne sì come visiere di cristallo,\nriempion sotto 'l ciglio tutto il coppo.\n\nE avvegna che, sì come d'un callo,\nper la freddura ciascun sentimento\ncessato avesse del mio viso stallo,\n\ngià mi parea sentire alquanto vento;\nper ch'io: «Maestro mio, questo chi move?\nnon è qua giù ogne vapore spento?»\n\nOnd'elli a me: «Avaccio sarai dove\ndi ciò ti farà l'occhio la risposta,\nveggendo la cagion che 'l fiato piove»,",
+      "provisionalTranslation": "私たちは先へ進んだ、そこでは氷が\n厳しく別の人々を包んでいた；\n下に向けられてではなく、皆仰向けに。\n\n泣くこと自体がそこでは泣かせない、\nそして目の上で行き詰まりを見つける苦しみは\n内側に向かって苦悩を増大させる；\n\n最初の涙が凝固して固まり、\nまるでクリスタルのバイザーのように、\n眉毛の下の穴全体を満たすから。\n\nそして、まるでタコのように、\n寒さのせいで顔のあらゆる感覚が\n宿るのを止めていたにも関わらず、\n\nすでに私はいくらか風を感じるようだった；\nそれで私は：「私の師よ、これを動かすのは誰ですか？\nここ下ではすべての蒸気が消えているのではないのですか？」\n\n彼は私に：「間もなくお前は、\n目がそれについての答えを与えてくれる場所に着くだろう、\n吹き降ろす息の原因を見ながら」、"
+    },
+    {
+      "id": 9,
+      "verses": "v.109–114",
+      "speaker": "Dante-narratore",
+      "original": "E un de' tristi de la fredda crosta\ngridò a noi: «O anime crudeli\ntanto che data v'è l'ultima posta,\n\nlevatemi dal viso i duri veli,\nsì ch'io sfoghi 'l duol che 'l cor mi preme,\nun poco, pria che 'l pianto si raggeli»,",
+      "provisionalTranslation": "そして冷たい外皮の中の悲しむ者の一人が\n私たちに叫んだ：「おお、残酷な魂たちよ、\nこれほど最後の場所を与えられた者たちよ、\n\n私の顔から硬いヴェールを取り除いてくれ、\nそうすれば私は心を圧し潰す苦しみを\n少し吐き出せる、涙が凍る前に」、"
+    },
+    {
+      "id": 10,
+      "verses": "v.115–117",
+      "speaker": "Dante-narratore",
+      "original": "Per ch'io a lui: «Se vuo' ch'i' ti sovvenga,\ndimmi chi se', e s'io non ti disbrigo,\nal fondo de la ghiaccia ir mi convegna»,",
+      "provisionalTranslation": "それで私は彼に：「もし私に助けてほしいなら、\n誰なのかを教えてくれ、そして私がお前を助けないなら、\n氷の底へ行かなければならなくなるように」、"
+    },
+    {
+      "id": 11,
+      "verses": "v.118–120",
+      "speaker": "Fra Alberigo",
+      "original": "Rispuose adunque: «I' son frate Alberigo;\ni' son quel da le frutta del mal orto,\nche qui riprendo dattero per figo»,",
+      "provisionalTranslation": "それで彼は答えた：「私はフラ・アルベリーゴだ；\n私は悪い果樹園の果物の男だ、\nここではイチジクの代わりにナツメヤシで報いを受けている」、"
+    },
+    {
+      "id": 12,
+      "verses": "v.121–138",
+      "speaker": "Fra Alberigo",
+      "original": "«Oh!», diss'io lui, «or se' tu ancor morto?»\nEd elli a me: «Come 'l mio corpo stea\nnel mondo sù, nulla scïenza porto.\n\nCotal vantaggio ha questa Tolomea,\nche spesse volte l'anima ci cade\ninnanzi ch'Atropòs mossa le dea.\n\nE perché tu più volontier mi rade\nle 'nvetriate lagrime dal volto,\nsappi che tosto che l'anima trade\n\ncome fec'io, il corpo suo l'è tolto\nda un demonio, che poscia il governa\nmentre che 'l tempo suo tutto sia vòlto.\n\nElla ruina in sì fatta cisterna;\ne forse pare ancor lo corpo suso\nde l'ombra che di qua dietro mi verna.\n\nTu 'l dei saper, se tu vien pur mo giuso:\nelli è ser Branca Doria, e son più anni\nposcia che fu racchiuso.»",
+      "provisionalTranslation": "「ああ！」と私は彼に言った、「ではお前はまだ死んでいるのか？」\n彼は私に：「上の世界で私の身体がどうなっているか、\n私は何の知識も持っていない。\n\nこのトロメーアにはそのような優位がある、\n魂がしばしばここに落ちることが\nアトロポスが彼女に動くきっかけを与える前に。\n\nそしてお前が私の顔から\nガラス化した涙をより喜んで剥がしてくれるように、\n知っておけ、魂が裏切った瞬間に\n\n私がしたように、その身体は悪魔によって奪われる、\n悪魔がその後それを治める\nその時間がすべて回り終わるまで。\n\n魂はこのような貯水池に落ちる；\nそしておそらく今もまだ地上に見えるのは\nここで私の後ろで冬を過ごす影の身体が。\n\nお前はそれを知るべきだ、もしお前がつい今しがた下りてきたなら：\nそれはブランカ・ドーリアという者だ、閉じ込められて\nもう何年にもなる。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.139–141",
+      "speaker": "Dante-narratore",
+      "original": "«Io credo», diss'io lui, «che tu m'inganni;\nché Branca Doria non morì unquanche,\ne mangia e bee e dorme e veste panche»,",
+      "provisionalTranslation": "「お前が私を騙していると思う」と私は彼に言った；\n「なぜならブランカ・ドーリアはまだ一度も死んでおらず、\n食べて飲んで眠って服を着ているから」、"
+    },
+    {
+      "id": 14,
+      "verses": "v.142–150",
+      "speaker": "Fra Alberigo",
+      "original": "Ed elli a me: «Nel fosso d'i Malebranche\nlà sù, di sopra, in la bolgia del pece,\nnon era ancora giunto Michel Zanche,\n\nche questi lasciò il diavolo in sua vece\nnel corpo suo; ed è così nel parente\nche 'l tradimento insieme con lui fece.\n\nMa distendi oggimai in qua la mano;\naprimi li occhi»; ed io non gliel' apersi;\ne cortesia fu lui esser villano.",
+      "provisionalTranslation": "彼は私に：「マーレブランケの堀で\n上で、瀝青の嚢の中で、\nミケーレ・ザンケはまだ到達していなかった、\n\nこの者が悪魔を自分の代わりに\n自分の身体に残した時；そして同様に\n一緒に裏切りを行った身内にも。\n\nしかし今すぐこちらに手を伸ばしてくれ；\n私の目を開けてくれ」；そして私はそれを開けなかった；\nそして彼に対して無礼であることが礼儀であった。"
+    },
+    {
+      "id": 15,
+      "verses": "v.151–157",
+      "speaker": "Dante-narratore",
+      "original": "Ahi Genovesi, uomini diversi\nd'ogne costume e pien d'ogne magagna,\nperché non siete voi del mondo spersi?\n\nChe col peggiore spirto di Romagna\ntrovai di voi un tal, che per sua opra\nin anima in Cocito già si bagna,\ne in corpo par vivo ancor di sopra.",
+      "provisionalTranslation": "ああジェノヴァ人よ、あらゆる習慣と異なり\nあらゆる欠陥に満ちた者たちよ、\nなぜお前たちは世界から散らされていないのか？\n\nというのもロマーニャの最悪の霊とともに\n私はお前たちの中の一人を見つけた、その行為のせいで\n魂においてすでにコキュートスで浸かっており、\n身体においてはまだ地上で生きているように見える。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "La bocca sollevò dal fiero pasto",
+      "body": "「あの罪人は凶暴な食事から口を上げ（La bocca sollevò dal fiero pasto）」──Canto XXXIIの末尾からの直接の続き。ウゴリーノはルッジェーリ大司教の後頭部を齧り続けている場面から始まる。「fiero pasto（凶暴な食事）」の「pasto」はフランチェスカのエピソード（Canto V）で「dolci pensier（甘い思い）」と対照をなす──地獄の最底部での食事は「凶暴（fiero）」だけだ。「verbendola a' capelli（髪に拭いながら）」──この一行の具体的な汚さが読者に目を背けさせながら引き付ける。ジョイスはこの冒頭行を「英語文学史で最も残酷な行」と評した。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ma se le mie parole esser dèn seme\nche frutti infamia al traditor ch'i' rodo,\nparlar e lagrimar vedrai insieme.",
+      "body": "「しかし私の言葉が種となって、私が齧っているあの裏切り者に悪名の果実をもたらすなら（Ma se le mie parole esser dèn seme / che frutti infamia al traditor ch'i' rodo）」──語ることの動機の詩学的宣言。「悪名（infamia）」の種を蒔くために語る──復讐としての語り。これはCanto XVIIIのテーマ（地獄での告白・暴露）の深化。「parlar e lagrimar vedrai insieme（語ることと泣くことを同時に見るだろう）」──感情と語りの融合は語り手の詩学的自意識。ボルヘスは「ウゴリーノの語りは記憶が復讐の道具になる唯一の例だ」と述べた。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tu dei saper ch'i' fui conte Ugolino,\ne questi è l'arcivescovo Ruggieri",
+      "body": "「お前は知るべきだ、私がウゴリーノ伯爵であったことを、そしてこれが大司教ルッジェーリだ（Tu dei saper ch'i' fui conte Ugolino, / e questi è l'arcivescovo Ruggieri）」──実在の人物。ウゴリーノ・デッラ・ゲラルデスカ（c.1220–1289）はピサの政治家で、ギベリン（皇帝派）とグェルフ（教皇派）の間で複雑な政治的立場を取り、最終的にルッジェーリ大司教の策謀で「ピサ城塞の反逆的譲渡」の廉で告発・投獄された。死の詳細は史的に確認されるが「子を食べたか」は不明──ダンテはその曖昧さを詩的に活用する。「i son tal vicino（こんなに近くにいる）」──地獄での裏切り者同士の永遠の隣接。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "la qual per me ha il titol de la fame",
+      "body": "「飢えの塔（la Muda）」──歴史的には「ムーダの塔」（Torre della Muda、ピサの鷹の換羽場）。ウゴリーノの死後、「飢えの塔（Torre della Fame）」と呼ばれるようになったとダンテは言う。建築の名が歴史の傷痕によって変わるという詩的・歴史的事実。「e in che conviene ancor ch'altri si chiuda（今後も他の者が閉じ込められることになる）」──ダンテの予言的怒り：この塔は今後も使われ続けるだろうという告発。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Con cagne magre, studïose e conte\nGualandi con Sismondi e con Lanfranchi",
+      "body": "「痩せて熱心で賢い猟犬とともに、グアランディがシスモンディとランフランキと（Con cagne magre, studïose e conte / Gualandi con Sismondi e con Lanfranchi）」──夢の中の狼狩りの場面。グアランディ、シスモンディ、ランフランキはピサの名家でルッジェーリ大司教の支持者。夢の「狼と子狼（lupo e lupicini）」がウゴリーノと息子たちの比喩──夢が現実の状況を予告する（夢告げのトポス）。「cagne magre, studïose e conte（痩せて熱心で賢い猟犬）」の三つの形容詞は人間の計算された悪意を動物的残酷さで表現する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Ben se' crudel, se tu già non ti duoli\npensando ciò che 'l mio cor s'annunziava;\ne se non piangi, di che pianger suoli?",
+      "body": "「お前は確かに残酷だ、もしまだ苦しんでいないなら……そしてもしお前が泣かないなら、お前は何で泣くのか？（Ben se' crudel, se tu già non ti duoli... / e se non piangi, di che pianger suoli?）」──読者への直接の呼びかけ。ウゴリーノの語りが「聴衆への挑戦」という修辞的形式を取る。「se non piangi, di che pianger suoli（もし泣かないなら、何で泣くのか）」──これは論理的には無根拠な問い（「何でも泣けるなら今こそ泣け」という命令形）だが詩的には完全に機能する。ゴセにとっては「全神曲中最も感情的に効果的な一行」とされる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "per quattro visi il mio aspetto stesso",
+      "body": "「四つの顔の中に自分自身の姿を（per quattro visi il mio aspetto stesso）」──ウゴリーノが息子と孫の四人の顔の中に自分自身の顔を見るというイメージ。父から子への顔の遺伝──しかしここでは飢えの苦しみという「自分自身の運命」を子どもたちに見る。「ambo le man per dolor mi morsi（両手を苦しみで噛んだ）」──この身振りはホメロス『オデュッセイア』（オデュッセウスが怒りで腿を打つ場面）の変容。しかし子どもたちはこれを「食べたい（mancar）」からだと誤解する──この誤解が「父よ、我々を食べてくれ」という申し出を招く。誤解と正解の間の悲劇的ギャップ。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Padre, assai ci fia men doglia\nse tu mangi di noi: tu ne vestisti\nqueste misere carni, e tu le spoglia",
+      "body": "「父上、私たちを食べてくださるなら苦しみはずっと少なくなります：あなたがこの哀れな肉を着せてくださった、あなたがそれを脱がせてください（Padre, assai ci fia men doglia / se tu mangi di noi: tu ne vestisti / queste misere carni, e tu le spoglia）」──神曲全体で最も神学的・人間的に複雑な発言の一つ。「tu ne vestisti queste misere carni（あなたがこの哀れな肉を着せてくださった）」──肉体を「着る」という言語は創世記と神学的受肉論（神が肉を「着た」）の反響。子どもたちが自らの肉を父への供物として提供する──これは聖体拝領の逆説的な反転でもあり、愛の自己犠牲の極限でもある。ダンテはこの場面に神学的意味を重ねながら、判断を留保する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Poi, che 'l digiuno anziché 'l duol poteo",
+      "body": "「飢えが悲しみに勝った（Poi, che 'l digiuno anziché 'l duol poteo）」──Canto XXXIII最大の詩的謎。この一行の解釈は二つに分かれる。①「飢えが悲しみに勝った」＝飢えが悲しみ（生きる意志）を殺し、ウゴリーノも死んだ。②「飢えが悲しみに勝った」＝飢えの本能が道徳的悲しみ（子を食べることへの嫌悪）に勝ち、ウゴリーノは子の肉を食べた（共食い）。ダンテは意図的にどちらとも読める一行を選ぶ──詩的曖昧さの最高度の使用。ボルヘスは「ダンテがこの問いに答えなかったことは、答えたいかなる解決よりも詩的に価値がある」と述べた（『ダンテ九篇』）。ボッカッチョやBoccaccioはウゴリーノが子を食べたと注釈したが、ダンテ自身のテキストは沈黙する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Ahi Pisa, vituperio de le genti\ndel bel paese là dove 'l sì suona",
+      "body": "「ああピサよ、美しい国の人々の恥、「sì」が響く国の（Ahi Pisa, vituperio de le genti / del bel paese là dove 'l sì suona）」──「bel paese là dove 'l sì suona（「sì」が響く美しい国）」はイタリアの最初の詩的命名の一つ（「sì」はイタリア語の「はい」）。この一行はペトラルカとリソルジメント期の詩人たちに引き継がれる。ピサへの呪詛（v.79–84）はCanto XXVIのフィレンツェへの呪詛と並んで、ダンテの政治詩の最も激烈な表現。「muovasi la Capraia e la Gorgona（カプライアとゴルゴーナよ動いてくれ）」──トスカーナ沖の島々がアルノ川をせき止めてピサを水没させよという超自然的な呪い。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Innocenti facea l'età novella",
+      "body": "「若い年齢が彼らを無実にしていた（Innocenti facea l'età novella）」──ウゴリーノの子・孫の無実の宣言。「ウゴリーノ自身が有罪であったとしても（Ché se 'l conte Ugolino aveva voce / d'aver tradita te de le castella）」という仮定句のもとで、子どもたちの無実を強調する。これはダンテの法学的・神学的厳密さの表れ──「連座」の否定。同時に：ウゴリーノ自身の罪（地獄にいることはそれを証明する）と子の無実の乖離は、地獄の「正義」の複雑さを示す。「novella Tebe（新しいテーバイ）」──テーバイはエテオクレスとポリュネイケスの兄弟殺しの都市（Canto XXVIで言及）──ピサへの呪いを歴史的神話的文脈に置く。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "ché le lagrime prime fanno groppo,\ne sì come visiere di cristallo,\nriempion sotto 'l ciglio tutto il coppo.",
+      "body": "「最初の涙が凝固して固まり、まるでクリスタルのバイザーのように、眉毛の下の穴全体を満たすから（ché le lagrime prime fanno groppo, / e sì come visiere di cristallo, / riempion sotto 'l ciglio tutto il coppo）」──「クリスタルのバイザー（visiere di cristallo）」は神曲最も独創的な比喩の一つ。中世の騎士のバイザー（面甲）を使うことで、凍った涙の防護的・閉塞的性質を視覚化する。「Lo pianto stesso lì pianger non lascia（泣くこと自体がそこでは泣かせない）」──感情の自己阻害の逆説。アンテノーラとトロメーアの差異：アンテノーラ（v.79–90）の魂は下を向き、トロメーア（v.91以降）の魂は仰向け──泣こうとすると涙が目に逆流して苦しみを増す。苦しみの詩学的・解剖学的精密さ。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "già mi parea sentire alquanto vento;\nper ch'io: «Maestro mio, questo chi move?»",
+      "body": "「すでに私はいくらか風を感じるようだった……これを動かすのは誰ですか？（già mi parea sentire alquanto vento; / per ch'io: «Maestro mio, questo chi move?»）」──この風の謎はCanto XXXIV冒頭で解決する：ルチフェロの三対の翼が起こす風。Canto XXXIII後半の「風の問い」は次のCantoへの詩的橋渡し──地獄の最底部に向かう接近の予告。「non è qua giù ogne vapore spento（ここ下ではすべての蒸気が消えているのではないのですか）」──アリストテレス気象論に基づく問い（風は地上の蒸気から生じるとされた）。地下では蒸気も凍りつくはずという論理的問い。ウェルギリウスの答えの謎めいた簡潔さ（「見れば分かる」）が次章への引き。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "I' son frate Alberigo;\ni' son quel da le frutta del mal orto,\nche qui riprendo dattero per figo",
+      "body": "「私はフラ・アルベリーゴだ；私は悪い果樹園の果物の男だ（I' son frate Alberigo; / i' son quel da le frutta del mal orto）」──フラ・アルベリーゴ・マナルディ・ダ・ファエンツァ（実在）はフロルジョイタ騎士団のフラテ。1285年、親族との争いで宴の席を設け、「果物を持て」という合図で刺客を放ち、親族を殺した。「dattero per figo（イチジクの代わりにナツメヤシで）」──イタリアのことわざ「イチジクを与えてナツメヤシで返す（dare fichi e avere datteri）」の反転：ナツメヤシはイチジクより高価──「一層ひどい報いを受けた」という意味の自己の罰の認識。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Cotal vantaggio ha questa Tolomea,\nche spesse volte l'anima ci cade\ninnanzi ch'Atropòs mossa le dea.",
+      "body": "「このトロメーアにはそのような優位がある、魂がしばしばここに落ちることが、アトロポスが彼女に動くきっかけを与える前に（Cotal vantaggio ha questa Tolomea... / innanzi ch'Atropòs mossa le dea）」──トロメーアの神学的特異性。「Tolomea」の名の由来には二説：プトレマイオス一世（エジプト王）説と、マカバイ記Iのトロメー（客人たちを宴席で殺した者）説。「アトロポス（Atropòs）」──運命の三女神（モイライ）の一人、死の糸を切る女神。裏切りの罪が即座に（死の前に）魂を地獄に落とすという神学的発明──現世に悪魔が操る「空っぽの身体」が歩いているという概念は、道徳的死と生物的死の分離を意味する。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "il corpo suo l'è tolto / da un demonio, che poscia il governa",
+      "body": "「その身体は悪魔によって奪われる、悪魔がその後それを治める（il corpo suo l'è tolto / da un demonio, che poscia il governa）」──「身体は生きているが魂は死んでいる」という概念の最も極端な形式。これはCanto VIIIのフレグマスとダンテの対話（「生者が死者の国を歩く」）の深化。ブランカ・ドーリア（実在、1275–1325年以降）はジェノヴァの貴族で、1275年頃義父ミケーレ・ザンケを殺した──しかしダンテの書いた時点ではまだ生きていた（！）。「e forse pare ancor lo corpo suso / de l'ombra che di qua dietro mi verna（おそらく今もまだ地上に見えるのは……身体が）」──現在もまだ生きている人間の魂がすでに地獄にいるというダンテの政治的告発の最も激烈な形式。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "aprimi li occhi»; ed io non gliel' apersi;\ne cortesia fu lui esser villano.",
+      "body": "「私の目を開けてくれ」；そして私はそれを開けなかった；そして彼に対して無礼であることが礼儀であった（aprimi li occhi»; ed io non gliel' apersi; / e cortesia fu lui esser villano）」──ダンテ（旅人）が約束を守らないという、神曲では珍しい「不誠実」の場面。しかしウェルギリウスの同意（ウェルギリウスは沈黙）のもとで、これは「礼儀（cortesia）」とされる──裏切り者への約束は守られなくてよいという中世的法理（crimen laesae maiestatis）。「e cortesia fu lui esser villano（彼に対して無礼であることが礼儀であった）」──反語（oxymoron）の一行が道徳的逆説を圧縮する。ダンテの道徳観の複雑さ──地獄でのみ有効な「礼儀の逆転」。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "in anima in Cocito già si bagna,\ne in corpo par vivo ancor di sopra.",
+      "body": "「魂においてすでにコキュートスで浸かっており、身体においてはまだ地上で生きているように見える（in anima in Cocito già si bagna, / e in corpo par vivo ancor di sopra）」──Canto XXXIIIの最終二行が示す根本的な逆説：現世で生きながらすでに死んでいる存在。Canto Iのダンテが「half his life is over」から始まる旅と鏡像をなす──ダンテは生きながら地獄を旅し、裏切り者は生きながら地獄に落ちている。この概念は20世紀の「生ける死者（undead）」の文学的・哲学的系譜に接続する。ジョルジョ・アガンベン「ゾーエーとビオス」（剥き出しの生と政治的生の区別）との比較が可能。",
+      "targetId": "dante_inferno_canto_34"
+    }
+  ]
+}

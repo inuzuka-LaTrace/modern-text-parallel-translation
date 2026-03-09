@@ -1,0 +1,272 @@
+{
+  "id": "dante_inferno_canto_5",
+  "title": "Inferno — Canto V",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, 1966–1967)。照合: danteonline.it (Società Dantesca Italiana公式テキスト); Princeton Dante Project (princeton.edu/dante); Dartmouth Dante Project; Singleton, C.S., Dante Alighieri: The Divine Comedy, Inferno (Princeton UP, 1970–1975)",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472 (Johannes Numeister)。「神曲 (Divina Commedia)」の名称はボッカッチョに由来し、ダンテ自身は「Commedia」と呼んだ。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Inferno",
+  "canto": "V",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "Canto Vは地獄篇第2圏（淫蕩の罪）の場面であり、神曲全体で最も有名なエピソードの一つ──フランチェスカ・ダ・リミニとパオロ・マラテスタの悲恋。ダンテとウェルギリウスが第2圏に入ると、怪物ミノス（Minòs）が罪人の罪を審判し、巻き付けた尾の数で落とすべき圏を指定する。続いて地獄の暗黒の中で永遠に嵐に翻弄される淫蕩者たちの群れ──クレオパトラ、セミラミス、トロイアのヘレネ、アキレウス、パリスなど。ダンテは嵐の中に寄り添う二つの魂を見つけ、呼びかけると鳩のように飛んでくる。女性がフランチェスカ・ダ・リミニ（1285年頃、義弟パオロと通じたことを夫ジャンチョット・マラテスタに発見され殺された）で、三度繰り返す「愛（Amor）」の讃歌と、ランスロ物語の本（ガレオットの書）を読んでいてキスに至った瞬間の告白を語る。ダンテは同情のあまり気絶する──Canto VI（第3圏）の冒頭へ。\n\n詩学的核心：「Amor, ch'al cor gentil ratto s'apprende（愛は気高い心にたちまち宿る）」「Amor, ch'a nullo amato amar perdona（愛は愛された者に愛することを免れさせない）」「Amor condusse noi ad una morte（愛は我らを一つの死へと導いた）」の三つの「愛の三連句（terzina dell'Amor）」は、13世紀の「甘美な新体詩（Dolce Stil Novo）」の愛の哲学を圧縮する。「Galeotto fu 'l libro e chi lo scrisse（ガレオットはその本と著者であった）」は、書物が恋愛の媒介者となるという文学論的宣言として後世に深い影響を与えた。ダンテの気絶は裁かずに感じるという読者の代理体験を体現する。",
+  "keywords": [
+    "フランチェスカ・ダ・リミニ",
+    "パオロ・マラテスタ",
+    "愛の三連句",
+    "Amor ch'al cor gentil",
+    "ガレオット",
+    "Galeotto",
+    "淫蕩の罪",
+    "第2圏",
+    "ミノス",
+    "Minòs",
+    "地獄の旋風",
+    "ランスロ物語"
+  ],
+  "relatedTexts": [
+    "dante_inferno_canto_1",
+    "dante_inferno_canto_3",
+    "dante_inferno_canto_26"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "speaker": "Dante-narratore",
+      "original": "Così discesi del cerchio primaio\ngiù nel secondo, che men loco cinghia\ne tanto più dolor, che punge a guaio.",
+      "provisionalTranslation": "そのようにして私は第1圏を降り\n下の第2圏へと進んだ、より狭い場所を囲み\nそれだけ多くの苦しみが刺すような嘆きをともなう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–15",
+      "speaker": "Dante-narratore",
+      "original": "Stavvi Minòs orribilmente, e ringhia:\nessamina le colpe ne l'intrata;\ngiudica e manda secondo ch'avvinghia.\n\nDico che quando l'anima mal nata\nli vien dinanzi, tutta si confessa;\ne quel conoscitor de le peccata\n\nvede qual loco d'inferno è da essa;\ncignesi con la coda tante volte\nquantunque gradi vuol che giù sia messa.\n\nSempre dinanzi a lui ne stanno molte:\nvanno a vicenda ciascuna al giudizio,\ndicono e odono e poi son giù volte.",
+      "provisionalTranslation": "そこにミノスが恐ろしくいて、唸っている：\n入口で罪を審査し、\nどれだけ巻き付けるかに従って判決を下し送り込む。\n\n私が言うのはこうだ──呪われた魂が\n彼の前に来ると、すべてを告白する；\nそしてあの罪の知り手は\n\nそれにとってどの地獄の場所がふさわしいかを見る；\n彼は尾を何度も巻き付ける、\n送り込もうとする段の数だけ。\n\n常に彼の前には多くの魂が立っている：\nそれぞれが交互に審判へ進み、\n言い、聞き、そして下へと向けられる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.16–20",
+      "speaker": "Minos",
+      "original": "«O tu che vieni al doloroso ospizio»,\ndisse Minòs a me quando mi vide,\nlasciando l'atto di cotanto offizio,\n«guarda com'entri e di cui tu ti fide;\nnon t'inganni l'ampiezza de l'intrare!»",
+      "provisionalTranslation": "「おお、苦しみの宿に来る者よ」、\nミノスは私に言った、私を見て、\nこれほどの職務の行為を止めて、\n「気をつけろ、どう入り、誰を信頼するかを；\n入口の広さに騙されるな！」"
+    },
+    {
+      "id": 4,
+      "verses": "v.21–24",
+      "speaker": "Virgilio",
+      "original": "E 'l duca mio a lui: «Perché pur gride?\nNon impedir lo suo fatale andare:\nvuolsi così colà dove si puote\nciò che si vuole, e più non dimandare».",
+      "provisionalTranslation": "そして私の案内者は彼に：「なぜ叫び続けるのか？\n彼の定められた歩みを妨げるな：\nこうすることが望まれている、あちらで、\n望まれることのできる場所で、そしてそれ以上問うな」。"
+    },
+    {
+      "id": 5,
+      "verses": "v.25–30",
+      "speaker": "Dante-narratore",
+      "original": "Or incomincian le dolenti note\na farmisi sentire; or son venuto\nlà dove molto pianto mi percuote.\n\nIo venni in loco d'ogne luce muto,\nmugghia come fa mar per tempesta,\nse da contrari venti è combattuto.",
+      "provisionalTranslation": "今や悲しみの音が\n私に聞こえ始めた；今や私は来た\n多くの泣き声が私を打ちつける場所へ。\n\n私は来た、あらゆる光が黙り込んでいる場所に、\nそこは嵐の時の海のように吠え、\n逆風が吹き荒れるときのように戦っている。"
+    },
+    {
+      "id": 6,
+      "verses": "v.31–45",
+      "speaker": "Dante-narratore",
+      "original": "La bufera infernal, che mai non resta,\nmena li spirti con la sua rapina;\nvoltando e percotendo li molesta.\n\nQuando giungon davanti a la ruina,\nquivi le strida, il lamento, il guaio;\nbestemmian quivi la virtù divina.\n\nIntesi ch'a così fatto tormento\nenno dannati i peccator carnali,\nche la ragion sommettono al talento.\n\nE come li stornei ne portan l'ali\nnel freddo tempo, a schiera larga e piena,\ncosì quel fiato li spiriti mali\n\ndi qua, di là, di giù, di sù li mena;\nnulla speranza li conforta mai,\nnon che di posa, ma di minor pena.",
+      "provisionalTranslation": "地獄の旋風は、決して止まらず、\n霊魂たちをその略奪とともに運ぶ；\n回しながら打ちつけながら苦しめる。\n\n崩壊した岩の前に来ると、\nそこで叫びが、嘆きが、泣き声が；\nそこで彼らは神の力を呪う。\n\n私は理解した、このような責め苦に\n肉欲の罪人たちは断罪されていると、\n理性を欲求に従わせた者たちが。\n\nそして椋鳥がその羽で連れ去られるように\n寒い季節に、広く密な群れとなって、\nそのように、その息が悪しき霊魂たちを\n\n此方へ彼方へ下へ上へと運ぶ；\n何の希望も彼らを慰めない、\n休息はおろか、より小さな苦しみすら。"
+    },
+    {
+      "id": 7,
+      "verses": "v.46–51",
+      "speaker": "Dante-narratore",
+      "original": "E come i gru van cantando lor lai,\nfaccendo in aere di sé lunga riga,\ncosì vid'io venir, traendo guai,\nombre portate da la detta briga;\nper ch'io dissi: «Maestro, chi son quelle\ngenti che l'aura nera sì gastiga?»",
+      "provisionalTranslation": "そして鶴が自らの嘆き歌を歌いながら、\n空中に長い列を作るように、\nそのように私は来るのを見た、嘆きを引きながら、\nその語られた苦しみに運ばれる影たちが；\nそれゆえ私は言った：「師よ、黒い風がこれほど罰する\nあの人々は誰ですか？」"
+    },
+    {
+      "id": 8,
+      "verses": "v.52–69",
+      "speaker": "Virgilio",
+      "original": "La prima di color di cui novelle\ntu vuoi saper», mi disse quei, «fu donna\nche regnò sopra più lingue e favelle.\n\nA vizio di lussuria fu sì rotta,\nche libito fé licito in sua legge,\nper tòrre il biasmo in che era condotta.\n\nEll'è Semiramìs, di cui si legge\nche succedette a Nino e fu sua sposa:\ntenne la terra che 'l Soldan corregge.\n\nL'altra è colei che s'ancise amorosa,\ne ruppe fede al cener di Sicheo;\nCleopatra lussurïosa.\n\nElena vedi, per cui tanto reo\ntempo si volse, e vedi 'l grande Achille,\nche con amore al fine combatteo.\n\nVedi Parìs, Tristano»; e più di mille\nombre mostrommi e nominommi a dito,\nch'amor di nostra vita dipartille.",
+      "provisionalTranslation": "「お前が知りたいあの者たちのうち最初の者は」、彼は私に言った、「多くの言語と言葉の上に君臨した女だった。\n\n淫蕩の悪癖にこれほど打ち砕かれていたので、\n彼女は欲することを法律で許可にした、\n彼女がおかれた非難を取り除くために。\n\nこれはセミラミスだ、彼女について記されているのは\nニノスの後を継ぎ彼の妻であったということ：\n彼女はスルタンが治める土地を保った。\n\n次はあの者、愛ゆえに自ら命を絶ち、\nシカエウスの遺灰への誓いを破った；\n淫蕩なクレオパトラ。\n\nヘレネを見よ、彼女のためにこれほどの悪しき\n時が流れた、そして大いなるアキレウスを見よ、\n彼は最後まで愛と戦った。\n\nパリスを見よ、トリスタンを」；そして千人以上の\n影を彼は私に示し、指差して名を挙げた、\n愛が彼らを我らの命から引き離した者たちを。"
+    },
+    {
+      "id": 9,
+      "verses": "v.70–72",
+      "speaker": "Dante-narratore",
+      "original": "Poscia ch'io ebbi il mio dottor udito\nnomar le donne antiche e ' cavalieri,\npietà mi giunse, e fui quasi smarrito.",
+      "provisionalTranslation": "私の師が古代の女性と騎士たちの名を挙げるのを聞いた後、\n憐れみが私に訪れ、私はほとんど茫然とした。"
+    },
+    {
+      "id": 10,
+      "verses": "v.73–78",
+      "speaker": "Dante-narratore",
+      "original": "I' cominciai: «Poeta, volontieri\nparlerei a quei due che 'nsieme vanno,\ne paion sì al vento esser leggieri».\n\nEd elli a me: «Vedrai quando saranno\npiù presso a noi; e tu allor li priega\nper quell'amor che i mena, e quei verranno».",
+      "provisionalTranslation": "私は始めた：「詩人よ、私は喜んで\nあの一緒に行くふたりに話したい、\n彼らは風にこれほど軽やかに見える」。\n\n彼は私に：「彼らがもっと\n我々に近づいた時に見よ；そしてお前はその時に彼らに頼め\n彼らを運ぶあの愛によって、そして彼らは来るだろう」。"
+    },
+    {
+      "id": 11,
+      "verses": "v.79–87",
+      "speaker": "Dante-narratore",
+      "original": "Sì tosto come il vento a noi li piega,\nmossi la voce: «O anime affannate,\nvenite a noi parlar, s'altri nol niega!»\n\nQuali colombe dal disio chiamate\ncon l'ali alzate e ferme al dolce nido\nvegnon per l'aere, dal voler portate;\n\ncotali uscir de la schiera ov'è Dido,\na noi venendo per l'aere maligno,\nsì forte fu l'affettüoso grido.",
+      "provisionalTranslation": "風が彼らを我々に向けるや否や、\n私は声を動かした：「おお、苦しむ魂たちよ、\n他の者が禁じないなら、我々に話しに来てくれ！」\n\n鳩が欲望に呼ばれて\n翼を上げて甘い巣へと向かって固定しながら\n意志に運ばれて空中を飛んでくるように；\n\nそのように彼らはディドのいる群れから出た、\n邪悪な空中を我々に向かって来て、\nそれほど強く感情のこもった叫びは届いた。"
+    },
+    {
+      "id": 12,
+      "verses": "v.88–107",
+      "speaker": "Francesca",
+      "original": "«O animal grazïoso e benigno\nche visitando vai per l'aere perso\nnoi che tignemmo il mondo di sanguigno,\n\nse fosse amico il re de l'universo,\nnoi pregheremmo lui de la tua pace,\npoi c'hai pietà del nostro mal perverso.\n\nDi quel che udire e che parlar vi piace\nnoi udiremo e parleremo a vui,\nmentre che 'l vento, come fa, si tace.\n\nSiede la città dove nata fui\nsu la marina dove 'l Po discende\nper aver pace co' seguaci sui.\n\nAmor, ch'al cor gentil ratto s'apprende,\nprese costui de la bella persona\nche mi fu tolta; e 'l modo ancor m'offende.\n\nAmor, ch'a nullo amato amar perdona,\nmi prese del costui piacer sì forte,\nche, come vedi, ancor non m'abbandona.\n\nAmor condusse noi ad una morte.\nCaina attende chi a vita ci spense»,",
+      "provisionalTranslation": "「おお、優雅で慈悲深い生き物よ、\n訪れながら暗鬱な空中を行く、\n私たちのもとへ──世界を血の色に染めた私たちの；\n\n宇宙の王が友好的であるなら、\n私たちは彼に、あなたの平和を祈るだろう、\nあなたが私たちの倒錯した苦しみを憐れんでくれるから。\n\nあなた方が聞き、話すのを喜ぶことについて\n私たちは聞き、あなた方に話すだろう、\n風が、今のように、静まっている間に。\n\n私が生まれた都市は座している\n海辺に、そこでポー川は下って流れる\n追い従う者たちとともに安らぎを得るために。\n\n愛は、気高い心にたちまち宿り、\nこの者を捕らえた、私から奪われた美しい体で；\nそのやり方が今なお私を傷つける。\n\n愛は、愛された者に愛することを免れさせず、\n私をこの者の喜びにこれほど強く捕らえた、\nあなたが見るように、今なお私を離れない。\n\n愛は我らを一つの死へと導いた。\nカイナは我らの命を奪った者を待ち受けている」、"
+    },
+    {
+      "id": 13,
+      "verses": "v.108–111",
+      "speaker": "Dante-narratore",
+      "original": "Queste parole da lor ci fuor porte.\n\nQuand'io intesi quell'anime offense,\nchina' il viso, e tanto il tenni basso,\nfin che 'l poeta mi disse: «Che pense?»",
+      "provisionalTranslation": "これらの言葉が彼らから私たちに届けられた。\n\n私があの傷ついた魂たちの言葉を聞いた時、\n私は顔を下に向け、それをこれほど低く保った、\n詩人が私に言うまで：「何を考えている？」"
+    },
+    {
+      "id": 14,
+      "verses": "v.112–114",
+      "speaker": "Dante-narratore",
+      "original": "Quando rispuosi, cominciai: «Oh lasso,\nquanti dolci pensier, quanto disio\nmenò costoro al doloroso passo!»",
+      "provisionalTranslation": "私が答えた時、私は始めた：「ああ、哀れ、\nいくつもの甘い思いが、どれほどの欲望が\n彼らを苦しみの一歩へと導いたことか！」"
+    },
+    {
+      "id": 15,
+      "verses": "v.115–120",
+      "speaker": "Dante-narratore",
+      "original": "Poi mi rivolsi a loro e parla' io,\ne cominciai: «Francesca, i tuoi martìri\na lagrimar mi fanno tristo e pio.\n\nMa dimmi: al tempo de' dolci sospiri,\na che e come concedette Amore\nche conosceste i dubbiosi disiri?»",
+      "provisionalTranslation": "それから私は彼らに向き直り、私が話した、\nそして始めた：「フランチェスカよ、お前の苦しみが\n私を悲しく敬虔にして涙を流させる。\n\nしかし教えてくれ：甘い溜め息の時に、\n何によって、どのようにして愛は許したのか\nお前たちが疑わしい欲望を知ることを？」"
+    },
+    {
+      "id": 16,
+      "verses": "v.121–138",
+      "speaker": "Francesca",
+      "original": "Ed ella a me: «Nessun maggior dolore\nche ricordarsi del tempo felice\nne la miseria; e ciò sa 'l tuo dottore.\n\nMa s'a conoscer la prima radice\ndel nostro amor tu hai cotanto affetto,\nfarò come colui che piange e dice.\n\nNoi leggevamo un giorno per diletto\ndi Lancialotto come amor lo strinse;\nsoli eravamo e sanza alcun sospetto.\n\nPer più fïate li occhi ci sospinse\nquella lettura, e scolorocci il viso;\nma solo un punto fu quel che ci vinse.\n\nQuando leggemmo il disïato riso\nesser basciato da cotanto amante,\nquesti, che mai da me non fia diviso,\n\nla bocca mi basciò tutto tremante.\nGaleotto fu 'l libro e chi lo scrisse:\nquel giorno più non vi leggemmo avante».",
+      "provisionalTranslation": "彼女は私に：「不幸の中で幸福な時を思い出すことよりも\n大きな苦しみはない；\nそしてそれをあなたの師は知っている。\n\nしかし我らの愛の最初の根を知ることに\nあなたがこれほど深い望みを持つなら、\n私は泣きながら語る者のようにしよう。\n\n私たちはある日楽しみのために読んでいた\nランスロが愛にどのように縛られたかを；\n私たちは二人きりで、何の疑念もなく。\n\n何度もその読書が私たちの目を\n向かい合わせ、顔の色を変えさせた；\nしかし私たちを征服したのはただ一点だった。\n\n私たちが読んだ時──待ち望まれた微笑みが\nこれほど偉大な恋人によってキスされたと──\nこの者が、決して私から離れることのない者が、\n\n全身震えながら私の口にキスした。\nガレオットはその本と書いた者だった：\nその日それ以上私たちは読み進めなかった」。"
+    },
+    {
+      "id": 17,
+      "verses": "v.139–142",
+      "speaker": "Dante-narratore",
+      "original": "Mentre che l'uno spirto questo disse,\nl'altro piangëa; sì che di pietade\nio venni men così com'io morisse;\ne caddi come corpo morto cade.",
+      "provisionalTranslation": "一方の霊がこれを言っている間、\nもう一方は泣いていた；そのため憐れみによって\n私は力を失った、死ぬかのように；\nそして死体が倒れるように私は倒れた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Stavvi Minòs orribilmente, e ringhia",
+      "body": "「そこにミノスが恐ろしくいて、唸っている（Stavvi Minòs orribilmente, e ringhia）」──ミノスはギリシャ神話のクレタ王で、死後に冥界の裁判官となった（他にアイアコス・ラダマンテュスとともに）。ウェルギリウス『アエネイス』第6巻（v.432–433）でも冥界の裁判官として登場するが、ダンテは「尾を巻き付ける数で圏を指定する」という独自の機械的・ビジュアル的発明を加える。これは中世の罪の等級論（罪の重さに応じた地獄の深さ）をグロテスクに具象化したもの。「ringhia（唸る）」という動詞は犬のような動物的表現──人間の正義に対する神の正義の獣的・絶対的側面。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "cignesi con la coda tante volte / quantunque gradi vuol che giù sia messa",
+      "body": "「彼は尾を何度も巻き付ける、送り込もうとする段の数だけ（cignesi con la coda tante volte / quantunque gradi vuol che giù sia messa）」──ミノスの尾による裁判システム。テルツァ・リーマの韻律でこの機械的な動作を描写することで、滑稽さと恐怖が共存する。ダンテの発明の特徴：古典的権威（ミノスの裁判官像）を保ちつつ、それを完全に変容する。「avvinghia（巻き付ける）」という語がこの段落の韻を支配するのも、蛇のようなミノスの動作を音的に体現する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "vuolsi così colà dove si puote / ciò che si vuole, e più non dimandare",
+      "body": "Canto IIIのウェルギリウスがカロンに言った言葉（v.95–96）の完全な反復。神の意志の婉曲表現がミノスにも通用する──地獄の全番人に対してウェルギリウスは同じ「神の名による制止」を使う。この反復は詩的構造上の意図的なエコーであり、地獄旅行の「通行証」として機能する公式句（formula）。反復によって読者に地獄の制度的秩序の感覚を与える。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Io venni in loco d'ogne luce muto",
+      "body": "「私は来た、あらゆる光が黙り込んでいる場所に（Io venni in loco d'ogne luce muto）」──「muto（黙り込んでいる）」を光に使う大胆な擬人法（enallage）。Canto Iの「là dove 'l sol tace（太陽が沈黙する場所）」との照応。光の「沈黙」という感覚的矛盾が地獄の光の不在を音響的に表現する──マラルメが「沈黙」で純粋な絶対を表したのに対し、ダンテにとって沈黙は欠如・喪失。第2圏の「暗さ」が第1圏（リンボ）の「暗さ」と異なるのは、ここには光への希望すら存在しないため。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "che la ragion sommettono al talento",
+      "body": "「理性を欲求に従わせた者たち（che la ragion sommettono al talento）」──淫蕩の罪の定義。「talento（欲求・情欲）」が「ragion（理性）」を支配する転倒がこの罪の本質。アリストテレス倫理学（『ニコマコス倫理学』）に基づく：人間の本質は理性であり、理性を欲求に従わせることは人間の本質の転倒。しかしダンテはフランチェスカへの深い同情を通じて、この神学的定義の冷たさと人間的温かさの間の緊張を描く──裁判官ダンテと感情するダンテの分裂。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "E come li stornei ne portan l'ali\nnel freddo tempo, a schiera larga e piena",
+      "body": "「椋鳥がその羽で連れ去られるように、寒い季節に、広く密な群れとなって（E come li stornei ne portan l'ali / nel freddo tempo, a schiera larga e piena）」──淫蕩者の群れを椋鳥の群れ飛行に喩える直喩。自然界の「群れ飛行（murmuration）」という実際の現象──無数の個体が一つの意志なき運動をする。淫蕩者たちの「意志のない群れ」との詩的対応。続くv.46–48の鶴の直喩（静かで列をなす）との対比：椋鳥は混沌・鶴は列──罪の群れと名の知れた個人の対比の予告。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "E come i gru van cantando lor lai,\nfaccendo in aere di sé lunga riga",
+      "body": "「鶴が自らの嘆き歌を歌いながら、空中に長い列を作るように（E come i gru van cantando lor lai, / faccendo in aere di sé lunga riga）」──椋鳥の直喩（混沌）からの転換。鶴の直喩は整然とした行列を描く──まもなく登場するフランチェスカとパオロの「個人化された悲劇」への橋渡し。「lor lai（自らの嘆き）」はプロヴァンス語のleich（嘆きの歌）の借用であり、トルバドゥール詩学への参照──淫蕩者たちが嘆き「歌う」という詩的皮肉。ダンテは嘆きを歌に変える詩人の立場から、嘆きを「歌わされている」魂たちを見る。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "A vizio di lussuria fu sì rotta,\nche libito fé licito in sua legge",
+      "body": "「淫蕩の悪癖にこれほど打ち砕かれていたので、彼女は欲することを法律で許可にした（A vizio di lussuria fu sì rotta, / che libito fé licito in sua legge）」──セミラミスの定義。権力者が自らの欲望を法律化することへの告発──法の自己正当化としての専制。ダンテの政治論の核心：正義は欲望（talento）からではなく理性（ragion）から生まれる。このセミラミス批判はCanto Vの神学的中心命題を歴史的実例で体現する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "allusion",
+      "anchor": "Elena vedi, per cui tanto reo / tempo si volse, e vedi 'l grande Achille,\nche con amore al fine combatteo.",
+      "body": "「ヘレネを見よ……大いなるアキレウスを見よ、彼は最後まで愛と戦った（Elena vedi... e vedi 'l grande Achille, / che con amore al fine combatteo）」──ウェルギリウスによる歴史上の淫蕩者の列挙に、ダンテ独自の解釈が入る。「アキレウスが最後まで愛と戦った」はポリュクセナへの愛がアキレウスの死を招いたという中世的伝承に基づく（ホメロスにはない）。「vedi il grande Achille（大いなるアキレウスを見よ）」──「grande（大いなる）」という称号を付けることで、偉大さと淫蕩の同居を示す。偉大さは罪を免除しない──ダンテの公正さの表明。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "pietà mi giunse, e fui quasi smarrito",
+      "body": "「憐れみが私に訪れ、私はほとんど茫然とした（pietà mi giunse, e fui quasi smarrito）」──ダンテの感情的反応。「smarrito（茫然とした・迷った）」はCanto I第1行「mi ritrovai per una selva oscura」の「smarrita（踏み外した）」と同じ語根──迷いの感覚の反復。憐れみ（pietà）は道徳的危険である：地獄の秩序（神の正義）に感情的に反応することは、判断力の「迷い」を招く。しかしダンテはこの感情を隠さない──詩人の役割は感じることと裁くことの間の緊張を生きることにある。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "prosody",
+      "anchor": "Quali colombe dal disio chiamate\ncon l'ali alzate e ferme al dolce nido\nvegnon per l'aere, dal voler portate",
+      "body": "「鳩が欲望に呼ばれて、翼を上げて甘い巣へと向かって固定しながら、意志に運ばれて空中を飛んでくるように（Quali colombe dal disio chiamate...）」──神曲最も美しい直喩のひとつ。椋鳥（混沌）→鶴（整列・嘆き）→鳩（愛・方向性）という三段階の鳥の直喩は、淫蕩者の「群れ」から「個人」への段階的焦点化を表す。鳩は愛の象徴（ウェヌス/アフロディテの鳥）──フランチェスカとパオロを愛の象徴で描くことで、ダンテは彼らへの詩的共感を表明する（神学的判決とは別に）。「dolce nido（甘い巣）」──「dolce（甘い）」はDolce Stil Novoの核心語であり、フランチェスカのエピソード全体に甘美な新体詩の色調が塗られる。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "noi che tignemmo il mondo di sanguigno",
+      "body": "「世界を血の色に染めた私たちの（noi che tignemmo il mondo di sanguigno）」──フランチェスカとパオロは殺された（スキャンダルによる血）。この表現は彼らの死が不名誉なものだったことを示す──姦通発覚後の夫ジャンチョット・マラテスタによる殺害。「sanguigno（血の色の）」という色の形容は、愛の物語に暴力の影を最初から落とす。フランチェスカの語りはこの暴力への沈黙した抗議として読める。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "prosody",
+      "anchor": "Amor, ch'al cor gentil ratto s'apprende,\n[...]\nAmor, ch'a nullo amato amar perdona,\n[...]\nAmor condusse noi ad una morte.",
+      "body": "「愛の三連句（terzina dell'Amor）」──Canto Vの詩学的核心。三つの tercet（各3行）の冒頭に「Amor（愛）」を置くアナフォラ（反復）は、ダンテが甘美な新体詩（Dolce Stil Novo）の愛の哲学を地獄で語らせるという逆説を生む。「Amor, ch'al cor gentil ratto s'apprende（愛は気高い心にたちまち宿る）」──グイド・グイニッツェッリの「Al cor gentil rempaira sempre Amore（愛は常に気高い心に宿る）」への直接の引用。Dolce Stil Novoの最重要命題をフランチェスカが自らの罪の弁護として使う──詩学と神学の緊張の最高点。「Amor condusse noi ad una morte（愛は我らを一つの死へと導いた）」──愛が死の原因であるという逆説的な告白。しかしフランチェスカはその愛の正当性を疑わない。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Caina attende chi a vita ci spense",
+      "body": "「カイナは我らの命を奪った者を待ち受けている（Caina attende chi a vita ci spense）」──カイナは地獄の最底部コキュートスの第1区画（家族を殺した者の区画）の名称（カインから）。フランチェスカの夫ジャンチョット・マラテスタへの告発。地獄の中にいるフランチェスカが、地獄のさらに深い場所にいる夫への呪詛を語る──構造的な修辞。しかしこの告発はダンテの神学的立場とは無関係──ダンテ（作者）はジャンチョットを地獄に明示的に配置していない。フランチェスカの視点と作者ダンテの視点の乖離。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "quanti dolci pensier, quanto disio / menò costoro al doloroso passo",
+      "body": "「いくつもの甘い思いが、どれほどの欲望が、彼らを苦しみの一歩へと導いたことか（quanti dolci pensier, quanto disio / menò costoro al doloroso passo）」──ダンテ（旅人）の嘆きの中心。「dolci pensier（甘い思い）」の「dolce（甘い）」がDolce Stil Novoと共鳴する。「doloroso passo（苦しみの一歩）」──「passo」は「通行・一歩・段」という複数の意味を持つ。この嘆きはダンテが神学的に地獄の判決を正当と認めながら、人間的に深く悲しんでいることを示す──神の正義への服従と人間的感情の両立という詩学的課題。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Nessun maggior dolore\nche ricordarsi del tempo felice\nne la miseria",
+      "body": "「不幸の中で幸福な時を思い出すことよりも大きな苦しみはない（Nessun maggior dolore / che ricordarsi del tempo felice / ne la miseria）」──神曲最も引用される格言の一つ。フランチェスカが「そしてそれをあなたの師は知っている（e ciò sa 'l tuo dottore）」とウェルギリウスを指して言う──ウェルギリウス自身がリンボに閉じ込められ、天国を希望しえない「幸福な時の記憶」を生きている。ボエティウス『哲学の慰め』（第2巻 prosimetrum II）「逆境にあって幸福な時を思い出すことほど惨めなことはない」への直接の参照。近代への影響：テニスン「アルフレッド卿」、アルフレッド・ミュッセ「回想」等。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "prosody",
+      "anchor": "Galeotto fu 'l libro e chi lo scrisse",
+      "body": "「ガレオットはその本と書いた者だった（Galeotto fu 'l libro e chi lo scrisse）」──神曲最も革命的な詩学的宣言のひとつ。ガレオット（Gallehault）はアーサー王物語でランスロとグウィネヴィアのキスを仲介した騎士──「仲介者」「媒介者」の意味。フランチェスカは本がパオロと自分のキスを媒介したと言う。これは書物が恋愛の「共犯者」になるという文学論的宣言。ボッカッチョはこれを受けて『デカメロン』の副題を「Principe Galeotto（ガレオット公）」とした──書物自体が「仲介者」であることの自己宣言。ダンテとフランチェスカの間にも書物（『ランスロ物語』→『神曲』）という媒介の二重性が潜む。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "questi, che mai da me non fia diviso,\nla bocca mi basciò tutto tremante.",
+      "body": "「この者が、決して私から離れることのない者が、全身震えながら私の口にキスした（questi, che mai da me non fia diviso, / la bocca mi basciò tutto tremante）」──神曲全体の愛の場面の中で唯一の身体的接触の描写。「tutto tremante（全身震えながら）」──パオロの震えが愛と恐れの両方を示す。「mai da me non fia diviso（決して私から離れることのない）」──「決して離れない」は永遠の地獄での永遠の共棲の皮肉な成就。パオロがこの場面全体を通じて一言も話さず、ただ泣いている（v.139–140）という事実が、沈黙の存在として彼の悲劇を深める。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "prosody",
+      "anchor": "l'altro piangëa; sì che di pietade\nio venni men così com'io morisse;\ne caddi come corpo morto cade.",
+      "body": "Canto Vの最終3行（v.140–142）。ダンテの気絶の叙述は、Canto IIIの「io caddi come l'uom cui sonno piglia（眠りに捕らわれた人のように倒れた）」の反響であるが、ここではより強い「come corpo morto cade（死体が倒れるように）」──Canto IIIの「眠り」からCanto Vの「死」への強度の上昇。「di pietade（憐れみによって）」──ダンテの気絶は同情に打ちのめされた結果。これはアウグスティヌスが『告白』で自らの「感傷的な読書体験」を批判した問題（感情的共感による判断力の喪失）と共鳴する──フランチェスカへの同情は「良い感情」なのか「道徳的弱さ」なのか。ダンテは答えを与えない。",
+      "targetId": "dante_inferno_canto_3"
+    }
+  ]
+}

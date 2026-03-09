@@ -1,0 +1,266 @@
+{
+  "id": "dante_inferno_canto_26",
+  "title": "Inferno — Canto XXVI",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, 1966–1967)。照合: danteonline.it (Società Dantesca Italiana公式テキスト); Princeton Dante Project (princeton.edu/dante); Dartmouth Dante Project; Singleton, C.S., Dante Alighieri: The Divine Comedy, Inferno (Princeton UP, 1970–1975)",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472 (Johannes Numeister)。「神曲 (Divina Commedia)」の名称はボッカッチョに由来し、ダンテ自身は「Commedia」と呼んだ。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Inferno",
+  "canto": "XXVI",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "Canto XXVIは神曲地獄篇の最高峰の一つとされ、「ユリシーズのCanto」として知られる。舞台は第8圏第8嚢（欺瞞的な助言者の圏）——炎の舌に包まれた魂たちが谷底に輝く。ダンテとウェルギリウスは橋上から見下ろし、ウェルギリウスがユリシーズ（Ulisse）とディオメデスに呼びかける。ウェルギリウス自身が話すのは、ギリシア人だから自分（ローマの詩人）の方が通じやすいため。ユリシーズは「最後の航海（l'ultimo volo）」を語る——キルケのもとを去り、家族への愛に勝った知識への情熱に従って、ヘラクレスの柱（ジブラルタル海峡）を超え、南の大洋へと出航する。仲間への演説「人は獣のために生まれたのではなく、美徳と知識を追うために生まれた（fatti non foste a viver come bruti, / ma per seguir virtude e canoscenza）」は西洋文明の最も有名な人文主義的宣言の一つ。しかしその直後、神の意志による旋風が船を三回転させ、海に飲まれる——神に許されない境界の越境の罰。\n\n詩学的核心：ダンテは「ホメロスのユリシーズ（オデュッセウス）」を引き継がず、中世のトロイア敵視伝統（ウェルギリウスの『アエネイス』に忠実）からユリシーズを「欺瞞的な助言者」として地獄に入れ、同時にこの「狂気の飛翔（folle volo）」の壮大な美しさと知的誘惑を描く。ユリシーズへのダンテの同一化と距離化の緊張は、神曲最も複雑な詩的問いを生む——知識への情熱はそれ自体として罪か、善か。",
+  "keywords": [
+    "ユリシーズ",
+    "Ulisse",
+    "最後の航海",
+    "folle volo",
+    "狂気の飛翔",
+    "ヘラクレスの柱",
+    "fatti non foste a viver come bruti",
+    "欺瞞的な助言者",
+    "第8圏",
+    "蛍の直喩",
+    "フィレンツェへの呪詛",
+    "ディオメデス"
+  ],
+  "relatedTexts": [
+    "dante_inferno_canto_1",
+    "dante_inferno_canto_3",
+    "dante_inferno_canto_5"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–12",
+      "speaker": "Dante-narratore",
+      "original": "Godi, Fiorenza, poi che se' sì grande\nche per mare e per terra batti l'ali,\ne per lo 'nferno tuo nome si spande!\n\nTra li ladron trovai cinque cotanti\ntuoi cittadini onde mi ven vergogna,\ne tu in grande orranza ten vai vanti.\n\nMa se presso al mattin del ver si sogna,\ntu sentirai, di qua da picciol tempo,\ndi quel che Prato, non ch'altri, t'agogna.\n\nE se già fosse, non saria per tempo.\nCosì foss'ei, da che pur esser dee!\nché più mi graverà, com'più m'attempo.",
+      "provisionalTranslation": "喜べ、フィレンツェよ、お前はこれほど大きいから\n海においても陸においても翼を打ち、\n地獄においてもお前の名が広がる！\n\n盗賊たちの中に私はお前の市民を五人も見つけた、\nそれで私には恥ずかしさが来る、\nそしてお前は大きな名誉において誇らしくある。\n\nしかし夜明け近くに真実が夢に見られるなら、\nお前はさほど遠くない時に感じるだろう、\nプラートが——他のことは言うまでもなく——お前に望むことを。\n\nそしてもし今日それが起きても、遅くはない。\nそれが起きてほしい、どうせ起きることなのだから！\nなぜなら年を取るほど、それが私をより重く圧するから。"
+    },
+    {
+      "id": 2,
+      "verses": "v.13–24",
+      "speaker": "Dante-narratore",
+      "original": "Noi ci partimmo, e su per le scalee\nche n'avea fatto iborni a scender pria,\nrimontò 'l duca mio e trasse mee;\n\ne proseguendo la solinga via\ntra le schegge e tra ' rocchi de lo scoglio,\nlo piè sanza la man non si spedia.\n\nAllor mi dolsi, e ora mi ridoglio\nquando drizzo la mente a ciò ch'io vidi,\ne più lo 'ngegno affreno ch'i' non soglio,\n\nperché non corra che virtù nol guidi;\nsì che, se stella bona o miglior cosa\nm'ha dato 'l ben, ch'io stesso nol mi 'nvidia.",
+      "provisionalTranslation": "私たちはそこを離れ、段を上へと\n私の案内者が先に降りるのに使っていた段を、\n再び登った、そして私を引いた；\n\nそして孤独な道を続けながら\n岩場の破片と岩塊の間を、\n手なしに足は進めなかった。\n\nその時も苦しかった、そして今も再び苦しい\n私が見たものに心を向けると、\nそして普段より多く才知を抑える、\n\n美徳が導かないところへ走らないように；\nだから、幸運な星か、よりよいものが\n私に善を授けてくれたなら、それを私自身が羨まないように。"
+    },
+    {
+      "id": 3,
+      "verses": "v.25–42",
+      "speaker": "Dante-narratore",
+      "original": "Quante 'l villan ch'al poggio si riposa,\nnel tempo che colui che 'l mondo schiara\nla faccia sua a noi tien meno ascosa,\n\ncome la mosca cede a la zanzara,\nvede lucciole giù per la vallea,\nforse colà dov'e' vendemmia e ara:\n\ndi tante fiamme tutta risplendea\nl'ottava bolgia, sì com'io m'accorsi\ntosto che fui là 've 'l fondo parea.\n\nE qual colui che si vengiò con li orsi\nvide 'l carro d'Elïa al dipartire,\nquando i cavalli al cielo erti levorsi,\n\nche nol potea sì con li occhi seguire,\nch'el vedesse altro che la fiamma sola,\nsì come nuvoletta, in sù salire:\n\ntal si movea ciascuna per la gola\ndel fosso, ché nessuna mostra 'l furto,\ne ogne fiamma un peccator invola.",
+      "provisionalTranslation": "農夫が丘の上で休んでいる時——\n世界を照らすあの者が\n自分の顔を我々に少しだけ見せる時に、\n\n蝿が蚊に席を譲るように、\n谷底に蛍を見る、\nおそらくそこは彼が収穫し耕す場所：\n\n第8嚢全体がこれほど多くの炎でもって輝いていた、\n私が気づいた時に、\n底が見えるところへ来るや否や。\n\nそしてエリシャ（熊で復讐した者）が\n去り際のエリヤの車を見たように、\n馬が高く天へと駆け上がった時に、\n\n目でそれをこれほど追いきれず、\n炎だけしか見えなかった、\n小さな雲のように、上へと昇るのを：\n\nそのように各炎が堀の喉のなかを動いていた、\nどれも盗みを見せず、\nそしてどの炎も一人の罪人を隠す。"
+    },
+    {
+      "id": 4,
+      "verses": "v.43–48",
+      "speaker": "Dante-narratore",
+      "original": "Io stava sovra 'l ponte a veder surto,\nsì che s'io non avessi un ronchion preso,\ncaduto sarei giù sanza essere urto.\n\nE 'l duca che mi vide tanto atteso,\ndisse: «Dentro dai fuochi son li spirti;\ncatun si fascia di quel ch'elli è inceso».",
+      "provisionalTranslation": "私は橋の上に立って見るために身を乗り出していた、\n突出した岩をつかんでいなければ、\n押されることなく下に落ちていたほど。\n\nそして案内者が私がこれほど注目しているのを見て、\n言った：「炎の中に霊魂たちがいる；\nそれぞれが自分が燃やされているもので包まれている」。"
+    },
+    {
+      "id": 5,
+      "verses": "v.49–54",
+      "speaker": "Dante-narratore",
+      "original": "«Maestro mio», diss'io, «per udirti\nson io più certo; ma già m'era avviso\nche così fosse, e già voleva dirti:\n\nchi è 'n quel foco che vien sì diviso\ndi sopra, che par surger de la pira\nov'Eteòcle col fratel fu miso?»",
+      "provisionalTranslation": "「私の師よ」、私は言った、「あなたに聞いて\n私はより確かになった；しかしすでに私にはそう思えていた、\nそしてすでにあなたに言おうとしていた：\n\n上の方でこれほど二股に分かれて来るあの炎の中に\n誰がいるのか、エテオクレスが兄弟と\n一緒に置かれた火葬堆から立ち上るように見える？」"
+    },
+    {
+      "id": 6,
+      "verses": "v.55–63",
+      "speaker": "Virgilio",
+      "original": "Rispuose a me: «Là dentro si martira\nUlisse e Diomede, e così insieme\na la vendetta vanno come a l'ira;\n\ne dentro da la lor fiamma si geme\nde l'agguato del caval che fé la porta\nonde uscì de' Romani il gentil seme.\n\nPiangevisi entro l'arte per che, morta,\nDeïdamìa ancor si duol d'Achille,\ne del Palladio pena vi si porta»,",
+      "provisionalTranslation": "彼は私に答えた：「あの中でユリシーズとディオメデスが苦しんでいる、\nそして彼らはこのように一緒に\n怒りの時と同様に復讐の時も進む；\n\nそしてその炎の中で嘆かれているのは\nトロイアの門を作った木馬の策略、\nそこからローマの気高い種が出た。\n\nそこで嘆かれているのはデイダメイアが\n死んでもなおアキレウスを悼む原因となった技術、\nそしてパッラディオンの罪も持ち込まれている」、"
+    },
+    {
+      "id": 7,
+      "verses": "v.64–68",
+      "speaker": "Dante-narratore",
+      "original": "«Se ei posson parlar dentro a quei fuochi»\ndiss'io, «maestro, assai ten priego, e ripriego\nche 'l priego vaglia mille, che non chiochi,\n\nch'a la fiamma cornuta venir la sego;\nvedi che del disio ver' lei mi piego!»",
+      "provisionalTranslation": "「もし彼らがあの炎の中で話せるなら」\n私は言った、「師よ、私はあなたに深くお願いします、そして繰り返しお願いします、\nそのお願いが千の価値を持つように、弱まらないように、\n\nあの角のある炎に向かって私が行くことを；\n見てください、欲望で私がそれに向けて傾いているのを！」"
+    },
+    {
+      "id": 8,
+      "verses": "v.69–74",
+      "speaker": "Virgilio",
+      "original": "Ed elli a me: «La tua preghiera è degna\ndi molta loda, e io però l'accetto;\nma fa che la tua lingua si sostegna.\n\nLascia parlare a me, ch'i' ho concetto\nciò che tu vuoi; ch'ei sarebbero schivi,\nperché fuor greci, forse del tuo detto»,",
+      "provisionalTranslation": "そして彼は私に：「お前の懇願は\n大いなる賞賛に値する、だから私はそれを受け入れる；\nしかしお前の舌が自制するようにせよ。\n\n私に話させよ、私はお前が望むことを\n理解した；なぜなら彼らはお前の言葉を\nギリシア人だったから、おそらく避けるだろう」、"
+    },
+    {
+      "id": 9,
+      "verses": "v.75–83",
+      "speaker": "Dante-narratore",
+      "original": "Poi che la fiamma fu venuta quivi\ndove parve al mio duca tempo e loco,\nin questa forma lui parlare audivi:\n\n«O voi che siete due dentro ad un foco,\ns'io meritai di voi mentre ch'io vissi,\ns'io meritai di voi assai o poco\n\nquando nel mondo li alti versi scrissi,\nnon vi movete; ma l'un di voi dica\ndove, per lui, perduto a morir gissi»,",
+      "provisionalTranslation": "炎が来た時に\n私の案内者に時と場所と思われたところへ、\n私はこの形で彼が話すのを聞いた：\n\n「おお、お前たち、一つの炎の中に二人いる者よ、\n私が生きている間にお前たちに功績があったなら、\n私がお前たちに多くの、あるいは少しの功績を持っていたなら\n\n世界で高い詩を書いた時に、\n動かないでいてくれ；しかしお前たちのうち一人が言ってくれ\nどこへ彼のために、迷って死にに行ったのかを」、"
+    },
+    {
+      "id": 10,
+      "verses": "v.84–89",
+      "speaker": "Dante-narratore",
+      "original": "Lo maggior corno de la fiamma antica\ncominciò a crollarsi mormorando,\npur come quella cui vento affatica;\n\nindi la cima qua e là menando,\ncome fosse la lingua che parlasse,\ngittò voce di fuori e disse: «Quando",
+      "provisionalTranslation": "古い炎の大きな方の角が\n唸りながら揺れ始めた、\nちょうど風に悩まされる炎のように；\n\nそれから先端をあちこちに動かして、\nまるで話す舌のように、\n声を外に投げ出して言った：「私が"
+    },
+    {
+      "id": 11,
+      "verses": "v.90–98",
+      "speaker": "Ulisse",
+      "original": "mi diparti' da Circe, che sottrasse\nme più d'un anno là presso a Gaeta,\nprima che sì Enëa la nomasse,\n\nné dolcezza di figlio, né la pieta\ndel vecchio padre, né 'l debito amore\nlo qual dovea Penelopè far lieta,\n\nvincer potero dentro a me l'ardore\nch'i' ebbi a divenir del mondo esperto\ne de li vizi umani e del valore;",
+      "provisionalTranslation": "キルケのもとを去った時、彼女が\nガエータの近くで一年以上私を引き止めていた、\nアエネアスが彼女の地にそう名付ける前に、\n\n息子の甘さも、老いた父への\n敬愛も、ペネロペを\n喜ばせるべき義務の愛も、\n\n私の中の熱情に勝てなかった、\n世界に精通し、\n人間の悪徳と美徳を知ろうとする熱情に；"
+    },
+    {
+      "id": 12,
+      "verses": "v.99–110",
+      "speaker": "Ulisse",
+      "original": "ma misi me per l'alto mare aperto\nsol con un legno e con quella compagna\npicciola da la qual non fui diserto.\n\nL'un lido e l'altro vidi infin la Spagna,\nfin a la Morrocco, e l'isola d'i Sardi,\ne l'altre che quel mare intorno bagna.\n\nIo e ' compagni eravam vecchi e tardi\nquando venimmo a quella foce stretta\ndov'Ercole segnò li suoi riguardi,\n\nacciò che l'uom più oltre non si metta;\nda la man destra mi lasciai Sibilla,\nda l'altra già m'avëa lasciato Setta.",
+      "provisionalTranslation": "しかし私は大きな開かれた海へと出た\nたった一艘の船と、あの小さな\n仲間とともに、彼らに見捨てられることなく。\n\n私はスペインまで両岸を見た、\nモロッコまで、そしてサルデーニャ島を、\nそしてその海が周囲を洗う他の島々を。\n\n私と仲間たちは老いて遅くなっていた\n私たちがその狭い海峡に来た時、\nそこでヘラクレスが自分の境界を示した、\n\n人がこれ以上先へ進まないように；\n右手にセウタを残し、\n左手にはすでにシビラを残してきた。"
+    },
+    {
+      "id": 13,
+      "verses": "v.111–119",
+      "speaker": "Ulisse",
+      "original": "'O frati', dissi, 'che per cento milia\nperigli siete giunti a l'occidente,\na questa tanto picciola vigilia\n\nde' nostri sensi ch'è del rimanente,\nnon vogliate negar l'esperïenza,\ndi retro al sol, del mondo sanza gente.\n\nConsiderate la vostra semenza:\nfatti non foste a viver come bruti,\nma per seguir virtude e canoscenza'.",
+      "provisionalTranslation": "「兄弟たちよ」、私は言った、「百千の\n危険を経て西へとたどり着いた者たちよ、\n残り僅かに過ぎないこの短い\n\n我らの感覚の覚醒にあって、\n経験を否定しようとするな、\n太陽の後ろを追って、人のいない世界を。\n\n自分たちの根源を考えよ：\nお前たちは獣のように生きるために生まれたのではない、\n美徳と知識を追うために生まれたのだ」。"
+    },
+    {
+      "id": 14,
+      "verses": "v.120–126",
+      "speaker": "Ulisse",
+      "original": "Li miei compagni fec'io sì aguti,\ncon questa orazion picciola, al cammino,\nche a pena poscia li avrei ritenuti;\n\ne volta nostra poppa nel mattino,\ndei remi facemmo ali al folle volo,\nsempre acquistando dal lato mancino.",
+      "provisionalTranslation": "私はこの短い演説で仲間たちを\n旅への意欲をこれほど鋭くさせた、\nその後は私がほとんど引き止められなかったほど；\n\nそして船尾を朝の方向に向けて、\n私たちは狂気の飛翔のために櫂を翼にした、\n常に左舷側を獲得しながら。"
+    },
+    {
+      "id": 15,
+      "verses": "v.127–132",
+      "speaker": "Ulisse",
+      "original": "Tutte le stelle già de l'altro polo\nvedea la notte, e 'l nostro tanto basso,\nche non surgëa fuor del marin suolo.\n\nCinque volte racceso e tante casso\nera il lume di sotto de la luna,\npoi che 'ntrati eravam ne l'alto passo,",
+      "provisionalTranslation": "夜にはもう他の極の星すべてを\n私は見ていた、そして我らの（極は）これほど低く、\n海の面より上に昇らないほど。\n\n五度点いて五度消えていた\n月の下の光が、\n私たちが高い水路に入ってから、"
+    },
+    {
+      "id": 16,
+      "verses": "v.133–138",
+      "speaker": "Ulisse",
+      "original": "quando n'apparve una montagna, bruna\nper la distanza, e parvemi alta tanto\nquanto veduta non ne avëa alcuna.\n\nNoi ci allegrammo, e tosto tornò in pianto;\nché de la nova terra un turbo nacque\ne percosse del legno il primo canto.",
+      "provisionalTranslation": "その時に私たちに一つの山が現れた、遠さのために\n暗く、私にはこれほど高く見えた、\n私がそれまで見たどの山よりも。\n\n私たちは喜んだ、しかしすぐに嘆きに変わった；\nというのも新しい土地から旋風が生まれ、\n船の先端を打ちつけた。"
+    },
+    {
+      "id": 17,
+      "verses": "v.139–142",
+      "speaker": "Ulisse",
+      "original": "Tre volte il fé girar con tutte l'acque;\na la quarta levar la poppa in suso\ne la prora ire in giù, come altrui piacque,\ninfin che 'l mar fu sovra noi richiuso.",
+      "provisionalTranslation": "三回それは水もろとも船を回転させた；\n四度目に船尾を高く上げ\nそして艫を下へと進ませた、あの者が望むように、\n海が我らの上に閉じるまで。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Godi, Fiorenza, poi che se' sì grande",
+      "body": "「喜べ、フィレンツェよ（Godi, Fiorenza）」——反語的讃歌（ironia）で始まる冒頭。ダンテはフィレンツェ出身であり、1302年の政治的追放以来、故郷への愛と憎しみの複雑な感情を持つ。「地獄においても名が広がる（per lo 'nferno tuo nome si spande）」は市民が地獄にこれほど多いという事実を反語的に誇る。直前のCanto XXVで盗賊の圏にフィレンツェの名家の子弟たちを見たことへの怒りの吐露。政治詩人としてのダンテの最も凝縮した表現のひとつ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "di quel che Prato, non ch'altri, t'agogna",
+      "body": "「プラートが——他のことは言うまでもなく——お前に望むことを（di quel che Prato, non ch'altri, t'agogna）」——プラートはフィレンツェ近郊の都市で、1309年頃の解釈ではカルディナーレ・ニッコロ・ダ・プラートがフィレンツェに呼びかけた破門・懲罰への言及とされる。「non ch'altri（他のことは言うまでもなく）」は強調的緩和（litotes）——プラートより大きな力（神、あるいはダンテが予告する政治的転換）を暗示。「se già fosse, non saria per tempo（もし今日それが起きても、遅くはない）」は復讐の時期への切迫した欲求——詩的な呪いの宣言。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "e più lo 'ngegno affreno ch'i' non soglio,\nperché non corra che virtù nol guidi",
+      "body": "「そして普段より多く才知を抑える、美徳が導かないところへ走らないように（e più lo 'ngegno affreno ch'i' non soglio, / perché non corra che virtù nol guidi）」——Canto XXVIの詩学的自己宣言。ダンテは自らの「ingegno（才知・知性）」が「virtù（美徳・力）」なしには走ってはならないと言う。これはCanto XXVIのテーマ——知識への情熱（ユリシーズ）と美徳による制御——の予告。ダンテ（詩人）はユリシーズと同じ誘惑を持つ（知的探求への情熱）が、美徳による自制によってユリシーズの「狂気の飛翔」を超える。詩人の自己警戒がこのCantoの劇的テーマと重なる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Quante 'l villan ch'al poggio si riposa,\n[...]\nvede lucciole giù per la vallea",
+      "body": "「農夫が丘の上で休んでいる時……谷底に蛍を見る（Quante 'l villan ch'al poggio si riposa... / vede lucciole giù per la vallea）」——神曲最も有名な田園的直喩のひとつ。地獄の炎の谷を夏の夕べに蛍が光る農村の谷間に喩える。地獄の恐怖と自然の美しさの共存——ダンテの直喩の特徴は常に具体的な日常経験（農夫・蛍・蚊・蝿）から引く。「come la mosca cede a la zanzara（蝿が蚊に席を譲るように）」——夏から秋への移行の細部が詩的背景に時間を与える。この蛍の直喩はT.S.エリオット、セサレ・パヴェーゼ、パゾリーニの詩的実践に影響を与えた。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "E qual colui che si vengiò con li orsi\nvide 'l carro d'Elïa al dipartire",
+      "body": "「エリシャ（熊で復讐した者）がエリヤの車を見たように（E qual colui che si vengiò con li orsi / vide 'l carro d'Elïa al dipartire）」——旧約聖書の二つの場面の組み合わせ。エリヤの昇天（列王記下2:11）とエリシャが少年たちの嘲りに怒り熊を呼んだ場面（列王記下2:23–24）。エリシャは離れていくエリヤの車を炎だけで追うしかなかった——炎の中に霊魂が隠れているという視覚的比喩の聖書的典拠。ダンテが聖書的典拠と直喩を重ねる手法の典型。「ogne fiamma un peccator invola（どの炎も一人の罪人を隠す）」——隠蔽こそが欺瞞的助言者の罰の論理（生前に自分の欺瞞を「炎の弁舌」で包んでいた）。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Dentro dai fuochi son li spirti;\ncatun si fascia di quel ch'elli è inceso",
+      "body": "「炎の中に霊魂たちがいる；それぞれが自分が燃やされているもので包まれている（Dentro dai fuochi son li spirti; / catun si fascia di quel ch'elli è inceso）」——欺瞞的助言者の罰の論理（contrapasso）の明示的説明。「inceso（燃やされている）」は「incendio（炎）」と「inganno（欺瞞）」の二重性——生前の「燃えるような弁舌」が今や文字通りの炎となる。ウェルギリウスの説明の簡潔さが際立つ——恐怖の描写ではなく、詩的正義の構造的解説。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "allusion",
+      "anchor": "par surger de la pira / ov'Eteòcle col fratel fu miso",
+      "body": "「エテオクレスが兄弟と一緒に置かれた火葬堆から立ち上るように見える（par surger de la pira / ov'Eteòcle col fratel fu miso）」——エテオクレスとポリュネイケスの兄弟対立（テーバイ七将の戦い）を典拠とする。二人は互いに憎み合って死に、一つの火葬堆に置かれた炎が二股に分かれたという伝承（スタティウス『テーバイス』による）。ユリシーズとディオメデスの「二股の炎」への視覚的比喩として用いられる——詩的典拠の精密な選択。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "de l'agguato del caval che fé la porta\nonde uscì de' Romani il gentil seme",
+      "body": "「トロイアの門を作った木馬の策略、そこからローマの気高い種が出た（de l'agguato del caval che fé la porta / onde uscì de' Romani il gentil seme）」——ウェルギリウスの視点からのトロイア戦争の評価。木馬の策略はローマの建国（アエネアスの脱出）を可能にした——ダンテはウェルギリウスの立場に立ち、トロイア陥落を「ローマの種の出発点」として評価する。ユリシーズはここでは英雄ではなく「欺瞞者」——ウェルギリウス的な反ギリシア視点。「Palladio（パッラディオン）」——アテナの聖像の略奪（ユリシーズとディオメデスによる）もトロイア陥落の一因。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "ch'ei sarebbero schivi,\nperché fuor greci, forse del tuo detto",
+      "body": "「なぜなら彼らはお前の言葉をギリシア人だったから、おそらく避けるだろう（ch'ei sarebbero schivi, / perché fuor greci, forse del tuo detto）」——ウェルギリウスが自ら話す理由。「ギリシア人（greci）」だから——ウェルギリウスはローマの詩人であり、ギリシア人（ユリシーズ）に対してローマの権威を持つ。これはウェルギリウスの『アエネイス』全体の構造（ローマ＝トロイアの継承者・ギリシアへの対立）を一行に凝縮する。また「ダンテの言葉ではなく私の言葉で」という師弟関係の再確認。ダンテは沈黙し、師の声を通じてユリシーズに接近する——詩人と先達の関係の詩的体現。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "s'io meritai di voi mentre ch'io vissi,\ns'io meritai di voi assai o poco\nquando nel mondo li alti versi scrissi",
+      "body": "「私が生きている間にお前たちに功績があったなら……世界で高い詩を書いた時に（s'io meritai di voi... / quando nel mondo li alti versi scrissi）」——ウェルギリウスがユリシーズに自分の詩（『アエネイス』）を「功績」として示す。これはウェルギリウスが「地獄の囚人に自分の詩的権威で語りかける」という構造——詩は地獄においても有効な通行証。ダンテの詩学の根幹：詩の価値は死後も、地獄においても有効である。「li alti versi（高い詩）」——ウェルギリウスの自己評価の節制と誇りの同居。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "prosody",
+      "anchor": "Lo maggior corno de la fiamma antica\ncominciò a crollarsi mormorando,\npur come quella cui vento affatica;\n\nindi la cima qua e là menando,\ncome fosse la lingua che parlasse",
+      "body": "「古い炎の大きな方の角が唸りながら揺れ始めた……先端をあちこちに動かして、まるで話す舌のように（Lo maggior corno de la fiamma antica / cominciò a crollarsi mormorando... / come fosse la lingua che parlasse）」——炎から声が生まれる瞬間の描写。炎の「角（corno）」が「舌（lingua）」として機能する——言語と炎の同一化。欺瞞的助言者への罰の論理の完全な表現：言葉が炎であった者は、今や炎が言葉となる（contrapasso）。「mormorando（唸りながら）」の擬声語的効果。このシーンは映像的な強度において神曲屈指の場面であり、ロダン「地獄の門」の源泉の一つ。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "né dolcezza di figlio, né la pieta / del vecchio padre, né 'l debito amore / lo qual dovea Penelopè far lieta",
+      "body": "「息子の甘さも、老いた父への敬愛も、ペネロペを喜ばせるべき義務の愛も（né dolcezza di figlio, né la pieta / del vecchio padre, né 'l debito amore / lo qual dovea Penelopè far lieta）」——三つの「家族の絆」への決別（anaphora：né... né... né）。ホメロスの『オデュッセイア』では帰還こそがユリシーズの目的だったが、ダンテのユリシーズは帰還した後に再び出航する——中世的伝承に基づく。「debito amore（義務の愛）」——愛すら義務として捉えるユリシーズの冷たさ（美徳の転倒？）。三つの家族的絆の列挙が、知識への情熱の絶対性を際立てる。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "ch'i' ebbi a divenir del mondo esperto\ne de li vizi umani e del valore",
+      "body": "「世界に精通し、人間の悪徳と美徳を知ろうとする熱情（ch'i' ebbi a divenir del mondo esperto / e de li vizi umani e del valore）」——ユリシーズの情熱の定義。「vizi umani e del valore（人間の悪徳と美徳）」——ユリシーズは道徳的優劣でなく全体的「経験（esperïenza）」を求める。これはダンテ自身の詩的目的（地獄・煉獄・天国を通じた人間の全体像の把握）と驚くほど近い——ユリシーズへの詩人の同一化と危険。ユリシーズの「知識への情熱」はそれ自体として罪か善か——この問いがCanto XXVIの中心的な詩的アポリア。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "fatti non foste a viver come bruti,\nma per seguir virtude e canoscenza",
+      "body": "「お前たちは獣のように生きるために生まれたのではない、美徳と知識を追うために生まれたのだ（fatti non foste a viver come bruti, / ma per seguir virtude e canoscenza）」——西洋文明の最も有名な人文主義的宣言の一つ。「bruti（獣）」との対比で「virtude（美徳）e canoscenza（知識）」を人間の本質として定義。アリストテレス「人間は本性上、知ることを欲する」（『形而上学』冒頭）への詩的応答。しかし逆説：この崇高な宣言をするユリシーズは地獄にいる罪人である。その崇高な言葉の美しさが罰の深さを逆説的に示す——「美しい罪」「崇高な欠陥」というダンテの詩的矛盾。テニスン「ユリシーズ」（1833）はこの演説を直接の霊感として書かれた。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "prosody",
+      "anchor": "dei remi facemmo ali al folle volo",
+      "body": "「私たちは狂気の飛翔のために櫂を翼にした（dei remi facemmo ali al folle volo）」——Canto XXVI最大の詩的宣言。「folle volo（狂気の飛翔）」はユリシーズの最後の航海全体を要約する二語。「folle（狂気の・無謀の）」——ウェルギリウス的・キリスト教的見地からは「境界を越えた」「神に許されない」探求。しかし「volo（飛翔）」は高貴さ・自由・上昇の含意を持つ——ダンテが「folle volo」という言葉を選ぶことで、罰と崇高さを同時に表現する。「dei remi facemmo ali（櫂を翼にした）」——メタファーの完成：船の道具が鳥の翼に変わる。翼は神曲において天使・魂の上昇のシンボルでもある。カフカの「罰」の美学との比較が可能。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Tutte le stelle già de l'altro polo\nvedea la notte, e 'l nostro tanto basso,\nche non surgëa fuor del marin suolo.",
+      "body": "「夜にはもう他の極の星すべてを私は見ていた（Tutte le stelle già de l'altro polo / vedea la notte）」——南半球の星座の描写。ダンテの地理学では南半球は人の住まない海（と、煉獄山）——未知の領域。北極星が海面下に沈む「l'nostro tanto basso（我らの（極は）これほど低く）」は、既知の世界を超えた証。「Cinque volte racceso e tante casso / era il lume di sotto de la luna（五度点いて五度消えていた月の下の光）」——五ヶ月の航海。月を時間の尺度として使う——人間的時間が宇宙的時間に組み込まれる。南半球の天文描写は煉獄篇の舞台設定への伏線。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "quando n'apparve una montagna, bruna\nper la distanza, e parvemi alta tanto\nquanto veduta non ne avëa alcuna.",
+      "body": "「その時に私たちに一つの山が現れた、遠さのために暗く（quando n'apparve una montagna, bruna / per la distanza）」——「山（montagna）」は煉獄山（Purgatorio）であることがほぼ確実。ユリシーズが見たが入れなかった山——神によって許されない魂が煉獄を「見た」瞬間。このシーンはCanto Iで光の丘を前に引き返さざるを得なかったダンテの旅の鏡像——しかしダンテは（ベアトリーチェの命で）その山を登ることが許される。「parvemi alta tanto / quanto veduta non ne avëa alcuna（私がそれまで見たどの山よりも高く見えた）」——煉獄山の高さの超越性の暗示。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "prosody",
+      "anchor": "infin che 'l mar fu sovra noi richiuso.",
+      "body": "Canto XXVIの最終行（v.142）。「海が我らの上に閉じるまで（infin che 'l mar fu sovra noi richiuso）」——ユリシーズの語りの最後の言葉であり、神曲地獄篇で最も静謐で壮絶な幕切れの一つ。「richiuso（再び閉じた）」の「ri-」接頭辞は「元に戻る」——海が「正常」に戻り、人間の侵入を飲み込む。能動的な難破の描写ではなく、海の「閉じる」という受動的な動作で表現することで、ユリシーズの抵抗の不可能さと神の意志の静かな優位が示される。「come altrui piacque（あの者が望むように）」——「あの者（altrui）」は神。Canto IIIの「vuolsi così colà dove si puote（こうすることが望まれている）」と同じ婉曲表現。ユリシーズは最後まで神の名を言わない——知識の人は神を回避する。",
+      "targetId": "dante_inferno_canto_1"
+    }
+  ]
+}

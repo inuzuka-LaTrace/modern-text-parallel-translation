@@ -1,0 +1,127 @@
+{
+  "id": "dante_purgatorio_canto_30",
+  "title": "Purgatorio — Canto XXX",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, 1966–1967)。照合: danteonline.it; Princeton Dante Project; Singleton, C.S., Dante Alighieri: The Divine Comedy, Purgatorio (Princeton UP, 1973); Hollander, R., Dante: Purgatorio (Anchor Books, 2003)",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Purgatorio",
+  "canto": "XXX",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "煉獄篇第30歌は神曲全体の感情的クライマックスの一つ──ベアトリーチェの登場とウェルギリウスの消滅が同時に起きる歌。地上楽園（Earthly Paradise）での神秘の行列の後、天使たちが歌い花びらが舞い散る中、ベアトリーチェが現れる。\n\nベアトリーチェ・ポルティナーリ（1265頃〜1290）はダンテが幼少期に出会い、終生敬愛した女性。彼女の死（1290年）はダンテの初期作品群『新生』の出発点となった。神曲では神学的啓示の体現者として登場する。\n\n最も痛切な場面：ダンテがウェルギリウスを求めて振り向くと、師はすでにいない。ダンテはウェルギリウスの名を呼び泣く──これは神曲で唯一ダンテが師の名を直接発する場面（「Virgilio a cui per mia salute die'mi」）。ウェルギリウスの消滅は人類が語りかけることができない先駆者への哀別であり、古代ローマ詩と中世キリスト教的救済の関係の象徴的表現。\n\nベアトリーチェは冷たく叱責する──「ダンテよ、ウェルギリウスが去ったからといって泣くな」──そしてなぜダンテが私の死後に正しい道から外れたのかを問い詰める。ウェルギリウスによる慰めと柔らかさに対し、ベアトリーチェの叱責の峻厳さという対比。",
+  "keywords": [
+    "ベアトリーチェ", "ウェルギリウスの消滅", "地上楽園", "神秘の行列",
+    "Benedictus qui venis", "Virgilio", "涙", "叱責", "啓示",
+    "新生", "Veni sponsa de Libano"
+  ],
+  "relatedTexts": [
+    "dante_purgatorio_canto_27",
+    "dante_purgatorio_canto_1",
+    "dante_inferno_canto_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–21",
+      "speaker": "Dante-narratore",
+      "original": "Quando il settentrion del primo cielo\n(che né occaso mai seppe né orto,\nné d'altra nebbia che di colpa velo,\n\ne che faceva lì ciascun accorto\ndi suo dover, come 'l più basso face\nQual tmon si trova a chi va verso il porto),\n\nfermo s'affisse: la gente verace,\nvenuta prima intra 'l grifone ed essa,\nal carro volse sé come a sua pace;\n\ne un di loro, quasi da ciel messo,\n«Veni, sponsa, de Libano» cantando\ngridò tre volte, e tutti li altri appresso.\n\nQuali i beati al novissimo bando\nsurgeran presti ognuno di sua tomba,\ncantando alleluia con voce nova:\n\ntali in su la divina basterna\nsi levaron cento, ad vocem tanti senis,\nministri e messaggier di vita etterna.\n\nTutti dicean: «Benedictus qui venis»,\ne, fior gittando e di sopra e d'intorno,\n«Manibus oh date lilia plenis».",
+      "provisionalTranslation": "第一の天の北の七星が\n（そこは沈没も上昇も知らず、\n罪の薄皮以外の霧も知らず、\n\nそして各人にそこで自分の義務を知らせていた、\n港に向かう者のために舵取りを（方向を）示す\n最も低い七星（北斗七星）がするように）\n\n固まって停止した：真実の人々が、\n最初にグリフォンとそれ（北の七星）の間に来た、\n自分たちの平和のように車の方に向かった；\n\nそして彼らの一人が、まるで天から遣わされた者のように、\n「来い、花嫁よ、レバノンから（Veni, sponsa, de Libano）」と歌いながら\n三度叫んだ、そして他の全員がその後に続いた。\n\n至福の者たちが最後の審判（novissimo bando）に\n各々が自分の墓から素早く立ち上がるように、\n新しい声でハレルヤを歌いながら：\n\nそのように神聖な輿（basterna）の上に\n百人が立ち上がった、その老人（の声）の声に向かって、\n永遠の命の侍者たち・使者たち。\n\n全員が言った：「祝福あれ来たりたもう者に（Benedictus qui venis）」、\nそして花を上に向かっても周りにも投げながら、\n「満ちた手でユリの花を与えよ（Manibus oh date lilia plenis）」。"
+    },
+    {
+      "id": 2,
+      "verses": "v.22–45",
+      "speaker": "Dante-narratore",
+      "original": "Io vidi già nel cominciar del giorno\nla parte orïental tutta rosata,\ne l'altro ciel di bel sereno addorno;\n\ne la faccia del sol nascere ombrata,\nsì che per temperanza di vapori\nl'occhio la sostenea lunga fiata:\n\ncosì dentro una nuvola di fiori\nche da le mani angeliche saliva\ne ricadeva in giù dentro e di fori,\n\nsovra candido vel cinta d'uliva\ndonna m'apparve, sotto verde manto\nverstita di color di fiamma viva.\n\nE lo spirito mio, che già cotanto\ntempo era stato ch'a la sua presenza\nnon era di stupor, tremando, affranto,\n\nsanza de li occhi aver più conoscenza,\nper occulta virtù che da lei mosse,\nd'antico amor sentì la gran potenza.\n\nTosto che ne la vista mi percosse\nl'alta virtù che già m'aveva trafitto\npria ch'io fosse ancor de l'età acerba,\n\nmi volsi a la sinistra col rispitto\ncol quale il fantolin corre a la mamma\nquando ha paura o quando elli è afflitto,",
+      "provisionalTranslation": "私はかつて日の始まりに見た\n東の部分が全て薔薇色に染まり、\n他の空が美しく晴れ渡って飾られ；\n\nそして太陽の顔が影になって昇り、\n蒸気の穏やかさによって\n目がそれを長い間見られるように：\n\nそのように花の雲の中で\n天使の手から立ち上り\n内側と外側に向かって再び降りてくる、\n\n白いヴェールの上にオリーブを冠にして\n女性が現れた、緑のマントの下に\n生きた炎の色を着て。\n\nそして私の精気は、既にこれほどの\n時間が過ぎた、彼女の前に\n驚きに震えて砕けなかったほど、\n\n目でそれ以上の認識なしに、\n彼女から動いた隠れた美徳によって、\n古い愛の大きな力を感じた。\n\n高い美徳が私の視界を打つとすぐに\nそれは既に私を貫いていた\n私がまだ青年の年齢の前に、\n\n私は左に向いた、敬意をもって\n小さな子供が母親に走るように\n怖い時または苦しい時に、"
+    },
+    {
+      "id": 3,
+      "verses": "v.46–69",
+      "speaker": "Dante-narratore",
+      "original": "per dicere a Virgilio: «Men che dramma\ndi sangue m'è rimaso che non tremi:\ncognosco i segni de l'antica fiamma».\n\nMa Virgilio n'aveva lasciati scemi\ndi sé, Virgilio dolcissimo patre,\nVirgilio a cui per mia salute die'mi;\n\nnéa ciò ch'io dico — per perdere nostra madre\ngiovommi; e piansi ben, benchè 'l volto\ndi quella amara doglia ancor mi adimmi.\n\n«Dante, perché Virgilio se ne vada,\nnon pianger anco, non pianger ancora;\nché pianger ti conven per altra spada».\n\nQuasi ammiraglio che in poppa e in prora\nviene a veder la gente che ministra\na li altri legni, e a ben far li 'ncora;\n\nin su la sponda del carro che s'adagio\nvidi la donna a me si volta, com'era\nnell'altra vita: o donna mia, non tardar».",
+      "provisionalTranslation": "ウェルギリウスに言うために：「血の一滴も\n私に残っていない、震えないものは：\n古い炎の兆しを私は認識する。」\n\nしかしウェルギリウスは私たちを彼から空白にして去っていた、\nウェルギリウス最も甘い父よ、\nウェルギリウスよ、私がわが救いのために身を委ねた者よ；\n\n私たちの共通の母（古代の知恵）のために失われるための──は\n私の役には立たなかった；そして私は泣いた確かに、\nたとえその顔が苦い悲しみでまだ私を落とさせても。\n\n「ダンテよ、ウェルギリウスが去るからといって、\n泣くな、まだ泣くな；\nなぜならあなたは別の剣によって泣く必要があるから。」\n\n船尾と船首に来る提督のように\n他の船（への忠誠）を船員たちを見に来て、\nそして正しく行動するよう彼らを励ます；\n\n車の縁（へり）の上に\nその女性を私の方を向いているのを見た、\n他の生（生前のフィレンツェ）にいた時のように：「ああ、私の女性よ、遅れないで。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.70–99",
+      "speaker": "Beatrice",
+      "original": "Guardami ben: ben son, ben son Beatrice.\nCome degnasti d'accedere al monte?\nnon sapei tu che qui è l'uom felice?»\n\nLi occhi mi cadder giù nel chiaro fonte;\nma veggendomi in esso, i trassi a l'erba,\ntanta vergogna mi gravò la fronte.\n\nCosì la madre al figlio par superba,\ncom'ella parve a me; ché d'amaro\nsente il sapor de la pietade acerba.\n\nElla si tacque; e li angeli cantaro\ndi subito «In te, Domine, speravi»;\nma oltre «pedes meos» non passaro.\n\nSì come la neve tra le vive travi\nper lo dosso d'Italia si congela,\nventa e compatta da li venti schiavi,\n\npoi, liquefatta, in sé stessa trapela,\npur che la terra che perde ombra spiri,\nsì che par foco fonder la candela;\n\ncosì fui sanza lagrime e sospiri\nanzi 'l cantar di quei che notan sempre\ndietro a le note de li etterni giri;\n\nma poi che 'ntesi ne le dolci tempre\nlor compatire a me, più che se detto\navesson: «Donna, perché sì lo stempre?»,\n\nlo gel che m'era intorno al cor ristretto,\nspiro e acqua fessi, e con angoscia\nde la bocca e de li occhi uscì dal petto.",
+      "provisionalTranslation": "「私をよく見ろ：私こそ確かにベアトリーチェ（ben son, ben son Beatrice）。\nどうしてあなたは山に近づく栄誉を受けたのか？\n幸せな人はここにいることを知らなかったのか？」\n\n私の目が明るい泉の下へ落ちた；\nしかし自分をその中に見て、草の方に引いた、\nそれほどの恥が額を重くした。\n\n母が息子に厳しく見えるように、\n彼女は私にそう見えた；なぜなら苦い\n厳しい哀れみの味がするから。\n\n彼女は黙った；そして天使たちが即座に歌った\n「あなたに、主よ、私は希望を置いた（In te, Domine, speravi）」；\nしかし「私の足を（pedes meos）」を超えては進まなかった。\n\nイタリアの背骨（アペニン山脈）に沿って\n生きた木々の間に雪が凍るように\n北東の風（schiavi）で強く圧縮されて、\n\nそれから溶けながら、それ自身の中に染み込む、\n影を失う地面が息吹くと、\n炎が蝋燭を溶かすように見えるほど；\n\nそのように私は涙も溜め息もなしにいた\n永遠の回転の音符の後をいつも歌う者たちの\n歌の前に；\n\nしかし甘い音調の中に\n私への彼らの同情が聞こえると、\n「女性よ、なぜ彼をこれほど苦しめるのか？」と言ったよりも多く、\n\n私の心の周りに締め付けられていた氷が、\n息と水になり、苦悩と共に\n口と目から胸を出た。"
+    },
+    {
+      "id": 5,
+      "verses": "v.100–135",
+      "speaker": "Beatrice",
+      "original": "Ella, pur ferma in su la detta costa\ndel carro stando, a le sustanze pie\nvolse le sue parole così scrostate:\n\n«Voi vigilate ne l'etterno die,\nsì che notte né sonno a voi non fura\npasso che faccia il secol per sue vie;\n\nonde la mia risposta è con più cura\nche non m'intenda quel che piange là,\nperché sì colpa e duol insieme mura.\n\nNon pur per ovra de le rote magne,\nche drizzan ciascun seme ad alcun fine\nsecondo che le stelle son compagne,\n\nma per larghezza di grazie divine,\nche hanno sì alti vapori per lor piova,\nche nostre viste là non van vicine,\n\nquesti fu tal ne la sua vita nova\nvirtualmente, ch'ogne abito destro\nfatto averebbe in lui mirabil prova.\n\nMa tanto più maligno e più silvestro\nsi fa il terren col mal seme e non côlto,\nquant'elli ha più di buon vigor terrestro.\n\nAlcun tempo il sostenni col mio volto:\nmostrando li occhi giovanetti a lui,\nmeco il menava in dritta parte vòlto.\n\nSì tosto come in su la soglia\ndel mio viso fu' io che nel mio core\ndel mio secondo padre presi doglia,\n\nmi diede a lui, e la mia carne\nfesta feci: il lume in cielo\nprofeti e angeli mi hanno adornata.\n\nE se 'l sommo piacer sì ti mancò\nper la mia morte, e che dovea tratti\namar me ne la mortal mia salma,\n\nnon ti dovea gravar le penne in giuso,\na aspettar più colpi, o pargoletta\no altra vanità con sì breve uso.\n\nNovello augelletto due o tre aspetta;\nma dinanzi da li occhi d'i pennuti\nrete si spiega indarno o sagetta scocca».",
+      "provisionalTranslation": "彼女は、なおも車の前述の縁に\n固まって立ちながら、敬虔な実体（天使）たちに\nこのように露わな言葉を向けた：\n\n「あなた方は永遠の昼に目を覚ましていて、\n夜も眠りも世が自分の道を歩む一歩も\nあなた方から盗めない；\n\nそれゆえ私の答えはより注意深い、\n向こうで泣く者（ダンテ）が私を理解しないように、\n彼の中で罪と悲しみが一緒に壁を作っているから。\n\n大きな（天の）輪の業によってだけでなく、\nそれは各々の種を星々の同伴に応じた\n目的へと向ける、\n\nしかし神聖な恵みの広大さによって、\nそれは雨として非常に高い蒸気を持ち、\n私たちの視界はそこに近づかない、\n\nこの者は新しい生（若い頃）において\n可能性の上で、あらゆる正しい習慣が\n彼の中で驚くべき成果を上げたほどだった。\n\nしかし地面は悪い種と耕されないと\n善き地の力を持つほどに\nより荒れてより野生になる。\n\nある時間私は私の顔で彼を支えた：\n若い目を彼に見せながら、\n私は彼を正しい方向に向けて私のそばに導いた。\n\nしかし私が第二の年齢の敷居（大人）に\nなり、生を変えた時、\nこの者は私を捨てて他（の女性・誘惑）に身を委ねた。\n\n私が肉体を離れて、精神に\n成長した時、彼には私はより少なく愛されるべきだった、\nより多く愛されるべきだったのに。\n\nそして至高の喜びが私の死によって\nあなたに欠けたとしても、それは確かに\nあなたを死すべき私の肉体に愛させるべきだった、\n\nあなたに羽根を下向きにさせて\nより多くの矢を待たせるべきでなかった、\n若い女性（pargoletta）や他の短命な虚栄によって。\n\n新しい小鳥は二・三本（の矢）を待つ；\nしかし羽根のある者（大人・経験者）の目の前では\n網は無駄に広げられ、矢は無駄に放たれる。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.136–145",
+      "speaker": "Dante-narratore",
+      "original": "Sì come i fanciulli vergognando muti\ncon li occhi a terra stannosi, ascoltando\ne sé riconoscendo e ripentuti;\n\ntal mi stav'io; ed ella disse: «Quando\nper udir sie' contento, che fia,\nd'udir la tua risposta sono in forse».\n\nE io: «Donna, la voglia mi si sface\ndi rispondere, e 'l pensar non mi leva.\nO Beatrice, bella e santa —»",
+      "provisionalTranslation": "恥ずかしさから黙った子供たちのように\n地面に目を向けて立っている、聞きながら\n自分自身を認識して後悔しながら；\n\nそのように私はいた；そして彼女は言った：「聞いて\n満足した時に、（どうなるか）なぜなら\nあなたの答えを聞くことに私は確信がないから。」\n\n私は言った：「女性よ、答える\n意志が私から溶けてしまう、そして考えが私を持ち上げない。\nああ、ベアトリーチェよ、美しく聖なる女性よ──」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "«Veni, sponsa, de Libano» cantando\ngridò tre volte",
+      "body": "「来い、花嫁よ、レバノンから（Veni, sponsa, de Libano）」──旧約聖書『雅歌』4:8の引用。花婿が花嫁を呼ぶ言葉──中世の聖書解釈（アレゴリア）ではキリストが教会を・魂を・知恵を呼ぶ言葉として読まれた。ベアトリーチェ登場の予告として天使が歌う──ベアトリーチェは「花嫁」として天から（神聖な知恵の源として）到来する。Canto III の「In exitu Isräel de Aegypto」（詩篇113篇）に続く旧約聖書引用──煉獄篇の聖書的言語の締め括り。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "«Benedictus qui venis»,\ne, fior gittando e di sopra e d'intorno,\n«Manibus oh date lilia plenis».",
+      "body": "「祝福あれ来たりたもう者に（Benedictus qui venis）」──マタイ21:9の棕櫚の日曜日の引用、群衆がキリストのエルサレム入場を迎える言葉。「満ちた手でユリの花を与えよ（Manibus oh date lilia plenis）」──ウェルギリウス『アエネイス』VI（883行）の引用、アエネアスの父アンキセスが若くして死んだマルケッルスを悼んで言う言葉。聖書引用と古典引用が一行おきに並ぶ──ベアトリーチェの登場がキリスト論的でありかつ古代的でもあるという二重性。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "sovra candido vel cinta d'uliva\ndonna m'apparve, sotto verde manto\nverstita di color di fiamma viva.",
+      "body": "ベアトリーチェの衣裳──白いヴェール（信仰）・オリーブの冠（知恵）・緑のマント（希望）・炎の赤い衣（愛）──三神学的徳（信仰・希望・愛）の体現。地獄篇の入口でウェルギリウスが現れた時の「長い沈黙で弱ったように見えた（chi per lungo silenzio parea fioco）」という薄い存在感との対比──ベアトリーチェは輝く明確な実体として登場する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Ma Virgilio n'aveva lasciati scemi\ndi sé, Virgilio dolcissimo patre,\nVirgilio a cui per mia salute die'mi",
+      "body": "「しかしウェルギリウスは私たちを彼から空白にして去っていた、ウェルギリウス最も甘い父よ、ウェルギリウスよ、私がわが救いのために身を委ねた者よ（Ma Virgilio n'aveva lasciati scemi / di sé, Virgilio dolcissimo patre, / Virgilio a cui per mia salute die'mi）」──神曲で唯一「Virgilio」という名が三度繰り返される一連。ダンテ（詩人）が案内者ウェルギリウス（詩人）の消滅を哀悼するアナフォラ（反復）──これは詩形式として「復活」することのない取り返しのつかない喪失を演じる。古代と中世、詩と神学、人間の理性と神の啓示の間の断絶を言語として体験させる唯一の場面。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "cognosco i segni de l'antica fiamma",
+      "body": "「古い炎の兆しを私は認識する（cognosco i segni de l'antica fiamma）」──ウェルギリウス『アエネイス』IV（23行）の直接引用、ディドーがアエネアスへの愛を再感じた時の言葉「agnosco veteris vestigia flammae」のイタリア語訳。「古い炎（antica fiamma）」はベアトリーチェへの若い頃の愛──これを言いにウェルギリウスに向かったが、師はすでにいない。ウェルギリウスの詩を引用した瞬間にウェルギリウスが消える──詩的言語の問題として喪失が現れる。",
+      "targetId": "dante_purgatorio_canto_27",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "«Guardami ben: ben son, ben son Beatrice.",
+      "body": "「私をよく見ろ：私こそ確かにベアトリーチェ（Guardami ben: ben son, ben son Beatrice）」──神曲で最も有名な自己紹介の一行。「ben son, ben son（私こそ確かに）」という強調の繰り返し──ベアトリーチェの登場は「証明」を必要とする。ダンテが若い頃に出会い愛した歴史上の女性ベアトリーチェと、神学的啓示の体現者ベアトリーチェという二重性が、この一行の強調に込められている。『新生』でベアトリーチェは主に「Bice（ビーチェ）」と呼ばれ、「Beatrice」という名の神学的意味（「祝福する者」）が顕現するのはここから。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Sì come la neve tra le vive travi\nper lo dosso d'Italia si congela",
+      "body": "アペニン山脈の雪の比喩──ダンテが泣けずにいた状態（心の氷）が天使の歌への同情によって解ける過程を、雪が北東の風で固まった後に春の地面の息吹で溶けるように描く。この長大な自然の直喩（v.85–99）は煉獄篇の自然描写の極致──寒冷・圧縮・融解・浸透・炎の序列は感情的凍結から開放への過程の物理的アナログ。「炎が蝋燭を溶かすように見えるほど（sì che par foco fonder la candela）」──Canto XXVI の「精錬する炎（foco che li affina）」の終着点。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Alcun tempo il sostenni col mio volto:\nmostrando li occhi giovanetti a lui,\nmeco il menava in dritta parte vòlto.",
+      "body": "「ある時間私は私の顔で彼を支えた：若い目を彼に見せながら、私は彼を正しい方向に向けて私のそばに導いた（Alcun tempo il sostenni col mio volto: / mostrando li occhi giovanetti a lui, / meco il menava in dritta parte vòlto）」──ベアトリーチェの生前の機能の回顧。『新生』でベアトリーチェは詩人を「挨拶（saluto）」によって慰めた──その視線・顔・挨拶がダンテを正しく導く力として機能していた。彼女の死（1290年）後にダンテが「他（の女性・哲学・虚栄）」に向かったことへの叱責の文脈で回顧される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "o altra vanità con sì breve uso",
+      "body": "「他の短命な虚栄（o altra vanità con sì breve uso）」──ダンテがベアトリーチェの死後に向かった「誘惑」。ダンテ研究では「pargoletta（若い女性）」が実在の女性への誘惑か、「哲学・世俗的学問」への誘惑かという論争がある。『饗宴』でダンテはボエティウス的な哲学的慰めを求めた──それが「神学的啓示（ベアトリーチェ）」からの離脱として叱責される。神曲はその「迷い」からの回帰の旅として機能する。"
+    }
+  ]
+}

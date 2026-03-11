@@ -1,0 +1,93 @@
+{
+  "id": "dannunzio_falce_di_luna",
+  "title": "O falce di luna calante",
+  "author": "Gabriele d'Annunzio",
+  "source": "Canto Novo, Canto dell'Ospite VII (21). 初版: Sommaruga, Roma, 1882. 底本: D'Annunzio, G., Opera omnia, Canto novo, IntraText CT（Treves版準拠）; D'Annunzio, G., Versi d'amore e di gloria, Mondadori (I Meridiani), 1982–1984, vol. I. 版の異同注記: LiederNet版（v.5–6「Aneliti brevi di foglie / di fiori di flutti da 'l bosco」）に対し、Opera omnia版（v.5–6「Aneliti brevi di foglie, / sospiri di fiori dal bosco」）を採用。",
+  "year": "1882",
+  "firstPublication": "Canto Novo, Sommaruga, Roma, 1882. 改訂版: Treves, Milano, 1896.",
+  "difficulty": "初級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「O falce di luna calante」は1882年、19歳のダヌンツィオが Canto Novo に収めた夜想詩。Canto dell'Ospite（客人の歌）第VII篇。初恋の人エルダ・ズッコーニ（'Lalla'）への献辞を持つ詩集に属し、アブルッツォの海岸の夜を背景とする。3詩節×4行・全12行。各詩節はノヴェナリオ2行＋ドデカシラボ（男性終止）2行の固定韻律で、無韻。第一詩節と第三詩節のリフレイン（v.3–4 ＝ v.11–12）が詩に円環的な閉じを与える。後期 Alcyone の爆発的パニスモとは対極の、静謐・夢想・沈黙の官能がこの詩の基調。",
+  "keywords": [
+    "月", "下弦の月", "夢", "沈黙", "夜", "海", "Canto Novo",
+    "リフレイン", "レオパルディ", "初期ダヌンツィオ", "falce", "夢の刈り穂"
+  ],
+  "relatedTexts": [
+    "dannunzio_nella_belletta",
+    "dannunzio_pioggia_nel_pineto",
+    "verlaine_chanson_dautomne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "speaker": null,
+      "original": "O falce di luna calante\nche brilli su l'acque deserte,\no falce d'argento, qual mèsse di sogni\nondeggia al tuo mite chiarore qua giù!",
+      "provisionalTranslation": "おお、沈みゆく三日月よ\n人けのない水面に輝く、\nおお銀色の鎌よ、なんと多くの夢の刈り穂が\nここ下で、あなたの穏やかな輝きにそよいでいることか！"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "speaker": null,
+      "original": "Aneliti brevi di foglie,\nsospiri di fiori dal bosco\nesalano al mare: non canto non grido\nnon suono pe 'l vasto silenzïo va.",
+      "provisionalTranslation": "葉の短い息づき、\n森からの花のため息が\n海へと立ち昇る：歌も叫びも\n音も、広大な沈黙の中を行かない。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "speaker": null,
+      "original": "Oppresso d'amor, di piacere,\nil popol de' vivi s'addorme…\nO falce calante, qual mèsse di sogni\nondeggia al tuo mite chiarore qua giù!",
+      "provisionalTranslation": "愛と快楽に圧されて、\n生ける者たちの民は眠りにつく……\nおお沈みゆく鎌よ、なんと多くの夢の刈り穂が\nここ下で、あなたの穏やかな輝きにそよいでいることか！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "O falce di luna calante",
+      "body": "「falce（鎌）」という語が詩全体の意味的軸を担う。三日月の形状（鎌形）と農業的な「刈り取り」の動作が重なり、v.3 の「mèsse di sogni（夢の刈り穂）」に接続する──鎌が穀物を刈るように、月が夢を刈る。「calante（沈みゆく・欠けてゆく）」は luna calante（下弦の月）の専門語。月が欠けてゆくこと自体が「喪失・終焉」のイメージを帯びるが、ダヌンツィオはそれを嘆きではなく叙情的な呼びかけとして使う。レオパルディ「Alla luna」（1819）では月に「O graziosa luna（おお優美な月よ）」と呼びかけ、記憶と苦しみを語りかけた。ダヌンツィオは「O falce（おお鎌よ）」と月を農耕道具として呼ぶことで、レオパルディの感傷的詩脈を物質的・感覚的な語彙に置き換える。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "qual mèsse di sogni\nondeggia al tuo mite chiarore qua giù!",
+      "body": "「mite chiarore（穏やかな輝き）」──シネステジア（sinestesia）。「chiarore」は視覚語（光の強度）、「mite」は触覚・情感語（穏やかさ・やわらかさ）。二つの感覚域の接触。「ondeggia（そよいでいる・揺れている）」──夢の「穂」が風にそよぐという動き。月の光が実際に波立つわけではなく、夢という非物質的なものが月光の中で「波打つ」ように見える。「qua giù（ここ下で）」──天上の月と地上（人間の夢の世界）との距離を一語で刻む。後の Alcyone では月や星との距離が融合・パニスモによって消えるが、この詩では「天上／地上」の隔たりが詩の根本的な空間として維持される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Aneliti brevi di foglie,\nsospiri di fiori dal bosco",
+      "body": "擬人法の二重連鎖──「aneliti（息づき）」は人間の短促な呼吸、「sospiri（ため息）」は人間の感情的な息。これらを葉と花に帰属させることで、植物が感情を持つ存在として呈示される。後期 Alcyone の「d'arborea vita viventi（樹木の命を生きながら）」というパニスモ宣言の萌芽──ただし Alcyone では人間が植物に合体するが、この詩では植物が人間的感覚を持つという逆方向の擬人法。v.6「bosco（森）」→ v.7「mare（海）」という内陸から海への「気息の移動」も、アブルッツォの海岸景観の地理的実態を反映する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "non canto non grido\nnon suono pe 'l vasto silenzïo va.",
+      "body": "三重の否定（non canto / non grido / non suono）が「沈黙」を定義する──何が聞こえないかを列挙することで、聞こえない沈黙の質が立ち上がる。「silenzïo」のディエレシス（ï）──si-len-zi-o と4音節に発音することが指定される。これは韻律上の必要（ドデカシラボの音節数確保）だが、同時に「沈黙」という語が発音として遅くなる──語の意味と音の速度が一致する。v.7–8 のアンジャンブマン（enjambement）：「non canto non grido」で行が切れ、「non suono」が次行で続く──この切断自体が沈黙のリズムを演じる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "il popol de' vivi s'addorme…",
+      "body": "「popol de' vivi（生ける者たちの民）」──ダンテ的語法の換用。Inf. III.136「per altra via, per altri porti / verrai a piaggia, non qui; a te convien tenere altro viaggio」など、ダンテは「生者」と「死者」を明確に区別する語彙を持つ（「i vivi」「le genti vive」）。ダヌンツィオが「popol de' vivi」と書く時、その対語として暗黙の「morti（死者）」が召喚される──眠り＝死への類比。「s'addorme…（眠りにつく……）」の三点リーダーが文を宙吊りにする──眠りの中断なき継続、または夢への移行の表示。この「眠り」が第三詩節のリフレイン「mèsse di sogni（夢の刈り穂）」へと接続する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Oppresso d'amor, di piacere,",
+      "body": "「oppresso（圧された・重さに沈んだ）」──快楽と愛が「重さ」として眠りを強いる。La pioggia nel pineto（Alcyone）では愛と自然への融合が「軽さ・解放感・浮遊感」として描かれたのに対し、この詩では愛と快楽が「重力」として人を眠りへ引き下ろす。同じ「愛と快楽」が後期詩では上昇のエネルギーに、初期詩では下降・沈潜のエネルギーになる──20年のダヌンツィオの詩学的変容を一語が示す。",
+      "targetId": "dannunzio_pioggia_nel_pineto",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "O falce calante, qual mèsse di sogni\nondeggia al tuo mite chiarore qua giù!",
+      "body": "第三詩節末のリフレイン──v.3–4 の「O falce di luna calante」が「O falce calante」と短縮されて帰還する。「di luna」の脱落は詩の円環的閉じにおける収縮──最初は「月の鎌」と完全に同定されていたものが、最後には単に「鎌」と呼ばれる。固有名詞（luna）の消去によって、「falce」という形状・機能のイメージだけが残る。月は背景に退き、「夢を刈る鎌」という機能的イメージが前景に出る。この短縮反復は Banville「Nuit d'étoiles」のリフレイン変奏技法との比較が可能──ドビュッシーが共に歌曲化した詩人として音楽的感性を共有する。",
+      "targetId": "banville_nuit_d_etoiles",
+      "targetParagraphId": 3
+    }
+  ]
+}

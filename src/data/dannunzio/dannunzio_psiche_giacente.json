@@ -1,0 +1,131 @@
+{
+  "id": "dannunzio_psiche_giacente",
+  "title": "Psiche giacente",
+  "author": "Gabriele D'Annunzio",
+  "source": "Poema paradisiaco, sezione Hortus Larvarum. 初版: Gabriele D'Annunzio, L'orto e la prora, Milano, Fratelli Treves Editori, 1896. 底本: Wikisource it.wikisource.org/wiki/Poema_paradisiaco/Hortus_Larvarum/Psiche_giacente（2025年版）照合済み。",
+  "year": "1893",
+  "firstPublication": "Poema paradisiaco, Milano, Fratelli Treves Editori, 1893.",
+  "difficulty": "上級",
+  "category": "dannunzio",
+  "originalLang": "it",
+  "modernRelevance": "★★★★☆",
+  "context": "ダヌンツィオ（1863–1938）の詩集『楽園の詩（Poema paradisiaco）』（1893年）内の詩群「Hortus Larvarum（幽霊たちの庭）」所収。副題「Dal Burne Jones（バーン＝ジョーンズより）」を持つ──エドワード・バーン＝ジョーンズ（1833–1898）のラファエル前派的絵画「プシュケの眠り」または「プシュケの水浴」を原画とする絵画詩（ekphrasis）。7行連を6連＋最終7行連の計7連（全49行）で構成する。韻律はエンデカシッラボ（11音節）を基調とするが部分的に変形する。詩はプシュケが大理石の水盤のほとりで眠る情景の静的描写から出発し（連1-4）、薔薇たちの欲望的な擬人化を経て（連5）、エロス（愛神）の忍び足の到来と「初めての夜」を告げる（連6）。最終連はイタリック・大文字で刻まれた不吉な予告「CHE ACCENDERÀ LA LAMPADA FATALE（運命の灯を点す手）」で終わる──これはアプレイウスの原話でプシュケが禁を破ってエロスの顔に灯を向けた場面への予告的言及。眠りの美と欲望の侵入、無垢と破滅の予感が共存する詩。イタリア象徴主義とラファエル前派の交点に位置する作品。",
+  "keywords": [
+    "絵画詩", "プシュケ", "エロス", "バーン＝ジョーンズ", "ラファエル前派", "眠り", "薔薇", "運命", "アプレイウス", "ダヌンツィオ", "ekphrasis"
+  ],
+  "relatedTexts": [
+    "mallarme_coup_de_des",
+    "rossetti_monna_innominata",
+    "dante_inferno_canto_5",
+    "rossetti_soeur_louise"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-7",
+      "speaker": null,
+      "original": "Su 'l ciglio del marmoreo bacino,\nche i misteri de l'acqua in sè racchiude,\nla vergine giacente un suo divino\nsonno compone; e de le braccia ignude,\nmentre i sogni dal cuor salgono al dolce\nmurmure, il bel chiomato capo folce,\nbionda sotto il grande arco cristallino.",
+      "provisionalTranslation": "大理石の水盤のふちの上に、\n水の神秘をその内に包み込むその水盤の上に、\n横たわる処女は自らの神聖な\n眠りを紡いでいる。裸の腕で、\n夢が心から甘いざわめきへと昇っていく間、\n美しい豊かな髪の頭を支えながら、\n大きな水晶のアーチの下で金髪に輝いている。"
+    },
+    {
+      "id": 2,
+      "verses": "l.8-14",
+      "speaker": null,
+      "original": "Piegasi in arco l'acqua che una bocca\nmarmorea da l'alto muro esprime;\nma il ceruleo curvo stel non tocca\nla chioma de la vergine sublime\nnè il breve piede che Atalanta invidia.\nSale per lei baciare, con insidia\nlenta, al margine l'acqua; e non trabocca.",
+      "provisionalTranslation": "高い壁の大理石の口から流れ出た水が\nアーチを描いて曲がる。\nしかし青い弧を描く水の筋は触れない、\n崇高な処女の髪にも\nアタランタが羨む小さな足にも。\n彼女に口づけしようと、ゆっくりと\n忍び寄るように、水は縁まで上る。そして溢れない。"
+    },
+    {
+      "id": 3,
+      "verses": "l.15-21",
+      "speaker": null,
+      "original": "Sta quasi in una armoniosa cuna\nPsiche. Il liquido stel che si rinnova\nfrangendosi ha tal suono cui nessuna\nvoce eguaglia in dolcezza. E par si muova\ndal respir de l'immota quel sovrano\nritmo che seguon pur nel ciel lontano\nle stelle rifiorendo ad una ad una.",
+      "provisionalTranslation": "プシュケは調和のとれた揺り籠の中にいるようだ。\n砕けながら絶えず新たになる液体の流れは、\n甘さにおいていかなる声も\n及ばないような音を持つ。そして動かぬ者の\n息吹から発するように見える、あの至高の\nリズムが──遠い空でも星々が\nそのリズムに従い、ひとつひとつ花開いていく。"
+    },
+    {
+      "id": 4,
+      "verses": "l.22-28",
+      "speaker": null,
+      "original": "Nel silenzio la musica diffonde\npel gran palagio un lento incantamento.\nDai fastigi a le sedi più profonde\ntutto vive ed ascolta. Solo il vento\na quando a quando languido sospira\ninebriato da gli odor che aspira\ntra le rose di Cipri ove s'asconde.",
+      "provisionalTranslation": "静寂の中、音楽は\n大宮殿全体にゆっくりとした魔法を広げていく。\n頂きから最も深い座まで\nすべてが生き、耳を傾けている。ただ風だけが\nときおり物憂げに溜め息をつく、\nキュプロスの薔薇の間に身を隠しながら\nそこから吸い込む香りに酔いしれて。"
+    },
+    {
+      "id": 5,
+      "verses": "l.29-35",
+      "speaker": null,
+      "original": "Anelando morire ne' capelli\ndivini, si protendono le rose:\nprotendon, mal frenate da i cancelli,\nle umide bocche lor voluttuose.\nVive, come di carne, palpitanti,\nanelano. Chi viene in questi incanti?\nPar che più dolce l'acqua ora favelli.",
+      "provisionalTranslation": "神聖な髪の中で死にたいと渇望しながら、\n薔薇たちが身を伸ばしている。\n柵に辛うじて押しとどめられながら、\n濡れた官能的な口を差し伸ばしている。\n生きて、肉のように、ときめきながら、\n渇望している。この魔法の中に誰が来るのか？\n今、水がより甘く語りかけているようだ。"
+    },
+    {
+      "id": 6,
+      "verses": "l.36-42",
+      "speaker": null,
+      "original": "Vien per l'ombra furtivo il giovinetto\nignoto: Amore. Ed è la prima sera.\nPar che tutta nel suo profondo petto\nl'ansia diffusa ne la primavera\nde la terra e del cielo si raccolga,\nmentre ei s'inclina. — O zona, ch'ei ti sciolga!\nO rose, non vi dolga essergli letto!",
+      "provisionalTranslation": "影の中を忍び足でやってくる、知られぬ少年が──\nエロスが。そして初めての夜だ。\n大地と空の春に満ちた\n不安がすべて彼の深い胸に\n集まってくるように思われる、\n彼が身をかがめていく間。──ああ帯よ、彼に解かれるように！\nああ薔薇たちよ、彼の床となることを惜しむな！"
+    },
+    {
+      "id": 7,
+      "verses": "l.43-49",
+      "speaker": null,
+      "original": "Acque, cantate il carme nuziale!\nL'alta vergine ignora il suo destino\nmentre tende le braccia a l'Immortale,\nbionda sotto il grande arco cristallino.\nVoi, rose, offritevi a la man che appresta\nil letto, empite quella man funesta\nCHE ACCENDERÀ LA LAMPADA FATALE!",
+      "provisionalTranslation": "水よ、婚礼の歌を歌え！\n高貴な処女はその運命を知らない、\n不滅の者へと腕を差し伸べながら、\n大きな水晶のアーチの下で金髪に輝きながら。\nお前たち薔薇よ、床を整える手に身を捧げよ、\n不吉なその手を満たせ──\n運命の灯を点す手を！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "Dal Burne Jones",
+      "body": "絵画詩（ekphrasis）の副題。エドワード・バーン＝ジョーンズ（1833–1898）はイギリスのラファエル前派画家。プシュケを題材とする連作（"The Story of Psyche"、1872–1895年頃）を制作した。ダヌンツィオはバーン＝ジョーンズの絵画的静止感──眠る裸身の処女、水、薔薇、閉ざされた楽園──をイタリア語詩に移植する。ロセッティ兄弟（ダンテ・ガブリエルとクリスティーナ）のラファエル前派との関係と同様、ダヌンツィオも英国ラファエル前派を経由してイタリア象徴主義を形成した。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "全7連各7行、エンデカシッラボ（11音節詩行）を基調とするセスティーナ変形形式。各連の韻律は一定せず詩行内にリズムの変化があり、後期ダヌンツィオの音楽的詩法の実験を示す。第1連と第7連は「bionda sotto il grande arco cristallino（大きな水晶のアーチの下で金髪に）」で対応する環状構造──詩が一巡して閉じる印象を与えつつ、最終行の大文字「LAMPADA FATALE」が構造的な閉じを破壊する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "il breve piede che Atalanta invidia",
+      "body": "「アタランタが羨む小さな足」──アタランタはギリシア神話の俊足の狩人の女性。女性の美しい足をアタランタの俊足への言及で形容する古典的な讃美の修辞（blason）。プシュケの美を神話的比較によって拡張するダヌンツィオの「装飾的古典主義」の典型例。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "con insidia / lenta, al margine l'acqua; e non trabocca",
+      "body": "「ゆっくりと忍び寄る水、そして溢れない」──水の擬人化と欲望の抑制。「insidia（罠・忍び寄り）」という語が第5連・第6連のエロスの忍び足（furtivo）と同型の欲望の動作を先取りする。溢れないという抑制が、後の「初めての夜」の到来への張力を生む。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "quel sovrano ritmo che seguon pur nel ciel lontano / le stelle rifiorendo ad una ad una",
+      "body": "「遠い空でも星々が従う至高のリズム」──プシュケの呼吸が宇宙的なリズムと共鳴するという宇宙論的な比喩。ロデンバックの「竪琴と風」（Lacrymæ rerum）と同型の共鳴の詩学──ただしロデンバックが詩人を受動的な共鳴体とするのに対し、ダヌンツィオはプシュケの「不動の呼吸」を宇宙リズムの震源として提示する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "le rose di Cipri",
+      "body": "「キュプロスの薔薇」──キュプロスはアフロディーテ（愛と美の女神）の聖地。アフロディーテへの言及は、エロスの母への間接的参照でもある。薔薇がアフロディーテの花であることと合わせて、エロスの到来が神話的必然として準備されている。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Anelando morire ne' capelli / divini, si protendono le rose",
+      "body": "「神聖な髪の中で死にたいと渇望する薔薇」──薔薇の擬人化と死への欲望の融合。「morire（死ぬ）」という語がイタリア語では性的法悦（小さな死）の文学的慣用表現でもある。ロセッティの「Sweet Death」の花と死の結合（「blossom that no fruitage bore」）と比較すると、ロセッティが死を自然の循環として肯定するのに対し、ダヌンツィオは死を官能的欲望の頂点として提示する。",
+      "targetId": "rossetti_sweet_death"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "il giovinetto / ignoto: Amore. Ed è la prima sera.",
+      "body": "「知られぬ少年──エロス。そして初めての夜」──アプレイウス『変身物語（黄金の驢馬）』第4-6巻のプシュケ神話に基づく。プシュケはエロスと夜のみ会い、昼には彼の姿を見ることを禁じられていた。「初めての夜（la prima sera）」は禁を破る以前の至福の瞬間を指す。ダンテ『神曲』地獄篇第5歌でフランチェスカが語る「初めてのキス（quella bocca mi basciò tutto tremante）」の「最初の瞬間」と同型の逆説──至福の瞬間がすでに破滅の種を含む。",
+      "targetId": "dante_inferno_canto_5"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "CHE ACCENDERÀ LA LAMPADA FATALE",
+      "body": "詩の最終行にして最大の形式的逸脱──大文字による刻印。アプレイウスの神話でプシュケはエロスの命を破って夜中に灯明（lampada）を点し、禁じられた彼の顔を見た。これが二人の分離と苦難の原因となる。詩全体が眠りの中のプシュケを描写しているのに、最終行だけが未来形「accenderà（点すだろう）」で書かれ、大文字で刻まれる──眠りの無垢の内に破滅の予告が宿るという詩の核心的逆説が形式によって体現される。L'Oubliの「elle est sans fleurs」（最終1行による全詩の転覆）と対照的に、こちらは最終行が詩を過去へと遡及的に書き換える。",
+      "targetId": "rodenbach_loubli"
+    }
+  ]
+}

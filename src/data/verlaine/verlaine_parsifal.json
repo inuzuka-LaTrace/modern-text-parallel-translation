@@ -1,0 +1,99 @@
+{
+  "id": "verlaine_parsifal",
+  "title": "Parsifal",
+  "author": "Paul Verlaine",
+  "source": "Amour, Vanier (Messein), 1905, p. 42. 底本: Wikisource fr.wikisource.org/wiki/Amour_(Verlaine)/Parsifal（2025年版）照合済み。初出: La Revue wagnérienne, 1886年8月号。",
+  "year": "1886",
+  "firstPublication": "La Revue wagnérienne, août 1886. 書籍収録: Amour, Vanier, 1888.",
+  "difficulty": "上級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルレーヌ（1844–1896）が1886年8月号の『ワーグナー評論（La Revue wagnérienne）』に発表したソネット。ルイ・テリエ（À Jules Tellier）への献辞付き。ワーグナーの楽劇『パルジファル』（1882年初演）に基づく詩的応答。イタリア式ソネット変形（ABBA-ABBA / CCD-EED）のアレクサンドラン、ただし最終3行が「3+3」でなく「2+1」という非対称構造をとる──第14行（最終行）が「— Et, ô ces voix d'enfants chantant dans la coupole !」の1行として孤立し、詩全体の重みを担う。詩の構造はパルジファルの三段階の勝利に対応する：第1四行詩では「少女たちの誘惑」、第2四行詩では「美しい女（クンドリー）とその魔力・地獄」への勝利、第3連（terzet）ではアンフォルタス王の癒しと聖槍の奉持──これらすべての後に、単独で置かれた最終行「子供たちの歌声」が霊的浄化の瞬間として爆発する。ヴェルレーヌがカトリックへの回心（1875年頃）を経た後の作品として、官能への勝利と神聖への到達を主題とするが、オクターヴでの欲望の詳細な描写（「sa pente / Vers la Chair de garçon vierge（少年の肉への傾き）」「gorge excitante（そそる喉）」）がその霊的勝利の物語に官能的な緊張を持続させる。",
+  "keywords": [
+    "ワーグナー", "パルジファル", "聖杯", "純潔", "官能と霊性", "ソネット", "La Revue wagnérienne", "カトリック回心", "ヴェルレーヌ中期"
+  ],
+  "relatedTexts": [
+    "verlaine_serenade",
+    "verlaine_un_dahlia",
+    "mallarme_coup_de_des",
+    "dan_nunzio_psiche_giacente"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-4",
+      "speaker": null,
+      "original": "Parsifal a vaincu les Filles, leur gentil\nBabil et la luxure amusante — et sa pente\nVers la Chair de garçon vierge que cela tente\nD'aimer les seins légers et ce gentil babil ;",
+      "provisionalTranslation": "パルジファルは少女たちに打ち勝った、その愛らしい\nおしゃべりと楽しい淫蕩に──そして処女の少年の肉への\n傾きに、軽い胸と愛らしいおしゃべりを\n愛したいというあの誘惑に。"
+    },
+    {
+      "id": 2,
+      "verses": "l.5-8",
+      "speaker": null,
+      "original": "Il a vaincu la Femme belle, au cœur subtil,\nÉtalant ses bras frais et sa gorge excitante ;\nIl a vaincu l'Enfer et rentre sous la tente\nAvec un lourd trophée à son bras puéril,",
+      "provisionalTranslation": "彼は打ち勝った、繊細な心を持つ美しい女に、\n冷たい腕とそそる喉をさらすその女に。\n彼は地獄にも打ち勝ち、天幕へと帰還した、\n幼い腕に重い戦利品を携えて。"
+    },
+    {
+      "id": 3,
+      "verses": "l.9-11",
+      "speaker": null,
+      "original": "Avec la lance qui perça le Flanc suprême !\nIl a guéri le roi, le voici roi lui-même,\nEt prêtre du très saint Trésor essentiel.",
+      "provisionalTranslation": "至高の脇腹を貫いた槍を携えて！\n彼は王を癒した、そして今や王自身となり、\n至聖なる根源の宝の祭司となった。"
+    },
+    {
+      "id": 4,
+      "verses": "l.12-13",
+      "speaker": null,
+      "original": "En robe d'or il adore, gloire et symbole,\nLe vase pur où resplendit le Sang réel.",
+      "provisionalTranslation": "金の衣をまとい彼は崇める、栄光にして象徴たる、\n真の血が輝き満ちる清らかな器を。"
+    },
+    {
+      "id": 5,
+      "verses": "l.14",
+      "speaker": null,
+      "original": "— Et, ô ces voix d'enfants chantant dans la coupole !",
+      "provisionalTranslation": "──そして、ああ、ドームの中で歌う子供たちのあの声！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "イタリア式ソネット変形（ABBA-ABBA / CCD-EED）のアレクサンドラン。標準的なソネットの14行構成は保たれるが、セステット（l.9-14）を「3+2+1」で分割した──第9-11行（terzet）、第12-13行（distique）、第14行（monostiche）。特に最終行が単独で孤立することにより、「ドームの中で歌う子供たちの声」が詩の全構造を背負う。ロデンバックの「L'Oubli」で最終1行「elle est sans fleurs」が詩全体を転覆させる構造と同型だが、L'Oubliが喪失を告知するのに対し、ここでは霊的高揚が爆発する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "sa pente / Vers la Chair de garçon vierge",
+      "body": "「処女の少年の肉への傾き（sa pente / Vers la Chair de garçon vierge）」──これはパルジファルの誘惑の対象が少女たちのみならず、語り手自身の欲望（同性愛的な）を反映しているという読みを可能にする。ヴェルレーヌとランボーの関係（1871-73年）を経た後、カトリック回心を果たしたヴェルレーヌが「官能への勝利」を歌う詩に、この一節が挟まれることの緊張──告白詩の系譜（ロセッティ「Sœur Louise」の「I have desired, and I have been desired」）との共鳴。",
+      "targetId": "rossetti_soeur_louise"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "les Filles … la Femme belle … l'Enfer",
+      "body": "ワーグナー楽劇『パルジファル』（1882年バイロイト初演）の三段階の誘惑・試練に対応する：「少女たち（Blumenmädchen、花の乙女たち）」「美しい女（Kundry、クンドリー）」「地獄（Klingsorの魔城）」。ヴェルレーヌはワーグナーの舞台構造を詩の8行（オクターヴ）に圧縮し、聖槍奪還・王の癒し・聖杯王位継承という三つの帰結をセステットに凝縮する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "la lance qui perça le Flanc suprême",
+      "body": "「至高の脇腹を貫いた槍（聖槍ロンギヌス）」──キリストの脇腹を貫いたとされる槍。ワーグナーの楽劇ではクリングゾールがアンフォルタス王を傷つけるために用い、パルジファルが奪還する。「Flanc suprême（至高の脇腹）」という表現はキリストの受難を直接示す。詩がここで、ワーグナー神話とキリスト教受難の二重の層を重ねる──Un Dahliaの冷たい非宗教的美学から、宗教的・神秘的次元への大きな転換。",
+      "targetId": "verlaine_un_dahlia"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "le Sang réel",
+      "body": "「真の血（le Sang réel）」──聖杯（the Holy Grail）に湛えられたキリストの血。「réel（真の・実在の）」という語がカトリック聖体論の「真の現存（présence réelle）」への言及として読める──ヴェルレーヌのカトリック回心後の信仰告白的次元。Un Dahliaの「無香の偶像」崇拝の不能性と対比されるのが、ここでの真に「adore（崇める）」ことのできる神聖な器。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "— Et, ô ces voix d'enfants chantant dans la coupole !",
+      "body": "詩全体の核心、ソネットの第14行が単独で立つ。「──Et（そして）」というダッシュ＋接続詞の連鎖が直前の「Sang réel（真の血）」の神聖を受け、「ô（ああ）」という感嘆詞が霊的恍惚の瞬間を示す。「子供たちの声（voix d'enfants）」は純粋性・無垢の象徴──オクターヴで詳述された「少女たち・美しい女・地獄」という官能と闇の系列の対極に置かれる。Sérénadeが「Ma voix aigre et fausse（甲高く偽りの声）」で始まるのに対し、このソネットは「子供たちの声」で終わる──ヴェルレーヌにおける「声」の系譜的な転換。",
+      "targetId": "verlaine_serenade"
+    }
+  ]
+}

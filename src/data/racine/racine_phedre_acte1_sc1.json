@@ -10,13 +10,26 @@
   "genre": "tragédie",
   "work": "Phèdre",
   "act": 1,
-  "scenes": [1],
-  "characters": ["Hippolyte", "Théramène"],
+  "scenes": [
+    1
+  ],
+  "characters": [
+    "Hippolyte",
+    "Théramène"
+  ],
   "originalLang": "fr-FR",
   "modernRelevance": "★★★★★",
   "context": "ラシーヌ最後の世俗悲劇（1677年）第1幕第1場。全劇1654行のうちv.1–113。登場人物はヒポリット（アテネ王テーセウスの息子）と傅役テラメーヌのみ。ヒポリットが「出発する」という宣言で劇が始まる（in medias res）。表面的な動機は父テーセウスの捜索だが、真の動機はアリシー（敵家の娘）への愛からの逃走。テラメーヌはその真相を引き出す腹心（confident）として機能する。場面の構造は二段階：前半（v.1–51）でヒポリットが「父を探す」という表の理由を語り、後半（v.52–113）でテラメーヌの執拗な問いかけによってアリシーへの愛が引き出される。ヒポリットは「逃げる（fuir）」という動詞を繰り返すことで、愛を告白することなく愛を語る——「語ること・語らないこと（dire et taire）」のラシーヌ語法の核心を体現する場面。次のScène IIでフェードルが初登場し、同じ「隠された愛」の主題がより苛烈な形で展開される。",
   "keywords": [
-    "ヒポリット", "テラメーヌ", "テーセウス探索", "アリシーへの愛", "fuir（逃げる）", "腹心", "語ること・語らないこと", "in medias res", "アレクサンドランの力学"
+    "ヒポリット",
+    "テラメーヌ",
+    "テーセウス探索",
+    "アリシーへの愛",
+    "fuir（逃げる）",
+    "腹心",
+    "語ること・語らないこと",
+    "in medias res",
+    "アレクサンドランの力学"
   ],
   "relatedTexts": [
     "racine_phedre_acte1_sc2_3",
@@ -100,34 +113,50 @@
     },
     {
       "id": 10,
-      "verses": "v.57-76",
-      "scene": 1,
+      "verses": "v.57-64a",
       "speaker": "Théramène",
-      "original": "Seigneur, m'est-il permis d'expliquer votre fuite ?\nPourriez-vous n'être plus ce superbe Hippolyte,\nImplacable ennemi des amoureuses lois,\nEt d'un joug que Thésée a subi tant de fois ?\nVénus, dont votre mère a senti la puissance,\nVoudrait-elle justifier Thésée en votre naissance ?\nEt vous, vivant soumis à sa loi souveraine,\nMalgré vous, soupireriez-vous pour la reine,\nQui hait même les noms que vous portez ?\nMais que sert d'affecter un superbe discours ?\nAvouez-le, tout change ; et depuis quelques jours,\nOn vous voit moins souvent, orgueilleux et sauvage,\nTantôt faire voler un char sur le rivage,\nTantôt, savant dans l'art par Neptune inventé,\nRendre docile au frein un coursier indompté ;\nLes forêts de nos cris moins souvent retentissent ;\nChargés d'un feu secret, vos yeux s'appesantissent ;\nIl n'en faut point douter, vous aimez, vous brûlez ;\nVous périssez d'un mal que vous dissimulez.\nLa charmante Aricie a-t-elle su vous plaire ?",
-      "provisionalTranslation": "殿、あなたの逃走を説明することは許されますか？\nあなたはもはやかのヒポリットではないのですか──\n愛の掟の容赦なき敵、\nテーセウスが幾度も服従したその軛の。\nあなたの母が感じたヴィーナスの力は、\nあなたの誕生においてテーセウスの行いを正当化しようとするのでしょうか？\nそして、その至高の掟に従って生きるあなたは、\n意に反して、あなたが持つ名前さえ憎む王妃のために溜め息をつくのでしょうか？\nしかし傲慢な言葉を装っても何になろう？\n認めてください、すべては変わった。ここ数日、\n傲慢で気ままなあなたが浜辺で戦車を走らせたり、\nネプトゥーヌスが発明した技を駆使して\n手のつけられない駿馬を手綱に従わせるのを見かけることが少なくなった。\n森は私たちの叫び声で鳴り響くことが少なくなった。\n秘かな火を帯びた瞳は重くなっている。\n疑う余地はない──あなたは愛している、燃えている。\nあなたは隠しているある病で滅びようとしている。\n魅力的なアリシーはあなたの心を捉えたのですか？"
+      "scene": "Scène I",
+      "original": "Seigneur, m'est-il permis d'expliquer votre fuite ?\nPourriez-vous n'être plus ce superbe Hippolyte,\nImplacable ennemi des amoureuses lois,\nEt d'un joug que Thésée a subi tant de fois ?\nVénus, par votre orgueil si longtemps méprisée,\nVoudrait-elle à la fin justifier Thésée ?\nEt vous mettant au rang du reste des mortels,\nVous a-t-elle forcé d'encenser ses autels ?\nAimeriez-vous, seigneur ?",
+      "provisionalTranslation": "殿、あなたのご出立をご説明させていただいてよいでしょうか。\nもはやあなたは、かの高慢なヒポリットではないのでしょうか、\n愛の掟の無敵の敵、\nテゼが幾たびもくぐったくびきを拒む方。\nあなたの高慢によって長らく軽んじられてきたウェヌスが、\nついにテゼの正しさを証明しようとしているのでしょうか。\nあなたを残りの人間の列に並ばせて、\nあの女神はあなたに自分の祭壇で香を焚かせたのでしょうか。\n殿、あなたは恋をなさっているのですか。"
     },
     {
       "id": 11,
-      "verses": "v.77",
+      "verses": "v.64b-113",
+      "speaker": "Hippolyte",
+      "scene": "Scène I",
+      "original": "Ami, qu'oses-tu dire ?\nToi qui connais mon cœur depuis que je respire,\nDes sentiments d'un cœur si fier, si dédaigneux,\nPeux-tu me demander le désaveu honteux ?\nC'est peu qu'avec son lait une mère amazone\nM'a fait sucer encor cet orgueil qui t'étonne ;\nDans un âge plus mûr moi-même parvenu,\nJe me suis applaudi quand je me suis connu.\nAttaché près de moi par un zèle sincère,\nTu me contais alors l'histoire de mon père.\nTu sais combien mon âme, attentive à ta voix,\nS'échauffait aux récits de ses nobles exploits,\nQuand tu me dépeignais ce héros intrépide\nConsolant les mortels de l'absence d'Alcide,\nLes monstres étouffés, et les brigands punis,\nProcruste, Cercyon, et Sciron, et Sinis,\nEt les os dispersés du géant d'Épidaure,\nEt la Crète fumant du sang du Minotaure.\nMais quand tu récitais des faits moins glorieux,\nSa foi partout offerte, et reçue en cent lieux ;\nHélène à ses parents dans Sparte dérobée ;\nSalamine témoin des pleurs de Péribée ;\nTant d'autres, dont les noms lui sont même échappés,\nTrop crédules esprits que sa flamme a trompés !\nAriane aux rochers contant ses injustices ;\nPhèdre enlevée enfin sous de meilleurs auspices ;\nTu sais comme, à regret écoutant ce discours,\nJe te pressais souvent d'en abréger le cours.\nHeureux si j'avais pu ravir à la mémoire\nCette indigne moitié d'une si belle histoire !\nEt moi-même, à mon tour, je me verrais lié !\nEt les dieux jusque-là m'auraient humilié !\nDans mes lâches soupirs d'autant plus méprisable,\nQu'un long amas d'honneurs rend Thésée excusable,\nQu'aucuns monstres par moi domptés jusqu'aujourd'hui,\nNe m'ont acquis le droit de faillir comme lui !\nQuand même ma fierté pourrait s'être adoucie,\nAurais-je pour vainqueur dû choisir Aricie ?\nNe souviendrait-il plus à mes sens égarés\nDe l'obstacle éternel qui nous a séparés ?\nMon père la réprouve, et par des lois sévères,\nIl défend de donner des neveux à ses frères :\nD'une tige coupable il craint un rejeton ;\nIl veut avec la sœur ensevelir leur nom ;\nEt que, jusqu'au tombeau soumise à sa tutelle,\nJamais les feux d'hymen ne s'allument pour elle.\nDois-je épouser ses droits contre un père irrité ?\nDonnerai-je l'exemple à la témérité ?\nEt dans un fol amour ma jeunesse embarquée…",
+      "provisionalTranslation": "友よ、何ということを言うのだ。\n私が息をしてからずっと私の心を知っているお前が、\nこれほど誇り高く、これほど傲然とした心の感情を、\n恥ずかしくも否定しろと私に求めるのか。\nアマゾンの母が乳とともに、お前を驚かせるあの誇りをさらに吸わせてくれた——それだけではない。\nより成熟した年齢に達した私自身が、自分を知ったとき自分を称えたのだ。\nお前は誠実な熱意をもって私のそばに寄り添い、\n父の物語をその頃私に語って聞かせてくれた。\nお前の声に注意深く耳を傾けた私の魂が、\n父の輝かしい武勲の話にいかに燃え立ったかをお前は知っている、\nお前がかの無敵の英雄を描いてくれたとき——\nアルキドの不在を人間たちに慰めた、\n息の根を止めた怪物たち、罰した賊たち、\nプロクルステ、ケルキュオン、スキロン、シニス、\nエピダウロスの巨人の散らばった骸骨、\nミノタウロスの血に煙るクレタ。\nしかしお前があまり誇らしくない話を語ったとき——\nどこへでも捧げられた誓い、百か所で受け入れられた誓い、\n自分の両親のもとからスパルタで奪われたヘレネー、\nペリボイアの涙を見届けたサラミス、\n他のあまたの女たち、その名さえ父に忘れられた、\n父の炎に欺かれた、あまりに信じやすい魂たち。\n岩に向かって不義を訴えるアリアドネー、\nそしてついでよりよい幸先のもとに奪われたパイドラー。\nお前はよく知っているだろう、その話を後悔しながら聞いた私が、\nその話を短くするようお前によく急き立てたことを。\n幸いだったのに、あの美しい物語の、その恥ずべき半分を記憶から奪い去ることができていたなら。\nそして私自身が、今度は、縛られるとは！\n神々がそこまで私を辱めるとは！\n卑怯な溜め息で余計に賤しいことよ、\n長い誉れの積み重ねがテゼを許してくれるのに、\n私がこれまで征服した怪物など一匹もなく、彼のように過ちを犯す権利を獲得してもいないのだから。\n私の誇りが和らいでいたとしても、勝者として選ぶべきはアリシーだったのか。\n迷える私の感覚にもはや思い出されないのか、私たちを隔てた永遠の障害が。\n父はあの娘を否定し、厳しい掟によって、\n彼女の兄弟たちに甥を与えることを禁じている。\n呪われた枝から新芽が育つことを父は恐れる。妹とともにその名を葬り去ることを望んでいる。\nそして墓の中まで父の後見に服して、婚姻の炎が彼女のために灯されることがないように。\n怒れる父に逆らって、その権利の代弁者になるべきか。無謀の手本を示すべきか。\n愚かな恋に乗り出して私の若さを……"
+    },
+    {
+      "id": 12,
+      "verses": "v.114-137",
+      "speaker": "Théramène",
+      "scene": "Scène I",
+      "original": "Ah, seigneur ! si votre heure est une fois marquée,\nLe ciel de nos raisons ne sait point s'informer.\nThésée ouvre vos yeux en voulant les fermer ;\nEt sa haine irritant une flamme rebelle,\nPrête à son ennemie une grâce nouvelle.\nEnfin d'un chaste amour pourquoi vous effrayer ?\nS'il a quelque douceur, n'osez-vous l'essayer ?\nEn croirez-vous toujours un farouche scrupule ?\nCraint-on de s'égarer sur les traces d'Hercule ?\nQuels courages Vénus n'a-t-elle pas domptés ?\nVous-même, où seriez-vous, vous qui la combattez,\nSi toujours Antiope à ses lois opposée\nD'une pudique ardeur n'eût brûlé pour Thésée ?\nMais que sert d'affecter un superbe discours ?\nAvouez-le, tout change ; et depuis quelques jours,\nOn vous voit moins souvent, orgueilleux et sauvage,\nTantôt faire voler un char sur le rivage,\nTantôt, savant dans l'art par Neptune inventé,\nRendre docile au frein un coursier indompté ;\nLes forêts de nos cris moins souvent retentissent ;\nChargés d'un feu secret, vos yeux s'appesantissent ;\nIl n'en faut point douter, vous aimez, vous brûlez ;\nVous périssez d'un mal que vous dissimulez :\nLa charmante Aricie a-t-elle su vous plaire ?",
+      "provisionalTranslation": "ああ、殿、あなたの時が一度定まったならば、天は私たちの理屈など知る由もございません。\nテゼはあなたの目を閉じようとしてあなたの目を開けるのです。\n反発する炎をかきたてる父の憎しみが、敵の娘に新たな魅力を添えるのです。\n結局、貞淑な恋をなぜ恐れるのですか。何か甘さがあるなら、あえてそれを試みてはいけないのでしょうか。\n荒々しい躊躇いをいつまでも信じるおつもりですか。ヘラクレスの跡をたどって道を外れることを恐れますか。\nウェヌスはいかなる勇気をも征服しなかったでしょうか。\nあなた自身、彼女と戦う方、どこにいたでしょう、\nアンティオペがいつも彼女の掟に逆らって貞淑な情熱でテゼのために燃えなかったなら。\nしかし高慢な言葉を飾っても何になるでしょう。\n認めてください——すべてが変わっています。ここ数日、\nあなたはそれほど傲慢に野性的に姿を見せず、\nある時は海辺で馬車を飛ばし、ある時はネプチュヌスが考案したあの術に長けて、\n手綱に馴れさせる手に負えない馬。\n森は私たちの叫び声をそれほど響かせなくなりました。\n秘めた炎を帯びて、あなたの目は重くなっています。\n疑う余地はありません——あなたは恋をし、燃えている。\n隠す病で命を縮めている。\n魅力的なアリシーはあなたのお心にかないましたか。"
+    },
+    {
+      "id": 13,
+      "verses": "v.138",
       "scene": 1,
       "speaker": "Hippolyte",
       "original": "Théramène, je pars, et vais chercher mon père.",
       "provisionalTranslation": "テラメーヌ、私は出発する──父を探しに行く。"
     },
     {
-      "id": 12,
-      "verses": "v.78-79a",
+      "id": 14,
+      "verses": "v.139-140a",
       "scene": 1,
       "speaker": "Théramène",
       "original": "Ne verrez-vous point Phèdre avant que de partir,\nSeigneur ?",
       "provisionalTranslation": "出発の前にフェードルにお目にかかりませんか、\n殿？"
     },
     {
-      "id": 13,
-      "verses": "v.79b-81",
+      "id": 15,
+      "verses": "v.140b-142",
       "scene": 1,
       "speaker": "Hippolyte",
-      "original": "C'est mon dessein. Tu peux l'en avertir.\nVoyons-la, puisque ainsi mon devoir me l'ordonne.\nMais quel nouveau malheur trouble la chère Œnone ?",
+      "original": "C'est mon dessein : tu peux l'en avertir.\nVoyons-la, puisque ainsi mon devoir me l'ordonne.\nMais quel nouveau malheur trouble sa chère Œnone ?",
       "provisionalTranslation": "それが私の意図だ。彼女にそう伝えてよい。\n会おう、義務がそう命じるのだから。\nしかし、いかなる新たな不幸が親愛なるエノンを惑わすのか？"
     }
   ],

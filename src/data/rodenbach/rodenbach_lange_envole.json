@@ -1,0 +1,176 @@
+{
+  "id": "rodenbach_lange_envole",
+  "title": "L'Ange Envolé",
+  "author": "Georges Rodenbach",
+  "source": "Le Foyer et les Champs, Société centrale de librairie catholique, 1877, p. 56–58. 底本: Wikisource fr.wikisource.org/wiki/Le_Foyer_et_les_Champs/L'ange_envolé（2024年版）照合済み。",
+  "year": "1877",
+  "firstPublication": "Le Foyer et les Champs, Société centrale de librairie catholique, 1877.",
+  "difficulty": "初級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "ローデンバック（1855–1898）の第一詩集『炉辺と野』（1877年）所収。洗礼の直後に死んだ幼児の物語を語る「simple et touchante histoire（素朴で心打つ話）」。エピグラフはミュッセの言葉「若くして死ぬ者は神々に愛される」──古典的な早逝の美学を導入として置きつつ、詩本体は5月の自然描写から洗礼式の情景、突然の死、そして普遍的な生死の隣り合いという哲学的省察へと展開する。「白（blanc）」「薔薇色（rose）」「青白（blême）」の色彩対比、「揺り籠と墓（berceaux et tombes）」「産着と経帷子（linceul / voile de fête）」という二項の交替が詩の骨格をなす。ローデンバックの後期象徴主義的感性（死・白・静寂）がここでは民謡的・物語的形式に収められており、『死都ブリュージュ』（1892）につながる死の美学の萌芽を早期に示す作品。",
+  "keywords": [
+    "幼児の死", "洗礼", "5月", "白", "揺り籠と墓", "早逝", "生死の隣り合い", "物語詩", "初期ローデンバック"
+  ],
+  "relatedTexts": [
+    "rodenbach_bruges_la_morte_extract",
+    "van_lerberghe_la_mort",
+    "verlaine_romances_sans_paroles"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "epigraph",
+      "speaker": null,
+      "original": "Faut-il croire ce que disaient nos pères\nQue lorsqu'on meurt si jeune on est aimé des dieux !\n— Musset",
+      "provisionalTranslation": "父たちが言ったことを信じるべきなのか、\n若くして死ぬ者は神々に愛されると！\n──ミュッセ"
+    },
+    {
+      "id": 1,
+      "verses": "l.1-4",
+      "speaker": null,
+      "original": "Oh ! laissez-moi vous la narrer\nCette simple et touchante histoire,\nQui m'a fait bien souvent pleurer\nEn s'éveillant dans ma mémoire !",
+      "provisionalTranslation": "ああ！この素朴で心打つ話を\nあなた方に語らせてください。\n記憶の中で目覚めるたびに\n私を何度も泣かせてきたこの話を！"
+    },
+    {
+      "id": 2,
+      "verses": "l.5-8",
+      "speaker": null,
+      "original": "C'était à ce beau mois de mai,\nParé de fleurs, plein de murmure,\nÀ ce mois tendre et parfumé\nOù se réveille la nature.",
+      "provisionalTranslation": "それは美しい5月のこと、\n花で飾られ、さざめきに満ち、\nあの優しく香り高い月、\n自然が目覚めるあの月のことだった。"
+    },
+    {
+      "id": 3,
+      "verses": "l.9-12",
+      "speaker": null,
+      "original": "On conduisait un jeune enfant\nÀ l'église, entouré de langes,\nPour le rendre, en le baptisant,\nAussi pur que les petits anges.",
+      "provisionalTranslation": "ひとりの幼い子を\n産着に包んで教会へと連れていった、\n洗礼によって、\n小さな天使たちと同じほど純粋にするために。"
+    },
+    {
+      "id": 4,
+      "verses": "l.13-16",
+      "speaker": null,
+      "original": "Près de l'autel illuminé\nVoici qu'arrive le cortège ;\nEt sur le front du nouveau-né,\nBlanc comme les flocons de neige,",
+      "provisionalTranslation": "明かりに照らされた祭壇の近く、\n行列が到着した。\n新生児の額の上、\n雪の結晶のように白い額の上に、"
+    },
+    {
+      "id": 5,
+      "verses": "l.17-20",
+      "speaker": null,
+      "original": "Un prêtre vient mettre le sel\nDe sa main vieillie et tremblante ;\nPuis il épanche l'eau du ciel\nComme la rosée à la plante.",
+      "provisionalTranslation": "老いて震える手で\n司祭が塩を置きにやってきた。\nそして天の水を注いだ、\n草花に降りる露のように。"
+    },
+    {
+      "id": 6,
+      "verses": "l.21-24",
+      "speaker": null,
+      "original": "Chacun sent son cœur attendri\nEt des larmes à sa paupière ;\nPour le petit être chéri\nChacun fait monter sa prière…",
+      "provisionalTranslation": "誰もが胸を柔らかくされるのを感じ、\n目蓋には涙を感じた。\n愛しい小さな命のために\n誰もが祈りを捧げた……"
+    },
+    {
+      "id": 7,
+      "verses": "l.25-28",
+      "speaker": null,
+      "original": "Soudain, comme un oiseau blessé,\nL'enfant pousse un murmure étrange…\nOn s'empresse… il était glacé…\nIl était mort, le nouvel ange !…",
+      "provisionalTranslation": "突然、傷ついた鳥のように、\n子どもが奇妙なうめき声を上げた……\n人々が駆け寄った……冷たくなっていた……\n死んでいた、新しい天使は！……"
+    },
+    {
+      "id": 8,
+      "verses": "l.29-32",
+      "speaker": null,
+      "original": "Venu rose de la maison,\nIl alla blême au cimetière ;\nEt tous ont oublié son nom,\nHormis la pauvre croix de pierre !…",
+      "provisionalTranslation": "家からは薔薇色でやってきて、\n墓地へは青白くなって去っていった。\nそして皆その名前を忘れた、\n哀れな石の十字架を除いては！……"
+    },
+    {
+      "id": 9,
+      "verses": "l.33-36",
+      "speaker": null,
+      "original": "Hélas ! l'hiver touche au printemps,\nEt la mort touche à la naissance ;\nLa pauvre mère, en peu d'instants,\nVa de la joie à la souffrance.",
+      "provisionalTranslation": "ああ！冬は春に触れ、\n死は誕生に触れる。\n哀れな母は、ほんのわずかな時の間に、\n喜びから苦しみへと向かう。"
+    },
+    {
+      "id": 10,
+      "verses": "l.37-40",
+      "speaker": null,
+      "original": "L'aube a son sourire et ses pleurs,\nL'air, ses vautours et ses colombes ;\nSous la verdure et sous les fleurs,\nNaissent les berceaux et les tombes !",
+      "provisionalTranslation": "夜明けにはその微笑みと涙があり、\n空気にはその禿鷹と鳩がある。\n緑の下、花の下に、\n揺り籠と墓が生まれる！"
+    },
+    {
+      "id": 11,
+      "verses": "l.41-44",
+      "speaker": null,
+      "original": "On fait souvent un linceul froid\nD'un voile de fête splendide :\nOn construit un cercueil étroit\nAvec le bois d'un berceau vide !…",
+      "provisionalTranslation": "しばしば絢爛たる祝いのヴェールで\n冷たい経帷子が作られる。\n空の揺り籠の木材で\n狭い棺が作られる！……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "allusion",
+      "anchor": "aimé des dieux",
+      "body": "エピグラフはアルフレッド・ド・ミュッセの言葉。「若くして死ぬ者は神々に愛される」はギリシア語格言「ὃν οἱ θεοὶ φιλοῦσιν ἀποθνήσκει νέος」（メナンドロス）に由来する古典的命題。ミュッセを介して引用することで、詩はフランス・ロマン主義の早逝の美学を継承しながら始まる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "En s'éveillant dans ma mémoire",
+      "body": "「記憶の中で目覚める」という表現は、詩全体が語り手の回想として語られることを示す。民謡・語り物的な導入（「laissez-moi vous la narrer」）がロデンバックの後期の内省的・沈黙的な詩法と対照的で、初期の語り口の特徴を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "beau mois de mai",
+      "body": "5月は生命の再生と洗礼の季節。しかし詩が展開するにつれ、この生命の月が死の舞台となる──春と死の共存というロデンバック詩学の核心テーマがここから始動する。後期の『死都ブリュージュ』でも秋の都市が死の美学の舞台となるのと対照的に、ここでは最も生命的な季節が選ばれる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Blanc comme les flocons de neige",
+      "body": "「雪の結晶のように白い」──白は洗礼の純粋さと死の白さの両義を担う。ローデンバック詩学において白は一貫して純粋・静寂・死と結びつく。この「白い額」が第8連で「blême（青白い）」へと変容することで、白の意味が純粋→死へとずれていく。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "l'eau du ciel / Comme la rosée à la plante",
+      "body": "洗礼の水を「天の水（l'eau du ciel）」「草花への露（rosée à la plante）」として詩的に形象化。生命を与える水のイメージが直後の死と逆説的に対置される──水が生を与えると同時に、生まれたばかりの命が消える。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "comme un oiseau blessé",
+      "body": "傷ついた鳥という直喩。子どもの死の瞬間を鳥が落ちる瞬間として捉える。「天使（ange）」が空を飛ぶ存在であることと照応し、洗礼で天使として清められた子が、そのまま天使として飛び去る（envolé）というタイトルの意味が完成する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Venu rose de la maison, / Il alla blême au cimetière",
+      "body": "詩の最も鮮やかな対比。「薔薇色（rose）」と「青白（blême）」──生の色と死の色が一連に凝縮される。「家（maison）→教会→墓地（cimetière）」という空間移動が生→洗礼→死という時間軸と完全に対応する。名前を忘れられ「石の十字架だけが覚えている」という結びは、記名されない生の無名性への省察。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "l'hiver touche au printemps, / Et la mort touche à la naissance",
+      "body": "詩が物語から哲学的省察へと転換する転回点。「触れる（touche）」の反復──冬と春、死と誕生は対立項ではなく接触する隣人として提示される。ロデンバックの死生観の核心：死は生の対極ではなく、生に隣接し浸透する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Naissent les berceaux et les tombes",
+      "body": "「揺り籠と墓が生まれる」──揺り籠と墓の並置は詩の最も圧縮されたイメージ。Sweet Death（ロセッティ）の「blossom that no fruitage bore」や「grass hath lasting worth」と同様に、生と死の循環を自然の連続として示すが、ロデンバックはより鋭く二項の同時発生（「naissent」は両者に共通）を主張する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "On construit un cercueil étroit / Avec le bois d'un berceau vide",
+      "body": "詩の締め括りにして最も具象的なイメージ。空の揺り籠の木材で棺が作られる──これは比喩でなく当時の貧しい家庭での実際の慣習でもあった。「vide（空の）」という語が揺り籠に使われることで、満たされることなく終わった生が物質的に刻まれる。ロデンバック初期詩学の素朴なリアリズムと象徴的凝縮が共存する一句。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "intertextual",
+      "anchor": "linceul froid / D'un voile de fête splendide",
+      "body": "祝いのヴェールが経帷子になるという変換は、Sœur Louise de la Miséricorde（ロセッティ）の「my rose of life gone all to prickles」と類比的な美からの転落を示す。両詩ともに祝祭的なものの喪への転化を扱うが、ロセッティが個人の欲望の灰化を語るのに対し、ロデンバックは社会的儀礼（洗礼・祝宴）の喪への転換という外的視点をとる。",
+      "targetId": "rossetti_soeur_louise"
+    }
+  ]
+}

@@ -2599,15 +2599,6 @@ export default function App() {
                       </span>
                     )}
 
-                    {/* speaker バッジ（戯曲のみ）— max-w で長い名前を切り詰め */}
-                    {hasSpeaker && (
-                      <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border shrink-0 max-w-[160px] truncate ${
-                        darkMode ? speakerColor.dark : speakerColor.light
-                      }`} title={para.speaker.toUpperCase()}>
-                        {para.speaker.toUpperCase()}
-                      </span>
-                    )}
-
                     {/* 折りたたみ時：発話の冒頭プレビュー */}
                     {isCollapsed && showFrench && (
                       <span className={`text-sm truncate ${textClass}`}>
@@ -2673,7 +2664,7 @@ export default function App() {
 
                 {/* 段落コンテンツ */}
                 {!isCollapsed && (
-                  <div className={`px-6 pb-6 border-t ${borderClass}`}>
+                  <div className={`px-4 pb-4 border-t ${borderClass}`}>
 
                     {/* ── エピグラフ（Monna Innominata等、ダンテ・ペトラルカ引用） ── */}
                     {para.epigraphs && para.epigraphs.length > 0 && (
@@ -2837,7 +2828,7 @@ export default function App() {
                       <>
                     {/* 原文 */}
                     {showFrench && (
-                      <div className="pt-5 mb-4">
+                      <div className="pt-3 mb-2">
                         {/* 原文ラベル行：通常テキストは「原文」バッジ、戯曲は speaker バッジ */}
                         {hasSpeaker ? (
                           <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border ${
@@ -2850,7 +2841,7 @@ export default function App() {
                             原文
                           </span>
                         )}
-                        <p className={`mt-2 leading-loose whitespace-pre-line pl-4 border-l-2 ${
+                        <p className={`mt-1.5 leading-relaxed whitespace-pre-line pl-4 border-l-2 ${
                           darkMode ? 'border-stone-700' : 'border-stone-300'
                         } ${textClass} ${
                           fontSize === 'xxlarge' ? 'text-2xl' :
@@ -2869,11 +2860,11 @@ export default function App() {
 
                     {/* 仮訳 */}
                     {showOfficial && translation && (
-                      <div className={`mb-4 border-l-2 border-amber-400/70 pl-4 ${showFrench ? '' : 'pt-4'}`}>
+                      <div className={`mb-2 border-l-2 border-amber-400/70 pl-4 ${showFrench ? '' : 'pt-3'}`}>
                         <span className={`text-xs font-sans tracking-widest uppercase ${darkMode ? 'text-zinc-500' : 'text-stone-400'}`}>
                           仮訳
                         </span>
-                        <p className={`mt-2 leading-loose whitespace-pre-line ${darkMode ? 'text-zinc-300' : 'text-stone-700'} ${
+                        <p className={`mt-1.5 leading-relaxed whitespace-pre-line ${darkMode ? 'text-zinc-300' : 'text-stone-700'} ${
                           fontSize === 'xxlarge' ? 'text-xl' :
                           fontSize === 'xlarge' ? 'text-lg' :
                           fontSize === 'large'  ? 'text-base' :

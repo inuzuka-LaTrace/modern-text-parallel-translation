@@ -1,0 +1,106 @@
+{
+  "id": "verlaine_saint_graal",
+  "title": "Saint Graal",
+  "author": "Paul Verlaine",
+  "source": "Amour, Vanier (Messein), 1905, p. 43–44. 底本: Wikisource fr.wikisource.org/wiki/Amour_(Verlaine)/Saint_Graal（2023年版）照合済み。初出: Amour, Vanier, 1888。",
+  "year": "1888",
+  "firstPublication": "Amour, Léon Vanier, 1888.",
+  "difficulty": "上級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "ヴェルレーヌ詩集『愛（Amour）』（1888年）所収、Parsifalの直後に置かれる。カトリック急進主義作家レオン・ブロワ（Léon Bloy, 1846–1917）への献辞付き。21行のアレクサンドラン連続詩（韻律は不規則、押韻は維持）。1870年の普仏戦争敗北・1871年のパリ・コミューンという二重の国家的トラウマを背景に、ヴェルレーヌはキリストの血（le sang de Jésus-Christ）がフランスを覆い癒すという神学的ヴィジョンを展開する。「Gueuse rouge（赤い娼婦）」はコミューン派または第三共和制（神なき共和国）への侮蔑的言及。「ギロチン」は革命的暴力の象徴。しかし詩の後半では政治的怒りが「殺人者・姦通者の心をも蘇らせる愛の神の奔流」という普遍的救済論へと転化する。Parsifalが聖槍・聖杯という個人の霊的勝利を歌うのに対し、Saint Graalはフランスという国家・社会全体への聖血の降下という集団的・政治神学的ヴィジョンを提示する。",
+  "keywords": [
+    "聖血", "フランス", "カトリック", "政治神学", "コミューン", "ギロチン", "救済", "Léon Bloy", "ヴェルレーヌ中期"
+  ],
+  "relatedTexts": [
+    "verlaine_parsifal",
+    "verlaine_serenade",
+    "verlaine_un_dahlia",
+    "rodenbach_lacrymae_rerum"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-6",
+      "speaker": null,
+      "original": "Parfois je sens, mourant des temps où nous vivons,\nMon immense douleur s'enivrer d'espérance.\nEn vain l'heure honteuse ouvre des trous profonds,\nEn vain bâillent sous nous les désastres sans fonds\nPour engloutir l'abus de notre âpre souffrance,\nLe sang de Jésus-Christ ruisselle sur France.",
+      "provisionalTranslation": "ときに私は感じる、私たちが生きるこの時代に絶え果てながら、\n私の巨大な苦しみが希望に酔いしれるのを。\n恥ずべきこの時代が深い穴を開けても空しく、\n私たちの足元で底なしの災厄が口を開けても空しく、\n私たちの鋭い苦しみの過剰を飲み込もうとしても──\nイエス・キリストの血はフランスへと流れ落ちる。"
+    },
+    {
+      "id": 2,
+      "verses": "l.7-12",
+      "speaker": null,
+      "original": "Le précieux Sang coule à flots de ses autels\nNon encor renversés, et coulerait encore\nLe fussent-ils, et quand nos malheurs seraient tels\nQue les plus forts, cédant à ces effrois mortels,\nEux-mêmes subiraient la loi qui déshonore,\nDe l'ombre des cachots il jaillirait encore,",
+      "provisionalTranslation": "尊い血はまだ倒されていない祭壇から\n滔々と流れ、倒されても流れ続けるだろう。\nたとえ私たちの不幸が甚だしくなり、\n最も強い者たちさえ恐怖に屈して\n自ら辱めの法に服するようになっても、\n牢獄の陰から血はなおも迸るだろう。"
+    },
+    {
+      "id": 3,
+      "verses": "l.13-17",
+      "speaker": null,
+      "original": "Il coulerait encor des pierres des cachots,\nDescellerait l'horreur des ciments, doux et rouge\nSuintement, torrent patient d'oraisons,\nD'expiation forte et de bonnes raisons\nContre les lâchetés et les « feux sur qui bouge ! »",
+      "provisionalTranslation": "牢獄の石から血はなおも流れ、\nセメントの恐怖を剥がしていくだろう、甘く赤い\n滲み出しとして、祈りの忍耐強い奔流として、\n強固な贖罪の奔流として、臆病者たちと\n「動く者に発砲せよ！」という命令への正しい反論として。"
+    },
+    {
+      "id": 4,
+      "verses": "l.17-18",
+      "speaker": null,
+      "original": "Et toute guillotine et cette Gueuse rouge… !",
+      "provisionalTranslation": "あらゆるギロチンと、あの赤い娼婦（共和制）に対しての……！"
+    },
+    {
+      "id": 5,
+      "verses": "l.18-21",
+      "speaker": null,
+      "original": "Torrent d'amour du Dieu d'amour et de douceur,\nFût-ce parmi l'horreur de ce monde moqueur,\nFleuve rafraîchissant de feu qui désaltère,\nSource vive où s'en vient ressusciter le cœur\nMême de l'assassin, même de l'adultère,\nSalut de la patrie, ô sang qui désaltère !",
+      "provisionalTranslation": "愛と優しさの神の、愛の奔流よ、\nたとえこの嘲笑う世界の恐怖の中であっても、\n渇きを癒す炎の、冷たく清める川よ、\n心を蘇らせに来る生きた泉よ──\n殺人者の心でさえも、姦通者の心でさえも──\n祖国の救い、ああ渇きを癒す血よ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "全21行のアレクサンドラン連続詩。標準的なソネットや規則的な連形式を持たず、押韻パターンも不規則（ABCCBA / DEFFE / DGGHI / J / JKLK LK）。この不規則性は政治的怒りと神秘的恍惚が交替する詩の内的緊張を韻律レベルで体現する。Parsifalの精緻な変形ソネット構造と対照的に、Saint Graalは散文的な流れに近い──怒りの演説と讃歌の融合。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "mourant des temps où nous vivons",
+      "body": "「私たちが生きるこの時代に絶え果てながら」──1870年代以降のヴェルレーヌの時代意識：普仏戦争敗北（1870）、コミューン（1871）、投獄（1873-75）、放浪。「時代（temps）」への批判は宗教的ではなく政治的・歴史的な診断として始まる。ロデンバック「Lacrymæ rerum」が「le genre humain marche à travers des débris（人類は瓦礫の中を歩む）」と詩人的観察者として語るのに対し、ヴェルレーヌは「mourant（絶え果てながら）」という一人称で時代の苦しみを身体的に引き受ける。",
+      "targetId": "rodenbach_lacrymae_rerum"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le sang de Jésus-Christ ruisselle sur France",
+      "body": "詩の核心テーゼを告げる一行。「ruisselle（流れ落ちる）」という現在形──過去の歴史的事実でなく今まさに進行中の出来事として提示される。Parsifalで「le Sang réel（真の血）」が聖杯という容器に輝いていたのに対し、ここでは血が「フランスへと（sur France）」直接流れ落ちる──容器なき、媒介なき聖血の降下という神秘主義的ヴィジョン。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Descellerait l'horreur des ciments, doux et rouge / Suintement",
+      "body": "「甘く赤い滲み出しがセメントの恐怖を剥がす」──セメントで封じられた牢獄の壁を、血の滲み出しが解封するという逆説的イメージ。「doux et rouge（甘く赤い）」という形容詞の並置──甘さと血の赤の共存が聖血の二重性（受難の痛みと救済の甘さ）を一語に圧縮する。ロデンバック「Devant une tête de mort」の「La lampe éteinte sert à me prouver la flamme（消えた灯明が炎を証明する）」と同型の逆説：封じることが解放を引き起こす。",
+      "targetId": "rodenbach_devant_tete_de_mort"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et toute guillotine et cette Gueuse rouge… !",
+      "body": "詩の最も政治的な一行、感嘆符と省略符で締める。「Gueuse（娼婦・乞食女）」はカトリック右派が第三共和制を侮蔑的に呼ぶ語──「Gueuse rouge（赤い娼婦）」はコミューン派または神なき共和国への二重の侮辱。この一行の後に詩は急転し、政治的告発から普遍的救済の讃歌へと移行する。ヴェルレーヌの政治的立場の問題性（反共和制・反革命）を内包しながら、詩はその怒りを神学的射程に回収する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Même de l'assassin, même de l'adultère",
+      "body": "「殺人者の心でさえも、姦通者の心でさえも」──詩の最もラディカルな神学的命題。カトリックの普遍的救済論（誰も神の恵みから排除されない）の宣言。「assassin（殺人者）」はコミューン派への直前の政治的怒りを遡及的に包括する──敵でさえも救済の対象となる。Parsifalの「処女の少年の肉への傾き」という語り手自身の欲望の告白と連絡して読むと、「adulte（姦通者）」はヴェルレーヌ自身（ランボーとの逃走、妻マティルドへの背信）への自己告白でもある。",
+      "targetId": "verlaine_parsifal"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Salut de la patrie, ô sang qui désaltère",
+      "body": "最終行の「désaltère（渇きを癒す）」は第18行の「Fleuve rafraîchissant de feu qui désaltère」と同語の反復──詩が「炎の川」→「祖国の救い」へと収束する。Parsifalの最終行「— Et, ô ces voix d'enfants chantant dans la coupole !」と対照的な閉じ方──Parsifalが純粋な霊的感嘆符で終わるのに対し、Saint Graalは「祖国（patrie）」という政治的語彙を霊的語彙（sang qui désaltère）と合体させて終わる。二つの詩が『愛』詩集の連続する詩（p.42/43-44）として詩集内対話を形成する。",
+      "targetId": "verlaine_parsifal"
+    }
+  ]
+}

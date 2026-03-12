@@ -1,0 +1,157 @@
+{
+  "id": "racine_phedre_acte1_sc4_5",
+  "title": "Phèdre — Acte I, Scènes IV–V",
+  "author": "Jean Racine",
+  "source": "Phèdre et Hippolyte, tragédie, Claude Barbin, Paris, 1677. テキスト底本: Wikisource, Phèdre (Racine), Didot, 1854/Acte I（Œuvres de Jean Racine, précédées des Mémoires sur sa vie, par Louis Racine, Firmin-Didot Frères, 1854）。",
+  "year": "1677",
+  "firstPublication": "Phèdre et Hippolyte, Barbin, Paris, 1er janvier 1677 (初演: 1er janvier 1677, Hôtel de Bourgogne)",
+  "difficulty": "上級",
+  "category": "racine",
+  "genre": "tragédie",
+  "work": "Phèdre",
+  "act": 1,
+  "scenes": [4, 5],
+  "characters": ["Phèdre", "Œnone", "Panope"],
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "第1幕第4・5場。第4場（Sc.IV, v.295–326）：侍女パノプが「テーセウス死去」の報をもたらす。三人の場面（フェードル・エノン・パノプ）。第5場（Sc.V, v.327–360）：パノプの退場後、エノンとフェードルの二人だけで劇的な転換が起きる。エノンは「夫の死によって罪が消えた」「今こそヒポリットに近づき政治的に利用できる」という論理でフェードルを翻意させる。第1幕の結末として、フェードルは「生きることへの意志」を取り戻す──しかしその根拠はエノンの功利的な説得であり、愛の浄化ではない。この転換がSc.IIIの告白と連動して第2幕以降の悲劇を駆動する：フェードルの「生きる決意」は「ヒポリットに告白する機会を得ること」として機能する。ラシーヌ劇における「情報（nouvelles）」の構造的機能：パノプという周縁的登場人物が持ち込む「テーセウス死去」という情報が、劇の力学を根本的に変える──バルト『ラシーヌ論』の「突破口（dénouement en miniature）」として第1幕末が機能する。",
+  "keywords": [
+    "パノプ", "テーセウス死去", "情報の劇的機能", "エノンの転換", "政治と愛の交錯", "アリシー", "アテネ政情", "生きる意志", "罪の消去という論理"
+  ],
+  "relatedTexts": [
+    "racine_phedre_acte1_sc1",
+    "racine_phedre_acte1_sc2_3",
+    "racine_phedre_acte2_sc1_3",
+    "racine_phedre_acte3_sc1_3"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.295-298",
+      "scene": 4,
+      "speaker": "Panope",
+      "original": "Je voudrais vous cacher une triste nouvelle,\nMadame : mais il faut que je vous la révèle.\nLa mort vous a ravi votre invincible époux ;\nEt ce malheur n'est plus ignoré que de vous.",
+      "provisionalTranslation": "悲しい知らせを隠したいところですが、\n奥様──しかしそれをお伝えしなければなりません。\n死があなたの無敵の夫を奪いました。\nこの不幸を知らないのはあなただけになりました。"
+    },
+    {
+      "id": 2,
+      "verses": "v.299",
+      "scene": 4,
+      "speaker": "Œnone",
+      "original": "Panope, que dis-tu ?",
+      "provisionalTranslation": "パノプ、何と言ったのですか？"
+    },
+    {
+      "id": 3,
+      "verses": "v.299b-302",
+      "scene": 4,
+      "speaker": "Panope",
+      "original": "Que la reine abusée\nEn vain demande au ciel le retour de Thésée ;\nEt que, par des vaisseaux arrivés dans le port,\nHippolyte son fils vient d'apprendre sa mort.",
+      "provisionalTranslation": "王妃が騙されて\n空しく天にテーセウスの帰還を求めていること。\nそして港に到着した船によって、\n息子ヒポリットがその死を知らされたということです。"
+    },
+    {
+      "id": 4,
+      "verses": "v.303",
+      "scene": 4,
+      "speaker": "Phèdre",
+      "original": "Ciel !",
+      "provisionalTranslation": "天よ！"
+    },
+    {
+      "id": 5,
+      "verses": "v.303b-312",
+      "scene": 4,
+      "speaker": "Panope",
+      "original": "Pour le choix d'un maître Athènes se partage :\nAu prince votre fils l'un donne son suffrage,\nMadame ; et de l'État, l'autre oubliant les lois\nAu fils de l'étrangère ose donner sa voix.\nOn dit même qu'au trône une brigue insolente\nVeut placer Aricie et le sang de Pallante.\nJ'ai cru de ce péril vous devoir avertir.\nDéjà même Hippolyte est tout prêt à partir ;\nEt l'on craint, s'il paraît dans ce nouvel orage,\nQu'il n'entraîne après lui tout un peuple volage.",
+      "provisionalTranslation": "後継者の選択でアテネが分裂しています。\n奥様の息子の王子に票を投じる者がいます。\n国の法を忘れて、\n異邦人の息子に票を与えようとする者もいます。\n厚かましい陰謀がアリシーとパランス家の血を\n王位に就けようとしているとも言われています。\nこの危機をお知らせすべきと思いました。\nすでにヒポリットも出発する準備をしており、\nこの新たな嵐の中で彼が現れれば、\n気まぐれな民を引き連れてしまうと恐れられています。"
+    },
+    {
+      "id": 6,
+      "verses": "v.313-314",
+      "scene": 4,
+      "speaker": "Œnone",
+      "original": "Panope, c'est assez : la reine qui t'entend\nNe négligera point cet avis important.",
+      "provisionalTranslation": "パノプ、それで十分です。あなたの話を聞いている王妃が\nこの重要な知らせを無視することはないでしょう。"
+    },
+    {
+      "id": 7,
+      "verses": "v.327-334",
+      "scene": 5,
+      "speaker": "Œnone",
+      "original": "Madame, je cessais de vous presser de vivre ;\nDéjà même au tombeau je songeais à vous suivre ;\nPour vous en détourner je n'avais plus de voix :\nMais ce nouveau malheur vous prescrit d'autres lois.\nVotre fortune change et prend une autre face :\nLe roi n'est plus, madame ; il faut prendre sa place.\nSa mort vous laisse un fils à qui vous vous devez ;\nEsclave s'il vous perd, et roi si vous vivez.",
+      "provisionalTranslation": "奥様、私はあなたに生きることを迫るのをやめていました。\n私自身もう墓まであなたについていくことを考えていた。\nそれを思い留まらせる声ももはやなかった。\nしかしこの新たな不幸が別の法をあなたに命じる。\nあなたの運命は変わり、別の様相を帯びた。\n王はもういない、奥様──その座を引き継がなければなりません。\n彼の死はあなたが義務を負う息子をあなたに残した。\nあなたを失えば奴隷、あなたが生きれば王となる。"
+    },
+    {
+      "id": 8,
+      "verses": "v.335-338",
+      "scene": 5,
+      "speaker": "Œnone",
+      "original": "Sur qui, dans son malheur, voulez-vous qu'il s'appuie ?\nSes larmes n'auront plus de main qui les essuie ;\nEt ses cris innocents, portés jusques aux dieux,\nIront contre sa mère irriter ses aïeux.",
+      "provisionalTranslation": "その不幸の中で、誰に頼ることができると思われますか？\n彼の涙を拭ってくれる手はもうなくなる。\nそして神々にまで届く無垢な叫びが、\n母親に対して祖先たちを怒らせるために向かうだろう。"
+    },
+    {
+      "id": 9,
+      "verses": "v.339-348",
+      "scene": 5,
+      "speaker": "Œnone",
+      "original": "Vivez ; vous n'avez plus de reproche à vous faire :\nVotre flamme devient une flamme ordinaire ;\nThésée en expirant vient de rompre les nœuds\nQui faisaient tout le crime et l'horreur de vos feux.\nHippolyte pour vous devient moins redoutable ;\nEt vous pouvez le voir sans vous rendre coupable.\nPeut-être, convaincu de votre aversion,\nIl va donner un chef à la sédition :\nDétrompez son erreur, fléchissez son courage.\nRoi de ces bords heureux, Trézène est son partage ;",
+      "provisionalTranslation": "生きてください──もう自分を責めることはない。\nあなたの炎は普通の炎となった。\nテーセウスは息絶えながら、あなたの愛の\n罪と恐怖のすべてをなしていたその結び目を断ち切った。\nヒポリットはあなたにとってもはや恐ろしい存在ではない。\nあなたは罪を犯すことなく彼に会える。\nおそらく、あなたの嫌悪を確信して、\n彼は反乱に首領を与えようとするだろう。\n彼の誤りを正し、その勢いをくじいてください。\nこの幸いな岸辺の王、トレゼンは彼の取り分。"
+    },
+    {
+      "id": 10,
+      "verses": "v.349-354",
+      "scene": 5,
+      "speaker": "Œnone",
+      "original": "Mais il sait que les lois donnent à votre fils\nLes superbes remparts que Minerve a bâtis.\nVous avez l'un et l'autre une juste ennemie :\nUnissez-vous tous deux pour combattre Aricie.",
+      "provisionalTranslation": "しかし法があなたの息子に\nミネルヴァが建てた壮麗な城壁を与えることを彼は知っている。\nあなたたち二人には共通の正当な敵がいます。\n二人が一緒になってアリシーと戦ってください。"
+    },
+    {
+      "id": 11,
+      "verses": "v.355-358",
+      "scene": 5,
+      "speaker": "Phèdre",
+      "original": "Eh bien ! à tes conseils je me laisse entraîner.\nVivons, si vers la vie on peut me ramener,\nEt si l'amour d'un fils, en ce moment funeste,\nDe mes faibles esprits peut ranimer le reste.",
+      "provisionalTranslation": "では！あなたの助言に引き込まれることにしよう。\n生きよう──この命へと私を連れ戻せるなら。\nそして息子への愛が、この忌まわしい瞬間に、\n私の弱り果てた精神の残りを蘇らせてくれるなら。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "La mort vous a ravi votre invincible époux ;\nEt ce malheur n'est plus ignoré que de vous.",
+      "body": "「テーセウス死去」という情報の到来──第1幕の決定的転換点。パノプはラシーヌ悲劇における「情報伝達者（messager）」の機能を担う周縁的人物。バルト『ラシーヌ論』の「突破口（dénouement en miniature）」論：第1幕末のこの情報が劇の力学を根本的に書き換える──フェードルの愛はここまで「夫への背信」という罪の二重構造（継子への愛＋夫への不貞）をもっていたが、夫の死によって一方の罪が消える。「ce malheur n'est plus ignoré que de vous（この不幸を知らないのはあなただけ）」──フェードルの孤立、情報の非対称性。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Ciel !",
+      "body": "フェードルの単独1音節の発話──「Ciel！」。パノプの長い報告（v.299b-302）の後、フェードルの反応はこの一語のみ。ラシーヌの vers partagé技法：v.303の12音節行を「Ciel！（2音節）」と「Pour le choix d'un maître Athènes se partage（10音節）」に分割。フェードルの発話の最小化が感情的衝撃の最大化として機能する──Sc.IIIでの長大な告白独白と対照的な、感情の凝縮。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "On dit même qu'au trône une brigue insolente\nVeut placer Aricie et le sang de Pallante.",
+      "body": "アリシーという名前がパノプによって「政治的脅威」として提示される──Scène Iでヒポリットが「敵の血の残り」として愛していた者が、今度はフェードルの息子の政治的敵として登場する。ラシーヌの二重プロット構造：愛（フェードル↔ヒポリット）と政治（アテネの後継者争い）が交錯し、アリシーが両方の軸の焦点として機能する。この情報がSc.Vでエノンの「アリシーと戦うためにヒポリットと手を組め」という提案への伏線となる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Mais ce nouveau malheur vous prescrit d'autres lois.\nVotre fortune change et prend une autre face.",
+      "body": "エノンの「運命の転換」論法──Sc.IIIで告白を引き出し、今度は「生きることの功利的根拠」を提示する。腹心の機能が「語らない者に語らせる」から「生きることを拒む者に生きさせる」へと移行する。バルト『ラシーヌ論』の「腹心の共犯性」：エノンはここで単なる忠実な侍女ではなく、フェードルの悲劇的運命を加速させる「共犯者」として機能し始める──告白の共有者→行動への誘導者という変化。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Votre flamme devient une flamme ordinaire ;\nThésée en expirant vient de rompre les nœuds\nQui faisaient tout le crime et l'horreur de vos feux.",
+      "body": "エノンの「罪の消去」論法──第1幕の最も危険な三行。「あなたの炎は普通の炎となった（flamme ordinaire）」「テーセウスが死によって犯罪の結び目を断ち切った」という功利的神学。Sc.IIIでフェードルが「C'est Vénus tout entière à sa proie attachée（ヴィーナスが丸ごと獲物にかかっている）」と神話的必然として語った愛を、エノンは「夫の死によって無罪化できる」という世俗的論理に還元する──これがフェードルの悲劇をSc.IIIの告白よりさらに深刻な段階へ引き込む。バルト：エノンのこの説得が「告白の共犯者化」から「行動への共犯者化」への決定的な転換点。",
+      "targetId": "racine_phedre_acte1_sc2_3"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Vivons, si vers la vie on peut me ramener,\nEt si l'amour d'un fils, en ce moment funeste,\nDe mes faibles esprits peut ranimer le reste.",
+      "body": "フェードルの「生きる決意」──第1幕の閉幕。「Vivons（生きよう）」という一人称複数──フェードルとエノンの共同体として生を引き受ける。しかし「si…si…（もし…なら）」という二重の条件節が、この決意の脆弱さを示す：「命へと連れ戻せるなら」「弱り果てた精神を蘇らせてくれるなら」──生への意志ではなく、条件付きの「生への妥協」。「de mes faibles esprits（私の弱り果てた精神の）」──Sc.IIIの告白で力を使い果たしたフェードルの身体的・精神的消耗が一語に示される。第2幕への連絡：この「生きる決意」がヒポリットへの直接告白（Acte II, Sc.V）への駆動力となる──フェードルの生存は愛の告白機会の確保として機能する。",
+      "targetId": "racine_phedre_acte2_sc1_3"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "verlaine_un_crucifix",
+  "title": "Un crucifix",
+  "author": "Paul Verlaine",
+  "source": "Amour, Vanier (Messein), 1905, p. 21–22. 底本: Wikisource fr.wikisource.org/wiki/Amour_(Verlaine)/Un_crucifix（2023年版）照合済み。初出: Amour, Vanier, 1888。日付: Août 1880。",
+  "year": "1880",
+  "firstPublication": "Amour, Léon Vanier, 1888（作詩: 1880年8月）。",
+  "difficulty": "中級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "『愛（Amour）』（1888年）所収、ジェルマン・ヌーヴォー（Germain Nouveau, 1851–1920）への献辞付き、副題「Église Saint-Géry, Arras（アラス市サン＝ジェリ教会）」。1880年8月の日付──ヴェルレーヌのカトリック回心（1874-75年）から数年後、まだランボーとの関係の傷が生々しい時期。絵画詩（ekphrasis）として、アラスのゴシック教会の木製等身大十字架像を詩的に描写する。36行のアレクサンドラン連続詩（隣接二行押韻、rimes plates）。詩は教会の情景描写（l.1-8）から木像の細部（l.9-14）、身体の神学的読解（l.15-26）へと進み、最終部（l.27-36）では詩人の友人（画家・詩人・キリスト教徒）が模写をヴェルレーヌの家に置いていったという個人的な出来事を語り、「この詩はその礼として作った」という自己言及的な閉幕をとる。Saint Graalの政治的・神学的壮大さとは対照的に、Un crucifixはきわめて個人的・工芸的スケールで信仰を語る──「好い職人（bon ouvrier）」「礼儀正しく（Très gracieusement）」という語彙が詩全体を職人の丁寧な仕事という美学で包む。",
+  "keywords": [
+    "十字架", "絵画詩", "ekphrasis", "木彫", "アラス", "カトリック", "職人", "友情", "ジェルマン・ヌーヴォー", "ヴェルレーヌ中期"
+  ],
+  "relatedTexts": [
+    "verlaine_saint_graal",
+    "verlaine_parsifal",
+    "dannunzio_psiche_giacente",
+    "dannunzio_donna_sarcofago"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-8",
+      "speaker": null,
+      "original": "Au bout d'un bas-côté de l'église gothique,\nContre le mur que vient baiser le jour mystique\nD'un long vitrail d'azur et d'or finement roux,\nLe Crucifix se dresse, ineffablement doux,\nSur sa croix peinte en vert aux arêtes dorées,\nEt la gloire d'or sombre en langues échancrées\nFlue autour de la tête et des bras étendus,\nTels quatre vols de flamme en un seul confondus.",
+      "provisionalTranslation": "ゴシック教会の側廊の奥に、\n細かな赤みがかった金と空色の長いステンドグラスの\n神秘的な光が接吻する壁に寄りかかって、\n十字架像が立つ、言葉にできないほど優しく、\n黄金の稜線を持つ緑色に塗られた十字架の上に。\nそして暗い金の栄光が刻み込まれた炎の舌で\n頭と広げた両腕の周りを流れる、\n四つの炎の飛翔が一つに溶け合うように。"
+    },
+    {
+      "id": 2,
+      "verses": "l.9-14",
+      "speaker": null,
+      "original": "La statue est en bois, de grandeur naturelle,\nLégèrement teintée, et l'on croirait sur elle\nVoir s'arrêter la vie à l'instant qu'on la voit,\nMerveille d'art pieux, celui qui la fit doit\nN'avoir fait qu'elle et s'être éteint dans la victoire\nL'être un bon ouvrier trois fois sûr de sa gloire.",
+      "provisionalTranslation": "像は木製、等身大で、\n薄く彩色され、見た瞬間に\n生命がその上で止まったように見える。\n信仰の芸術の奇跡──これを作った者は\nこれだけを作って勝利の中で消えていったに違いない、\n三倍確かに栄光を得た好い職人として。"
+    },
+    {
+      "id": 3,
+      "verses": "l.15-20",
+      "speaker": null,
+      "original": "« Voilà l'homme ! » Robuste et délicat pourtant.\nC'est bien le corps qu'il faut pour avoir souffert tant,\nEt c'est bien la poitrine où bat le Cœur immense :\nPar les lèvres le souffle expirant dit : « Clémence »\nTant l'artiste les a disjointes saintement,\nEt les bras grands ouverts prouvent le Dieu clément ;",
+      "provisionalTranslation": "「見よ、この人を！」 たくましく、しかし繊細でもある。\nこれほど苦しむために必要な身体がまさにここにある、\nそしてこれが広大な心臓が打つ胸だ。\n唇から息絶えながら「慈しみ」と言っている──\n芸術家があの唇を聖らかに開いたから。\nそして大きく広げた両腕が慈悲深い神を証明する。"
+    },
+    {
+      "id": 4,
+      "verses": "l.21-26",
+      "speaker": null,
+      "original": "La couronne d'épine est énorme et cruelle\nSur le front inclinant sa pâleur fraternelle\nVers l'ignorance humaine et l'erreur du pécheur,\nTandis que, pour noyer le scrupule empêcheur\nD'aimer et d'espérer comme la Foi l'enseigne,\nLes pieds saignent, les mains saignent, le côté saigne ;",
+      "provisionalTranslation": "荊の冠は巨大で残酷だ、\nその兄弟のような蒼白さを\n人間の無知と罪人の誤りへと向け傾いた額の上に。\n一方、信仰が教えるように愛し希望することを\n妨げる良心の呵責を溺れさせるために、\n足が流れ、手が流れ、脇腹が流れる。"
+    },
+    {
+      "id": 5,
+      "verses": "l.27-30",
+      "speaker": null,
+      "original": "On sent qu'il s'offre au Père en toute charité.\nCe vrai Christ catholique éperdu de bonté,\nPour spécialement sauver vos âmes tristes,\nPharisiens naïfs, sincères jansénistes !",
+      "provisionalTranslation": "あらゆる愛徳の中で父なる神に自らを捧げているのが伝わる。\nこの善意に惑乱したカトリックの真のキリストは、\nとりわけお前たちの悲しい魂を救うために──\n素朴なパリサイ人よ、誠実なジャンセニストよ！"
+    },
+    {
+      "id": 6,
+      "verses": "l.31-36",
+      "speaker": null,
+      "original": "— Un ami qui passait, bon peintre et bon chrétien\nEt bon poète aussi — les trois s'accordent bien —\nVit cette œuvre sublime, en fit une copie\nExquise, et, surprenant mon regard qui l'épie,\nTrès gracieusement chez moi vint l'oublier.\nEt j'ai rimé ces vers pour le remercier. —",
+      "provisionalTranslation": "──通りがかりの友人が──好い画家で好いキリスト教徒で\n好い詩人でもある──三つはよく合う──\nこの崇高な作品を見て、精緻な模写を作り、\n私の盗み見る視線に気づいて、\nとても礼儀正しく私の家に置き忘れていった。\nそしてこれらの詩句は彼に感謝するために私が韻を踏んだものだ。──"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "全36行のアレクサンドラン連続詩（rimes plates: AABBCC…）。Saint Graalの政治的・神学的激情と対照的に、この詩は終始穏やかな観察者の語調を維持する。隣接二行押韻が詩に散文的な流れを与え、「好い職人」という詩の美学と整合する。最終6行（段落6）の「—」ダッシュで囲まれた自己言及的閉幕が詩の全体を一種の感謝状として枠付ける。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "le jour mystique / D'un long vitrail d'azur et d'or finement roux",
+      "body": "「細かな赤みがかった金と空色のステンドグラスの神秘的な光」──色彩の精密な記述。ダヌンツィオ「Psiche giacente」の「arco cristallino（水晶のアーチ）」と同様、光が空間に聖性を与える描写として機能するが、ヴェルレーヌのそれはより建築的・具体的。「baiser（接吻する）」という動詞が光と壁の接触を官能的に表現しながら、同時に崇拝の行為として機能する──Un Dahliaの「偶像への無感覚」とは対照的な、壁が光の接吻を受け入れる応答的な建築。",
+      "targetId": "verlaine_un_dahlia"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "N'avoir fait qu'elle et s'être éteint dans la victoire / L'être un bon ouvrier trois fois sûr de sa gloire",
+      "body": "「これだけを作って勝利の中で消えた、三倍確かに栄光を得た好い職人」──芸術家の理想像として「一つの傑作で消える職人」を提示する。Parsifalで「bras puéril（幼い腕）」に「lourd trophée（重い戦利品）」を担う英雄的個人が登場するのとは対照的に、ここでは名もなき無名の職人が最高の芸術を成し遂げる。ロデンバックの「Lacrymæ rerum」で「詩人はこだまに過ぎない」という受動的詩人論との対比──こちらは作品に生命を注いで消える能動的職人の美学。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "« Voilà l'homme ! »",
+      "body": "「見よ、この人を（Ecce homo）！」──ピラトがキリストを民衆に示した時の言葉（ヨハネ19:5）。詩人は彫刻を見る観察者の視線を聖書のピラトの言葉で語ることで、像を見ることと受難の現場を目撃することを重ねる。ダヌンツィオ「La donna del sarcofago」の「Aspetta（待っている）」という静的観察と類比的だが、ヴェルレーヌの観察は歴史的・聖書的文脈に即座に接続する。",
+      "targetId": "dannunzio_donna_sarcofago"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Les pieds saignent, les mains saignent, le côté saigne",
+      "body": "三連の「saignent（流れる）」反復──身体の三箇所（足・手・脇腹）の血を列挙する。Saint Graalの「Le sang de Jésus-Christ ruisselle sur France」という巨大な神学的主張と同一の血だが、ここでは彫刻の木の上の「見える血」として具体化・縮小される。詩集『愛』の中でSaint Graalが「国家への聖血」を語り、Un crucifixが「木像の上の血」を語る──聖血のスケール（宏大→微小）の対照が詩集内で機能する。",
+      "targetId": "verlaine_saint_graal"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Pharisiens naïfs, sincères jansénistes",
+      "body": "「素朴なパリサイ人、誠実なジャンセニスト」──Saint Graalの「Gueuse rouge」という外部の敵への怒りと異なり、ここでは内部の（過度に律法的・厳格な）信者への穏やかな批判。パリサイ人は律法主義者、ジャンセニストは恩恵の厳格な予定説を唱えるカトリック内部の流派──どちらも「信仰が教えるように愛し希望すること」を妨げる「scrupule（良心の呵責）」の体現者として呼びかけられる。ヴェルレーヌのカトリシズムが厳格さより慈悲・寛容の側にあることの表明。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Très gracieusement chez moi vint l'oublier. / Et j'ai rimé ces vers pour le remercier.",
+      "body": "詩の最終二行、詩の自己言及的な閉幕。「礼儀正しく置き忘れていった（vint l'oublier）」──「oublier（忘れる）」という語が贈与の婉曲表現として使われる。ロデンバックの「L'Oubli」で「忘却」が喪失として機能するのと対照的に、ここでの「忘れる」は愛情深い贈り物の行為。「j'ai rimé ces vers pour le remercier（感謝のために韻を踏んだ）」という結語で詩が完全に日常的・人間的なスケールに着地する──Saint Graalの「祖国の救い」とは正反対の、友人への感謝状として詩を定義する閉幕。",
+      "targetId": "rodenbach_loubli"
+    }
+  ]
+}

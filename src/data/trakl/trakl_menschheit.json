@@ -1,0 +1,89 @@
+{
+  "id": "trakl_menschheit",
+  "title": "Menschheit",
+  "author": "Georg Trakl",
+  "source": "Georg Trakl, Gedichte, Kurt Wolff Verlag, Leipzig, 1913, S. 35. テキスト底本: Wikisource (Menschheit).",
+  "year": "1913",
+  "firstPublication": "Gedichte, Kurt Wolff Verlag, Leipzig, 1913",
+  "difficulty": "上級",
+  "category": "trakl",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "トラークル第一詩集『Gedichte』（1913）所収の10行詩。変則ソネット形式（ABABA / CDCDC）。わずか10行に人類史全体を二分した詩：前半5行（v.1-5）は戦争・暴力・原罪の人類──火砲の前に並ぶ人類・血の霧・絶望・エヴァの影・赤い金銭──後半5行（v.6-10）は福音の瞬間──最後の晩餐・パンとワインの静寂・12使徒の集い・ゲッセマネの叫び・トマスの疑いと触れる手。詩の構造そのものが「罪→受難」「暴力→犠牲」の神学的二項対立を体現する。作成は1912年頃、第一次世界大戦勃発（1914年）の直前。1914年8-9月のガリツィア戦線従軍（グロデク）で精神崩壊し同年11月に死去するトラークルにとって、この詩の戦争の予感は事後的に戦争詩となる。最終行「聖トマスが傷口に手を差し込む」はヨハネ20:27の不信と触れることによる信仰の逆説。",
+  "keywords": [
+    "Feuerschlünden",
+    "Blutnebel",
+    "最後の晩餐",
+    "聖トマス",
+    "Wundenmal",
+    "ゲッセマネ",
+    "エヴァ",
+    "戦争予感",
+    "変則ソネット",
+    "ABABA CDCDC"
+  ],
+  "relatedTexts": [
+    "trakl_menschliches_elend",
+    "trakl_rosenkranzlieder",
+    "george_widerchrist"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-5",
+      "original": "Menschheit vor Feuerschlünden aufgestellt,\nEin Trommelwirbel, dunkler Krieger Stirnen,\nSchritte durch Blutnebel; schwarzes Eisen schellt,\nVerzweiflung, Nacht in traurigen Gehirnen:\nHier Evas Schatten, Jagd und rotes Geld.",
+      "provisionalTranslation": "火砲の前に並べられた人類、\n太鼓の渦巻き、暗い戦士たちの額、\n血の霧の中を行く足音；黒い鉄が鳴り響く、\n絶望、悲しむ脳の中の夜：\nここにエヴァの影、狩り、そして赤い金銭。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6-10",
+      "original": "Gewölk, das Licht durchbricht, das Abendmahl.\nEs wohnt in Brot und Wein ein sanftes Schweigen\nUnd jene sind versammelt zwölf an Zahl.\nNachts schrein im Schlaf sie unter Ölbaumzweigen;\nSankt Thomas taucht die Hand ins Wundenmal.",
+      "provisionalTranslation": "光を透かす雲、最後の晩餐。\nパンとワインの中に柔らかな沈黙が宿り、\nかの者たちは十二の数で集っている。\n夜、彼らは眠りながらオリーブの枝の下で叫ぶ；\n聖トマスが手を傷口の中へと差し込む。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Menschheit vor Feuerschlünden aufgestellt,",
+      "body": "「Feuerschlünden（火砲の喉・火砲）」──「Feuer（火）」＋「Schlund（喉・深淵）」の複合語。大砲の砲口を「火を吐く喉」として描く。「人類が並べられる（aufgestellt）」──受動態・命令なき配備。ヴィジョンの主語は「人類」全体であり個人ではない──トラークルの歴史的スケールへの跳躍。詩作推定1912年、第一次世界大戦勃発の2年前。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Schritte durch Blutnebel; schwarzes Eisen schellt,\nVerzweiflung, Nacht in traurigen Gehirnen:",
+      "body": "「血の霧（Blutnebel）」──煙と血が融合した戦場の空気の共感覚的描写。「schwarzes Eisen（黒い鉄）」──武器・鎧・砲弾の総称。「schellt（鳴り響く）」──鐘・鈴的な金属音として戦争の轟音を聴覚化。「悲しむ脳の中の夜（Nacht in traurigen Gehirnen）」──外の戦場と内の精神状態の同一視。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Hier Evas Schatten, Jagd und rotes Geld.",
+      "body": "「エヴァの影（Evas Schatten）」──原罪の象徴。戦争・暴力・貪欲の根源を楽園追放（創世記3章）に遡らせる。「赤い金銭（rotes Geld）」──血で染まった金銭・ユダの30枚の銀貨の変形（マタイ26:15）。「狩り（Jagd）」──人間を獣として追う戦争の比喩、あるいは原始的暴力衝動。前半5行の最終定式化：戦争の根源は人類の原罪的本性にある。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Gewölk, das Licht durchbricht, das Abendmahl.",
+      "body": "詩の構造的転換点：v.5末のコロン「:」（前半の内的結論）からv.6の晩餐場面への飛躍。前半ABABA（aufgestellt/schellt/Geld – Stirnen/Gehirnen）・後半CDCDC（Abendmahl/Zahl/Wundenmal – Schweigen/Ölbaumzweigen）の二項韻律構造が神学的二項対立（罪/救済）を形式的に体現する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Es wohnt in Brot und Wein ein sanftes Schweigen\nUnd jene sind versammelt zwölf an Zahl.",
+      "body": "「パンとワインに宿る柔らかな沈黙」──最後の晩餐（マタイ26:26-28）のパンとワインを聖体として描くが、言葉ではなく「沈黙（Schweigen）」が宿る──ホルダーリン「パンとワイン」的な神の不在の中の聖性と共鳴（→hoelderlin_brot_und_wein）。「12の数で集う」──12使徒の集会の記述的確認。",
+      "relatedTexts": ["hoelderlin_brot_und_wein"]
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Nachts schrein im Schlaf sie unter Ölbaumzweigen;",
+      "body": "「夜、彼らはオリーブの枝の下で眠りながら叫ぶ」──ゲッセマネの園（マタイ26:36-46）。イエスが「この杯を取り去ってください」と祈る間、弟子たちは眠る場面。しかしトラークルの変形では弟子たちが「眠りながら叫ぶ（schrein im Schlaf）」──無意識の恐怖・悪夢の叫び。夢遊的な予感の状態。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sankt Thomas taucht die Hand ins Wundenmal.",
+      "body": "「聖トマスが手を傷口に差し込む」──復活後のトマスの疑い（ヨハネ20:24-28）。トマスは磔刑の傷口に手を入れることで信仰を確認する──触覚による認識・疑いからの信仰への転換。詩の最終行として：前半の戦争・暴力・赤い金銭（傷をつける行為）が、後半の最後の晩餐→ゲッセマネ→傷口（受難の結果）へと連鎖し、トマスの手が「触れること」で完結する。"
+    }
+  ]
+}

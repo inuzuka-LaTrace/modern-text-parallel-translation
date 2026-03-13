@@ -1,0 +1,93 @@
+{
+  "id": "george_rosen",
+  "title": "Rosen",
+  "author": "Stefan George",
+  "source": "Stefan George, Der siebente Ring, Blätter für die Kunst, Berlin, 1907, S. 141. テキスト底本: Wikisource (Rosen); ULB Düsseldorf所蔵原本校合済み. 所収部門: Lieder（歌謡篇）",
+  "year": "1907",
+  "firstPublication": "Der siebente Ring, Blätter für die Kunst, Berlin, 1907",
+  "difficulty": "中級",
+  "category": "george",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★☆☆",
+  "context": "『Der siebente Ring』「Lieder（歌謡篇）」部門所収の16行詩。二人称「du（あなた）」に向けられた愛の詩であると同時に、薔薇の美しさと棘による傷という薔薇の二重性を軸にした受難の寓意詩。三段階の時間的推移──正午（陶酔・迷い込み）→夕暮れ（迷宮・盲目的な自傷）→夜（恥・浄化・悲しみの教育）──が、薔薇の白から紅紫（purpur）への色彩変容と重なる。最終行「薔薇から悲しみと厳粛さを学べ（Nun lerne trauer / Und ernst von rosen）」はゲオルゲの薔薇美学の逆説的定式：美は享楽ではなく、受難を通じた精神的深化をもたらす。v.8とv.16の字下げ短縮行は原書のレイアウトを保持する。",
+  "keywords": [
+    "薔薇",
+    "棘",
+    "陶酔と傷",
+    "trauer",
+    "purpur",
+    "二人称",
+    "時間の三段構造",
+    "薔薇美学",
+    "Lieder篇",
+    "Der siebente Ring"
+  ],
+  "relatedTexts": [
+    "george_templer",
+    "george_dante_zeitgedicht"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-8",
+      "original": "Im weissen und glutblumigen gewoge ·\nVon büschen weithinwallend höh und mulde ·\nFingst du dich – sangst du kosend und dich pressend\nIns duftige dickicht .. du verloren ganz\nIn dieser rosenpracht. Am mittag fielen\nWechselnd an lust dir blätter auf den mund\nUnd schlafend spielten mit dir büschel garben\n  Wellen von rosen.",
+      "provisionalTranslation": "白く炎のような花々の波間に、\n丘と窪みをはるかに揺れ広がる茂みの中で──\nあなたは自らを捕らえ──歌いながら、愛でながら、身を押し込みながら\n香り豊かな茂みへと……あなたはすっかり迷い込んでいた\nこの薔薇の壮麗さの中に。正午には\n喜びに誘われて花びらが交互にあなたの口へと落ち、\n眠るようにあなたと戯れた、房束の束──\n　薔薇の波が。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9-12",
+      "original": "Dass dich der abend hier noch traf! du irrest\nIn dem gesträuch wo du dich nicht mehr kennst ·\nBlind küssest du dich an den stacheln wund.\nNun sitze da – das haupt gesenkt und blutend.",
+      "provisionalTranslation": "夕暮れがまだここであなたを捕らえたことよ！あなたは彷徨う\n自分自身をもはや知らない茂みの中を──\n盲目に口づけしながら、棘で傷ついていく。\nいまそこに座れ──頭を垂れて、血を流しながら。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13-16",
+      "original": "Nun wirbeln reichlich von der nacht geregt\nDie blüten .. mag ihr purpur niederfallen\nZu hüllen deine schmach! Nun lerne trauer\n  Und ernst von rosen.",
+      "provisionalTranslation": "いま夜に揺り起こされて花びらが豊かに舞い散る……\nその紅紫が降り積もるままにさせよ、\nあなたの恥を包み隠すために！　いま学べ、悲しみを\n　そして薔薇から厳粛さを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Im weissen und glutblumigen gewoge ·\nVon büschen weithinwallend höh und mulde ·",
+      "body": "詩全体は無韻（Blankversprinzip）に近い自由なリズムで書かれ、脚韻よりも母音の響き（gewoge/mulde, pressend/ganz）が支配する。中黒点「·」（v.1, v.2, v.10）はゲオルゲ固有のポーズ記号。v.8とv.16の字下げ短縮行「Wellen von rosen」「Und ernst von rosen」は、各段落を締めくくる反響句（Refrain的機能）として原書レイアウトを保持。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Fingst du dich – sangst du kosend und dich pressend\nIns duftige dickicht .. du verloren ganz",
+      "body": "「du（あなた）」は二人称単数。詩の「われ」が「あなた」に語りかける構造。自らを捕らえる（sich fangen）という再帰動詞の用法──薔薇の美に誘われて自発的に迷い込む自己罠の逆説。「duftige dickicht（香り豊かな茂み）」は官能的陶酔の空間。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Am mittag fielen\nWechselnd an lust dir blätter auf den mund",
+      "body": "正午（mittag）──強い光・陶酔の頂点の時刻。「花びらが口に落ちる」という感覚的細部はエロス的接触を暗示。ゲオルゲの薔薇は純粋な美の象徴であると同時に官能的誘惑の器。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Dass dich der abend hier noch traf! du irrest\nIn dem gesträuch wo du dich nicht mehr kennst ·",
+      "body": "感嘆文「dass…!」による転換──正午の陶酔から夕暮れの迷宮へ。「自分自身をもはや知らない（dich nicht mehr kennst）」──自己喪失。薔薇園がアイデンティティを溶解させる迷宮に変容する。ダンテの「暗い森（selva oscura）」との類比が可能。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Blind küssest du dich an den stacheln wund.\nNun sitze da – das haupt gesenkt und blutend.",
+      "body": "「盲目に口づけして棘で傷つく」──薔薇の美（花）と暴力（棘）の弁証法の核心。愛の行為（口づけ）が自傷に転化する。「頭を垂れて血を流す」──キリストの受難（茨の冠）を連想させる姿勢。ゲオルゲ・クライスの「美による受難」の典型的形象。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "mag ihr purpur niederfallen\nZu hüllen deine schmach!",
+      "body": "「purpur（紅紫）」──白い薔薇（v.1）から血の色（v.12）を経て、夜に舞い散る紅紫の花びらへの色彩の弧。「schmach（恥・汚辱）」を包み隠す──薔薇の花びらが傷を覆うという赦しと美化の身振り。紫は悔悛・王権・受難の色でもある。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Nun lerne trauer\n  Und ernst von rosen.",
+      "body": "詩の最終命題。薔薇は官能的享楽ではなく「悲しみ（trauer）」と「厳粛さ（ernst）」を教える師。ゲオルゲ美学の逆説：美の最深部は苦悩を通じてのみ開かれる。「ernst」はゲオルゲのキーワード──深刻さ・真剣さ・実存的重さ。字下げ短縮行が詩全体の結論を静かに、しかし決然と締めくくる。"
+    }
+  ]
+}

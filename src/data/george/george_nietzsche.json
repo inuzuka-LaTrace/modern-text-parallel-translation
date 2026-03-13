@@ -1,0 +1,130 @@
+{
+  "id": "george_nietzsche",
+  "title": "Nietzsche",
+  "author": "Stefan George",
+  "source": "Stefan George, Der siebente Ring, Georg Bondi, Berlin, 1907. テキスト底本: Wikisource (Nietzsche, Stefan George). 所収部門: Zeitgedichte（時詩篇）第5詩",
+  "year": "1907",
+  "firstPublication": "Der siebente Ring, Georg Bondi, Berlin, 1907",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "『Der siebente Ring』「Zeitgedichte（時詩篇）」部門の第5詩。ゲオルゲ没（1900年）直後に書き始め、1907年の詩集刊行で公表。ニーチェの療養地ナウムブルクないしトリノを想起させる場景（v.1-8）から始まり、大衆・俗物批判（v.9-14）、英雄的孤独者への頌讃と哀惜（v.15-24）、そして最後に詩人自身の「遅れた者」の声による慟哭（v.25-32）へと展開する。ゲオルゲはニーチェを同世代最大の精神的兄弟として崇仰しつつ、「語った」ことへの悔恨を最終行に込める──「歌うべきであったのに、語ってしまったこの新しい魂」。ゲオルゲ自身の詩学宣言と読むことができる。",
+  "keywords": [
+    "ニーチェ",
+    "Donnerer",
+    "孤独",
+    "俗物批判",
+    "Erlöser",
+    "sehnsucht",
+    "neue seele",
+    "詩人予言者",
+    "歌と言語",
+    "Der siebente Ring"
+  ],
+  "relatedTexts": [
+    "george_dante_zeitgedicht",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-8",
+      "original": "Schwergelbe wolken ziehen überm hügel\nUnd kühle stürme – halb des herbstes boten\nHalb frühen frühlings ... Also diese mauer\nUmschloss den Donnerer – ihn der einzig war\nVon tausenden aus rauch und staub um ihn?\nHier sandte er auf flaches mittelland\nUnd tote stadt die lezten stumpfen blitze\nUnd ging aus langer nacht zur längsten nacht.",
+      "provisionalTranslation": "重く黄ばんだ雲が丘の上を流れていく\nそして冷たい嵐──半ば秋の使者、\n半ば早い春の……かくもこの壁が\n雷鳴者を閉じ込めていたのか──幾千もの\n煙と塵の中でただひとり際立っていたあの人を？\nここから彼は平坦な中低地へ、\n死せる都市へと、最後の鈍い稲妻を放ち、\nそして長い夜から最も長い夜へと去った。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9-14",
+      "original": "Blöd trabt die menge drunten · scheucht sie nicht!\nWas wäre stich der qualle · schnitt dem kraut!\nNoch eine weile walte fromme stille\nUnd das getier das ihn mit lob befleckt\nUnd sich im moderdunste weiter mästet\nDer ihn erwürgen half sei erst verendet!",
+      "provisionalTranslation": "下では愚かな群衆が小走りに行く──追い払うな！\nクラゲの刺しが何だというのか、草を切るのに！\nしばらくのあいだ敬虔な静寂よ支配せよ──\n賛辞で彼を汚した獣どもが、\n腐臭の霞の中でさらに肥え太りながら\n彼を絞め殺すのを助けた者どもが、先に死に絶えるまで！"
+    },
+    {
+      "id": 3,
+      "verses": "v.15-24",
+      "original": "Dann aber stehst du strahlend vor den zeiten\nWie andre führer mit der blutigen krone.\nErlöser du! selbst der unseligste –\nBeladen mit der wucht von welchen losen\nHast du der sehnsucht land nie lächeln sehn?\nErschufst du götter nur um sie zu stürzen\nNie einer rast und eines baues froh?\nDu hast das nächste in dir selbst getötet\nUm neu begehrend dann ihm nachzuzittern\nUnd aufzuschrein im schmerz der einsamkeit.",
+      "provisionalTranslation": "しかしそのとき、あなたは時代の前に輝かしく立つだろう\nほかの指導者たちのように、血の冠をいただいて。\n救済者よ、あなた自身が最も不幸な者──\nどんな骰子の重みを背負いながら、\n憧れの国が微笑むのをあなたは一度も見なかったのか？\n神々を作ったのはただ打ち倒すためだけだったのか、\nひとつの休息にも、ひとつの建造物の喜びにも恵まれず？\nあなたはもっとも近しいものを自分の中で殺しておきながら、\n新たに求めてはそのあとをあとずさりしながら追い、\n孤独の痛みの中で叫び声をあげたのだ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.25-32",
+      "original": "Der kam zu spät der flehend zu dir sagte:\nDort ist kein weg mehr über eisige felsen\nUnd horste grauser vögel – nun ist not:\nSich bannen in den kreis den liebe schliesst ..\nUnd wenn die strenge und gequälte stimme\nDann wie ein loblied tönt in blaue nacht\nUnd helle flut – so klagt: sie hätte singen\nNicht reden sollen diese neue seele!",
+      "provisionalTranslation": "遅きに失した者は、哀願してあなたに言った：\nもうそこには氷の崖の上に道はない、\n灰色の鳥たちの巣もない──いまこそ必要なのは：\n愛が閉じる円の中に自らを縛ること……\nそしてあの厳しくて責め苦にある声が\n青い夜と明るい波の中へと\n讃歌のように鳴り響くとき──こう嘆かれる：歌うべきであったのに、\n語ってしまったのだ、この新しい魂は！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Schwergelbe wolken ziehen überm hügel\nUnd kühle stürme – halb des herbstes boten\nHalb frühen frühlings",
+      "body": "季節の中間性（秋でも春でもない）はニーチェの思想的位置を暗示する：旧い神々の死（秋）と新たな価値の到来（春）のはざま。ゲオルゲが訪れたと思われる療養地──1889年以降のナウムブルクないしヴァイマール──の風景。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Donnerer",
+      "body": "「雷鳴者」。ニーチェの別称。『ツァラトゥストラはこう語った』における雷のような思想の衝撃を指す。ゲオルゲはニーチェを Zeus の系譜（=Donnergott）に位置づける。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Und ging aus langer nacht zur längsten nacht.",
+      "body": "ニーチェの精神崩壊（1889年1月、トリノ）から死（1900年8月25日）までの11年間の廃人状態（「長い夜」）、そして死（「最も長い夜」）。ゲオルゲは詩集刊行の7年前に死を知っていた。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Blöd trabt die menge drunten · scheucht sie nicht!",
+      "body": "ゲオルゲ一貫の俗衆蔑視。中黒点「·」はポーズ指示（→ george_dante_zeitgedicht 注釈参照）。「追い払うな」──群衆は反応するに値しない、という絶対的軽蔑。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "getier das ihn mit lob befleckt",
+      "body": "「賛辞で彼を汚した獣ども」──ニーチェの死後に急増した通俗的なニーチェ崇拝者・利用者、特にエリーザベト・フェルスター＝ニーチェを中心とするアーカイブの操作と商業化を指すと読める。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Was wäre stich der qualle · schnitt dem kraut!",
+      "body": "クラゲの刺しと草の刈り込み──二重の比喩による反語。クラゲ（群衆）の攻撃は雷鳴者には届かず、草（俗論）を払うことも無意味。中黒点「·」で二つの比喩が並置される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Erlöser du! selbst der unseligste –",
+      "body": "「救済者よ、あなた自身が最も不幸な者」──ニーチェの自己規定（『この人を見よ』Ecce Homo）と呼応。救済者は民衆を救うが自らは救われない、というキリスト論的逆説をニーチェに適用。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Erschufst du götter nur um sie zu stürzen\nNie einer rast und eines baues froh?",
+      "body": "ニーチェ思想の「神の死」（『悦ばしき知識』§125, 1882）と価値の永続的転換を指す。ショーペンハウアー讃美→批判、ワーグナー崇拝→決別など、ニーチェが自らの師・偶像を次々と打ち倒した歴史的事実と重なる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Du hast das nächste in dir selbst getötet\nUm neu begehrend dann ihm nachzuzittern",
+      "body": "ニーチェ『ツァラトゥストラ』「自己克服について」の主題：旧い自己を殺すことで新しい自己へ向かう永続的な超克。しかしゲオルゲはここでその運動の悲劇性（「あとずさりしながら追う」）を強調する。",
+      "relatedTexts": ["george_dante_zeitgedicht"]
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Der kam zu spät der flehend zu dir sagte:",
+      "body": "「遅きに失した者」はゲオルゲ自身。ゲオルゲはニーチェに会うことを望み、1888年に手紙を書こうとしたが果たせなかった。崩壊前のニーチェへの哀惜を一人称的に込めた告白。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Sich bannen in den kreis den liebe schliesst ..",
+      "body": "「愛が閉じる円の中に自らを縛ること」──ゲオルゲの詩学の核心概念：「クライス（Kreis）」。ゲオルゲ・クライスと呼ばれた詩人・知識人の閉じたサークルを先取りするこの語は、孤立した預言者ニーチェへの処方として提示される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "sie hätte singen\nNicht reden sollen diese neue seele!",
+      "body": "詩集全体を貫く詩学宣言。ニーチェは「語った（reden）」──散文・哲学的命題で──ところを「歌う（singen）」べきだった。ゲオルゲにとって真の新しい魂の表現は詩（歌）でしかありえない。マラルメ「音楽と文学」との並走。"
+    }
+  ]
+}

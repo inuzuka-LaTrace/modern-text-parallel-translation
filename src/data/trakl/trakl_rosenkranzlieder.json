@@ -1,0 +1,117 @@
+{
+  "id": "trakl_rosenkranzlieder",
+  "title": "Rosenkranzlieder",
+  "author": "Georg Trakl",
+  "source": "Georg Trakl, Gedichte, Kurt Wolff Verlag, Leipzig, 1913, S. 49–50. テキスト底本: Wikisource (Rosenkranzlieder). 初版所収。",
+  "year": "1913",
+  "firstPublication": "Gedichte, Kurt Wolff Verlag, Leipzig, 1913",
+  "difficulty": "上級",
+  "category": "trakl",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "トラークル第一詩集『Gedichte』（1913）所収の3篇連作。「ロザリオの歌」の題名が示す通り、数珠を繰るように祈りの連鎖として読まれる。三篇の標題──「妹へ（AN DIE SCHWESTER）」「死の近さ（NÄHE DES TODES）」「アーメン（AMEN）」──が起承転結的に配置される。共通のイメージ語彙：秋／夕暮れ、青、池（Weiher）、憂愁（Schwermut）、茶色（braun）、死。トラークルの実妹グレーテ（1891–1917）との病的に密接な関係が「妹へ」の主題。詩は告白でも叙述でもなく、妹の存在を自然現象（秋・夕暮れ）と等置する純粋な喚起である。「死の近さ」では「祈ろう（Laß uns beten）」という突然の呼びかけが炸裂し、「アーメン」は祈りの応答として腐敗・象牙の悲しみ・アズラエル（イスラームの死の天使）・青い芥子の目の天使へと収束する。",
+  "keywords": [
+    "妹",
+    "Schwermut",
+    "青",
+    "池",
+    "死の近さ",
+    "アーメン",
+    "Azrael",
+    "Karfreitagskind",
+    "芥子の目",
+    "ロザリオ"
+  ],
+  "relatedTexts": [
+    "george_betrübt_totenanger",
+    "hofmannsthal_traum_magie"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "AN DIE SCHWESTER v.1-9",
+      "original": "Wo du gehst wird Herbst und Abend,\nBlaues Wild, das unter Bäumen tönt,\nEinsamer Weiher am Abend.\nLeise der Flug der Vögel tönt,\nDie Schwermut über deinen Augenbogen.\nDein schmales Lächeln tönt.\nGott hat deine Lider verbogen.\nSterne suchen nachts, Karfreitagskind,\nDeinen Stirnenbogen.",
+      "provisionalTranslation": "あなたの行くところでは秋と夕暮れになる、\n木々の下で鳴り響く青い野の獣、\n夕暮れの孤独な池。\nそっと鳥たちの飛翔が鳴り響く、\nあなたの眉の弧の上の憂愁が。\nあなたの細い微笑みが鳴り響く。\n神があなたの瞼を曲げた。\n星々は夜に求める、聖金曜日の子よ、\nあなたの額の弧を。"
+    },
+    {
+      "id": 2,
+      "verses": "NÄHE DES TODES v.1-9",
+      "original": "O der Abend, der in die finsteren Dörfer der Kindheit geht.\nDer Weiher unter den Weiden\nFüllt sich mit den verpesteten Seufzern der Schwermut.\nO der Wald, der leise die braunen Augen senkt,\nDa aus des Einsamen knöchernen Händen\nDer Purpur seiner verzückten Tage hinsinkt.\nO die Nähe des Todes. Laß uns beten.\nIn dieser Nacht lösen auf lauen Kissen\nVergilbt von Weihrauch sich der Liebenden schmächtige Glieder.",
+      "provisionalTranslation": "おお、幼年の暗い村々へと向かう夕暮れよ。\n柳の下の池は\n憂愁の汚染された溜め息で満たされていく。\nおお、静かに茶色い目を伏せる森よ、\n孤独な者の骨張った手から\n彼の恍惚とした日々の紫が沈み落ちていくとき。\nおお、死の近さよ。祈ろう。\nこの夜、ぬるいクッションの上で\n乳香で黄ばみながら愛する者たちの細い手足がほどけていく。"
+    },
+    {
+      "id": 3,
+      "verses": "AMEN v.1-9",
+      "original": "Verwestes gleitend durch die morsche Stube;\nSchatten an gelben Tapeten; in dunklen Spiegeln wölbt\nSich unserer Hände elfenbeinerne Traurigkeit.\nBraune Perlen rinnen durch die erstorbenen Finger.\nIn der Stille\nTun sich eines Engels blaue Mohnaugen auf.\nBlau ist auch der Abend;\nDie Stunde unseres Absterbens, Azraels Schatten,\nDer ein braunes Gärtchen verdunkelt.",
+      "provisionalTranslation": "腐ったものが朽ちた部屋を滑っていく；\n黄色い壁紙に影；暗い鏡の中では\n我らの手の象牙の悲しみが膨らんでいる。\n茶色い数珠玉が死んだ指を流れ落ちる。\n静寂の中で\n一人の天使の青い芥子の目が開く。\n夕暮れも青い；\n我らの死の刻、アズラエルの影、\n茶色い小さな庭を暗くする影。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Wo du gehst wird Herbst und Abend,",
+      "body": "二人称「du（あなた）」は詩全体を通じて実妹グレーテを指す。「あなたの行くところで秋と夕暮れになる」──妹の存在が風景を変容させる（あるいは風景が妹の内的状態を映す）。主体と環境の境界が溶けるトラークル独自の詩法。妹への詩はトラークル詩集の中で最も密度の高い感情的核を形成する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Blaues Wild, das unter Bäumen tönt,",
+      "body": "「青い野の獣（Blaues Wild）」──トラークルの「青（Blau）」は最重要色彩語。精神性・死への憧憬・黄昏・悲しみの総体的色。現実の動物に「青い」という非現実的形容を与える脱現実化（Entgegenständlichung）がトラークル詩の基本手法。「tönt（鳴り響く）」が同連内で3回反復（v.2, v.4, v.6）されて呪文的音楽性を作る。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Gott hat deine Lider verbogen.\nSterne suchen nachts, Karfreitagskind,\nDeinen Stirnenbogen.",
+      "body": "「Karfreitagskind（聖金曜日の子）」──キリストの受難日（聖金曜日）に生まれた者は特別な霊的運命を持つという民間信仰。妹を受難者・殉教者のイメージに重ねる。「神があなたの瞼を曲げた」は神の創造行為の暴力性──美と傷つきやすさの同一視。「額の弧を求める星々」は彼女の存在が宇宙的探索の対象であることを示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "O der Abend, der in die finsteren Dörfer der Kindheit geht.",
+      "body": "「O（おお）」の感嘆詞がこの詩で3回使われる（v.1, v.4, v.7）──呼びかけの反復が祈りの連祷（Litanei）の形式を作る。「幼年の暗い村々」──トラークルのザルツブルクの幼少期への憂鬱な記憶。「Kindheit（幼年）」はトラークル詩の中で常に失われた楽園の場所として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Der Purpur seiner verzückten Tage hinsinkt.",
+      "body": "「恍惚の日々の紫（Purpur seiner verzückten Tage）」──孤独な者の最良の時間が「紫の衰えとして」骨張った手から滑り落ちる。紫は王権・受難・夕暮れの色。「verzückt（恍惚の・陶酔の）」──宗教的エクスタシーを示す形容詞がここでは過去の日々の属性となる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "O die Nähe des Todes. Laß uns beten.",
+      "body": "詩の転換点となる命令形「Laß uns beten（祈ろう）」──それまでの描写的・観想的な詩が突然一人称複数の呼びかけに転換する。「uns（われら）」の出現が詩人と読者を連帯させ、タイトル「ロザリオの歌」の宗教的実践へと引き込む。「Nähe des Todes（死の近さ）」──死は遠い未来ではなく今この瞬間の近接として感受される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Vergilbt von Weihrauch sich der Liebenden schmächtige Glieder.",
+      "body": "「乳香で黄ばんだ愛する者たちの細い手足がほどける」──乳香（Weihrauch）は礼拝・死者への祈りで使われる。「ほどける（lösen）」は死あるいは深い眠りの身体的弛緩。肉体の衰退と宗教的儀式が重なる。「schmächtige Glieder（細い手足）」は禁欲・苦行・病による身体の細さ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Verwestes gleitend durch die morsche Stube;\nSchatten an gelben Tapeten; in dunklen Spiegeln wölbt\nSich unserer Hände elfenbeinerne Traurigkeit.",
+      "body": "「腐ったもの（Verwestes）」が主語として冒頭に置かれる──腐敗が能動的に部屋を移動する。「黄色い壁紙・暗い鏡・象牙の悲しみ」──色彩と質感の連鎖が室内の死の空気を構成する。「elfenbeinerne Traurigkeit（象牙の悲しみ）」はトラークル独自の抽象名詞の物質化──感情が物質的質感を帯びる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Braune Perlen rinnen durch die erstorbenen Finger.",
+      "body": "「茶色い数珠玉（Braune Perlen）」──ロザリオの珠。タイトル「ロザリオの歌」の中心イメージがここで初めて具体的に現れる。「erstorbenen Finger（死んだ指）」を流れる数珠玉──祈りの行為者がすでに死者であるか、あるいは死の指に祈りの形式だけが残っている。茶色（braun）は連作を通じて反復する色彩。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Tun sich eines Engels blaue Mohnaugen auf.",
+      "body": "「天使の青い芥子の目（eines Engels blaue Mohnaugen）」──トラークルの最も有名な複合名詞の一つ。芥子（Mohn）はアヘン・眠り・死の花。「青い芥子の目」を持つ天使は死の天使であり同時に慰め手。静寂（In der Stille）の中でのみ開く──沈黙が死と神聖の接触点。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Die Stunde unseres Absterbens, Azraels Schatten,\nDer ein braunes Gärtchen verdunkelt.",
+      "body": "「アズラエル（Azrael）」──イスラーム・ユダヤ教の死の天使。キリスト教的背景にイスラーム的死の象徴を持ち込むトラークルの宗教的折衷性。「茶色い小さな庭（braunes Gärtchen）」──「Gärtchen」の縮小辞が親密さを示す。死が壮大な出来事ではなく、小さな家庭的空間を静かに暗くする影として描かれる。「Absterben（死ぬこと）」という名詞形が死を過程として示す。"
+    }
+  ]
+}
